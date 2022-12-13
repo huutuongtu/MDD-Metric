@@ -1,158 +1,160 @@
-SEQUENCE_1 = 'ví dụ là bây giờ' #Sequence 1 (Side Sequence)
-SEQUENCE_2 = 'ví dụ à ừm bây giò' #Sequence 2 (Top Sequence)
+from jiwer import cer,wer
+
+gap_penalty = -1
+match_award = 1
+mismatch_penalty = -1
+
+def zeros(rows, cols):
+    # Define an empty list
+    retval = []
+    # Set up the rows of the matrix
+    for x in range(rows):
+        # For each row, add an empty list
+        retval.append([])
+        # Set up the columns in each row
+        for y in range(cols):
+            # Add a zero to each column in each row
+            retval[-1].append(0)
+    # Return the matrix of zeros
+    return retval
+
+def match_score(alpha, beta):
+    if alpha == beta:
+        return match_award
+    elif alpha == '-' or beta == '-':
+        return gap_penalty
+    else:
+        return mismatch_penalty
+
+def Align(seq1, seq2):
+    
+    # Store length of two sequences
+    n = len(seq1)  
+    m = len(seq2)
+    
+    # Generate matrix of zeros to store scores
+    score = zeros(m+1, n+1)
+   
+    # Calculate score table
+    
+    # Fill out first column
+    for i in range(0, m + 1):
+        score[i][0] = gap_penalty * i
+    
+    # Fill out first row
+    for j in range(0, n + 1):
+        score[0][j] = gap_penalty * j
+    
+    # Fill out all other values in the score matrix
+    for i in range(1, m + 1):
+        for j in range(1, n + 1):
+            # Calculate the score by checking the top, left, and diagonal cells
+            match = score[i - 1][j - 1] + match_score(seq1[j-1], seq2[i-1])
+            delete = score[i - 1][j] + gap_penalty
+            insert = score[i][j - 1] + gap_penalty
+            # Record the maximum score from the three possible scores calculated above
+            score[i][j] = max(match, delete, insert)
+    
+    # Traceback and compute the alignment 
+    
+    # Create variables to store alignment
+    align1 = ""
+    align2 = ""
+    
+    # Start from the bottom right cell in matrix
+    i = m
+    j = n
+    
+    # We'll use i and j to keep track of where we are in the matrix, just like above
+    while i > 0 and j > 0: # end touching the top or the left edge
+        score_current = score[i][j]
+        score_diagonal = score[i-1][j-1]
+        score_up = score[i][j-1]
+        score_left = score[i-1][j]
+        
+        # Check to figure out which cell the current score was calculated from,
+        # then update i and j to correspond to that cell.
+        if score_current == score_diagonal + match_score(seq1[j-1], seq2[i-1]):
+            align1 += seq1[j-1]
+            align2 += seq2[i-1]
+            i -= 1
+            j -= 1
+        elif score_current == score_up + gap_penalty:
+            align1 += seq1[j-1]
+            align2 += '-'
+            j -= 1
+        elif score_current == score_left + gap_penalty:
+            align1 += '-'
+            align2 += seq2[i-1]
+            i -= 1
+
+    # Finish tracing up to the top left cell
+    while j > 0:
+        align1 += seq1[j-1]
+        align2 += '-'
+        j -= 1
+    while i > 0:
+        align1 += '-'
+        align2 += seq2[i-1]
+        i -= 1
+    
+    # Since we traversed the score matrix from the bottom right, our two sequences will be reversed.
+    # These two lines reverse the order of the characters in each sequence.
+    align1 = align1[::-1]
+    align2 = align2[::-1]
+    
+    return(align1, align2)
 
 
-MATRIX_ROW_N = len(SEQUENCE_1)+1 #Initiation Matrix Size (Rows)
-MATRIX_COLUMN_N = len(SEQUENCE_2)+1 #Initiation Matrix Size (Columns)
-MATCH_SCORE = 5 #Match Score
-MISMATCH_SCORE = -3 #Mismatch Score
-GAP_SCORE = -5 #Gap Points
-GAP_CHARACTER = '-'#Character to Represent Gaps in Final Alignemnts
-ALN_PATHWAYS = [] #Initiating List of Discovered aln Pathways
-MATRIX = [[[[None] for i in range(2)] for i in range(MATRIX_COLUMN_N)] for i in range(MATRIX_ROW_N)] # Initiating Score Matrix
 
-def print_aln_details(aln): # Function to print steps of particular aln
-    print('\n>>>>>>>>>>>>>>>> Aln #:'+str(aln[4])+' <<<<<<<<<<<<<<<<\n\n------------------Steps------------------\n')
-    for elem in aln[3]:
-        print('Step: '+str(elem[0])+' -> Score = ' + str(elem[1])    + ' -> Dir: ' + ('\u2190' if elem[2]==1 else ('\u2196' if elem[2]==2 else ('\u2191' if elem[2]==3 else 'Error'))))
-    print('\n-------------Final aln-------------\n')
-    print(aln[1]+'\n'+aln[0])
-    return
+def insertions(Seq1, Seq2):
+        res = 0
+        for i in range(len(Seq1)):
+            if Seq1[i] == "-" and Seq2[i]!="-" :
+                res = res + 1
+        return res
+def deletions(Seq1, Seq2):
+    res = 0
+    for i in range(len(Seq1)):
+        if (Seq1[i].isalpha() or Seq1[i]==" ") and Seq2[i]=="-":
+            res = res + 1
+    return res
+def substitutions(Seq1, Seq2):
+    res = 0
+    for i in range(len(Seq1)):
+        if (Seq1[i]!=Seq2[i]) and Seq2[i]!="-" and Seq1[i]!="-":
+            res = res + 1
+    return res
 
-def print_all(ALIGNMENTS): #Function to print everything
-    print('Total Alignments: ' + str(len(ALIGNMENTS)))
-    print('Overall Score: '+str(ALIGNMENTS[0][3][0][1])+'\n')
-    for elem in ALIGNMENTS:
-        print_aln_details(elem)
-    return
-def print_alns_only(ALIGNMENTS): #Function to print only ALIGNMENTS
-    print('Total Alignments: ' + str(len(ALIGNMENTS)))
-    print('Overall Score: '+str(ALIGNMENTS[0][3][0][1])+'\n')
-    for elem in ALIGNMENTS:
-        print(elem[0]+'\n'+elem[1]+'\n')
-    return
-def find_each_path(c_i,c_j,path=''): #Nested function to discover new aln pathways
-    global ALN_PATHWAYS 
-    i = c_i 
-    j = c_j 
-    if i == 0 and j==0: 
-        ALN_PATHWAYS.append(path) 
-        return 2 
-    dir_t = len(MATRIX[i][j][1]) 
-    while dir_t<=1: 
-        n_dir = MATRIX[i][j][1][0] if (i != 0 and j != 0) else (1 if i == 0 else (3 if j==0 else 0)) 
-        path = path + str(n_dir) 
-        if n_dir == 1: 
-            j=j-1
-        elif n_dir == 2:
-            i=i-1
-            j=j-1
-        elif n_dir == 3:
-            i=i-1
-        dir_t = len(MATRIX[i][j][1])
-        if i == 0 and j==0:
-            ALN_PATHWAYS.append(path)
-            return 3
-    if dir_t>1:
-        for dir_c in range(dir_t):
-            n_dir = MATRIX[i][j][1][dir_c] if (i != 0 and j != 0) else (1 if i == 0 else (3 if j==0 else 0))
-            tmp_path = path + str(n_dir)
-            if n_dir == 1:
-                n_i = i
-                n_j=j-1
-            elif n_dir == 2:
-                n_i=i-1
-                n_j=j-1
-            elif n_dir == 3:
-                n_i=i-1
-                n_j = j
-            find_each_path(n_i,n_j,tmp_path)
-    return len(ALN_PATHWAYS)
-
-#Main Code
-#Matrix Evaulation [start]
-
-for i in range(MATRIX_ROW_N):
-    MATRIX[i][0] = [GAP_SCORE*i,[]]
-for j in range(MATRIX_COLUMN_N):
-     MATRIX[0][j] = [GAP_SCORE*j,[]]
-for i in range(1,MATRIX_ROW_N):
-    for j in range(1,MATRIX_COLUMN_N):
-        score = MATCH_SCORE if (SEQUENCE_1[i-1] == SEQUENCE_2[j-1]) else MISMATCH_SCORE
-        h_val = MATRIX[i][j-1][0] + GAP_SCORE
-        d_val = MATRIX[i-1][j-1][0] + score
-        v_val = MATRIX[i-1][j][0] + GAP_SCORE
-        o_val = [h_val, d_val, v_val]
-        MATRIX[i][j] = [max(o_val), [i+1 for i,v in enumerate(o_val) if v==max(o_val)]] # h = 1, d = 2, v = 3
-#Matrix Evaulation [end]
-OVERALL_SCORE = MATRIX[i][j][0]
-score = OVERALL_SCORE
-l_i = i
-l_j = j
-ALIGNMENTS = []
-tot_aln = find_each_path(i,j)
-aln_count = 0
-#Compiling alignments based on discovered matrix pathways
-for elem in ALN_PATHWAYS:
-    i = l_i-1
-    j = l_j-1
-    side_aln = ''
-    top_aln = ''
-    step = 0
-    aln_info = []
-    for n_dir_c in range(len(elem)):
-        n_dir = elem[n_dir_c]
-        score = MATRIX[i+1][j+1][0]
-        step = step + 1
-        aln_info.append([step,score,n_dir])
-        if n_dir == '2':
-            side_aln = side_aln + SEQUENCE_1[i]
-            top_aln = top_aln + SEQUENCE_2[j]
-            i=i-1
-            j=j-1
-        elif n_dir == '1':
-            side_aln = side_aln + GAP_CHARACTER
-            top_aln = top_aln + SEQUENCE_2[j]
-            j=j-1
-        elif n_dir == '3':
-            side_aln = side_aln + SEQUENCE_1[i]
-            top_aln = top_aln + GAP_CHARACTER
-            i=i-1
-    aln_count = aln_count + 1
-    ALIGNMENTS.append([top_aln[::-1],side_aln[::-1],elem,aln_info,aln_count])
-
-# print_alns_only(ALIGNMENTS)
-
-Seq1 = ''
-Seq2 = ''
-for elem in ALIGNMENTS:
-    Seq1 = elem[1]
-    Seq2 = elem[0]
-
-print(Seq1)
-print(Seq2)
-
-for i in range(len(Seq1)):
-  if Seq1[i].isalpha() and Seq2[i]=="-":
-    print("Đọc thiếu chữ: " + str(Seq1[i]) + " Tại vị trí: " + str(i))
-  elif Seq1[i] == "-" and Seq2[i]!=" ":
-    print("Đọc thừa chữ: " + str(Seq2[i]) + " Tại vị trí: " + str(i))
-  elif (Seq1[i]!=Seq2[i]) and Seq2[i]!=" ":
-    print("Đọc sai chữ tại vị trí: " + str(i) + "  " + str(Seq1[i]) + " đọc thành " + str(Seq2[i]))
+def Correct_Rate(SEQ1, SEQ2):
+    SEQ1 = SEQ1.strip()
+    SEQ2 = SEQ2.strip()
+    Seq1, Seq2 = Align(SEQ1, SEQ2)
+    Seq1 = Seq1.strip()
+    Seq2 = Seq2.strip()
+    cnt = deletions(Seq1, Seq2) + substitutions(Seq1, Seq2)
+    return 1 - (cnt/len(SEQ1))
 
 
-"""
-SEQUENCE_1 = 'ví dụ là bây giờ' #Sequence 1 (Side Sequence)
-SEQUENCE_2 = 'ví dụ à ừm bây giò' #Sequence 2 (Top Sequence)
-"""
+def Accuracy(SEQ1, SEQ2):
+    SEQ1 = SEQ1.strip()
+    SEQ2 = SEQ2.strip()
+    Seq1, Seq2 = Align(SEQ1, SEQ2)
+    Seq1 = Seq1.strip()
+    Seq2 = Seq2.strip()
+    cnt = insertions(Seq1, Seq2) + deletions(Seq1, Seq2) + substitutions(Seq1, Seq2)
 
-"""
-RESULT:
-ví dụ là--- bây giờ
-ví dụ -à ừm bây giò
-Đọc thiếu chữ: l Tại vị trí: 6
-Đọc thừa chữ: ừ Tại vị trí: 9
-Đọc thừa chữ: m Tại vị trí: 10
-Đọc sai chữ tại vị trí: 18  ờ đọc thành ò
+    return 1 - (cnt/len(SEQ1))
 
-"""
+
+
+Seq1 = 'Xin chao toi la Tu dep trai'
+Seq2 = 'Xin mot  toi an com'
+print(Accuracy(Seq1, Seq2))
+print(cer(Seq1, Seq2))
+print(Correct_Rate(Seq1, Seq2))
+
+"""Res
+0.40740740740740744
+0.5925925925925926
+0.40740740740740744"""
