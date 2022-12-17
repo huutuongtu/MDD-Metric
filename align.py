@@ -160,7 +160,8 @@ def CheckPronunciations(Canonical, Transcript, Predict):
     ListCanTranInCorrect = []
     ListCanPreCorrect = []
     ListCanPreInCorrect = []
-
+    print(CanTrans)
+    print(TransCan)
     for i in range(len(CanTrans)):
         
         if CanTrans[i]==TransCan[i] and CanTrans[i]!="-":   #Transcript is True
@@ -169,7 +170,7 @@ def CheckPronunciations(Canonical, Transcript, Predict):
             ListCanTranInCorrect.append(indexCheckCanTransCorrect) #Save false index can-trans to Canonical
         
 
-        if (CanTrans!="-" and TransCan!="-"): #if both blank index + 1
+        if (CanTrans[i]!="-"): #if canonical blank index + 1
             indexCheckCanTransCorrect = indexCheckCanTransCorrect+1
 
     for i in range(len(CanPre)):
@@ -179,7 +180,7 @@ def CheckPronunciations(Canonical, Transcript, Predict):
         elif CanPre[i]!=PreCan[i]: #Transcript is False
             ListCanPreInCorrect.append(indexCheckCanPreCorrect) #Save false index can-trans to Canonical
 
-        if (CanPre!="-" and PreCan!="-"): #If both blank index + 1
+        if (CanPre[i]!="-"): #If canonical blank index + 1
             indexCheckCanPreCorrect = indexCheckCanPreCorrect+1
 
     print(ListCanPreCorrect)
@@ -208,7 +209,7 @@ def CheckPronunciations(Canonical, Transcript, Predict):
 
 
 Seq1 = 'xin chao toi la Tu dep trai a'
-Seq2 = 'xin chao tôi la Tu dep trao '
+Seq2 = 'xin chao tôi la Tu dep trao'
 Seq3 = 'xin chao tpi la Tu dep traya'
 TA, TR, FR, FA = CheckPronunciations(Seq1, Seq2, Seq3)
 
@@ -220,6 +221,7 @@ print(FA)
 # print(Accuracy(Seq1, Seq2))
 # print(cer(Seq1, Seq2))
 # print(Correct_Rate(Seq1, Seq2))
+
 
 """
 Res
