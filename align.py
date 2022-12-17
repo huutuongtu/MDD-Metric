@@ -1,5 +1,3 @@
-from jiwer import cer,wer
-
 gap_penalty = -1
 match_award = 1
 mismatch_penalty = -1
@@ -147,14 +145,86 @@ def Accuracy(SEQ1, SEQ2):
     return 1 - (cnt/len(SEQ1))
 
 
+#Correct: *
 
-Seq1 = 'Xin chao toi la Tu dep trai'
-Seq2 = 'Xin mot  toi an com'
-print(Accuracy(Seq1, Seq2))
-print(cer(Seq1, Seq2))
-print(Correct_Rate(Seq1, Seq2))
 
-"""Res
-0.40740740740740744
-0.5925925925925926
-0.40740740740740744"""
+
+def CheckPronunciations(Canonical, Transcript, Predict):
+    CanTrans, TransCan = Align(Canonical, Transcript)
+    CanPre, PreCan = Align(Canonical, Predict)
+
+    indexCheckCanTransCorrect = 0
+    indexCheckCanPreCorrect = 0
+    
+    ListCanTransCorrect = []
+    ListCanTranInCorrect = []
+    ListCanPreCorrect = []
+    ListCanPreInCorrect = []
+
+    for i in range(len(CanTrans)):
+        
+        if CanTrans[i]==TransCan[i] and CanTrans[i]!="-":   #Transcript is True
+            ListCanTransCorrect.append(indexCheckCanTransCorrect)  #Save true index can-trans to Canonical
+        elif CanTrans[i]!=TransCan[i]: #Transcript is False
+            ListCanTranInCorrect.append(indexCheckCanTransCorrect) #Save false index can-trans to Canonical
+        
+
+        if (CanTrans!="-" and TransCan!="-"): #if both blank index + 1
+            indexCheckCanTransCorrect = indexCheckCanTransCorrect+1
+
+    for i in range(len(CanPre)):
+        
+        if CanPre[i]==PreCan[i] and CanPre[i]!="-": #Predict is true
+            ListCanPreCorrect.append(indexCheckCanPreCorrect) #Save true index can-pre to Canonical
+        elif CanPre[i]!=PreCan[i]: #Transcript is False
+            ListCanPreInCorrect.append(indexCheckCanPreCorrect) #Save false index can-trans to Canonical
+
+        if (CanPre!="-" and PreCan!="-"): #If both blank index + 1
+            indexCheckCanPreCorrect = indexCheckCanPreCorrect+1
+
+    print(ListCanPreCorrect)
+    print(ListCanTransCorrect)
+    print(ListCanPreInCorrect)
+    print(ListCanTranInCorrect)
+
+    TA = len(set(ListCanTransCorrect) & set(ListCanPreCorrect)) #True Accept
+    TR = len(set(ListCanTranInCorrect) & set(ListCanPreInCorrect)) #True Reject
+    FR = len(set(ListCanTransCorrect) & set(ListCanPreInCorrect)) #False Reject
+    FA = len(set(ListCanTranInCorrect) & set(ListCanPreCorrect)) #False Accept
+
+    # FRR = FR/(TA+FR)
+    # FAR = FA/(FA+TR)
+    # Detection_Accuracy = (TA+TR)/(TR+TA+FR+FA)
+    # Precision = TR/(TR+FR)
+    # Recall = TR/(TR+FA)
+    # FMeasure = 2*(Precision * Recall)/(Precision + Recall)
+
+    return TA, TR, FR, FA
+
+
+
+        
+
+
+
+Seq1 = 'xin chao toi la Tu dep trai a'
+Seq2 = 'xin chao tôi la Tu dep trao '
+Seq3 = 'xin chao tpi la Tu dep traya'
+TA, TR, FR, FA = CheckPronunciations(Seq1, Seq2, Seq3)
+
+print(TA)
+print(TR)
+print(FR)
+print(FA)
+# print(FA)
+# print(Accuracy(Seq1, Seq2))
+# print(cer(Seq1, Seq2))
+# print(Correct_Rate(Seq1, Seq2))
+
+"""
+Res
+25
+2
+1
+1
+"""
