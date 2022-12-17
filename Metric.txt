@@ -1,0 +1,19 @@
+True accept: Transcript phát âm đúng và Predict phát âm đúng
+True reject: Transcript phát âm sai và Predict phát âm sai
+False Reject: Transcript phát âm đúng và Predict phát âm sai
+False accept: Transcript phát âm sai và Predict phát âm đúng
+Correct Diagnosis: Transcript phát âm sai và Predict phát âm sai và predict phát âm giống transcript
+Diagnosis Error: Transcript phát âm sai và Predict phát âm sai nhưng transcript phát âm khác predict
+
+
+
+
+Manually Transcribed Phonetic Unit
+	Correct Pronunciations
+		True Acceptance
+		False Rejection
+	 Mispronunciations
+		False Acceptance
+		True Rejection
+			Correct Diagnosis
+			Diagnosis Error
