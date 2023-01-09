@@ -19,11 +19,11 @@ for i in range(len(test)):
     for i in range(len(seq1)):
         REF = REF  + seq1[i] + "\t"
         HYP = HYP  + seq2[i] + "\t"
-        if seq1[i] == "<eps>" and seq2[i]!="<eps>" :
-            OP = OP + "I" + "\t"
         if seq1[i]!="<eps>" and seq2[i]=="<eps>":
             OP = OP + "D" + "\t"
-        if (seq1[i]!=seq2[i]) and seq2[i]!="<eps>" and seq1[i]!="<eps>":
+        elif seq1[i] == "<eps>" and seq2[i]!="<eps>" :
+            OP = OP + "I" + "\t"
+        elif (seq1[i]!=seq2[i]) and seq2[i]!="<eps>" and seq1[i]!="<eps>":
             OP = OP + "S" + "\t"
         else:
             OP = OP + "C" + "\t"
