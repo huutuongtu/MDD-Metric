@@ -19,7 +19,7 @@ def zeros(rows, cols):
 def match_score(alpha, beta):
     if alpha == beta:
         return match_award
-    elif alpha == '-' or beta == '-':
+    elif alpha == "<eps>" or beta == "<eps>":
         return gap_penalty
     else:
         return mismatch_penalty
@@ -56,8 +56,8 @@ def Align(seq1, seq2):
     # Traceback and compute the alignment 
     
     # Create variables to store alignment
-    align1 = ""
-    align2 = ""
+    align1 = []
+    align2 = []
     
     # Start from the bottom right cell in matrix
     i = m
@@ -73,27 +73,27 @@ def Align(seq1, seq2):
         # Check to figure out which cell the current score was calculated from,
         # then update i and j to correspond to that cell.
         if score_current == score_diagonal + match_score(seq1[j-1], seq2[i-1]):
-            align1 += seq1[j-1]
-            align2 += seq2[i-1]
+            align1.append(seq1[j-1])
+            align2.append(seq2[i-1])
             i -= 1
             j -= 1
         elif score_current == score_up + gap_penalty:
-            align1 += seq1[j-1]
-            align2 += '-'
+            align1.append(seq1[j-1])
+            align2.append("<eps>")
             j -= 1
         elif score_current == score_left + gap_penalty:
-            align1 += '-'
-            align2 += seq2[i-1]
+            align1.append("<eps>")
+            align2.append(seq2[i-1])
             i -= 1
 
     # Finish tracing up to the top left cell
     while j > 0:
-        align1 += seq1[j-1]
-        align2 += '-'
+        align1.append(seq1[j-1])
+        align2.append("<eps>")
         j -= 1
     while i > 0:
-        align1 += '-'
-        align2 += seq2[i-1]
+        align1.append("<eps>")
+        align2.append(seq2[i-1])
         i -= 1
     
     # Since we traversed the score matrix from the bottom right, our two sequences will be reversed.
@@ -103,130 +103,41 @@ def Align(seq1, seq2):
     
     return(align1, align2)
 
-
-
 def insertions(Seq1, Seq2):
         res = 0
         for i in range(len(Seq1)):
-            if Seq1[i] == "-" and Seq2[i]!="-" :
+            if Seq1[i] == "<eps>" and Seq2[i]!="<eps>" :
                 res = res + 1
         return res
 def deletions(Seq1, Seq2):
     res = 0
     for i in range(len(Seq1)):
-        if (Seq1[i].isalpha() or Seq1[i]==" ") and Seq2[i]=="-":
+        if Seq1[i]!="<eps>" and Seq2[i]=="<eps>":
             res = res + 1
     return res
 def substitutions(Seq1, Seq2):
     res = 0
     for i in range(len(Seq1)):
-        if (Seq1[i]!=Seq2[i]) and Seq2[i]!="-" and Seq1[i]!="-":
+        if (Seq1[i]!=Seq2[i]) and Seq2[i]!="<eps>" and Seq1[i]!="<eps>":
             res = res + 1
     return res
 
 def Correct_Rate(SEQ1, SEQ2):
-    SEQ1 = SEQ1.strip()
-    SEQ2 = SEQ2.strip()
+    SEQ1 = SEQ1
+    SEQ2 = SEQ2
     Seq1, Seq2 = Align(SEQ1, SEQ2)
-    Seq1 = Seq1.strip()
-    Seq2 = Seq2.strip()
+    Seq1 = Seq1
+    Seq2 = Seq2
     cnt = deletions(Seq1, Seq2) + substitutions(Seq1, Seq2)
     return 1 - (cnt/len(SEQ1))
 
 
 def Accuracy(SEQ1, SEQ2):
-    SEQ1 = SEQ1.strip()
-    SEQ2 = SEQ2.strip()
+    SEQ1 = SEQ1
+    SEQ2 = SEQ2
     Seq1, Seq2 = Align(SEQ1, SEQ2)
-    Seq1 = Seq1.strip()
-    Seq2 = Seq2.strip()
+    Seq1 = Seq1
+    Seq2 = Seq2
     cnt = insertions(Seq1, Seq2) + deletions(Seq1, Seq2) + substitutions(Seq1, Seq2)
 
     return 1 - (cnt/len(SEQ1))
-
-
-#Correct: *
-
-
-
-def CheckPronunciations(Canonical, Transcript, Predict):
-    CanTrans, TransCan = Align(Canonical, Transcript)
-    CanPre, PreCan = Align(Canonical, Predict)
-
-    indexCheckCanTransCorrect = 0
-    indexCheckCanPreCorrect = 0
-    
-    ListCanTransCorrect = []
-    ListCanTranInCorrect = []
-    ListCanPreCorrect = []
-    ListCanPreInCorrect = []
-    print(CanTrans)
-    print(TransCan)
-    for i in range(len(CanTrans)):
-        
-        if CanTrans[i]==TransCan[i] and CanTrans[i]!="-":   #Transcript is True
-            ListCanTransCorrect.append(indexCheckCanTransCorrect)  #Save true index can-trans to Canonical
-        elif CanTrans[i]!=TransCan[i]: #Transcript is False
-            ListCanTranInCorrect.append(indexCheckCanTransCorrect) #Save false index can-trans to Canonical
-        
-
-        if (CanTrans[i]!="-"): #if canonical blank index + 1
-            indexCheckCanTransCorrect = indexCheckCanTransCorrect+1
-
-    for i in range(len(CanPre)):
-        
-        if CanPre[i]==PreCan[i] and CanPre[i]!="-": #Predict is true
-            ListCanPreCorrect.append(indexCheckCanPreCorrect) #Save true index can-pre to Canonical
-        elif CanPre[i]!=PreCan[i]: #Transcript is False
-            ListCanPreInCorrect.append(indexCheckCanPreCorrect) #Save false index can-trans to Canonical
-
-        if (CanPre[i]!="-"): #If canonical blank index + 1
-            indexCheckCanPreCorrect = indexCheckCanPreCorrect+1
-
-    print(ListCanPreCorrect)
-    print(ListCanTransCorrect)
-    print(ListCanPreInCorrect)
-    print(ListCanTranInCorrect)
-
-    TA = len(set(ListCanTransCorrect) & set(ListCanPreCorrect)) #True Accept
-    TR = len(set(ListCanTranInCorrect) & set(ListCanPreInCorrect)) #True Reject
-    FR = len(set(ListCanTransCorrect) & set(ListCanPreInCorrect)) #False Reject
-    FA = len(set(ListCanTranInCorrect) & set(ListCanPreCorrect)) #False Accept
-
-    # FRR = FR/(TA+FR)
-    # FAR = FA/(FA+TR)
-    # Detection_Accuracy = (TA+TR)/(TR+TA+FR+FA)
-    # Precision = TR/(TR+FR)
-    # Recall = TR/(TR+FA)
-    # FMeasure = 2*(Precision * Recall)/(Precision + Recall)
-
-    return TA, TR, FR, FA
-
-
-
-        
-
-
-
-Seq1 = 'xin chao toi la Tu dep trai a'
-Seq2 = 'xin chao tôi la Tu dep trao'
-Seq3 = 'xin chao tpi la Tu dep traya'
-TA, TR, FR, FA = CheckPronunciations(Seq1, Seq2, Seq3)
-
-print(TA)
-print(TR)
-print(FR)
-print(FA)
-# print(FA)
-# print(Accuracy(Seq1, Seq2))
-# print(cer(Seq1, Seq2))
-# print(Correct_Rate(Seq1, Seq2))
-
-
-"""
-Res
-25
-2
-1
-1
-"""
