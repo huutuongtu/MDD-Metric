@@ -1,13 +1,44 @@
 from metric import Correct_Rate, Accuracy, Align
-from jiwer import wer
+from jiwer import wer, cer
 import pandas as pd
 
 
 
 #Align ref_our, human_our, ref_human
+# def clean_corpus(string):
+#     res = ''
+#     for character in string:
+#         if character.isalpha() or character == " ":
+#             res = res + character
+#     return res
 
-test = pd.read_csv("./test.csv")
-f = open("./ref_human_detail", 'a')
+
+test = pd.read_csv("APL_MHA_Mandarin.csv")
+# del_sub_count = 0
+# ins_del_sub_count = 0
+# number_phoneme = 0
+# del_All = []
+# for i in range(len(test)):
+#     cnt, len_sentence, all_Del = Correct_Rate((test['Transcript'][i].split(" ")), (test['Predict'][i].split(" ")))
+#     # print(all_Del)
+#     del_All.extend(all_Del)
+#     del_sub_count+=cnt
+#     # number_phoneme+=len_sentence
+#     cnt, len_sentence = Accuracy((test['Transcript'][i].split(" ")), (test['Predict'][i].split(" ")))
+#     ins_del_sub_count+=cnt
+#     number_phoneme+=len_sentence
+
+# dec = ['n', 'h', 'ng', '7', 'q', 'l', 'sh', '7X', 't', '1', 'j', 'er', '2', 'a', '4', 'p', 'i', 'g', 'v', 's', 'r', 'z', 'zh', 'c', '3', 'b', 'u', 'ch', 'e', 'm', 'o', 'd', 'x', '5', 'f', 'k']
+
+# # print(number_phoneme)
+# # print(del_sub_count)
+# # print(ins_del_sub_count)
+# print((number_phoneme-del_sub_count)/number_phoneme)
+# print((number_phoneme-ins_del_sub_count)/number_phoneme)
+
+
+
+f = open("./ref_human_detail", 'a', encoding='utf-8')
 cor_cnt = 0
 sub_cnt = 0
 ins_cnt = 0
@@ -26,6 +57,7 @@ for i in range(len(test)):
     sub = 0
     ins = 0
     dell = 0
+    # print(path)
     for i in range(len(seq1)):
         REF = REF  + seq1[i] + " "
         HYP = HYP  + seq2[i] + " "
@@ -57,6 +89,9 @@ for i in range(len(test)):
     # print(sub)
     # print(ins)
     # print(dell)
+    # print(REF)
+    # print(HYP)
+    # print(OP)
     f.write(path + " " + "ref" + " " + REF + "\n")
     f.write(path + " " + "hyp" + " " + HYP + "\n")
     f.write(path + " " + "op" + " " + OP + "\n")

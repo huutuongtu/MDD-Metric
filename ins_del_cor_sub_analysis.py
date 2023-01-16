@@ -2,7 +2,7 @@ import re
 import argparse
 
 
-f = open("ref_human_detail",'r')
+f = open("ref_human_detail",'r', encoding='utf-8')
 dic={}
 insert = 0 
 delete = 0
@@ -54,7 +54,7 @@ print("sub:" ,sub)
 print("cor:" ,cor)
 print("sum", count)
 
-f = open("human_our_detail",'r')
+f = open("human_our_detail",'r', encoding='utf-8')
 for line in f:
     line = line.strip()
     fn = line.split(" ")[0]
@@ -84,7 +84,7 @@ for line in f:
 f.close()
 
 
-f = open("ref_our_detail",'r')
+f = open("ref_our_detail",'r', encoding='utf-8')
 for line in f:
     line = line.strip()
     fn = line.split(" ")[0]
@@ -240,22 +240,22 @@ print(TR+FA)
 precision = TR/(TR+FR)
 print("Recall: %.4f" %(recall))
 print("Precision: %.4f" %(precision))
-print("f1:%.4f" % ( 2*precision*recall/(recall+precision)  ))
+print("f1-score:%.4f" % ( 2*precision*recall/(recall+precision)  ))
 
-print("TA: %.4f %d" %(cor_cor/(cor_cor+cor_nocor), TA))
-print("FR: %.4f %d" %(cor_nocor/(cor_cor+cor_nocor), FR))
+print("True Acception: %.4f %d" %(cor_cor/(cor_cor+cor_nocor), TA))
+print("False Rejection: %.4f %d" %(cor_nocor/(cor_cor+cor_nocor), FR))
 err_count = sub_sub+sub_sub1+sub_nosub+ins_ins+ins_ins1+ins_noins+del_del+del_del1+del_nodel
 false_accept = sub_nosub + ins_noins + del_nodel
 Correct_Diag = sub_sub + ins_ins + del_del
 Error_Diag =  sub_sub1 + ins_ins1 + del_del1
-print("FA: %.4f %d" %(false_accept/err_count, false_accept))
-print("Correct Diag: %.4f %d" %(Correct_Diag/(Correct_Diag+Error_Diag), Correct_Diag))
-print("Error Diag: %.4f %d" %(Error_Diag/(Correct_Diag+Error_Diag), Error_Diag))
+print("False Acceptance: %.4f %d" %(false_accept/err_count, false_accept))
+print("Correct Diagnosis: %.4f %d" %(Correct_Diag/(Correct_Diag+Error_Diag), Correct_Diag))
+print("Error Diagnosis: %.4f %d" %(Error_Diag/(Correct_Diag+Error_Diag), Error_Diag))
 FAR = 1-recall
 FRR = cor_nocor/(cor_nocor+cor_cor)
 DER = Error_Diag / (Error_Diag + Correct_Diag)
-print("FAR: %.4f" %(FAR))
-print("FRR: %.4f" %(FRR))
-print("DER: %.4f" %(DER))
-
-print("sub_sub", sub_sub)
+print("False Acceptance Rate: %.4f" %(FAR))
+print("False Rejection Rate: %.4f" %(FRR))
+print("Detection Error Rate: %.4f" %(DER))
+print("Detection Accuracy: "  + str((TA+TR)/(TR+TA+FR+FA)))
+# print("sub_sub", sub_sub)

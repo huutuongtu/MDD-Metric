@@ -1,0 +1,95 @@
+APL-Baseline_vi
+Correctness: 0.8413328729281768
+Accuracy: 0.826139502762431
+Recall: 0.5116
+Precision: 0.1740
+f1-score:0.2596
+True Acception: 0.8662 4763
+False Rejection: 0.1338 736
+False Acceptance: 0.4884 148
+Correct Diagnosis: 0.7613 118
+Error Diagnosis: 0.2387 37
+False Acceptance Rate: 0.4884
+False Rejection Rate: 0.1338
+Detection Error Rate: 0.2387
+Detection Accuracy: 0.8476387452602551
+
+APL-MHA-vi 
+Correctness: 0.831664364640884
+Accuracy: 0.8197513812154696
+Recall: 0.5776
+Precision: 0.1791
+f1-score:0.2734
+True Acception: 0.8542 4697
+False Rejection: 0.1458 802
+False Acceptance: 0.4224 128
+Correct Diagnosis: 0.7371 129
+Error Diagnosis: 0.2629 46
+False Acceptance Rate: 0.4224
+False Rejection Rate: 0.1458
+Detection Error Rate: 0.2629
+Detection Accuracy: 0.8397104446742503
+
+PAPL-KALDI-vi
+Correctness: 0.84478591160221
+Accuracy: 0.8314917127071824
+Recall: 0.5611
+Precision: 0.1889
+f1-score:0.2826
+True Acception: 0.8672 4769
+False Rejection: 0.1328 730
+False Acceptance: 0.4389 133
+Correct Diagnosis: 0.7706 131
+Error Diagnosis: 0.2294 39
+False Acceptance Rate: 0.4389
+False Rejection Rate: 0.1328
+Detection Error Rate: 0.2294
+Detection Accuracy: 0.8512581868321268
+
+PAPL-MHA-KALDI-vi
+Correctness: 0.849274861878453
+Accuracy: 0.832700276243094
+Recall: 0.5908
+Precision: 0.2011
+f1-score:0.3001
+True Acception: 0.8707 4788
+False Rejection: 0.1293 711
+False Acceptance: 0.4092 124
+Correct Diagnosis: 0.7765 139
+Error Diagnosis: 0.2235 40
+False Acceptance Rate: 0.4092
+False Rejection Rate: 0.1293
+Detection Error Rate: 0.2235
+Detection Accuracy: 0.8560841089279558
+
+PAPL-NCCF-vi
+Correctness: 0.8242403314917127
+Accuracy: 0.8090469613259669
+Recall: 0.5215
+Precision: 0.1594
+f1-score:0.2442
+True Acception: 0.8485 4666
+False Rejection: 0.1515 833
+False Acceptance: 0.4785 145
+Correct Diagnosis: 0.7089 112
+Error Diagnosis: 0.2911 46
+False Acceptance Rate: 0.4785
+False Rejection Rate: 0.1515
+Detection Error Rate: 0.2911
+Detection Accuracy: 0.8314374353671148
+
+PAPL-MHA-NCCF-vi
+Correctness: 0.8368439226519337
+Accuracy: 0.8202693370165746
+Recall: 0.4818
+Precision: 0.1626
+f1-score:0.2431
+True Acception: 0.8632 4747
+False Rejection: 0.1368 752
+False Acceptance: 0.5182 157
+Correct Diagnosis: 0.7123 104
+Error Diagnosis: 0.2877 42
+False Acceptance Rate: 0.5182
+False Rejection Rate: 0.1368
+Detection Error Rate: 0.2877
+Detection Accuracy: 0.843329886246122

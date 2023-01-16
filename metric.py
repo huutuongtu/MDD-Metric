@@ -110,11 +110,14 @@ def insertions(Seq1, Seq2):
                 res = res + 1
         return res
 def deletions(Seq1, Seq2):
+    DEL = []
     res = 0
     for i in range(len(Seq1)):
         if Seq1[i]!="<eps>" and Seq2[i]=="<eps>":
+            # print(Seq1[i])
+            DEL.append(Seq1[i])
             res = res + 1
-    return res
+    return res, DEL
 def substitutions(Seq1, Seq2):
     res = 0
     for i in range(len(Seq1)):
@@ -123,13 +126,16 @@ def substitutions(Seq1, Seq2):
     return res
 
 def Correct_Rate(SEQ1, SEQ2):
+    res = []
     SEQ1 = SEQ1
     SEQ2 = SEQ2
     Seq1, Seq2 = Align(SEQ1, SEQ2)
     Seq1 = Seq1
     Seq2 = Seq2
-    cnt = deletions(Seq1, Seq2) + substitutions(Seq1, Seq2)
-    return 1 - (cnt/len(SEQ1))
+    number_del, out = deletions(Seq1, Seq2)
+    res.extend(out)
+    cnt = number_del + substitutions(Seq1, Seq2)
+    return cnt, len(SEQ1), res
 
 
 def Accuracy(SEQ1, SEQ2):
@@ -138,6 +144,7 @@ def Accuracy(SEQ1, SEQ2):
     Seq1, Seq2 = Align(SEQ1, SEQ2)
     Seq1 = Seq1
     Seq2 = Seq2
-    cnt = insertions(Seq1, Seq2) + deletions(Seq1, Seq2) + substitutions(Seq1, Seq2)
+    cnt, out = deletions(Seq1, Seq2)
+    cnt = insertions(Seq1, Seq2) + cnt + substitutions(Seq1, Seq2)
 
-    return 1 - (cnt/len(SEQ1))
+    return cnt, len(SEQ1)
