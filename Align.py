@@ -13,8 +13,8 @@ import pandas as pd
 #     return res
 
 
-test = pd.read_csv("PAPL_NCCF_vi.csv")
-"""del_sub_count = 0
+test = pd.read_csv("APL_MHA_Mandarin.csv")
+del_sub_count = 0
 ins_del_sub_count = 0
 number_phoneme = 0
 del_All = []
@@ -35,10 +35,10 @@ dec = ['n', 'h', 'ng', '7', 'q', 'l', 'sh', '7X', 't', '1', 'j', 'er', '2', 'a',
 # print(ins_del_sub_count)
 print((number_phoneme-del_sub_count)/number_phoneme)
 print((number_phoneme-ins_del_sub_count)/number_phoneme)
+
+
 """
-
-
-f = open("./human_our_detail", 'a', encoding='utf-8')
+f = open("./ref_human_detail", 'a', encoding='utf-8')
 cor_cnt = 0
 sub_cnt = 0
 ins_cnt = 0
@@ -47,8 +47,8 @@ for i in range(len(test)):
     # f.write("000" + str(test['Path'][i]) + " ")
     path = test['Path'][i]
     path = str(path)
-    seq1 = test['Transcript'][i]
-    seq2 = test['Predict'][i]
+    seq1 = test['Canonical'][i]
+    seq2 = test['Transcript'][i]
     seq1, seq2 = Align(seq1.split(" "), seq2.split(" "))
     REF = ''
     HYP = ''
@@ -101,3 +101,4 @@ print(cor_cnt)
 print(sub_cnt)
 print(ins_cnt)
 print(del_cnt)
+"""

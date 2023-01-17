@@ -1,31 +1,20 @@
 APL_Baseline_Mandarin
-Correctness: 0.5194098360655738
-Accuracy: 0.5076065573770492
-Recall: 0.7937
-Precision: 0.0508
-f1-score:0.0954
-True Acception: 0.5239 7760
-False Rejection: 0.4761 7051
-False Acceptance: 0.2063 98
-Correct Diagnosis: 0.4828 182
-Error Diagnosis: 0.5172 195
-False Acceptance Rate: 0.2063
-False Rejection Rate: 0.4761
-Detection Error Rate: 0.5172
-Detection Accuracy: 0.5323171529504122
+Correctness: 
+Accuracy: 
+
 
 APL_MHA_Mandarin
-Correctness: 0.5241311475409836
-Accuracy: 0.511672131147541
-Recall: 0.7558
-Precision: 0.0489
-f1-score:0.0919
-True Acception: 0.5290 7835
-False Rejection: 0.4710 6976
-False Acceptance: 0.2442 116
-Correct Diagnosis: 0.4958 178
-Error Diagnosis: 0.5042 181
-False Acceptance Rate: 0.2442
-False Rejection Rate: 0.4710
-Detection Error Rate: 0.5042
-Detection Accuracy: 0.5360460552139212
+Correctness: 0.5306959353515861
+Accuracy: 0.5088047280183331
+Recall: 0.7892
+Precision: 0.1493
+f1-score:0.2511
+True Acception: 0.5374 8102
+False Rejection: 0.4626 6975
+False Acceptance: 0.2108 327
+Correct Diagnosis: 0.5858 717
+Error Diagnosis: 0.4142 507
+False Acceptance Rate: 0.2108
+False Rejection Rate: 0.4626
+Detection Error Rate: 0.4142
+Detection Accuracy: 0.560861197979312
