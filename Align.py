@@ -13,8 +13,8 @@ import pandas as pd
 #     return res
 
 
-test = pd.read_csv("APL_MHA_Mandarin.csv")
-del_sub_count = 0
+test = pd.read_csv("APL_Baseline.csv")
+"""del_sub_count = 0
 ins_del_sub_count = 0
 number_phoneme = 0
 del_All = []
@@ -35,9 +35,9 @@ dec = ['n', 'h', 'ng', '7', 'q', 'l', 'sh', '7X', 't', '1', 'j', 'er', '2', 'a',
 # print(ins_del_sub_count)
 print((number_phoneme-del_sub_count)/number_phoneme)
 print((number_phoneme-ins_del_sub_count)/number_phoneme)
-
-
 """
+
+
 f = open("./ref_human_detail", 'a', encoding='utf-8')
 cor_cnt = 0
 sub_cnt = 0
@@ -101,4 +101,3 @@ print(cor_cnt)
 print(sub_cnt)
 print(ins_cnt)
 print(del_cnt)
-"""
