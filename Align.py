@@ -5,16 +5,11 @@ import pandas as pd
 
 
 #Align ref_our, human_our, ref_human
-# def clean_corpus(string):
-#     res = ''
-#     for character in string:
-#         if character.isalpha() or character == " ":
-#             res = res + character
-#     return res
 
 
-test = pd.read_csv("APL_Baseline.csv")
-"""del_sub_count = 0
+
+test = pd.read_csv("PAPL_MHA_KALDI_Mandarin.csv")
+del_sub_count = 0
 ins_del_sub_count = 0
 number_phoneme = 0
 del_All = []
@@ -35,7 +30,6 @@ dec = ['n', 'h', 'ng', '7', 'q', 'l', 'sh', '7X', 't', '1', 'j', 'er', '2', 'a',
 # print(ins_del_sub_count)
 print((number_phoneme-del_sub_count)/number_phoneme)
 print((number_phoneme-ins_del_sub_count)/number_phoneme)
-"""
 
 
 f = open("./ref_human_detail", 'a', encoding='utf-8')
