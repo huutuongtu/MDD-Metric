@@ -1,0 +1,1792 @@
+thành_101_11 ref r 7_X t _5b t_h i k _5b h wp a _1 h o Nm _2 
+thành_101_11 hyp d a t <eps> _1ts_ ie t _5b <eps> <eps> m _1 h o Nm _2 
+thành_101_11 op S S C D S S S C D D S C C C C C 
+thành_101_11 #csid 7 6 0 3
+thành_102_11 ref ts_ u kp _5b ts_ u kp _5b tS E _3 m o t _6b S a N _1 
+thành_102_11 hyp ts_ M7 kp _5b t u k _5b v e _2 m <eps> 7 _6b f a <eps> _1 
+thành_102_11 op C S C C S C S C S S S C D S C S C D C 
+thành_102_11 #csid 9 8 0 2
+thành_103_11 ref <eps> n a n _1 d a N _1 v E _4 m o t _6b k o _1 G a j _5a 
+thành_103_11 hyp _2 N a_X n <eps> <eps> <eps> <eps> _1 v E _1 m M t _5b t M _2 b a <eps> <eps> 
+thành_103_11 op I S S C D D D D C C C S C S C S S S S S C D D 
+thành_103_11 #csid 7 9 1 6
+thành_105_11 ref b o _5a m E _6a ts_ O _1 b E _5a v e _2 m wp e _1 
+thành_105_11 hyp b o _5a n a_X w _5a S 7_X w _5a _5a v <eps> <eps> E _5a v _1 
+thành_105_11 op C C C S S S S S S S S C C D D S S S C 
+thành_105_11 #csid 6 11 0 2
+thành_106_12 ref m a_X w _1 m a_X w _1 v e _2 
+thành_106_12 hyp m <eps> <eps> _1 m <eps> a _1 <eps> a _2 
+thành_106_12 op C D D C C D S C D S C 
+thành_106_12 #csid 5 2 0 4
+thành_107_12 ref b E _5a v 7_X t _5b J 7 _5a b a _2 
+thành_107_12 hyp b E <eps> <eps> b k _5b <eps> <eps> <eps> N a _5a 
+thành_107_12 op C C D D S S C D D D S C S 
+thành_107_12 #csid 4 4 0 5
+thành_108_12 ref t_h 7_X t _6b n a _2 t wp ie t _6b 
+thành_108_12 hyp <eps> <eps> <eps> ts_7_X p _1 E_X t <eps> <eps> i E 
+thành_108_12 op D D D S S S S C D D S S 
+thành_108_12 #csid 1 6 0 5
+thành_10_18 ref E m _1 ts_ a w _2 k o _1 a _6a 
+thành_10_18 hyp E_X J _1 ts_ a w _2 k o <eps> a _6a 
+thành_10_18 op S S C C C C C C C D C C 
+thành_10_18 #csid 9 2 0 1
+thành_114_15 ref o _3 ts_ u _5a m E w _2 k a w _2 ts_ E w _2 k wp a _1 <eps> k M7 _3 S o _3 
+thành_114_15 hyp <eps> _5a tS u _5a N E <eps> _2 v a <eps> _1 tS E w _5a k wp e _1 r wp7_X t _2 ts_ O _2 
+thành_114_15 op D S S C C S C D C S C D S S C C S C C S C I S S S S S S 
+thành_114_15 #csid 10 14 1 3
+thành_116_15 ref m 7_X j _5a k O n _1 N M7 _6a d a N _1 a_X n _1 k O _3 
+thành_116_15 hyp m <eps> <eps> a_X k O n <eps> _5an M7 <eps> _5a la m _5a a_X n _2 k O <eps> 
+thành_116_15 op C D D S C C C D S C D S S S S C C S C C D 
+thành_116_15 #csid 9 7 0 5
+thành_11_18 ref k o _1 dZ a w _5a m i m _3 k M7 j _2 t_h 7_X t _6b t M7 j _1 
+thành_11_18 hyp k o _5a dZ a w _5a m i <eps> _2 k M7 j _5a k 7_X <eps> m t M7 j _1 
+thành_11_18 op C C S C C C C C C D S C C C S S C D S C C C C 
+thành_11_18 #csid 16 5 0 2
+thành_11_2 ref t M7 j _1 k o _1 dZ a w _5a m i m _3 k M7 j _2 t_h 7_X t _6b t M7 j _1 
+thành_11_2 hyp <eps> <eps> d e k o _5a dZ a w _5a m i w _6a k M7 j _2 ts_ 7_X t _6b t <eps> M _1 
+thành_11_2 op D D S S C C S C C C C C C S S C C C C S C C C C D S C 
+thành_11_2 #csid 17 7 0 3
+thành_121_15 ref s E _1 k 7_X p _5b k M w _5a s E _1 k 7_X p _5b k M w _5a 
+thành_121_15 hyp <eps> <eps> <eps> <eps> Ek7_X p <eps> _5bk M w _1 s E Nm k 7_X p _5b k M <eps> _1 
+thành_121_15 op D D D D S C D S C C S C C S C C C C C C D S 
+thành_121_15 #csid 11 5 0 6
+thành_123_15 ref k o _1 dZ a w _5a t_h 7_X <eps> t _6b N 7_X n _2 G u j _4 
+thành_123_15 hyp k o <eps> _1t a w _1 t 7_X j _2 k N <eps> <eps> _5a G u j _4 
+thành_123_15 op C C D S C C S S C I S S C D D S C C C C 
+thành_123_15 #csid 10 6 1 3
+thành_125_15 ref N a_X j _2 k uo j _5a t a N _5a l a_X m _1 
+thành_125_15 hyp <eps> <eps> <eps> <eps> k uo j _1 t a <eps> <eps> l a_X m _1 
+thành_125_15 op D D D D C C C S C C D D C C C C 
+thành_125_15 #csid 9 1 0 6
+thành_128_15 ref J M N _4 M7 k _5b m 7 _1 k a w _1 d E p _6b 
+thành_128_15 hyp J M N _3 M7 k _5b m 7 _1 k a <eps> _1 d E p _1 
+thành_128_15 op C C C S C C C C C C C C D C C C C S 
+thành_128_15 #csid 15 2 0 1
+thành_129_15 ref E m _1 t_h i k _5b h wp a _1 m a j _1 J 7_X t _5b 
+thành_129_15 hyp E m _1 t_h i k _5b x wp a _1 m a <eps> _1 J <eps> a _5b 
+thành_129_15 op C C C C C C C S C C C C C D C C D S C 
+thành_129_15 #csid 15 2 0 2
+thành_12_18 ref k a_X p _6b S E_X k _5b k O _5a m a_X w _2 s E_X J _1 r 7_X t _5b d E p _6b 
+thành_12_18 hyp k a_X p _6b <eps> sS a _5b k O _5a m a_X w _2 s E_X J <eps> <eps> <eps> <eps> _5b s E <eps> <eps> 
+thành_12_18 op C C C C D S S C C C C C C C C C C C D D D D C S C D D 
+thành_12_18 #csid 17 3 0 7
+thành_12_2 ref k a_X p _6b s E_X k _5b k O _5a m a_X w _2 s E_X J _1 r 7_X t _5b d E p <eps> <eps> _6b 
+thành_12_2 hyp k a_X p _5b f E_X k <eps> k O _5a m a_X w _1 s E_X J <eps> r 7_X t _5b d E p _5bJ M7 _4 
+thành_12_2 op C C C S S C C D C C C C C C S C C C D C C C C C C C I I S 
+thành_12_2 #csid 21 4 2 2
+thành_130_15 ref k O n _1 G 7_X w _5a b o Nm _1 d E p _6b wp a _5a 
+thành_130_15 hyp k O n _1 <eps> dZ o _5a b o Nm _1 d <eps> 7_X w _5a a _1 
+thành_130_15 op C C C C D S S C C C C C C D S S S C S 
+thành_130_15 #csid 11 6 0 2
+thành_131_16 ref G O_X kp _5b h O_X kp _6b t 7_X p _6b <eps> N a_X n _1 n a_X p _5b 
+thành_131_16 hyp r o kp _5b h <eps> <eps> a t <eps> <eps> _6b d a_X7_X _3 E_X _1 <eps> <eps> m _5b 
+thành_131_16 op S S C C C D D S C D D C I S S S C D D S C 
+thành_131_16 #csid 7 7 1 6
+thành_132_16 ref b a _2 m uo _1 G a N _1 ts_ O _1 b E _5a o _2 
+thành_132_16 hyp <eps> <eps> <eps> m M7 _1 G a n _1 ts_ O _1 k a _3 o _5a 
+thành_132_16 op D D D C S C C C S C C C C S S S C S 
+thành_132_16 #csid 9 6 0 3
+thành_133_16 ref ts_ u kp _5b m M N _2 n a_X m _1 m 7 j _5a 
+thành_133_16 hyp ts_ O_X Nm _1 m 7 n _2 n a_X m _1 m 7 j _1 
+thành_133_16 op C S S S C S S C C C C C C C C S 
+thành_133_16 #csid 10 6 0 0
+thành_134_16 ref m i J _2 v M7 _2 k wp a _1 t_h a_X m _1 <eps> o Nm _1 b a _2 
+thành_134_16 hyp m <eps> a_X _1 r o j k <eps> e _1 <eps> <eps> t _1 x o Nm _1 b a _1 
+thành_134_16 op C D S S S S S C D S C D D S C I C C C C C S 
+thành_134_16 #csid 9 8 1 4
+thành_135_16 ref b uo n _2 tS M7 _1 t_h wp a N _5a m a t _5b 
+thành_135_16 hyp <eps> <eps> <eps> h o j di _5a ts_ 7 7 _5a m a <eps> _1 
+thành_135_16 op D D D S S S S S S S S C C C D S 
+thành_135_16 #csid 3 9 0 4
+thành_136_16 ref ts_ 7 _6a h O p _6b 7 _3 b 7 _2 d <eps> e _1 
+thành_136_16 hyp ts_ 7 _6a h O_X kp _6a 7 _3 v 7 _1 d 7 j _1 
+thành_136_16 op C C C C S S S C C S C S C I S C 
+thành_136_16 #csid 9 6 1 0
+thành_137_16 ref ts_ 7 _6a b a <eps> _2 d M7 _1 b E _5a d i _1 ts_ 7 _6a 
+thành_137_16 hyp ts_ <eps> <eps> m a j _5a d M7 _1 vE E <eps> d i _2 ts_ 7 _5a 
+thành_137_16 op C D D S C I S C C C S C D C C S C C S 
+thành_137_16 #csid 10 5 1 3
+thành_138_16 ref k wp i _3 h <eps> E _2 b E _5a v e _2 k wp e _1 
+thành_138_16 hyp <eps> N a _2 h a j l e j _5a r a _1 k wp a _1 
+thành_138_16 op D S S S C I S S S S C S S S C C S C 
+thành_138_16 #csid 5 11 1 1
+thành_139_16 ref <eps> l o j _3 dZ O _5a m uo _2 t_h u _1 
+thành_139_16 hyp m M N _1 S a_X w _5a m M _2 <eps> u _1 
+thành_139_16 op I S S S S S S C C S C D C C 
+thành_139_16 #csid 5 7 1 1
+thành_13_18 ref k o kp _5b n M7 k _5b k O _5a m a_X w _2 tS a_X N _5a r 7_X t _5b d E p _6b 
+thành_13_18 hyp <eps> o k _5b n M7 k _5b k <eps> _5a <eps> <eps> <eps> <eps> <eps> t _1 _5a r <eps> t <eps> <eps> <eps> <eps> <eps> 
+thành_13_18 op D C S C C C C C C D C D D D D D S S C C D C D D D D D 
+thành_13_18 #csid 11 3 0 13
+thành_13_2 ref tS a_X N _5a r 7_X t _5b d E p _6b k o Nm _1 k o kp _5b n M7 k _5b k O _5a m a_X w _2 tS a_X N _5a r 7_X t _5b d E p _6b 
+thành_13_2 hyp <eps> <eps> k a k dZ7_X t <eps> d E p _6a k O n _1 k o kp _5a n M7 k _5b k O _5a m a_X w _2 tS O_X Nm _5a r 7_X t _5b d E p _5b 
+thành_13_2 op D D S S S S C D C C C S C S S C C C C S C C C C C C C C C C C C S S C C C C C C C C S 
+thành_13_2 #csid 29 11 0 3
+thành_141_16 ref z M7 k _6b S i _4 m a_X t _5b l i m _1 t i m _1 
+thành_141_16 hyp l M7 k _5b S E _1 m <eps> <eps> <eps> <eps> r E _1 <eps> t_h E _1 
+thành_141_16 op S C C S C S S C D D D D S S C D S S C 
+thành_141_16 #csid 6 8 0 5
+thành_142_16 ref v M7 n _2 tS M7 _1 t_h wp a N _5a m a t _5b 
+thành_142_16 hyp S O N _2 ts_ M7 <eps> <eps> _2 tS 7 _5a m a t _5b 
+thành_142_16 op S S S C S C D D S S S C C C C C 
+thành_142_16 #csid 7 7 0 2
+thành_144_16 ref E m _1 r 7_X t _5b v u _1 7_X j _5a k o _1 
+thành_144_16 hyp <eps> e _1 dZ 7_X t _5b <eps> u <eps> <eps> <eps> _2 x o _1 
+thành_144_16 op D S C S C C C D C D D D S S C C 
+thành_144_16 #csid 7 4 0 5
+thành_145_16 ref b E _5a t 7_X p _6b v ie t _5b 
+thành_145_16 hyp <eps> E n k 7_X n _5a b ie t _6a 
+thành_145_16 op D C S S C S S S C C S 
+thành_145_16 #csid 4 6 0 1
+thành_146_16 ref k O n _1 ts_ O _5a m a _2 tS u m _2 J O _1 
+thành_146_16 hyp k o n _1 k O _5a v O _2 ts_ u <eps> Nm _5a O _1 
+thành_146_16 op C S C C S C C S S C S C D S S C C 
+thành_146_16 #csid 9 7 0 1
+thành_147_17 ref a _5a v M7 n _2 d a_X w _1 J a_X j _6a k wp a _5a 
+thành_147_17 hyp <eps> <eps> <eps> <eps> uo _2 d o Nm _1 <eps> N M7 _6a k wp a <eps> 
+thành_147_17 op D D D D S C C S S C D S S C C C C D 
+thành_147_17 #csid 7 5 0 6
+thành_148_17 ref J M N _1 k 7_X j _1 J a _2 m uo _1 s M7 N _1 s E_X J _5a 
+thành_148_17 hyp b e n _1 k e j _1 J a _2 <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> 
+thành_148_17 op S S S C C S C C C C C D D D D D D D D D D D 
+thành_148_17 #csid 7 4 0 11
+thành_149_17 ref J M N _4 d a m _5a m 7_X j _1 m a_X w _2 h o Nm _2 M m _2 
+thành_149_17 hyp <eps> t 7 Nm d a <eps> <eps> <eps> l j _1 m <eps> 7 _2 h o <eps> kp _1 h _2 
+thành_149_17 op D S S S C C D D D S C C C D S C C C D S S S C 
+thành_149_17 #csid 9 8 0 6
+thành_14_18 ref t ie N _5a t o j _1 n a _2 k a _1 S i _4 n o j _3 t ie N _5a 
+thành_14_18 hyp <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> t ie N _5b 
+thành_14_18 op D D D D D D D D D D D D D D D D D D D D D C C C S 
+thành_14_18 #csid 3 1 0 21
+thành_14_2 ref ie N _5a t o j _1 l a _2 k a _1 S i _4 n o j _3 t ie N _5a 
+thành_14_2 hyp <eps> <eps> <eps> t o j _1 l a _2 k a _1 S i _1 n o j _3 t ie p _1 
+thành_14_2 op D D D C C C C C C C C C C C C S C C C C C C S S 
+thành_14_2 #csid 18 3 0 3
+thành_150_17 ref o Nm _1 E m _1 ts_ o Nm _2 k 7_X j _1 ts_ O _2 tS M7 k _5b S 7_X n _1 
+thành_150_17 hyp _3o Nm _1 E n _1 tS o Nm <eps> <eps> <eps> <eps> <eps> <eps> <eps> _2 tS <eps> <eps> <eps> <eps> _1 a a 
+thành_150_17 op S C C C S C S C C D D D D D D D C C D D D D S S S 
+thành_150_17 #csid 8 6 0 11
+thành_15_18 ref t o j _1 m uo n _5a k O _5a m o t _6b k wp ie n _5a S E_X k _5b 
+thành_15_18 hyp <eps> to j _5a m uo n _5a k O _5a m o t _6b t wp ie n _5a S a t _5b 
+thành_15_18 op D S C S C C C C C C C C C C C S C C C C C S S C 
+thành_15_18 #csid 18 5 0 1
+thành_15_2 ref t o j _1 k O _5a m o t _6b t o j _1 m uo n _5a k O _5a m o t _6b k uo n _5a S E_X k _5b 
+thành_15_2 hyp t 7o j _5a k O _5a m o t _6b t o j _5a m uo n _5a k O _5a m o t _5a k ie n _5a S a k _5b 
+thành_15_2 op C S C S C C C C C C C C C C S C C C C C C C C C C S C S C C C S C C 
+thành_15_2 #csid 28 6 0 0
+thành_16_18 ref J M N _4 k O n _1 O_X Nm _1 t_h 7_X t _6b ts_ a_X m _1 ts_ i _3 
+thành_16_18 hyp <eps> <eps> N M N_1k 7_X n _1 a_X N _1 t_h 7_X t _5b ts_ a_X <eps> _1 <eps> dZ ie 
+thành_16_18 op D D C S S S C C S S C C C C S C C D C D S S 
+thành_16_18 #csid 10 8 0 4
+thành_16_2 ref J M N _4 k O n _1 <eps> O_X Nm _1 t_h 7_X t _6b ts_ a_X m _1 ts_ i _3 
+thành_16_2 hyp <eps> <eps> l u k _5b vuo _1 l O_X w _1 t_h 7_X t _6b ts_ O_X m _1 <eps> <eps> <eps> 
+thành_16_2 op D D S S C S S C I C S C C C C C C S C C D D D 
+thành_16_2 #csid 11 6 1 5
+thành_17_2 ref h wp a _1 S E n _1 k O _5a m u j _2 r 7_X t _5b t_h 7 m _1 h wp a _1 S E n _1 k O _5a m u j _2 r 7_X t _5b t_h 7 m _1 
+thành_17_2 hyp h wp a _1 s E m _1 k <eps> <eps> m o j <eps> r 7_X t _5b t_h 7 m <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> _1 <eps> <eps> <eps> <eps> <eps> <eps> <eps> v 7_X <eps> <eps> <eps> <eps> <eps> <eps> 
+thành_17_2 op C C C C S C S C C D D C S C D C C C C C C C D D D D D D D D C D D D D D D D S C D D D D D D 
+thành_17_2 #csid 18 4 0 24
+thành_18_2 ref k a j _5a t u _3 l E_X J _6a z u Nm _2 d e _3 l a m _2 dZ i _2 
+thành_18_2 hyp <eps> <eps> <eps> <eps> t M _5a l <eps> <eps> a j _4 zu _2 ie n _5a l a m _2 dZ i _2 
+thành_18_2 op D D D D C S S C D D S S S S C S S S C C C C C C C 
+thành_18_2 #csid 10 9 0 6
+thành_19_18 ref b u p _5b b i _1 b u p _5b b e _1 s e _1 J E_X J _1 G 7_X w _5a b o Nm _1 
+thành_19_18 hyp b u <eps> <eps> pb i <eps> b u <eps> _1 d e _1 S 7 _1 <eps> li J _1 r M7 w <eps> b 7 _1 _1 
+thành_19_18 op C C D D S C D C C D S S C C S S C D S C C S S C D C S S C 
+thành_19_18 #csid 13 10 0 6
+thành_1_18 ref ts_ a_X w _5a n a m _2 dZ i _2 v 7_X j _6a 
+thành_1_18 hyp ts_ a_X w _1 N a j _2 J i _1 v 7_X j <eps> 
+thành_1_18 op C C C S S C S C S C S C C C D 
+thành_1_18 #csid 9 5 0 1
+thành_20_1 ref k a j _2 l o n _2 <eps> d e _3 m E _6a l 7_X w _5a k E_X J _1 M m _2 
+thành_20_1 hyp k e t _5a l o <eps> _2 t_h 7_X j _5a m E _5a l a Nm _5a k a_X j _1 M <eps> <eps> 
+thành_20_1 op C S S S C C D C I S S S C C S C S S C C S S C C D D 
+thành_20_1 #csid 11 11 1 3
+thành_20_18 ref k a j _5a n o j _2 d e _3 m E _6a n 7_X w _5a k E_X J _1 
+thành_20_18 hyp k E_X j _5a n 7 j _5a d e _5a m 7 _5a n 7_X w _5a k a J _1 
+thành_20_18 op C S C C C S C S C C S C S S C C C C C S C C 
+thành_20_18 #csid 15 7 0 0
+thành_22_3 ref b a j _2 h O_X kp _6b d 7_X w _2 t ie n _1 k uo _3 b o _5a k O n _1 
+thành_22_3 hyp b a j _6a h O_X kp _6b d 7_X w _2 t ie N _1 <eps> bwp _6b v o _2 k O <eps> _1 
+thành_22_3 op C C C S C C C C C C C C C C S C D S S S C S C C D C 
+thành_22_3 #csid 18 6 0 2
+thành_23_3 ref b a_X j _1 l a _2 t_h M _5a S a_X w _5a 
+thành_23_3 hyp <eps> <eps> h a l a <eps> f u _6b s a w _5a 
+thành_23_3 op D D S S C C D S S S S S C C 
+thành_23_3 #csid 4 7 0 3
+thành_24_3 ref t M k _5b t 7_X j _6a t M _2 t a_X w _5a t <eps> <eps> <eps> 7 _2 
+thành_24_3 hyp t <eps> <eps> a t <eps> <eps> <eps> l M _6b S a w _1 t 7 _2 l 7 _2 
+thành_24_3 op C D D S C D D D S C S S S C S C I I I C C 
+thành_24_3 #csid 7 6 3 5
+thành_25_4 ref tS M7 N _2 b o _5a ts_ O _1 E m _1 a_X n _1 k 7 m _1 <eps> 7 _3 tS M7 N _2 
+thành_25_4 hyp tS M7 N <eps> _1 k uo _2 tS u E m <eps> <eps> <eps> _1 k 7 m _1 m 7 _2 tS 7 n _2 
+thành_25_4 op C C C D S S S S S S C C D D D C C C C C I C S C S S C 
+thành_25_4 #csid 13 9 1 4
+thành_26_4 ref t ie t _5b h O_X kp _6b M m _2 v u j _1 k wp a _5a 
+thành_26_4 hyp <eps> <eps> <eps> <eps> h O_X kp <eps> <eps> <eps> _1 _1 f M7 _1 k wp a _2 
+thành_26_4 op D D D D C C C D D D S S S S C C C C S 
+thành_26_4 #csid 7 5 0 7
+thành_27_4 ref k wp a _5a m u j _2 h M7 N _1 n a_X j _2 t_h 7 m _1 k wp a _5a 
+thành_27_4 hyp <eps> v a _5a m 7 t _5a h a j 7 n <eps> <eps> _5a t_h 7 m _1 k wp a <eps> 
+thành_27_4 op D S C C C S S S C S S S C D D S C C C C C C C D 
+thành_27_4 #csid 12 8 0 4
+thành_28_4 ref a N _1 h M7 N _1 k O _5a k u _3 x wp a j _1 l a n _1 
+thành_28_4 hyp a <eps> <eps> S 7 n _1 k O _1 f u <eps> _6a f a <eps> _5a l a <eps> _1 
+thành_28_4 op C D D S S S C C C S S C D S S C D S C C D C 
+thành_28_4 #csid 9 8 0 5
+thành_29_5 ref <eps> m o t _6b ts_ ie k _5b n O j _1 z O j _1 
+thành_29_5 hyp ts_ m o t _6b ts_ <eps> u _5a n <eps> a _5a z 7 j _1 
+thành_29_5 op I C C C C C D S S C D S S C S C C 
+thành_29_5 #csid 9 5 1 2
+thành_2_18 ref b o Nm _1 k u kp _5b t a_X m _5a n a_X N _5a m a_X t _6b tS 7 j _2 
+thành_2_18 hyp b o Nm _1 k u k _5b k a_X N _5a m a_X m _5a m a_X t _6b tS 7 j _1 
+thành_2_18 op C C C C C C S C S C S C S C S C C C C C C C C S 
+thành_2_18 #csid 18 6 0 0
+thành_31_4 ref k a _5a h o Nm _1 <eps> a_X n _1 m uo j _5a k a _5a M7 n _1 
+thành_31_4 hyp <eps> <eps> <eps> x o Nm _1 b a_X n _1 m uo j _5a k a _5a 7 n _5a 
+thành_31_4 op D D D S C C C I C C C C C C C C C C S C S 
+thành_31_4 #csid 14 3 1 3
+thành_33_5 ref a k _5b o kp _5b b a _2 k O _5a x wp E _3 x o Nm _1 a _2 
+thành_33_5 hyp <eps> <eps> <eps> <eps> m _2 b a _2 <eps> <eps> _5a v wp E h e t _5a m a _2 
+thành_33_5 op D D D D S S C C C D D C S C C S S S S S C C 
+thành_33_5 #csid 8 8 0 6
+thành_35_5 ref S ie w _1 <eps> <eps> S ie w _1 J 7_X n _1 k uo N _2 f O_X Nm _1 
+thành_35_5 hyp <eps> ts_ e _1 s E r ie <eps> _1 d M N _1 <eps> o N <eps> <eps> <eps> <eps> _1_1 
+thành_35_5 op D S S C I I S C D C S S S C D S C D D D D S 
+thành_35_5 #csid 5 8 2 7
+thành_36_5 ref f O j _1 G 7_X w _5a k O _1 k a _5a m o t _6b b a t _5b v O j _5a 
+thành_36_5 hyp <eps> ts_ o _1 z 7_X w _5b k n _1 k a _3 m <eps> 7 _5a b a t _1 r o j _6a 
+thành_36_5 op D S S C S C C S C S C C C S C D S S C C C S S S C S 
+thành_36_5 #csid 12 12 0 2
+thành_38_5 ref O _6a k O n _1 z a _1 v M7 n _2 h a j _5a t a w _5a 
+thành_38_5 hyp <eps> <eps> <eps> kts_ t _1 <eps> d _1 <eps> <eps> 7_X _2 l E_X j _5a <eps> a w _5a 
+thành_38_5 op D D D S S C D S C D D S C S S C C D C C C 
+thành_38_5 #csid 8 6 0 7
+thành_3_18 ref t_h e _5a dZ 7 j _5a t_h ie n _1 J ie n _1 t_h 7_X t _6b d E p _6b 
+thành_3_18 hyp k e _2 dZ 7_X j _5a k ie N _1 dZ ie N _1 t_h E_X k _5b b E n _2 
+thành_3_18 op S C S C S C C S C S C S C S C C S S S S C S S 
+thành_3_18 #csid 10 13 0 0
+thành_41_6 ref u _5a E m _1 b E _5a d a N _1 n a_X m <eps> _2 N u _3 
+thành_41_6 hyp <eps> <eps> <eps> <eps> <eps> b t l 7 _6b k _5a w _2 m j _2 <eps> <eps> <eps> 
+thành_41_6 op D D D D D C S S S S S S S S C I C D D D 
+thành_41_6 #csid 3 8 1 8
+thành_42_6 ref M7 _1 b a _2 k O_X Nm _2 d i _1 ts_ 7 _2 tS 7 j _2 m M _1 
+thành_42_6 hyp M7 <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> _1 ts_ <eps> <eps> <eps> <eps> <eps> <eps> _5a ts_ _1 
+thành_42_6 op C D D D D D D D D D D C C D D D D D D S S C 
+thành_42_6 #csid 4 2 0 16
+thành_44_6 ref b a k _5b S i _4 d a N _1 x a m _5a b <eps> e J _6a 
+thành_44_6 hyp b a k _5b S i <eps> d a N <eps> <eps> 7_X m _4 b 7_X j d _6a 
+thành_44_6 op C C C C C C D C C C D D S C S C I S S C 
+thành_44_6 #csid 12 4 1 3
+thành_45_6 ref l a n _1 d a N _1 l a_X w _1 S a n _2 J a _2 m E _6a l a n _1 d a N _1 l a_X w _1 S a n _2 J a _2 
+thành_45_6 hyp l a <eps> m _2d a N _1 l <eps> <eps> _1 S a_X n _6b J <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> a <eps> _2 <eps> <eps> _2 
+thành_45_6 op C C D S S C C C C D D C C S C S C D D D D D D D D D D D D D D D D D D C D C D D C 
+thành_45_6 #csid 13 4 0 24
+thành_47_6 ref dZ O _5a t O _1 tS 7 j _2 n o j _3 dZ O _5a t O _1 
+thành_47_6 hyp <eps> <eps> a t O _2_1 tS <eps> <eps> <eps> <eps> <eps> <eps> M l v _5a t O _1 
+thành_47_6 op D D S C C S C D D D D D D S S S C C C C 
+thành_47_6 #csid 7 5 0 8
+thành_4_1 ref d o Nm _6a dZ i _2 l a _6a l a_X m _5a k O _5a t ie N _5a d o Nm _6a dZ i _2 l a _6a l a_X m _5a 
+thành_4_1 hyp d <eps> <eps> N dZ i _5a l a _6a l a_X m _5a k <eps> <eps> <eps> <eps> <eps> k l o <eps> <eps> <eps> <eps> <eps> l <eps> <eps> l <eps> <eps> <eps> 
+thành_4_1 op C D D S C C S C C C C C C C C D D D D D S S C D D D D D C D D C D D D 
+thành_4_1 #csid 14 4 0 17
+thành_4_18 ref t ie N _5a d o Nm _6a dZ i _2 l a _6a l a_X m _5a 
+thành_4_18 hyp t ie N _5a d o Nm _5a dZ i _2 l a _1 l a_X m _1 
+thành_4_18 op C C C C C C C S C C C C C S C C C S 
+thành_4_18 #csid 15 3 0 0
+thành_50_6 ref o m _1 n a_X j _1 tS 7 j _2 l E_X J _6a k wp a <eps> <eps> <eps> _5a 
+thành_50_6 hyp M Nm _1 <eps> <eps> d i tS <eps> <eps> <eps> <eps> <eps> a _1 k <eps> a _1 E _1 _5a 
+thành_50_6 op S S C D D S S C D D D D D S S C D C I I I C 
+thành_50_6 #csid 5 6 3 8
+thành_53_7 ref N M7 _6a p i _1 J E_X J _1 J M _1 b a_X j _1 
+thành_53_7 hyp <eps> <eps> _1 v uo _1 <eps> <eps> ts_ E _5b N _1 N v a i 
+thành_53_7 op D D S S S C D D S S S S C S S S S 
+thành_53_7 #csid 2 11 0 4
+thành_59 ref E_X J _1 G a _2 tS o Nm _5a b a_X j _1 l e n _1 
+thành_59 hyp E_X J _5a G a _5a tS o <eps> _1 m a j _1 b E n _1 
+thành_59 op C C S C C S C C D S S S C C S S C C 
+thành_59 #csid 10 7 0 1
+thành_5_18 ref k 7_X j _1 s 7_X w _5a h o _2 h E _5a m a_X t _5b J i n _2 
+thành_5_18 hyp k 7_X j <eps> _5a S o _5a k o <eps> _5a E _5a m a_X <eps> _5b m i n _5a 
+thành_5_18 op C C C D S S S C S C D S C C C C D C S C C S 
+thành_5_18 #csid 12 7 0 3
+thành_61_8 ref ts_ u kp _5b k O n _1 N u _3 N O n _1 
+thành_61_8 hyp k v i w _1 a n _1 <eps> <eps> <eps> <eps> <eps> <eps> _1 
+thành_61_8 op S S S S S S C C D D D D D D C 
+thành_61_8 #csid 3 6 0 6
+thành_62_8 ref m E _6a ie w _1 k O n _1 
+thành_62_8 hyp m E _6a ie w _1 t 7 n _1 
+thành_62_8 op C C C C C C S S C C 
+thành_62_8 #csid 8 2 0 0
+thành_63_8 ref t_h a_X N _5a z 7_X t _5b ie w _1 k wp e _1 h M7 N _1 m i J _2 
+thành_63_8 hyp t_h a_X <eps> _2 l u k _5b z 7_X _1 <eps> wp <eps> _1 h M7 <eps> <eps> <eps> <eps> <eps> _1n 
+thành_63_8 op C C D S S S S C S S C D C D C C C D D D D D S 
+thành_63_8 #csid 8 7 0 8
+thành_64_8 ref k 7 n _1 m M7 _1 <eps> r a w _2 7 _3 d e n _5a 
+thành_64_8 hyp k 7 n _1 m M7 _1 dZ a_X p _6b G 7 _3 b e <eps> _5a 
+thành_64_8 op C C C C C C C I S S S S C C S C D C 
+thành_64_8 #csid 11 5 1 1
+thành_65_8 ref tS 7 j _1 N a_X j _2 k a N _2 n E_X J _6a h 7 n _1 
+thành_65_8 hyp tS 7 j _1 n 7 n _6a k a <eps> _6a n a_X n _6a h 7 n _1 
+thành_65_8 op C C C C S S S S C C D S C S S C C C C C 
+thành_65_8 #csid 12 7 0 1
+thành_66_8 ref n a _5a k 7 <eps> _1 <eps> m uo _2 t_h u _1 
+thành_66_8 hyp n a _5a t 7 j _1 b M N _2 t_h M7 _2 
+thành_66_8 op C C C S C I C I S S C C S S 
+thành_66_8 #csid 7 5 2 0
+thành_68_8 ref k a k _5b b a n _6a n 7 j _5a s e _5a 
+thành_68_8 hyp <eps> t e n _1b a <eps> <eps> n _2 la _2 dZ i _6a 
+thành_68_8 op D S S S S C D D C S S S S S S 
+thành_68_8 #csid 2 10 0 3
+thành_69_8 ref k o j _5a u m _1 t u m _2 k 7_X j _1 k o j _5a u m _1 t u m _2 
+thành_69_8 hyp <eps> <eps> <eps> <eps> u <eps> Nm t u m _2 <eps> <eps> <eps> <eps> k <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> 
+thành_69_8 op D D D D C D S C C C C D D D D C D D D D D D D D D D 
+thành_69_8 #csid 6 1 0 19
+thành_6_1 ref b o _1 r u _1 t <eps> o _1 
+thành_6_1 hyp m o <eps> <eps> _1v 7 t 7 _1 _1 
+thành_6_1 op S C D D S S C I S C 
+thành_6_1 #csid 3 4 1 2
+thành_6_18 ref m E _6a m 7 j _5a m uo _1 o _1 t o _1 
+thành_6_18 hyp <eps> <eps> 7 m 7 n _5a m 7 _5a o _1 t o _2 
+thành_6_18 op D D S C C S C C S S C C C C S 
+thành_6_18 #csid 8 5 0 2
+thành_70_8 ref o Nm _1 ts_ uo _5a b a_X j _1 <eps> <eps> v e _2 t o _3 
+thành_70_8 hyp <eps> Nm _5a ts_ u _4 b a_X j _1 l p t 7 _2 <eps> O _1 
+thành_70_8 op D C S C S S C C C C I I S S C D S S 
+thành_70_8 #csid 7 7 2 2
+thành_71_9 ref k e _1 k M7 N _1 n a _2 tS u m _2 k e _5a N O t _6b 
+thành_71_9 hyp k 7_X j t M7 <eps> _1 J a _2 <eps> ts_ 7 _2 k E _5a N <eps> a _2 
+thành_71_9 op C S S S C D C S C C D S S C C S C C D S S 
+thành_71_9 #csid 9 9 0 3
+thành_72_9 ref E _3 tS 7 j <eps> _2 m uo _2 t_h u _1 m a t _5b <eps> <eps> <eps> m E _3 
+thành_72_9 hyp <eps> a tS E_X j l 7 k _5b x M7 N _1 m a_X t _5b J 7 _1 l a _1 
+thành_72_9 op D S C S C I S S S S S S C C S C C I I I S S S 
+thành_72_9 #csid 6 12 4 1
+thành_73_9 ref ts_ 7 <eps> _6a 7 j _1 h a_X j _1 k wp a _5a 
+thành_73_9 hyp ts_ 7 j _2 7 j _2 t_h a j _1 k wp a _2 
+thành_73_9 op C C I S C C S S S C C C C C S 
+thành_73_9 #csid 9 5 1 0
+thành_75_9 ref E m _1 b E _2 d a N _1 N wp a n _1 N wp a n _4 a_X n _1 k 7 m _1 
+thành_75_9 hyp E <eps> <eps> _1b E _2 v a n _1 <eps> hwp a <eps> _1 m wp E_X n _1 a_X n _1 k 7 m _1 
+thành_75_9 op C D D S C C S C S C D S C D C S C S C S C C C C C C C 
+thành_75_9 #csid 16 7 0 4
+thành_76_9 ref m 7 j _2 S a N _5a t i J _1 m 7 _1 
+thành_76_9 hyp m a_X j _5a s o N _5a t 7 n _5a l e _1 
+thành_76_9 op C S C S S S C C C S S S S S C 
+thành_76_9 #csid 6 9 0 0
+thành_78_9 ref o Nm _1 b a n _6a J O _3 t_h a _3 z ie w _2 tS e n _1 k E_X J _5a d o Nm _2 
+thành_78_9 hyp o <eps> N m a N _6a J O _3 t_h a j _5a s E _2 tS E w _1 k E_X J _5a v a w _2 
+thành_78_9 op C D S S C S C C C C C C S S S S C C S S C C C C C S S S C 
+thành_78_9 #csid 16 12 0 1
+thành_79_9 ref t a_X N _5a k O n _1 d a N <eps> _1 b a_X j _1 k wp a _1 S o Nm _1 
+thành_79_9 hyp t a_X N _5a k O <eps> <eps> <eps> _5a N n _1 b a_X j _1 k <eps> a _1 s o N _1 
+thành_79_9 op C C C C C C D D D S C I C C C C C C D C C S C S C 
+thành_79_9 #csid 17 3 1 4
+thành_7_1 ref a_X n _1 k 7 m _1 
+thành_7_1 hyp <eps> <eps> <eps> _1t 7 m _1 
+thành_7_1 op D D D S C C C 
+thành_7_1 #csid 3 1 0 3
+thành_7_18 ref E m _1 d a N _1 a_X n _1 k 7 m _1 
+thành_7_18 hyp <eps> <eps> <eps> Em _1da N <eps> _1a_X n _1 k 7 m _1 
+thành_7_18 op D D D S S C D S C C C C C C 
+thành_7_18 #csid 7 3 0 4
+thành_81_9 ref ts_ ie k _5b n M7 _3 r 7_X t _5b d E p _6b M m _2 
+thành_81_9 hyp <eps> <eps> k e _1z a _3 <eps> <eps> <eps> z a _1 b a _1 N k 
+thành_81_9 op D D C S S S C D D D S S S S S S S S 
+thành_81_9 #csid 2 11 0 5
+thành_82_9 ref t_h <eps> a w _3 k O n _1 J i n _2 k a w _5a 
+thành_82_9 hyp t_h wp a <eps> _3 k O <eps> _1 <eps> i n _1 k <eps> <eps> _1 
+thành_82_9 op C I C D C C C D C D C C S C D D S 
+thành_82_9 #csid 9 2 1 5
+thành_84_9 ref b E _5a t 7_X p _6b d O_X kp _6b 
+thành_84_9 hyp b E _4 k 7_X t _6b d a w _2 
+thành_84_9 op C C S S C S C C S S S 
+thành_84_9 #csid 5 6 0 0
+thành_85_9 ref t o j _1 S E <eps> _5a v e _2 k wp e _1 h M7 N _1 <eps> 
+thành_85_9 hyp t o j _1 ts_ E _3 t G E _2 k <eps> a _1 s M7 <eps> _1 _2 
+thành_85_9 op C C C C S C I S S S C C D S C S C D C I 
+thành_85_9 #csid 10 6 2 2
+thành_86_9 ref d M7 N _2 v e _2 s a _1 l a_X k _5b s a _1 h M7 N _1 
+thành_86_9 hyp <eps> <eps> <eps> b iNb E _2 dZ a _1 <eps> <eps> v a s a <eps> <eps> l e _1 
+thành_86_9 op D D D S S S C S C C D D S S C C D D S S C 
+thành_86_9 #csid 6 8 0 7
+thành_87_9 ref o j _1 t o j _1 d e n _5a t_h a_X m _1 E_X J _1 h a j _1 t o j _1 
+thành_87_9 hyp <eps> <eps> <eps> d o j _1 G a_X n _6a t_h <eps> M _1 e J _1 h a j _1 t o j _1 
+thành_87_9 op D D D S C C C S S C S C D S C S C C C C C C C C C C 
+thành_87_9 #csid 16 6 0 4
+thành_88_10 ref E m _1 ie w _1 N o j _1 J a _2 k uo _3 E m _1 
+thành_88_10 hyp <eps> <eps> d E_X N d i o <eps> _1 J a_X _2 <eps> <eps> <eps> E <eps> _1 
+thành_88_10 op D D S S S S S C D C C S C D D D C D C 
+thành_88_10 #csid 6 6 0 7
+thành_89_10 ref E m <eps> _1 ie w _1 t ie N _5a ts_ i m _1 
+thành_89_10 hyp <eps> m e k ie n _1 <eps> <eps> <eps> <eps> ts_ i m _1 
+thành_89_10 op D C I S C S C D D D D C C C C 
+thành_89_10 #csid 7 2 1 5
+thành_8_18 ref <eps> b a n _6a h a_X N <eps> <eps> <eps> _2 t i J _5a k E_X k _5b r 7_X t _5b v u j _1 v E _3 
+thành_8_18 hyp _1 b <eps> <eps> <eps> <eps> a_X N _2 wp a _2 t i J _5a k E_X k _2 r 7_X <eps> _5b v u j <eps> <eps> b _3 
+thành_8_18 op I C D D D D C C I I I C C C C C C C C S C C D C C C C D D S C 
+thành_8_18 #csid 18 2 4 7
+thành_90_10 ref b uo _2 h E _2 d e n _5a r o j _2 
+thành_90_10 hyp <eps> <eps> <eps> m a _2 <eps> <eps> <eps> l a o <eps> _1 
+thành_90_10 op D D D S S C D D D S S C D S 
+thành_90_10 #csid 2 5 0 7
+thành_91_10 ref o Nm _1 7 j _1 o Nm _1 k O _5a x wp E _3 x o Nm _1 
+thành_91_10 hyp <eps> Nm <eps> 7 <eps> _1 o Nm _1 k O _5a x <eps> u _5b x o Nm _1 
+thành_91_10 op D C D C D C C C C C C C C D S S C C C C 
+thành_91_10 #csid 14 2 0 4
+thành_93_10 ref <eps> <eps> b o _5a m a_X t _6b l u kp _5b k O n _1 ts_ wp 7_X n _3 b i _6a J E _5a 
+thành_93_10 hyp _5a n E w _5a m <eps> E _6a dZ u <eps> <eps> k <eps> n <eps> <eps> k 7_X n <eps> b <eps> <eps> <eps> <eps> n 
+thành_93_10 op I I S S C C D S S S C D D C D C D D S C C D C D D D D S 
+thành_93_10 #csid 8 7 2 11
+thành_95_10 ref s O m _5a l a N _2 d o Nm _2 r uo N _6a r M N _2 k 7_X j _1 
+thành_95_10 hyp t O <eps> _5a l a m _2 dZ a w _2 <eps> v 7 _2 v M N _2 k 7_X w _1 
+thành_95_10 op S C D C C C S C S S S C D S S S S C C C C C S C 
+thành_95_10 #csid 12 10 0 2
+thành_96_10 ref tS a N _1 t M7 N _1 ts_ <eps> u _5a h e _2 l a_X m _5a 
+thành_96_10 hyp <eps> <eps> <eps> <eps> <eps> <eps> n _1 ts_ M k _5a h <eps> <eps> <eps> <eps> o _5a 
+thành_96_10 op D D D D D D S C C I S C C D D D D S C 
+thành_96_10 #csid 5 3 1 10
+thành_98_10 ref k wp e _1 t 7 _5a 7 _3 h a j _3 f O_X Nm _2 
+thành_98_10 hyp <eps> wp e _1 <eps> <eps> <eps> 7 <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> 
+thành_98_10 op D C C C D D D C D D D D D D D D D 
+thành_98_10 #csid 4 0 0 13
+thành_99_10 ref v M7 n _2 k 7_X j _1 t 7_X m _1 ts_ o j _2 n a_X j _3 l o kp _6b 
+thành_99_10 hyp <eps> <eps> <eps> <eps> <eps> <eps> <eps> _1 <eps> 7_X n _2 ts_ <eps> <eps> 7_X n <eps> <eps> <eps> <eps> <eps> <eps> _1 
+thành_99_10 op D D D D D D D C D C S S C D D S C D D D D D D S 
+thành_99_10 #csid 4 4 0 16
+thành_9_18 ref t 7_X j _3 k <eps> O _5a m u j _2 z 7_X w _1 r 7_X t _5b t_h 7 m _1 
+thành_9_18 hyp b a J _6a k a w _5a m u j _2 z 7_X w _1 z 7_X t _5b t_h 7 <eps> _1 
+thành_9_18 op S S S S C I S C C C C C C C C C S C C C C C D C 
+thành_9_18 #csid 16 6 1 1
+tuyến_1-1 ref ts_ a_X w _5a d a N _1 l a m _2 dZ i _2 v 7_X j _6a 
+tuyến_1-1 hyp ts_ a_X w <eps> d a N _1 l a m _3 dZ i _2 v 7_X j _2 
+tuyến_1-1 op C C C D C C C C C C C S C C C C C C S 
+tuyến_1-1 #csid 16 2 0 1
+tuyến_10-1 ref E m _1 ts_ a w _2 k o _1 a _6a 
+tuyến_10-1 hyp E m _1 ts_ a w _1 k o <eps> a _6a 
+tuyến_10-1 op C C C C C C S C C D C C 
+tuyến_10-1 #csid 10 1 0 1
+tuyến_100-9 ref l 7 _6a S M7 N _1 l O_X Nm _1 l a_X n _1 
+tuyến_100-9 hyp <eps> <eps> <eps> <eps> _1s a _1 l O_X Nm _1 l <eps> a _1 
+tuyến_100-9 op D D D D S S C C C C C C D S C 
+tuyến_100-9 #csid 7 3 0 5
+tuyến_101-9 ref E m _1 r 7_X t _5b t_h i t _5b x wp a _1 h o Nm _2 
+tuyến_101-9 hyp E <eps> <eps> mdZ E t _5b ts_ i k _5b <eps> wp a _1 h o Nm _1 
+tuyến_101-9 op C D D S S C C S C S C D C C C C C C S 
+tuyến_101-9 #csid 11 5 0 3
+tuyến_102-9 ref ts_ e t _5b t_h M7 k _5b k E _3 m a_X w _2 k a m _1 
+tuyến_102-9 hyp ts_ i k _5b ts_ M7 k _5b k a _3 b 7 w _6b k a a _1 
+tuyến_102-9 op C S S C S C C C C S C S S C S C C S C 
+tuyến_102-9 #csid 11 8 0 0
+tuyến_103-9 ref d a _4 h a j _1 dZ a _1 d i J _2 b E _5a m o t _6b k o _1 G a j _5a 
+tuyến_103-9 hyp d a 7 _3d 7_X j <eps> <eps> <eps> <eps> <eps> <eps> <eps> _2 <eps> <eps> <eps> <eps> <eps> <eps> <eps> k <eps> <eps> <eps> a <eps> <eps> 
+tuyến_103-9 op C C S S S C D D D D D D D C D D D D D D D C D D D C D D 
+tuyến_103-9 #csid 6 3 0 19
+tuyến_104-9 ref E m _1 v E _4 m o t _6b k o _1 t <eps> ie n _1 
+tuyến_104-9 hyp E m <eps> v E _1 m <eps> 7 _1 k 7_X _1 t i _1 a _1 
+tuyến_104-9 op C C D C C S C D S S C S C C I S S C 
+tuyến_104-9 #csid 9 6 1 2
+tuyến_105-11 ref b o _5a m E _6a ts_ O _1 b E _5a v e _2 k wp e _1 
+tuyến_105-11 hyp b o _5a m E _6a ts_ O _1 b E _5a v e _2 k wp e _1 
+tuyến_105-11 op C C C C C C C C C C C C C C C C C C C 
+tuyến_105-11 #csid 19 0 0 0
+tuyến_107-10 ref b E _5a r 7_X t _5b J 7 _5a b a _2 
+tuyến_107-10 hyp m E _2 G e t _5b J 7 _5a t a _2 
+tuyến_107-10 op S C S S S C C C C C S C C 
+tuyến_107-10 #csid 8 5 0 0
+tuyến_109-11 ref k E_X J _5a h wp a _1 J O _3 J M _1 v a_X j _3 k a _5a 
+tuyến_109-11 hyp k E_X J <eps> _5ak wp a _5a J O _3 J M _1 v 7_X j _6a k a _3 
+tuyến_109-11 op C C C D S C C S C C C C C C C S C S C C S 
+tuyến_109-11 #csid 15 5 0 1
+tuyến_11-2 ref k o _1 dZ a w _5a m i m _3 k M7 j _2 t_h 7_X t _6b t M7 j _1 
+tuyến_11-2 hyp k o <eps> _1dZ a w _5a m i m _3 <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> 
+tuyến_11-2 op C C D S C C C C C C C D D D D D D D D D D D D 
+tuyến_11-2 #csid 9 1 0 13
+tuyến_110-10 ref tS 7 j _2 d a N _1 r 7_X t _5b n E_X J _6a 
+tuyến_110-10 hyp tS 7 j _2 l a_X N _1 r 7_X t _5b N a j _1 
+tuyến_110-10 op C C C C S S C C C C C C S S S S 
+tuyến_110-10 #csid 10 6 0 0
+tuyến_111-11 ref k O n _1 n M7 _2 z 7 j _1 s uo N _5a m o t _6b k a j _5a z ie n _5a 
+tuyến_111-11 hyp k O n _1 n M7 _3 r 7 <eps> <eps> <eps> <eps> <eps> _5a <eps> <eps> <eps> <eps> <eps> s u _5a <eps> <eps> <eps> _5ak_5a 
+tuyến_111-11 op C C C C C C S S C D D D D D C D D D D D S S C D D D S 
+tuyến_111-11 #csid 9 5 0 13
+tuyến_112-11 ref k O n _1 ts_ i m _1 S 7_X n _1 k a _1 k 7_X t _5b t ie N _5a h O t _5b 
+tuyến_112-11 hyp k O n _1 ts_ i m _1 S 7_X n _1 k a _1 k 7_X p _5b t ie N _5a h O t _5b 
+tuyến_112-11 op C C C C C C C C C C C C C C C C C S C C C C C C C C C 
+tuyến_112-11 #csid 26 1 0 0
+tuyến_113-11 ref b uo j _3 ts_ ie w _2 m uo _2 h E _2 t_h 7_X t _6b d a N _5a ie w _1 
+tuyến_113-11 hyp _1b uo j _3 <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> tS M7 _1 7_X <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> 
+tuyến_113-11 op S C C C D D D D D D D D S S S C D D D D D D D D D 
+tuyến_113-11 #csid 4 4 0 17
+tuyến_115-11 ref b o Nm _1 t O_X kp _5b t ie n _1 k a_X n _5a m O_X Nm _3 J M _1 l uo _6a 
+tuyến_115-11 hyp b 7_X m _1 t a_X p _5b t ie n _1 k E_X J _5b m <eps> <eps> 7_X m N _1 l <eps> <eps> 
+tuyến_115-11 op C S S C C S S C C C C C C S S S C D D S S S C C D D 
+tuyến_115-11 #csid 12 10 0 4
+tuyến_116-11 ref m 7_X j _5a k O n _1 N M7 _6a d a N _1 a_X n _1 k O _3 
+tuyến_116-11 hyp _5am 7_X j _1 k O n _1 N M7 <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> _3 
+tuyến_116-11 op S C C S C C C C C C D D D D D D D D D D C 
+tuyến_116-11 #csid 9 2 0 10
+tuyến_118-11 ref <eps> d M7 _5a tS E _3 ts_ i _3 m 7 j _5a S a_X w _5a t uo j _3 
+tuyến_118-11 hyp _5a d M7 _5a tS E _3 ts_ i _3 m M7 j _6b S a_X w _5a t uo j _5a 
+tuyến_118-11 op I C C C C C C C C C C S C S C C C C C C C S 
+tuyến_118-11 #csid 18 3 1 0
+tuyến_12-2 ref k a_X p _6b S E_X k _5b k O _5a m a_X w _2 s E_X J _1 r 7_X t _5b d E p _6b 
+tuyến_12-2 hyp <eps> <eps> <eps> <eps> S a_X t _5b k O _1 m M7 w <eps> <eps> <eps> <eps> a r 7_X t <eps> <eps> <eps> <eps> <eps> 
+tuyến_12-2 op D D D D C S S C C C S C S C D D D D S C C C D D D D D 
+tuyến_12-2 #csid 9 5 0 13
+tuyến_120-10 ref t o j _1 n a _2 ts_ u _5a b o _6a d o j _6a 
+tuyến_120-10 hyp t o j _1 l a _2 ts_ u _5a b o _2 t o j _1 
+tuyến_120-10 op C C C C S C C C C C C C S S C C S 
+tuyến_120-10 #csid 13 4 0 0
+tuyến_122-11 ref E m _1 l M _4 l i n _5a h o p _6b b u t _5b k 7_X n _3 t_h 7_X n _6a 
+tuyến_122-11 hyp E m _1 l M _4 l i m _1 x o m _2 b <eps> <eps> <eps> k <eps> <eps> <eps> <eps> <eps> <eps> <eps> 
+tuyến_122-11 op C C C C C C C C S S S C S S C D D D C D D D D D D D 
+tuyến_122-11 #csid 11 5 0 10
+tuyến_123-10 ref k o _1 dZ a w _5a t_h 7_X n _2 G 7_X n _2 G u j _5a 
+tuyến_123-10 hyp <eps> w _1 dZ a w <eps> t 7_X n _2 t M N _2 k u j _5a 
+tuyến_123-10 op D S C C C C D S C C C S S S C S C C C 
+tuyến_123-10 #csid 11 6 0 2
+tuyến_13-2 ref k o kp _5b n M7 k _5b k O _5a m a_X w _2 tS a_X N _5a r 7_X t _5b d E p _6b 
+tuyến_13-2 hyp k O_X kp <eps> _1n M7 k _5b k <eps> _5a <eps> <eps> w <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> 
+tuyến_13-2 op C S C D S C C C C D C D D C D D D D D D D D D D D D D 
+tuyến_13-2 #csid 8 2 0 17
+tuyến_130-10 ref k O n _1 G 7_X w _5a b o Nm _1 d E p _6b k wp a _5a 
+tuyến_130-10 hyp k O n _2 G <eps> O _1 b o Nm <eps> d E p _6b k wp a _5a 
+tuyến_130-10 op C C C S C D S S C C C D C C C C C C C C 
+tuyến_130-10 #csid 15 3 0 2
+tuyến_132-10 ref p a _1 m uo _1 k E m _1 ts_ O _1 b E _5a 
+tuyến_132-10 hyp b a _1 m uo _1 k a m _1 ts_ O _1 b E _1 
+tuyến_132-10 op S C C C C C C S C C C C C C C S 
+tuyến_132-10 #csid 13 3 0 0
+tuyến_14-2 ref t o j _1 l a _2 k a _1 S i _4 n o j _3 t ie N _5a 
+tuyến_14-2 hyp t o j _1 l a _2 k a _1 S i _4 n o j <eps> t ie <eps> _1 
+tuyến_14-2 op C C C C C C C C C C C C C C C C D C C D S 
+tuyến_14-2 #csid 18 1 0 2
+tuyến_15-2 ref t o j _1 m uo n _5a k O _5a m o t _6b k <eps> uo n _5a S E_X k _5b 
+tuyến_15-2 hyp t o j _1 m uo n _5a k O _5a m o t _5a k wp uo n _5a S a k _5b 
+tuyến_15-2 op C C C C C C C C C C C C C C S C I C C C C S C C 
+tuyến_15-2 #csid 21 2 1 0
+tuyến_16-2 ref J M N _4 k O n _1 n O_X Nm _1 t_h 7_X t _6b l a _2 ts_ a_X m _1 ts_ i _3 
+tuyến_16-2 hyp J M N <eps> _4k O n _1 n O_X Nm _1 t_h 7_X t _6b l a _2 ts_ a_X m _1 ts_ i _3 
+tuyến_16-2 op C C C D S C C C C C C C C C C C C C C C C C C C C C 
+tuyến_16-2 #csid 24 1 0 1
+tuyến_17-2 ref h wp a _1 S E n _1 k O _5a m u j _2 r 7_X t _5b t_h 7 m _1 
+tuyến_17-2 hyp h wp a _1 S E n _1 k O _5a m uo j _2 r 7_X t _5b <eps> <eps> m <eps> 
+tuyến_17-2 op C C C C C C C C C C C C S C C C C C C D D C D 
+tuyến_17-2 #csid 19 1 0 3
+tuyến_18-2 ref k a j _5a t u _3 l E_X J _6a z u Nm _2 d e _3 l a m _2 dZ i _2 
+tuyến_18-2 hyp k a j <eps> _2t u _3 l E_X J _6a z u Nm _1 d E _3 l a <eps> _1 v i _1_1 
+tuyến_18-2 op C C C D S C C C C C C C C C S C S C C C D S S C S 
+tuyến_18-2 #csid 17 6 0 2
+tuyến_19-2 ref b u p _5b b e _1 S ie w _1 J 7_X N _1 G 7_X w _5a b o Nm _1 
+tuyến_19-2 hyp <eps> u p _5b b e _1 s E w _1 J a_X N _5a G a_X w _1 b a _1 _1 
+tuyến_19-2 op D C C C C C C S S C C C S C S C S C S C S S C 
+tuyến_19-2 #csid 14 8 0 1
+tuyến_2-1 ref b o Nm _1 k u kp _5b t a_X m _5a n a_X N _5a m a_X t _6b tS 7 j _2 
+tuyến_2-1 hyp b o Nm <eps> _1k u p _5b <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> 
+tuyến_2-1 op C C C D S C S C D D D D D D D D D D D D D D D D 
+tuyến_2-1 #csid 5 2 0 17
+tuyến_20-2 ref k a j _5a n o j _2 m E _6a d e _3 n 7_X w _5a k E_X J _1 
+tuyến_20-2 hyp k a j <eps> _5an o j _5a m E _6a d e _3 n 7_X w _5a k e J _1 
+tuyến_20-2 op C C C D S C C S C C C C C C C C C C C S C C 
+tuyến_20-2 #csid 18 3 0 1
+tuyến_21-3 ref k 7_X w _6a d i _1 ts_ 7_X m _6a J M _1 k O n _1 r uo _2 7_X j _5a 
+tuyến_21-3 hyp k 7_X w <eps> _6ad i _1 ts_ 7_X m _6a J <eps> <eps> <eps> O n _1 dZ uo _2 7_X j _1 
+tuyến_21-3 op C C C D S C C C C C C C D D D C C C S C C C C S 
+tuyến_21-3 #csid 17 3 0 4
+tuyến_22-3 ref b a j _2 d O_X kp _6b d 7_X w _2 t ie n _1 k uo _3 G 7_X w _5a k O n _1 
+tuyến_22-3 hyp <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> k t M dZ ie <eps> _1 N M7 _3 dZ 7_X w _5a k O n _1 
+tuyến_22-3 op D D D D D D D D D S S S S C D C S S C S C C C C C C C 
+tuyến_22-3 #csid 10 7 0 10
+tuyến_23-3 ref h o m _1 n a_X j _1 n a _2 ts_ <eps> M _5a S a_X w _5a 
+tuyến_23-3 hyp h <eps> <eps> om n a_X j _1 l a _2 ts_ ie w _5a S a w _5a 
+tuyến_23-3 op C D D S C C C C S C C C I S C C S C C 
+tuyến_23-3 #csid 12 4 1 2
+tuyến_24-3 ref E m _1 t_h M k _5b z 7_X j _6a t M _2 S a_X w _5a dZ 7 _2 
+tuyến_24-3 hyp <eps> <eps> <eps> Em_1t_h M k _5b z 7_X j _6a t M _2 S a_X w _5a dZ 7 _2 
+tuyến_24-3 op D D D S C C C C C C C C C C C C C C C C C 
+tuyến_24-3 #csid 17 1 0 3
+tuyến_25-3 ref b uo j _3 tS M7 _1 E m _1 a_X n _1 k 7 m _1 7 _3 tS M7 N _2 
+tuyến_25-3 hyp <eps> <eps> <eps> <eps> tS M7 _1 E m _1 a n _1 k 7 m _1 7 _3 tS M7 N _2 
+tuyến_25-3 op D D D D C C C C C C S C C C C C C C C C C C C 
+tuyến_25-3 #csid 18 1 0 4
+tuyến_26-3 ref h O_X kp _6b v u j _1 k wp a _5a 
+tuyến_26-3 hyp <eps> <eps> <eps> <eps> v u j _1 k wp a _2 
+tuyến_26-3 op D D D D C C C C C C C S 
+tuyến_26-3 #csid 7 1 0 4
+tuyến_27-3 ref o j _2 x wp a j _1 l M7 N _5a t_h 7 m _1 k wp a _5a 
+tuyến_27-3 hyp <eps> <eps> <eps> h wp a <eps> _1 l 7 N _5a t_h 7 m _1 k <eps> uo _5a 
+tuyến_27-3 op D D D S C C D C C S C C C C C C C D S C 
+tuyến_27-3 #csid 12 3 0 5
+tuyến_28-3 ref k u _1 h M7 N _1 k O _5a k u _3 h wp a j _1 l a N _1 
+tuyến_28-3 hyp <eps> <eps> M_1 h M7 N _2 k O _5a k uo _3 h <eps> a j _1 l a N _1 
+tuyến_28-3 op D D S C C C S C C C C S C C D C C C C C C C 
+tuyến_28-3 #csid 16 3 0 3
+tuyến_29-3 ref J a_X t _6b d M7 k _6b m o t _6b ts_ ie k _5b l a _5a r 7 j _1 
+tuyến_29-3 hyp ts_ 7_X p _6b t M7 N _5a m o t _6b ts_ u k _5b l a _5a z 7 j _1 
+tuyến_29-3 op S S S C S C S S C C C C C S C C C C C S C C C 
+tuyến_29-3 #csid 15 8 0 0
+tuyến_3-1 ref t_h e _5a dZ 7 j _5a t_h ie n _1 J ie n _1 t_h 7_X t _6b d E p _6b 
+tuyến_3-1 hyp t_h e <eps> _5adZ 7 j _5a <eps> <eps> M7 _1 <eps> a n <eps> <eps> 7_X <eps> <eps> <eps> <eps> <eps> _5a 
+tuyến_3-1 op C C D S C C C D D S C D S C D D C D D D D D S 
+tuyến_3-1 #csid 8 4 0 11
+tuyến_30-3 ref S 7_X w _1 J ie w _2 t_h e _5a 
+tuyến_30-3 hyp S 7_X w _1 J ie w _2 t_h e _5a 
+tuyến_30-3 op C C C C C C C C C C C 
+tuyến_30-3 #csid 11 0 0 0
+tuyến_31-4 ref a_X n _1 m uo j _5a k a _5a M7 n _1 
+tuyến_31-4 hyp <eps> <eps> <eps> <eps> d 7 _5a k a _5a 7 n _2 
+tuyến_31-4 op D D D D S S C C C C S C S 
+tuyến_31-4 #csid 5 4 0 4
+tuyến_32-4 ref E _5a ts_ o j _3 d e _3 k wp E t _5b J a _2 
+tuyến_32-4 hyp <eps> <eps> ts_ 7 j <eps> _5ad E_X _5a k wp E t _5b J a _2 
+tuyến_32-4 op D D C S C D S S S C C C C C C C C 
+tuyến_32-4 #csid 10 4 0 3
+tuyến_33-4 ref o Nm _1 b a _2 k O _5a x wp E _3 x o Nm _1 a _6a 
+tuyến_33-4 hyp <eps> <eps> <eps> b a <eps> k 7 _3 x wp E _3 x o Nm _1 a _3 
+tuyến_33-4 op D D D C C D C S S C C C C C C C C C S 
+tuyến_33-4 #csid 12 3 0 4
+tuyến_34-4 ref o _1 k O n _1 d a N _5a ie w _1 o _1 k e _1 
+tuyến_34-4 hyp <eps> <eps> k <eps> n <eps> _4d a N _6a ie w <eps> <eps> _1 k i _2 
+tuyến_34-4 op D D C D C D S C C S C C D D C C S S 
+tuyến_34-4 #csid 8 4 0 6
+tuyến_35-4 ref ie w _1 7_X n _1 k uo N _2 f O_X Nm _1 
+tuyến_35-4 hyp <eps> <eps> <eps> <eps> <eps> <eps> k <eps> u _1 f O_X Nm _1 
+tuyến_35-4 op D D D D D D C D S S C C C C 
+tuyến_35-4 #csid 5 2 0 7
+tuyến_36-4 ref 7_X w _5a k O n _1 k a m _3 7 n _1 b a k _5b v O j _1 
+tuyến_36-4 hyp <eps> <eps> <eps> k <eps> 7_X Nm k a m _2 7 n _1 b a k _5b v O j _1 
+tuyến_36-4 op D D D C D S S C C C S C C C C C C C C C C C 
+tuyến_36-4 #csid 15 3 0 4
+tuyến_37-4 ref r a _1 v M7 n _2 h a j _5a t a w _5a 
+tuyến_37-4 hyp <eps> <eps> <eps> v <eps> <eps> 7 h a j <eps> <eps> <eps> <eps> _2t 
+tuyến_37-4 op D D D C D D S C C C D D D D S 
+tuyến_37-4 #csid 4 2 0 9
+tuyến_38-4 ref <eps> G 7_X w _5a k O n _1 b M N _1 t a w <eps> _5a d u t _5b ts_ O _1 b o _5a m E _6a 
+tuyến_38-4 hyp _2 G 7_X <eps> _1 k <eps> 7_X _1 b 7_X N _1 t a w _1 _5a <eps> <eps> <eps> <eps> ts_ O _1 b o _5a <eps> <eps> <eps> 
+tuyến_38-4 op I C C D S C D S C C S C C C C C I C D D D D C C C C C C D D D 
+tuyến_38-4 #csid 17 3 2 9
+tuyến_39-4 ref E m _1 b E _5a d a N _1 n a_X m _2 N u _3 
+tuyến_39-4 hyp <eps> <eps> Em _1v E _6a d <eps> N _1 l a m _2 <eps> m uo 
+tuyến_39-4 op D D S S C S C D C C S S C C D S S 
+tuyến_39-4 #csid 6 7 0 4
+tuyến_4-1 ref k O _5a t ie N _5a d o Nm _6a dZ i _2 l a _6a l a_X m _5a 
+tuyến_4-1 hyp k O _5a t ie N _5a d o Nm _6a dZ i _2 l a _6a l a_X m _5a 
+tuyến_4-1 op C C C C C C C C C C C C C C C C C C C C C 
+tuyến_4-1 #csid 21 0 0 0
+tuyến_40-5 ref u _6a m E _6a l a _2 N M7 j _2 f u _6a n M _4 h ie n _2 z i w _6a 
+tuyến_40-5 hyp <eps> <eps> m E _6a l <eps> _2 N M7 j _2 <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> l o _1 ts_dZ a 
+tuyến_40-5 op D D C C C C D C C C C C D D D D D D D D D S S S S S 
+tuyến_40-5 #csid 9 5 0 12
+tuyến_42-5 ref M _2 M m _2 d i _1 ts_ 7 j _1 tS 7 j _2 m M7 _1 
+tuyến_42-5 hyp <eps> <eps> <eps> <eps> i d i _1 ts_ 7 <eps> _2 tS 7 j _2 m M7 _1 
+tuyến_42-5 op D D D D S C C C C C D S C C C C C C C 
+tuyến_42-5 #csid 12 2 0 5
+tuyến_43-5 ref b E_X J _5a k wp i _1 x o Nm _1 N O n _1 
+tuyến_43-5 hyp <eps> E_X J <eps> _5ak wp i _5a x o Nm <eps> _5a o n _2 
+tuyến_43-5 op D C C D S C C S C C C D S S C S 
+tuyến_43-5 #csid 8 5 0 3
+tuyến_44-5 ref b a k _5b S i _4 d a N _1 x a m _5a b e J _6a 
+tuyến_44-5 hyp b a k <eps> <eps> _5bs E _2 k N _2 h a <eps> _2 v 7 j _2 
+tuyến_44-5 op C C C D D S S S S C S S C D S S S S S 
+tuyến_44-5 #csid 5 11 0 3
+tuyến_45-5 ref b a n _6a d a N _1 l <eps> a_X w _1 S a n _2 J a _2 
+tuyến_45-5 hyp <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> l 7 _1l w _1 s a j _2 J a _2 
+tuyến_45-5 op D D D D D D D D C I S C C S C S C C C C 
+tuyến_45-5 #csid 8 3 1 8
+tuyến_48-5 ref k 7_X j _1 l ie w _4 x o Nm _1 N M N _2 M m _2 l a_X k _5b l M _1 
+tuyến_48-5 hyp k a_X j _1 l ie <eps> _4 x o Nm _1 <eps> <eps> l _2 M <eps> _2 l a_X k _5b l 7 _1 
+tuyến_48-5 op C S C C C C D C C C C C D D S C C D C C C C C C S C 
+tuyến_48-5 #csid 19 3 0 4
+tuyến_49-5 ref E_X J _2 l ie w _4 b ie t _5b b a_X j _1 
+tuyến_49-5 hyp <eps> J <eps> <eps> <eps> <eps> <eps> _4b ie t _5b b <eps> <eps> <eps> 
+tuyến_49-5 op D C D D D D D S C C C C D D D 
+tuyến_49-5 #csid 5 1 0 9
+tuyến_5-1 ref k 7_X j _1 s 7_X w _5a h o _3 h E _5a m a_X t _5b J i n _2 
+tuyến_5-1 hyp k 7_X t _5a s 7_X w _5a k o _3 <eps> E <eps> <eps> 7 t _5b <eps> m E _1 
+tuyến_5-1 op C C S S C C C C S C C D C D D S C C D S S S 
+tuyến_5-1 #csid 11 7 0 4
+tuyến_50-5 ref h o m _1 n a_X j _1 tS 7 j _2 l E_X J _6a k wp a _5a 
+tuyến_50-5 hyp <eps> <eps> <eps> <eps> <eps> <eps> <eps> 7 tS 7 <eps> <eps> <eps> E_X j v _5a v a _5a 
+tuyến_50-5 op D D D D D D D S C C D D D C S S S S C C 
+tuyến_50-5 #csid 5 5 0 10
+tuyến_51-5 ref l a m _2 dZ i _2 k u Nm _4 x E w _5a l E w _5a 
+tuyến_51-5 hyp <eps> <eps> <eps> <eps> G i <eps> <eps> u <eps> <eps> <eps> E w <eps> l E w _1 
+tuyến_51-5 op D D D D S C D D C D D D C C D C C C S 
+tuyến_51-5 #csid 7 2 0 10
+tuyến_52-6 ref m E _6a t e t _5b t O_X kp _5b ts_ O _1 E m _1 
+tuyến_52-6 hyp mEt E <eps> <eps> <eps> t _5b t O_X kp _5b ts_ O _1 E m _1 
+tuyến_52-6 op S C D D D C C C C C C C C C C C C 
+tuyến_52-6 #csid 13 1 0 3
+tuyến_53-6 ref N M7 _6a f i <eps> _1 J E_X J _1 J M _1 b a_X j _1 
+tuyến_53-6 hyp <eps> <eps> <eps> l i J _1 J E_X J _1 J M _1 b a_X j _1 
+tuyến_53-6 op D D D S C I C C C C C C C C C C C C 
+tuyến_53-6 #csid 13 1 1 3
+tuyến_54-6 ref N wp a n _1 s E _4 d M7 k _6b t_h <eps> M7 N _3 
+tuyến_54-6 hyp <eps> <eps> <eps> <eps> <eps> S E _6a d M7 k _6b t_h O _2 7 _6a 
+tuyến_54-6 op D D D D D S C S C C C C C I S S S 
+tuyến_54-6 #csid 6 5 1 5
+tuyến_56-6 ref b 7_X w _2 tS 7 j _2 s E_X J _1 t_h a_X m _1 t_h a_X m _3 
+tuyến_56-6 hyp <eps> <eps> ts_ 7 _1 v a _1 s e J _1 t_h a_X m _1 t_h a w _1 
+tuyến_56-6 op D D S S S S S S C S C C C C C C C S S S 
+tuyến_56-6 #csid 8 10 0 2
+tuyến_57-6 ref t o j _1 d M7 _1 m E_X J _3 dZ 7_X j _5a ts_ O _1 N M7 j _2 m E _6a 
+tuyến_57-6 hyp t o j _1 d M7 _1 m E_X k _2 z a_X j _6a ts_ O _1 N M7 j _2 m E _6a 
+tuyến_57-6 op C C C C C C C C C S S S S C S C C C C C C C C C C 
+tuyến_57-6 #csid 20 5 0 0
+tuyến_58-6 ref o Nm _1 s E m _1 v a _2 k a_X w _1 m a_X j _2 
+tuyến_58-6 hyp E_X n _1 s E m _1 v a _2 k 7_X w _1 n a_X j _2 
+tuyến_58-6 op S S C C C C C C C C C S C C S C C C 
+tuyến_58-6 #csid 14 4 0 0
+tuyến_59-6 ref E_X J _1 G a _2 tS o Nm _5a b a_X j _1 l e n _1 
+tuyến_59-6 hyp E_X J <eps> _1G a _2 tS O_X Nm _1 b a_X j _1 l e n _1 
+tuyến_59-6 op C C D S C C C S C S C C C C C C C C 
+tuyến_59-6 #csid 14 3 0 1
+tuyến_6-1 ref m E _6a m 7 j _5a m uo _1 o _1 t o _1 
+tuyến_6-1 hyp m E <eps> _5am 7 n _5a m o _5a o _1 t o _1 
+tuyến_6-1 op C C D S C S C C S S C C C C C 
+tuyến_6-1 #csid 10 4 0 1
+tuyến_60-6 ref b E _5a d M7 _1 m a_X t _5b J i n _2 k wp E_X J _1 
+tuyến_60-6 hyp b E _5a d M7 _5a m a_X <eps> _5b J i n _2 <eps> <eps> <eps> a _3 
+tuyến_60-6 op C C C C C S C C D C C C C C D D D S S 
+tuyến_60-6 #csid 12 3 0 4
+tuyến_63-6 ref t_h O _3 r 7_X t _5b <eps> ie w _1 k wp e _1 h M7 N _1 m i J _2 
+tuyến_63-6 hyp <eps> <eps> a w_2z a_X t _5b v ie w _1 k wp e _1 v M7 N _1 m a N _2_2 
+tuyến_63-6 op D D S S S C C I C C C C C C C S C C C C S S S 
+tuyến_63-6 #csid 13 7 1 2
+tuyến_64-6 ref k 7 n _1 m M7 _1 r a w _2 k E w _5a d e n _5a 
+tuyến_64-6 hyp <eps> <eps> <eps> _1 <eps> z a h O_X kp _2 k E w _2 d e n _5a 
+tuyến_64-6 op D D D C D S S S S S C C C C S C C C C 
+tuyến_64-6 #csid 9 6 0 4
+tuyến_69-7 ref 7_X j _1 o j _5a u m _1 t u m _2 
+tuyến_69-7 hyp <eps> j <eps> o <eps> <eps> <eps> m _1 t u m _2 
+tuyến_69-7 op D C D C D D D C C C C C C 
+tuyến_69-7 #csid 8 0 0 5
+tuyến_7-1 ref d a N _1 a_X n _1 k 7 m _1 
+tuyến_7-1 hyp Ed a N _1 a n _1 k 7 <eps> _1 
+tuyến_7-1 op S C C C S C C C C D C 
+tuyến_7-1 #csid 8 2 0 1
+tuyến_70-7 ref O_X Nm _1 ts_ uo _5a b a_X j _1 v e _2 t <eps> <eps> <eps> o _3 
+tuyến_70-7 hyp <eps> <eps> oNm _1r uo _4 b a_X j _1 v i _2 t O _3 k o _3 
+tuyến_70-7 op D D S S C S C C C C C S C C I I I C C 
+tuyến_70-7 #csid 10 4 3 2
+tuyến_71-7 ref k wp e <eps> _1 h M7 N _1 n a _2 ts_ u m _2 x e _5a N O t _6b 
+tuyến_71-7 hyp k wp e j _1 h M7 N _2 l a _2 ts_ u Nm _2 k E _2 N O <eps> _2 
+tuyến_71-7 op C C C I C C C C S S C C C C S C S S S C C D S 
+tuyến_71-7 #csid 14 7 1 1
+tuyến_72-7 ref ts_ 7 j _2 m uo _2 t_h u _1 m a t _5b m E _3 
+tuyến_72-7 hyp t_h 7_X j <eps> <eps> _1m o _1 t _5a m 7_X t _5b m E _1 
+tuyến_72-7 op S S C D D S S S S S C S C C C C S 
+tuyến_72-7 #csid 6 9 0 2
+tuyến_75-7 ref E m _1 b E _5a d a N _1 N wp a n _1 N wp a n _4 a_X n _1 k 7 m _1 
+tuyến_75-7 hyp E m _1 b E _5a r a_X N _1 N wp <eps> n _2 N wp a n _6a a_X n _1 k 7 m _1 
+tuyến_75-7 op C C C C C C S S C C C C D C S C C C C S C C C C C C C 
+tuyến_75-7 #csid 22 4 0 1
+tuyến_76-7 ref m 7 j _2 t a N _5a t i J _1 m 7 _1 
+tuyến_76-7 hyp m 7 j _5a S a_X N _5a <eps> x J _5a m 7 _1 
+tuyến_76-7 op C C C S S S C C D S C S C C C 
+tuyến_76-7 #csid 9 5 0 1
+tuyến_78-7 ref b a n _3 J O _3 ts_ a _3 z ie w _2 tS e n _1 k E_X J _5a d o Nm _2 
+tuyến_78-7 hyp <eps> <eps> <eps> <eps> J O _3 ts_ a <eps> <eps> _2 dZ _1 l M N _1 k E_X J _5a d o Nm _1 
+tuyến_78-7 op D D D D C C C C C D D S S S S S S C C C C C C C C S 
+tuyến_78-7 #csid 13 7 0 6
+tuyến_79-8 ref E m _1 h O n _1 d a N _1 b a_X j _1 k wp a _1 S o Nm _1 
+tuyến_79-8 hyp <eps> <eps> <eps> k O n _5a d o N _5a b a_X j _5a k wp a _1 S o N _1 
+tuyến_79-8 op D D D S C C S C S C S C C C S C C C C C C S C 
+tuyến_79-8 #csid 14 6 0 3
+tuyến_8-1 ref b a n _6a h a_X N _2 t i J _5a k E_X k _5b r 7_X t _5b v u j _1 v E _3 
+tuyến_8-1 hyp b a <eps> <eps> _2t_h a_X N _6a t ie n _6a k a j _5a v e t _5b v u j _1 v E _6a 
+tuyến_8-1 op C C D D S C C S C S S S C S S S S S C C C C C C C C S 
+tuyến_8-1 #csid 14 11 0 2
+tuyến_81-8 ref m o t _6b ts_ ie k _5b l M7 k _6b r 7_X t _5b d E p _6b 
+tuyến_81-8 hyp <eps> mo t <eps> _6bts_ ie k _5b v M7 t _2 r 7_X t _5b d E p _6b 
+tuyến_81-8 op D S C D S C C C S C S S C C C C C C C C 
+tuyến_81-8 #csid 13 5 0 2
+tuyến_83-8 ref k a k _5b b a n _6a k O _5a k wp E n _1 z e _5a m E n _2 x o Nm _1 
+tuyến_83-8 hyp <eps> <eps> <eps> <eps> kb a <eps> n_6a k O _5a k wp E n _5a dZ E _5a m E n _5a x o Nm _5b 
+tuyến_83-8 op D D D D S C D S C C C C C C C S S S C C C C S C C C S 
+tuyến_83-8 #csid 15 7 0 5
+tuyến_85-8 ref t o j _1 tS 7 _3 v e _2 k wp e _1 h M7 N _1 
+tuyến_85-8 hyp t o j _1 tS 7 _3 v e _2 k wp e _1 h M7 N _1 
+tuyến_85-8 op C C C C C C C C C C C C C C C C C C 
+tuyến_85-8 #csid 18 0 0 0
+tuyến_87-8 ref t o j _1 d e n _5a t_h a_X m _1 E_X J _1 t o j _1 
+tuyến_87-8 hyp <eps> _1d E _1 <eps> <eps> <eps> <eps> t_h a m _5a 7 n _1 t o j _1 
+tuyến_87-8 op D S S C D D D D C S C S S S C C C C C 
+tuyến_87-8 #csid 8 6 0 5
+tuyến_88-8 ref E m _1 ie w _1 N o j _1 J a _2 k uo _3 E m _1 
+tuyến_88-8 hyp <eps> <eps> <eps> Emie w _1 N o j _1 J a _2 <eps> uo _6a E m _1 
+tuyến_88-8 op D D D S C C C C C C C C C D C S C C C 
+tuyến_88-8 #csid 13 2 0 4
+tuyến_9-1 ref k O _5a m u j _2 t_h 7 m _1 r 7_X t _5b t_h 7 m _1 
+tuyến_9-1 hyp k O <eps> _5ab u j _2 z a_X w _1 z a t _5b t_h 7 m _1 
+tuyến_9-1 op C C D S C C C S S S C S S C C C C C C 
+tuyến_9-1 #csid 12 6 0 1
+tuyến_90-10 ref m o _2 h E _2 d e n _5a r o j _2 
+tuyến_90-10 hyp m o _2 h E _2 t E n _5a r o j _2 
+tuyến_90-10 op C C C C C C S S C C C C C C 
+tuyến_90-10 #csid 12 2 0 0
+tuyến_91-8 ref o Nm _1 7 j _1 o Nm _1 k O _5a x wp E _3 x o Nm _1 
+tuyến_91-8 hyp <eps> Nm <eps> _17 j _1 o Nm _5a k o _5a x wp E _2 x o Nm _1 
+tuyến_91-8 op D C D S C C C C S C S C C C C S C C C C 
+tuyến_91-8 #csid 14 4 0 2
+tuyến_92-8 ref l u kp _5b d O _5a tS 7 j _2 d o _3 m M7 _1 
+tuyến_92-8 hyp <eps> m M k _5ad O _5a <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> 
+tuyến_92-8 op D S S S S C C D D D D D D D D D D 
+tuyến_92-8 #csid 2 4 0 11
+tuyến_93-8 ref b o _5a m E _6a dZ u p _5b k O n _1 ts_ wp 7_X n _3 b i _6a J E _5a 
+tuyến_93-8 hyp b o <eps> _5am E _1 dZ u p <eps> _1 7 n _1 ts_ <eps> o n _2 b ie t_5b J E _5a 
+tuyến_93-8 op C C D S C S C C C D S S C C C D S C S C S S C C C 
+tuyến_93-8 #csid 14 8 0 3
+tú_101_8 ref r 7_X t _5b t_h i k _5b h wp a _1 h o Nm _2 
+tú_101_8 hyp ts_ M Nm _1 t i k _1 x wp a _1 h o Nm _2 
+tú_101_8 op S S S S S C C S S C C C C C C C 
+tú_101_8 #csid 9 7 0 0
+tú_104_8 ref E m _1 v E <eps> _4 m o t _6b k o _1 t ie n _1 
+tú_104_8 hyp E <eps> n N E t _1 m <eps> uo _1 k 7_X _1 t ie n _1 
+tú_104_8 op C D S S C I S C D S S C S C C C C C 
+tú_104_8 #csid 9 6 1 2
+tú_105_8 ref b o _5a m E _6a ts_ O _1 b E _5a v e _2 k wp e _1 
+tú_105_8 hyp b o _5a m E _5a ts_ O _1 b E _5a v e _2 k wp e _1 
+tú_105_8 op C C C C C S C C C C C C C C C C C C C 
+tú_105_8 #csid 18 1 0 0
+tú_107_6 ref b E _5a r 7_X t _5b J 7 _5a b a j _2 
+tú_107_6 hyp G a _5a dZ 7_X t _5b m 7 _5a b a j _5a 
+tú_107_6 op S S C S C C C S C C C C C S 
+tú_107_6 #csid 9 5 0 0
+tú_108_6 ref t_h 7_X t _6b l a _2 t wp ie t _6b 
+tú_108_6 hyp t_h E_X n _1 l a _1 t <eps> <eps> E E 
+tú_108_6 op C S S S C C S C D D S S 
+tú_108_6 #csid 4 6 0 2
+tú_109_6 ref k E_X J _5a h wp a _1 J O _3 J M _1 v a_X j _3 k a _5a 
+tú_109_6 hyp k E_X J _5a <eps> dZ uo _1 J O _2 J M _1 v 7_X j _3 k a _5a 
+tú_109_6 op C C C C D S S C C C S C C C C S C C C C C 
+tú_109_6 #csid 16 4 0 1
+tú_110_6 ref tS 7 j _2 d a N _1 r 7_X t _5b l E_X J _6a 
+tú_110_6 hyp tS M7 j _2 d a N _1 dZ a t _5b l E_X j _6a 
+tú_110_6 op C S C C C C C C S S C C C C S C 
+tú_110_6 #csid 12 4 0 0
+tú_112_6 ref k O n _1 ts_ i m _1 S 7 n _1 z a N _1 <eps> <eps> <eps> <eps> k 7_X t _5b t ie N _5a h O t _5b 
+tú_112_6 hyp t o n _1 s i n _1 s E n _1 <eps> s E _1 m o t _5b k E_X k _5b t ie n _5a h O t _1_5b 
+tú_112_6 op S S C C S C S C S S C C D S S C I I I I C S S C C C S C C C C S 
+tú_112_6 #csid 15 12 4 1
+tú_116_6 ref m 7_X j _5a k O n _1 N M7 _6a d a N _1 a_X n _1 k O _3 
+tú_116_6 hyp m 7_X j _5a k O n _1 N M _6a d a N _1 a_X n _1 k O _5a 
+tú_116_6 op C C C C C C C C C S C C C C C C C C C C S 
+tú_116_6 #csid 19 2 0 0
+tú_118_6 ref d M7 _5a tS E _3 ts_ i _3 m 7 j _5a S a_X w <eps> <eps> _5a t uo j _3 
+tú_118_6 hyp d M7 _5a tS E _2 tS i _5a m <eps> u _2 S a_X w _2 tS u _2 7_X j _3 
+tú_118_6 op C C C C C S S C S C D S S C C C I I S S S C C 
+tú_118_6 #csid 12 8 2 1
+tú_119_6 ref m a_X t _6b d E p _6b S a N _5a N 7 j _2 
+tú_119_6 hyp m a_X t _6b t ie t _6b s a N <eps> N 7 j <eps> 
+tú_119_6 op C C C C S S S C S C C D C C C D 
+tú_119_6 #csid 10 4 0 2
+tú_11_2 ref k o _1 dZ a w _5a m i m _3 k M7 j _2 t_h 7_X t _6b t M7 j _1 
+tú_11_2 hyp k <eps> <eps> dZ 7_X w _6a m i n _2 k M7 j _2 t 7_X t _6b t uo j _2 
+tú_11_2 op C D D C S C S C C S S C C C C S C C C C S C S 
+tú_11_2 #csid 14 7 0 2
+tú_121_5 ref s E _1 k 7_X p _5b k i w _5a 
+tú_121_5 hyp s E <eps> k 7_X p _5b k M w _1 
+tú_121_5 op C C D C C C C C S C S 
+tú_121_5 #csid 8 2 0 1
+tú_122_5 ref E m _1 dZ M _4 dZ i n _2 b <eps> u t _5b k 7_X n _3 t_h 7_X n _6a 
+tú_122_5 hyp E m _1 dZ <eps> _6b dZ i J _2 b o b o _5b k a m _3 t_h 7_X t _6a 
+tú_122_5 op C C C C D S C C S C C I S S C C S S C C C S C 
+tú_122_5 #csid 14 7 1 1
+tú_123_5 ref k o _1 dZ a w _5a t_h 7_X t _6b G 7_X n _2 G u j _4 
+tú_123_5 hyp k o _1 l a w _1 t_h 7_X t _6b G 7_X n _2 G u j _1 
+tú_123_5 op C C C S C C S C C C C C C C C C C C S 
+tú_123_5 #csid 16 3 0 0
+tú_124_5 ref dZ O _5a m uo _2 d o Nm _1 b a_X k _5b tS a n _2 v e _2 
+tú_124_5 hyp G O _5a b uo _1 d o Nm _1 b a_X k _5b ts_ E_X J _1 v e _2 
+tú_124_5 op S C C S C S C C C C C C C C S S S S C C C 
+tú_124_5 #csid 14 7 0 0
+tú_125_5 ref N a_X j _2 k uo j _5a t_h a N _5a n a_X m _1 
+tú_125_5 hyp N a_X j _2 k uo j _5a t_h E_X N _5a N a_X m _1 
+tú_125_5 op C C C C C C C C C S C C S C C C 
+tú_125_5 #csid 14 2 0 0
+tú_128_5 ref <eps> M7 k _5b m 7 _1 k a w _1 d E p _6b 
+tú_128_5 hyp k M7 k _5b m M7 _1 k a w _2 d E p _6b 
+tú_128_5 op I C C C C S C C C C S C C C C 
+tú_128_5 #csid 12 2 1 0
+tú_12_2 ref E_X J _1 k a_X p _6b S E_X k _5b k O _5a m a_X w _2 s E_X J _1 r 7_X t _5b d E p _6b 
+tú_12_2 hyp E_X J _1 k 7_X p _6b S E_X k _5b k O _1 m a_X w _2 s E_X J _5a r 7_X t _5b d E p _6b 
+tú_12_2 op C C C C S C C C C C C C C S C C C C C C C S C C C C C C C C 
+tú_12_2 #csid 27 3 0 0
+tú_130_5 ref k O n _1 G 7_X w _5a b o Nm _1 d E p _6b k wp a _5a 
+tú_130_5 hyp k O n _1 <eps> t 7 _5a b o Nm _1 d E p _6b k wp a _5a 
+tú_130_5 op C C C C D S S C C C C C C C C C C C C C 
+tú_130_5 #csid 17 2 0 1
+tú_132_5 ref b a _2 m uo _1 k a m _1 ts_ O _1 b E _5a 
+tú_132_5 hyp b a _2 m M7 _1 k a m _1 ts_ O _1 b E _1 
+tú_132_5 op C C C C S C C C C C C C C C C S 
+tú_132_5 #csid 14 2 0 0
+tú_133_12 ref n a_X m _1 m 7 j _5a 
+tú_133_12 hyp n a_X m _1 m 7 j _1 
+tú_133_12 op C C C C C C C S 
+tú_133_12 #csid 7 1 0 0
+tú_137_12 ref <eps> b E _5a d i _1 ts_ 7 _6a 
+tú_137_12 hyp t _1b E _1 d i _1 ts_ 7 _1 
+tú_137_12 op I S C S C C C C C S 
+tú_137_12 #csid 6 3 1 0
+tú_141_4 ref <eps> <eps> <eps> <eps> b a_X t _5b <eps> ie w _1 t i J _1 
+tú_141_4 hyp h 7_X t M b a_X t _5b d ie w _2 t i J _1 
+tú_141_4 op I I I I C C C C I C C S C C C C 
+tú_141_4 #csid 10 1 5 0
+tú_142_4 ref v M7 n _2 tS M7 _1 v O _3 m a t _5b 
+tú_142_4 hyp v M7 n _2 tS M7 _2 v O _5a m a t _5b 
+tú_142_4 op C C C C C C S C C S C C C C 
+tú_142_4 #csid 12 2 0 0
+tú_144_4 ref E m _1 r 7_X t _5b k wp i _5a m e n _5a k o _1 
+tú_144_4 hyp E <eps> n v 7_X t _5b k <eps> i _2 m e <eps> _1 k o _1 
+tú_144_4 op C D S S C C C C D C S C C D S C C C 
+tú_144_4 #csid 11 4 0 3
+tú_145_4 ref b E <eps> _5a t 7_X p _6b v ie t _5b 
+tú_145_4 hyp b E j _5a t 7_X p _6b v ie t _5a 
+tú_145_4 op C C I C C C C C C C C S 
+tú_145_4 #csid 10 1 1 0
+tú_146_4 ref k O n _1 k a _5a v a <eps> _2 k i _2 n O _1 
+tú_146_4 hyp S O n _1 k a _5a r a w _2 t M _2 n 7 _1 
+tú_146_4 op S C C C C C C S C I C S S C C S C 
+tú_146_4 #csid 11 5 1 0
+tú_147_4 ref m o _2 t o Nm _1 l E_X J _6a k wp a _5a 
+tú_147_4 hyp m u _5a t u Nm _1 l E_X J _6a k wp a _5a 
+tú_147_4 op C S S C S C C C C C C C C C C 
+tú_147_4 #csid 12 3 0 0
+tú_148_4 ref J M N _5a k a_X n _1 J a <eps> _2 G o _5a t_h i J _1 t_h a_X n _5a 
+tú_148_4 hyp J M N _4 k <eps> n _1 N a w _2 G o _4 t i J _1 k a_X n _5a 
+tú_148_4 op C C C S C D C C S C I C C C S S C C C S C C C 
+tú_148_4 #csid 16 5 1 1
+tú_149_4 ref J M N _5a d a m _5a m 7_X j _1 m a_X w _2 h o Nm _2 
+tú_149_4 hyp J M J _2 d a m _5a m 7_X t _1 m a_X w _2 h o Nm _2 
+tú_149_4 op C C S S C C C C C C S C C C C C C C C C 
+tú_149_4 #csid 17 3 0 0
+tú_14_2 ref t o j _1 l a _2 k a _1 S i _5a n o j _3 t ie N _5a 
+tú_14_2 hyp t o j _1 l a _2 k a _1 S i _1 n o j _3 t ie N _5a 
+tú_14_2 op C C C C C C C C C C C C S C C C C C C C C 
+tú_14_2 #csid 20 1 0 0
+tú_150_4 ref o Nm _1 E m _1 tS o Nm _2 k 7_X j _1 t_h wp a j _2 tS M7 k _5b S 7_X n _1 
+tú_150_4 hyp o Nm _1 E n _1 t M Nm _1 k 7_X j _1 <eps> <eps> k E t tS M7 k <eps> <eps> _1 t _1 
+tú_150_4 op C C C C S C S S C S C C C C D D S S S C C C D D S S C 
+tú_150_4 #csid 14 9 0 4
+tú_16_2 ref o Nm _1 t_h 7_X t _6b l a <eps> _2 ts_ a_X m _1 ts_ i _3 
+tú_16_2 hyp O_X Nm _1 t_h 7_X t _5b v a w _2 ts_ O_X Nm _1 ts_ i _2 
+tú_16_2 op S C C C C C S S C I C C S S C C C S 
+tú_16_2 #csid 11 6 1 0
+tú_17_2 ref h wp a _1 S E n _1 k O _5a m u j _2 r 7_X t _5b t_h 7 m _1 
+tú_17_2 hyp h <eps> a _1 s E n _1 k <eps> _5a m <eps> <eps> o r 7_X t _5b t_h M7 N _1 
+tú_17_2 op C D C C S C C C C D C C D D S C C C C C S S C 
+tú_17_2 #csid 15 4 0 4
+tú_18_2 ref k a j _5a t_h u _3 l <eps> 7 n _6a n a_X j _2 z u Nm _2 l a m _2 dZ i _2 
+tú_18_2 hyp G a j <eps> t u _5a l wp a n <eps> _2 l a _2 <eps> o Nm _1 l <eps> n _2 dZ i _2 
+tú_18_2 op S C C D S C S C I S C D S S S C D S C S C D S C C C C 
+tú_18_2 #csid 12 10 1 4
+tú_19_2 ref b e <eps> _1 S ie w _1 J 7_X n _1 G 7_X w _5a b o Nm _1 
+tú_19_2 hyp b e j _1 <eps> <eps> <eps> si n a_X n _1 <eps> Ga w <eps> b o Nm _1 
+tú_19_2 op C C I C D D D S S S C C D S C D C C C C 
+tú_19_2 #csid 10 4 1 5
+tú_20_2 ref <eps> <eps> <eps> n o j _2 d e _3 m E _6a n 7_X w _5a k E_X J _1 
+tú_20_2 hyp a a _1 n o <eps> _5a d <eps> _3 m E <eps> _2 n7_X w _5a k a_X j _1 
+tú_20_2 op I I I C C D S C D C C C D S S C C C S S C 
+tú_20_2 #csid 10 5 3 3
+tú_21_3 ref d i _1 ts_ 7_X m _6a J M _1 r uo _2 7_X j _5a 
+tú_21_3 hyp d i _1 ts_ 7_X Nm _6a <eps> l _1 r uo _2 a j _5a 
+tú_21_3 op C C C C C S C D S C C C C S C C 
+tú_21_3 #csid 12 3 0 1
+tú_22_3 ref k 7_X p _6b d 7_X w _2 t ie n _1 k uo _3 G 7_X w _5a k O n _1 
+tú_22_3 hyp k a_X p _6b d 7_X w _5a t ie n _1 k uo _3 k 7_X w _6a k O n _1 
+tú_22_3 op C S C C C C C S C C C C C C C S C C S C C C C 
+tú_22_3 #csid 19 4 0 0
+tú_23_3 ref n a_X j _1 l a _2 t_h M _5a S a_X w _5a 
+tú_23_3 hyp d 7_X j _1 l a _2 t_h M _5a S a w _5a 
+tú_23_3 op S S C C C C C C C C C S C C 
+tú_23_3 #csid 11 3 0 0
+tú_24_3 ref t_h M k _5b z 7_X j _6a t M _2 S a_X w _5a dZ 7 _2 
+tú_24_3 hyp N M p _5b z 7_X j _2 t M _2 S a_X w _5a dZ 7 _2 
+tú_24_3 op S C S C C C C S C C C C C C C C C C 
+tú_24_3 #csid 15 3 0 0
+tú_25_3 ref b uo j _3 tS M7 _1 E m _1 a_X n _1 k 7 m _1 7 _3 tS M7 N _2 
+tú_25_3 hyp b <eps> <eps> O tS M7 <eps> E <eps> n e j _1 k <eps> 7_X _1 7 _2 tS M7 N _1 
+tú_25_3 op C D D S C C D C D S S S C C D S C C S C C C S 
+tú_25_3 #csid 11 7 0 5
+tú_27_3 ref <eps> <eps> <eps> x wp a _1 l uo _5a t_h 7 m _1 k wp a _5a 
+tú_27_3 hyp h M N _2x wp a _1 l uo _5a t_h 7 m _1 k wp a _5a 
+tú_27_3 op I I I S C C C C C C C C C C C C C C 
+tú_27_3 #csid 14 1 3 0
+tú_29_3 ref m o t _6b ts_ ie k _5b l a _5a r 7 j _1 
+tú_29_3 hyp <eps> mo t _6b ts_ ie k _5b l a _5a z 7 j _1 
+tú_29_3 op D S C C C C C C C C C S C C C 
+tú_29_3 #csid 12 2 0 1
+tú_30_3 ref <eps> i m _1 S 7_X w _1 J ie w _2 t_h e _5a 
+tú_30_3 hyp n a_X Nm _1 S a_X w <eps> l e w <eps> t_h e _1 
+tú_30_3 op I S S C C S C D S S C D C C S 
+tú_30_3 #csid 6 6 1 2
+tú_31_1 ref k a _5a x <eps> o Nm _1 a_X n _1 m uo j _5a k a _5a M7 n _1 
+tú_31_1 hyp k a _5a x M N _5a v a_X n _1 m 7 j _5a k a _5a M7 <eps> _1 
+tú_31_1 op C C C C I S S S C C C C S C C C C C C D C 
+tú_31_1 #csid 15 4 1 1
+tú_33_1 ref b a _2 k O _5a x wp E _3 x o Nm _1 a _6a 
+tú_33_1 hyp b a _2 k O _5a x wp E _2 x o Nm _1 a _6a 
+tú_33_1 op C C C C C C C C C S C C C C C C 
+tú_33_1 #csid 15 1 0 0
+tú_35_1 ref J 7_X n _1 k uo N _2 f O_X Nm _1 
+tú_35_1 hyp J a n _1 k uo Nm _1 f O Nm _2 
+tú_35_1 op C S C C C C S S C S C S 
+tú_35_1 #csid 7 5 0 0
+tú_36_1 ref k O n _1 k a m _3 7 n _1 b a k _5b v O j _1 
+tú_36_1 hyp k O n _1 k a m _3 7 n _1 b a k _5b r O j _1 
+tú_36_1 op C C C C C C C C C C C C C C C S C C C 
+tú_36_1 #csid 18 1 0 0
+tú_37_1 ref h u Nm _2 b ie n _3 k a _3 
+tú_37_1 hyp <eps> u Nm _1 b ie t _3 k a _3 
+tú_37_1 op D C C S C C S C C C C 
+tú_37_1 #csid 8 2 0 1
+tú_37_12 ref E_X J _1 h u Nm _2 b ie n _3 k a _3 
+tú_37_12 hyp E_X <eps> n m i J _2 <eps> <eps> <eps> <eps> k a _2 
+tú_37_12 op C D S S S S C D D D D C C S 
+tú_37_12 #csid 4 5 0 5
+tú_38_1 ref t a _1 v M7 n _2 h a j _5a t a w _5a 
+tú_38_1 hyp t a _1 v M7 n _2 h a j _2 t a w _5a 
+tú_38_1 op C C C C C C C C C C S C C C C 
+tú_38_1 #csid 14 1 0 0
+tú_38_12 ref r a _1 v M7 n _2 <eps> h a j _5a t a w _5a 
+tú_38_12 hyp n a <eps> <eps> <eps> Nm _2 vu h a j <eps> t a m _1 
+tú_38_12 op S C D D D S C I C C C D C C S S 
+tú_38_12 #csid 7 4 1 4
+tú_39_1 ref k O n _1 m M N _1 t a w _5a m 7 j _2 b o _5a m E _6a 
+tú_39_1 hyp k O n _1 m M N _1 t a w _5a m M7 j _5a b o _5a m E _6a 
+tú_39_1 op C C C C C C C C C C C C C S C S C C C C C C 
+tú_39_1 #csid 20 2 0 0
+tú_40_1 ref l a _2 N M7 j _2 f u _6a n M _4 h ie n _2 z i w _6a 
+tú_40_1 hyp l a _2 N M7 j _2 f u _6a n M7 _4_1 h E n _2 <eps> <eps> s _6a 
+tú_40_1 op C C C C C C C C C C C S S C S C C D D S C 
+tú_40_1 #csid 15 4 0 2
+tú_41_12 ref E m _1 b E _5a d a N _1 n a_X m _2 N u _3 
+tú_41_12 hyp E m _1 b E _5a d <eps> N <eps> <eps> <eps> m _2 <eps> <eps> <eps> 
+tú_41_12 op C C C C C C C D C D D D C C D D D 
+tú_41_12 #csid 10 0 0 7
+tú_44_11 ref b a k _5b S i _5a d a N _1 x a m _5a b e J _6a 
+tú_44_11 hyp b <eps> <eps> a_X t _2 k M dZ E_X n h a m _5a b a J _6a 
+tú_44_11 op C D D S S S S S S S S S C C C C S C C 
+tú_44_11 #csid 7 10 0 2
+tú_46_11 ref h o n _1 tS e n _1 b a n _2 t a_X j _1 
+tú_46_11 hyp x o Nm _1 <eps> t_h n <eps> _5b ma k _5b t a j _1 
+tú_46_11 op S C S C D S C D S S S S C S C C 
+tú_46_11 #csid 6 8 0 2
+tú_49_11 ref m 7 j _1 b a_X j _1 
+tú_49_11 hyp <eps> N uo _5b b a w _2 
+tú_49_11 op D S S S C S S S 
+tú_49_11 #csid 1 6 0 1
+tú_50_11 ref h o m _1 n a_X j _1 tS 7 j _2 n E_X J _6a k wp a _5a 
+tú_50_11 hyp x o Nm _1 <eps> N E _1 t_h 7_X j <eps> r E_X J _3 k wp a _5a 
+tú_50_11 op S C S C D S S C S S C D S C C S C C C C 
+tú_50_11 #csid 10 8 0 2
+tú_51_11 ref 7 _5a n a m _2 dZ i _2 k u Nm _4 h E w _5a l E w _5a 
+tú_51_11 hyp <eps> <eps> <eps> <eps> <eps> <eps> <eps> i <eps> _5a M7 Nm _1 h <eps> a_X j l <eps> a _5a 
+tú_51_11 op D D D D D D D C D S S C S C D S S C D S C 
+tú_51_11 #csid 5 6 0 10
+tú_52_11 ref m E _6a E t _5b z a k _5b ts_ O _1 E m _1 
+tú_52_11 hyp m <eps> <eps> <eps> M _6b v a k _5b <eps> <eps> <eps> E n _2 
+tú_52_11 op C D D D S S S C C C D D D C S S 
+tú_52_11 #csid 5 5 0 6
+tú_53_11 ref E _5a J E_X J _1 J M _1 b a_X j _1 
+tú_53_11 hyp <eps> <eps> <eps> <eps> <eps> <eps> d u _1 l a w _3 
+tú_53_11 op D D D D D D S S C S S S S 
+tú_53_11 #csid 1 6 0 6
+tú_54_11 ref a j _1 N wp a n _1 s E _4 z M7 k _6b <eps> ts_ M7 _3 
+tú_54_11 hyp <eps> <eps> Ei N <eps> <eps> <eps> <eps> <eps> E_X dZ ie p dZM _6b v ie a _1 
+tú_54_11 op D D S C D D D D D S S S S S C I S S S 
+tú_54_11 #csid 2 9 1 7
+tú_55_11 ref ts_ ie k _5b z e _5a d a _1 ts_ O n _2 
+tú_55_11 hyp <eps> <eps> <eps> <eps> <eps> <eps> <eps> dZ E _1 t_h a n _2 
+tú_55_11 op D D D D D D D S S C S S C C 
+tú_55_11 #csid 3 4 0 7
+tú_56_10 ref b 7_X w _1 tS 7 j _1 s E_X J _1 t_h a_X m _1 t_h a_X m _1 
+tú_56_10 hyp b a w <eps> <eps> <eps> <eps> <eps> ts_ ie w _1 <eps> sE_X n _1 t_h E_X m _1 
+tú_56_10 op C S C D D D D D S S S C D S S C C S C C 
+tú_56_10 #csid 7 7 0 6
+tú_57_10 ref t o j _1 d M7 _1 m E_X J _1 dZ 7_X j _1 ts_ O _1 N M7 j _1 m <eps> E _1 
+tú_57_10 hyp t o j _1 d m _1 m E_X J _2 dZ <eps> a _2 ts_ O _1 N M7 j _2 m M7 n _6a 
+tú_57_10 op C C C C C S C C C C S C D S S C C C C C C S C I S S 
+tú_57_10 #csid 17 7 1 1
+tú_58_10 ref o Nm _1 s E n _1 v a _2 k a_X w _1 m a_X t _6b 
+tú_58_10 hyp o Nm _1 s i n _1 v a _1 k 7_X w _1 m <eps> a _2 
+tú_58_10 op C C C C S C C C C S C S C C C D S S 
+tú_58_10 #csid 12 5 0 1
+tú_59_10 ref E_X J _1 G a _1 tS o Nm _1 b a_X j _1 l e n _1 
+tú_59_10 hyp E_X J _1 G a _2 tS a_X N _1 b e j <eps> l 7 w _1 
+tú_59_10 op C C C C C S C S S C C S C D C S S C 
+tú_59_10 #csid 11 6 0 1
+tú_60_10 ref b E _1 d M7 _1 m a_X t _5b J i n _1 k wp E_X J _1 
+tú_60_10 hyp d e _5a d M7 _5a m 7_X t _5b J i n _2 k wp E_X J _2 
+tú_60_10 op S S S C C S C S C C C C C S C C C C S 
+tú_60_10 #csid 12 7 0 0
+tú_61_10 ref ts_ u kp _5b k O n _1 N u _1 N O n _1 
+tú_61_10 hyp ts_ u kp _5b k O n _1 <eps> i _3 N <eps> M _1 
+tú_61_10 op C C C C C C C C D S S C D S C 
+tú_61_10 #csid 10 3 0 2
+tú_62_10 ref m E <eps> _1 ie w _1 k O n _1 
+tú_62_10 hyp m E _6a l ie w _1 k O n _1 
+tú_62_10 op C C I S C C C C C C C 
+tú_62_10 #csid 9 1 1 0
+tú_63_10 ref t_h a w _3 r 7_X t _5b ie w _1 k wp e _1 h M7 n _1 m i J _2 
+tú_63_10 hyp t_h a <eps> _3 z 7_X t _5b E w _1 k <eps> wpe _1 h e m _1 m i J _2 
+tú_63_10 op C C D C S C C C S C C C D S C C S S C C C C C 
+tú_63_10 #csid 16 5 0 2
+tú_64_10 ref k 7 n _1 m M7 _1 r a w _1 k E w _1 d e n _1 
+tú_64_10 hyp k 7_X n _1 m <eps> _1 dZ a <eps> _2 k E w _5a d <eps> E _5b 
+tú_64_10 op C S C C C D C S C D S C C C S C D S S 
+tú_64_10 #csid 10 6 0 3
+tú_65_10 ref tS 7 j _2 N a_X j _2 k a N _2 n E_X J _6a h 7 n _1 
+tú_65_10 hyp tS 7 j _1 N a_X j _6a k <eps> <eps> O n _5a m a h 7_X n _1 
+tú_65_10 op C C C S C C C S C D D S C S S S C S C C 
+tú_65_10 #csid 11 7 0 2
+tú_66_10 ref n a _5a k 7_X j _1 m <eps> uo _2 t_h u m _1 
+tú_66_10 hyp dZ a _5a t a_X j _1 m 7 j _5a t_h <eps> uo _2 
+tú_66_10 op S C C S S C C C I S S C D S S 
+tú_66_10 #csid 6 7 1 1
+tú_67_10 ref k O n _1 v o _1 k u Nm _2 N a t _6b J ie n _1 
+tú_67_10 hyp k O n _1 v uo _1 k u Nm _2 N a k _5b J ie n _1 
+tú_67_10 op C C C C C S C C C C C C C S S C C C C 
+tú_67_10 #csid 16 3 0 0
+tú_68_10 ref t e n _1 b a n _1 l a _1 dZ i _1 
+tú_68_10 hyp t e n _1 b a N _6a l a _2 dZ i _2 
+tú_68_10 op C C C C C C S S C C S C C S 
+tú_68_10 #csid 10 4 0 0
+tú_69_10 ref k 7_X j _1 k o j _1 u m _1 t u m _1 
+tú_69_10 hyp k 7_X j _1 k u j _1 u m _1 t u m _1 
+tú_69_10 op C C C C C S C C C C C C C C C 
+tú_69_10 #csid 14 1 0 0
+tú_70_10 ref O_X Nm _1 ts_ uo _1 b a_X j _1 v e _1 t o <eps> _1 
+tú_70_10 hyp O_X Nm _5a ts_ u _4 b a_X j _1 v i _2 t o w _3 
+tú_70_10 op C C S C S S C C C C C S S C C I S 
+tú_70_10 #csid 10 6 1 0
+tú_71_9 ref k wp e _1 h M7 N _1 n a _2 tS u m _2 x <eps> e _5a N O t _6b 
+tú_71_9 hyp <eps> s e _1 h M7 N _2 N a _2 ts_ u Nm _2 x wp E _1 N O t _6b 
+tú_71_9 op D S C C C C C S S C C S C S C C I S S C C C C 
+tú_71_9 #csid 14 7 1 1
+tú_72_9 ref <eps> 7 j _2 m uo _2 t_h u _1 m a t _5b m E _3 
+tú_72_9 hyp h 7 j _1 m 7 _5a t_h u _1 m a t _5b m E _3 
+tú_72_9 op I C C S C S S C C C C C C C C C C 
+tú_72_9 #csid 13 3 1 0
+tú_73_9 ref a _1 o j _1 h a_X j _1 k wp a _5a 
+tú_73_9 hyp a <eps> o j _1 h a_X j _1 k wp a _2 
+tú_73_9 op C D C C C C C C C C C C S 
+tú_73_9 #csid 11 1 0 1
+tú_74_9 ref t_h 7_X t _6b n a _2 t ie t _6b z ie w _6a 
+tú_74_9 hyp t_h 7_X t _6b dZ a <eps> <eps> <eps> <eps> _1 E _2 s E_X 
+tú_74_9 op C C C C S C D D D D S S S S S 
+tú_74_9 #csid 5 6 0 4
+tú_75_9 ref b E _5a d a N _1 N wp a n _1 N wp a n _4 a_X n _1 k 7 m _1 
+tú_75_9 hyp b E _5a d a N _1 N <eps> wpuo n _1 h wp a n <eps> _6a n _1 k 7 m _1 
+tú_75_9 op C C C C C C C C D S C C S C C C D S C C C C C C 
+tú_75_9 #csid 19 3 0 2
+tú_76_9 ref <eps> 7 j _5a S a N _5a t i J _1 m 7 _1 
+tú_76_9 hyp t 7 <eps> _5a S a N _5a t i k _5a m 7 _1 
+tú_76_9 op I C D C C C C C C C S S C C C 
+tú_76_9 #csid 11 2 1 1
+tú_77_9 ref h i _1 v a w _2 t_h a_X m _1 v M7 n _2 h wp a _1 
+tú_77_9 hyp d i _1 v a w _2 t_h a m _1 h wp uo _2 h wp a _1 
+tú_77_9 op S C C C C C C C S C C S S S C C C C C 
+tú_77_9 #csid 14 5 0 0
+tú_78_9 ref b a n _6a J O _3 t_h a _3 z ie w _2 tS e n _1 k E_X J _5a d o Nm _2 
+tú_78_9 hyp t_h a <eps> <eps> J 7 _3 t_h a _3 z e w _1 tS e n _1 k E_X J _1 d o N _2 
+tú_78_9 op S C D D C S C C C C C S C S C C C C C C C S C C S C 
+tú_78_9 #csid 18 6 0 2
+tú_79_9 ref <eps> E n _5a k O n _1 d a N _1 m a_X j _1 k wp a _1 S o Nm _1 
+tú_79_9 hyp k a_X n _5a k O n _1 d a N _1 m a_X j _6a k wp a _1 S o Nm _1 
+tú_79_9 op I S C C C C C C C C C C C C C S C C C C C C C C 
+tú_79_9 #csid 21 2 1 0
+tú_80_9 ref O _1 k O n _2 s E_X J _1 n a_X m _5a 
+tú_80_9 hyp <eps> a_X k O n _1 s E_X J _1 n a_X m _1 
+tú_80_9 op D S C C C S C C C C C C C S 
+tú_80_9 #csid 10 3 0 1
+tú_81_9 ref m o t _6b ts_ ie k _5b l M7 k _6b z 7_X t _5b d E p _6b 
+tú_81_9 hyp m <eps> <eps> _6b ts_ M k _2 l M k _2 r 7_X t _5b d E p _6b 
+tú_81_9 op C D D C C S C S C S C S S C C C C C C C 
+tú_81_9 #csid 13 5 0 2
+tú_82_9 ref k O n _1 J i n _2 k a w _5a 
+tú_82_9 hyp k <eps> <eps> <eps> <eps> i <eps> _1 k a w _1 
+tú_82_9 op C D D D D C D S C C C S 
+tú_82_9 #csid 5 2 0 5
+tú_83_8 ref k a k _5b b a n _6a k O _5a k wp e n _1 z <eps> e _5a m E n _2 n o Nm _1 
+tú_83_8 hyp k a k <eps> b a n _6a k O _5a k wp e n _5a z 7 j _5a m E <eps> _1 x o Nm _5a 
+tú_83_8 op C C C D C C C C C C C C C C C S C I S C C C D S S C C S 
+tú_83_8 #csid 20 5 1 2
+tú_84_8 ref b E _5a t 7_X p _6b d O_X kp _6b 
+tú_84_8 hyp b E _5a t u kp _6b l O_X kp _6b 
+tú_84_8 op C C C C S S C S C C C 
+tú_84_8 #csid 8 3 0 0
+tú_85_8 ref t o j _1 tS 7 _3 k wp e _2 k wp e _1 h wp 7 _1 
+tú_85_8 hyp t o <eps> _1 tS ie _2 k M7 j _1 k <eps> j _1 <eps> <eps> e _1 
+tú_85_8 op C C D C C S S C S S S C D S C D D S C 
+tú_85_8 #csid 8 7 0 4
+tú_86_8 ref d M7 N _2 v e _2 s a _1 l a_X k _5b s a _1 l 7 _1 
+tú_86_8 hyp l M7 N _2 t i _2 s a _1 l a k _5b s 7_X _1 l M _1 
+tú_86_8 op S C C C S S C C C C C S C C C S C C S C 
+tú_86_8 #csid 14 6 0 0
+tú_87_8 ref t o j _1 d e n _5a h a j _1 t_h E_X J _1 a j _1 t o j _1 
+tú_87_8 hyp t o j _1 d e n _5a h a <eps> _1 t_h E_X J _1 a j _1 t o j _1 
+tú_87_8 op C C C C C C C C C C D C C C C C C C C C C C C 
+tú_87_8 #csid 22 0 0 1
+tú_88_8 ref E m _1 ie w _1 m uo _1 J a _2 k uo _3 E m _1 
+tú_88_8 hyp <eps> <eps> <eps> ie w _1 m u _1 J a _2 <eps> <eps> _6a E m _1_2 
+tú_88_8 op D D D C C C C S C C C C D D S C C S 
+tú_88_8 #csid 10 3 0 5
+tú_89_7 ref d ie N _5a d i m _1 
+tú_89_7 hyp s i m _1 ts_ i m _1 
+tú_89_7 op S S S S S C C C 
+tú_89_7 #csid 3 5 0 0
+tú_90_7 ref h E _2 d e n _5a r o j _2 
+tú_90_7 hyp n E _1 d e n _5a r o j _2 
+tú_90_7 op S C S C C C C C C C C 
+tú_90_7 #csid 9 2 0 0
+tú_91_7 ref <eps> o j _1 o Nm _1 o Nm _1 k O _5a x wp E _3 h o Nm _1 
+tú_91_7 hyp k wp e _2 o Nm _1 o Nm _6a t O <eps> _4 v E _2 h o Nm _1 
+tú_91_7 op I S S S C C C C C S S C D S S C S C C C C 
+tú_91_7 #csid 11 8 1 1
+tú_92_7 ref h o p _5b d O _5a t 7 j _2 t o _3 m M7 _1 
+tú_92_7 hyp l u k _5a d O _5a <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> 
+tú_92_7 op S S S S C C C D D D D D D D D D D 
+tú_92_7 #csid 3 4 0 10
+tú_93_7 ref b o _5a m E _6a t u p _5b t O n _1 t wp 7_X n _3 b i _6a J E _5a 
+tú_93_7 hyp b o <eps> b E _5a k u w _5b t <eps> n _1 <eps> <eps> d kp _1 m i _1 J E <eps> 
+tú_93_7 op C C D S C S S C S C C D C C D D S S S S C S C C D 
+tú_93_7 #csid 11 9 0 5
+tú_94_7 ref z u Nm _1 t_h o Nm _1 t_h 7_X t _6b n a _2 d E p _6b 
+tú_94_7 hyp z u Nm <eps> _2 dZ M N _2 z M _2 J a _2 t E p _6a 
+tú_94_7 op C C C D S S S S S S S S S C C S C C S 
+tú_94_7 #csid 7 11 0 1
+tú_96_7 ref r u _5a h wp e _2 n O_X Nm _5a 
+tú_96_7 hyp z u <eps> <eps> t_h E _1 n O_X Nm _5a_5a 
+tú_96_7 op S C D D S S S C C C S 
+tú_96_7 #csid 4 5 0 2
+tú_97_7 ref t O n _1 m E w _2 n o Nm _1 v <eps> <eps> a N _2 n O_X Nm _5a 
+tú_97_7 hyp <eps> E d O_X Nm b e _2 l o Nm _1 v a_X n _1 E _1 n O_X Nm _1 
+tú_97_7 op D S S S S S S C S C C C C I I S S S C C C S 
+tú_97_7 #csid 8 11 2 1
+tú_98_7 ref t 7 _5a 7 _3 z a j _6a v O_X Nm _2 
+tú_98_7 hyp <eps> dZ M 7 _3 r a j _1 v o Nm _2 
+tú_98_7 op D S S C C S C C S C S C C 
+tú_98_7 #csid 7 5 0 1
+tú_99_7 ref v M7 n _2 v M7 n _2 t 7_X j _1 t 7_X m _1 t o j _2 n a_X j _3 n O_X kp _6b 
+tú_99_7 hyp v M7 <eps> _1 v M7 n _1 z 7_X j <eps> <eps> _5b zM N dZ u n _2 z a_X j _6b n O_X Nm _6a 
+tú_99_7 op C C D S C C C S S C C D D S S S S S S C S C C S C C S S 
+tú_99_7 #csid 12 13 0 3
+đông_100_11 ref J M N _4 dZ O t _6b S M7 N _1 n O_X Nm _1 n E_X J _1 
+đông_100_11 hyp J M <eps> _4 <eps> <eps> l a _2 s uo _1 d O_X w _1 <eps> E_X J _1 
+đông_100_11 op C C D C D D S S S S S C S C S C D C C C 
+đông_100_11 #csid 9 7 0 4
+đông_101_11 ref r 7_X t _5b t_h i k _5b h wp a _1 h o Nm _2 
+đông_101_11 hyp <eps> <eps> <eps> <eps> t_h M k <eps> h wp a _1 h 7_X w _2 
+đông_101_11 op D D D D C S C D C C C C C S S C 
+đông_101_11 #csid 8 3 0 5
+đông_102_11 ref z M7 k _5b ts_ o kp _5b t_h <eps> E _3 m a_X w _2 k a m _1 
+đông_102_11 hyp <eps> v E t_5b ts_ ie p _5b t_h a n _3 m ie w _2 k a m _1 
+đông_102_11 op D S S S C S S C C I S C C S C C C C C C 
+đông_102_11 #csid 11 7 1 1
+đông_103_11 ref <eps> n a _1 d a N _1 v E _4 m o t _6b k o _1 G a j _5a 
+đông_103_11 hyp _2 l a _1 d a_X N _1 <eps> <eps> <eps> <eps> l a _1 k _5b k G <eps> <eps> <eps> 
+đông_103_11 op I S C C C S C C D D D D S S S C S S C D D D 
+đông_103_11 #csid 7 7 1 7
+đông_104_11 ref E m _1 v E _4 m o t _6b k o _1 t ie n _1 
+đông_104_11 hyp <eps> <eps> <eps> v E <eps> m u k _6b k o _1 t ie n _1 
+đông_104_11 op D D D C C D C S S C C C C C C C C 
+đông_104_11 #csid 11 2 0 4
+đông_105_11 ref b o _5a m E _6a <eps> <eps> <eps> v e _2 <eps> <eps> <eps> <eps> b o _5a m E _6a ts_ O _1 E m <eps> _1 b E _5a v e _2 k wp e _1 
+đông_105_11 hyp b o _5a m E _6a ts_ O _1 v e _2 b o _5a _1 b o _5a m E _6a ts_ E _2 E m _2 d e _3 N a_X j _2 k wp e _1 
+đông_105_11 op C C C C C C I I I C C C I I I I C C C C C C C S S C C I S S S S S S C C C C C 
+đông_105_11 #csid 23 8 8 0
+đông_107_12 ref b a _2 r 7_X t _5b t_h M _1 b a _2 
+đông_107_12 hyp <eps> <eps> <eps> <eps> <eps> <eps> s wp 7_Xt_5a _5a b <eps> <eps> 
+đông_107_12 op D D D D D D S S S S C D D 
+đông_107_12 #csid 1 4 0 8
+đông_109_12 ref ts_ a j _5a <eps> k a _1 d E p _6b J M _1 v a_X j _3 k a _5a 
+đông_109_12 hyp v a <eps> _5a t O j _1 <eps> <eps> G a _5a i _1 v <eps> 7_X _2 k <eps> <eps> 
+đông_109_12 op S C D C I S S C D D S S S S C C D S S C D D 
+đông_109_12 #csid 6 9 1 6
+đông_10_2 ref E m <eps> <eps> _1 ts_ a w _2 k o _1 a _6a 
+đông_10_2 hyp <eps> m i J _1 ts_ a w _2 k o _1 O _1 
+đông_10_2 op D C I I C C C C C C C C S S 
+đông_10_2 #csid 9 2 2 1
+đông_110_12 ref tS 7 j _2 d a N _1 z 7_X t _5b n E_X J _6a 
+đông_110_12 hyp <eps> <eps> <eps> <eps> r a <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> 
+đông_110_12 op D D D D S C D D D D D D D D D D 
+đông_110_12 #csid 1 1 0 14
+đông_111_14 ref d M7 _2 t o j _1 s uo N _5a m o t _6b k a j _5a l ie N _5a 
+đông_111_14 hyp l a _2 t O j _1 dZ ie Nm _5a <eps> <eps> <eps> <eps> h a j _5a l ie <eps> _5a 
+đông_111_14 op S S C C S C C S S S C D D D D S C C C C C D C 
+đông_111_14 #csid 11 7 0 5
+đông_112_14 ref k O n _1 ts_ i m _1 ts_ 7 n _1 k a _1 k 7_X t _5b t ie N _5a h O t _5b 
+đông_112_14 hyp k O n _1 ts_ i m _1 ts_ M7 N _1 <eps> a _1 k <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> _5b 
+đông_112_14 op C C C C C C C C C S S C D C C C D D D D D D D D D D C 
+đông_112_14 #csid 14 2 0 11
+đông_113_14 ref b uo j _3 ts_ ie w _2 m uo _2 h E _2 t_h 7_X t _6b d a N _5a <eps> ie w _1 
+đông_113_14 hyp b uo j _3 ts_ ie w _2 b uo _2 h E _2 t_h 7_X t _6b t a_X m _5a l ie w _6a 
+đông_113_14 op C C C C C C C C S C C C C C C C C C S S S C I C C S 
+đông_113_14 #csid 20 5 1 0
+đông_114_14 ref m E w _2 ts_ E w _2 k wp a _1 k M7 _3 S <eps> <eps> o _3 
+đông_114_14 hyp <eps> <eps> <eps> <eps> k E w <eps> _5a N a _2 k M7 _3 S u r u _1 
+đông_114_14 op D D D D S C C D S S C S C C C C I I S S 
+đông_114_14 #csid 7 6 2 5
+đông_115_14 ref <eps> <eps> <eps> <eps> <eps> <eps> b o Nm _1 d O_X kp _5b d ie N _1 b E_X J _5a k uo _3 J M7 _1 l uo _6a 
+đông_115_14 hyp d ie w l uo _6a b o Nm _1 b 7_X t _5b b ie N <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> _1 <eps> <eps> u 
+đông_115_14 op I I I I I I C C C C S S S C S C C D D D D D D D D D D C D D S 
+đông_115_14 #csid 8 5 6 12
+đông_116_13 ref m 7_X j _5a k O n _1 n M7 _6a d a N _1 a_X n _1 k O _3 
+đông_116_13 hyp <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> a_X <eps> <eps> <eps> M7 _5b 
+đông_116_13 op D D D D D D D D D D D D D D D C D D D S S 
+đông_116_13 #csid 1 2 0 18
+đông_117_13 ref f a <eps> _1 t a w _5a t_h O _1 k a _3 J a <eps> <eps> _2 
+đông_117_13 hyp <eps> a j _1 k a n _5a ts_ O _1 k a _2 J a _2 O _2 
+đông_117_13 op D C I C S C S C S C C C C S C C I I C 
+đông_117_13 #csid 11 4 3 1
+đông_118_13 ref <eps> <eps> d M7 _5a tS E _3 <eps> S a_X w _5a t uo j _3 
+đông_118_13 hyp _5a b E e _2 tS E _3 ts_ ie _2 a _1 t <eps> 7 _1 
+đông_118_13 op I I S S S C C C I S S S S C D S S 
+đông_118_13 #csid 4 9 3 1
+đông_119_13 ref z E _6a S a N _5a N 7 j _2 
+đông_119_13 hyp <eps> E <eps> S a N _5a dZ 7 <eps> _2 
+đông_119_13 op D C D C C C C S C D C 
+đông_119_13 #csid 7 1 0 3
+đông_11_3 ref E m _1 N i m _3 k M7 j _2 t_h 7_X t <eps> _6b t uo j _1 
+đông_11_3 hyp <eps> <eps> <eps> N <eps> M _2 ts_ a N _2 k 7_X t _5b r a _1 s _1 
+đông_11_3 op D D D C D S S S S S C S C C I S S S S C 
+đông_11_3 #csid 5 10 1 4
+đông_120_13 ref t o j _1 l a _2 ts_ u _5a b o _6a d o j _6a 
+đông_120_13 hyp a ts_ u m 7 j _2 <eps> <eps> d 7_X w _6a z o j _6a 
+đông_120_13 op S S S S S S C D D S S S C S C C C 
+đông_120_13 #csid 5 10 0 2
+đông_121_13 ref s E _1 k 7_X p _5b k M w _5a 
+đông_121_13 hyp S E_X J _1k e t _1 ts_ ie w _1 
+đông_121_13 op S S S S S S S S S C S 
+đông_121_13 #csid 1 10 0 0
+đông_122_13 ref k 7_X t _5b t_h 7_X t _6b k 7_X n _3 t_h 7_X n _6a 
+đông_122_13 hyp k <eps> <eps> <eps> <eps> <eps> <eps> a k _6a t_h ie _1 N M _1 
+đông_122_13 op C D D D D D D S C S S S S S S S 
+đông_122_13 #csid 2 8 0 6
+đông_123_13 ref k o _1 dZ a w _5a k 7_X n _6a t_h 7_X n _2 m u j _5a 
+đông_123_13 hyp k <eps> <eps> dZ a <eps> <eps> k <eps> <eps> _6a t_h a j _2 m <eps> v _5b 
+đông_123_13 op C D D C C D D C D D C C S S C C D S S 
+đông_123_13 #csid 8 4 0 7
+đông_124_13 ref <eps> dZ O _5a m <eps> uo _2 d 7_X m _6a ts_ a_X p _5b v e _2 
+đông_124_13 hyp S a_X w _5a m M7 j _2 <eps> <eps> <eps> _1 ts_ 7_X k _5b v e _3 
+đông_124_13 op I S S C C I S C D D D S C S S C C C S 
+đông_124_13 #csid 7 7 2 3
+đông_125_13 ref k uo j _5a t_h a N _5a n a_X m _1 
+đông_125_13 hyp k uo j <eps> <eps> <eps> <eps> _5a <eps> <eps> <eps> k 
+đông_125_13 op C C C D D D D C D D D S 
+đông_125_13 #csid 4 1 0 7
+đông_126_14 ref J E_X J _2 k 7_X j _1 b a _2 ts_ M k _5b v a _2 
+đông_126_14 hyp <eps> <eps> <eps> <eps> <eps> wt a _1 b a <eps> _1 tS ie _1 G a _1 
+đông_126_14 op D D D D D S S C C C D S S S S S C S 
+đông_126_14 #csid 4 8 0 6
+đông_127_14 ref s E_X J _1 v M7 n _2 s ie n _1 d E p _6b 
+đông_127_14 hyp s E_X J _1 l M N _1 s ie <eps> _1 v E <eps> <eps> 
+đông_127_14 op C C C C S S S S C C D C S C D D 
+đông_127_14 #csid 8 5 0 3
+đông_128_14 ref J M N _4 dZ 7_X k _5b m 7 _1 k a w _1 d E p _6b 
+đông_128_14 hyp <eps> <eps> <eps> <eps> <eps> dM k <eps> m <eps> <eps> <eps> <eps> M7 _1 <eps> <eps> <eps> <eps> 
+đông_128_14 op D D D D D S C D C D D D D S C D D D D 
+đông_128_14 #csid 3 2 0 14
+đông_129_14 ref E m _1 t_h i k _5b S a _1 m a _1 J 7_X t _5b 
+đông_129_14 hyp <eps> <eps> <eps> Emt_h i k _5b S a _1 m a _1 J a t _5b 
+đông_129_14 op D D D S C C C C C C C C C C S C C 
+đông_129_14 #csid 12 2 0 3
+đông_12_3 ref k a_X p _6b S E_X k _5b k O _5a m a_X w _2 s E_X J _1 z 7_X t _5b d E p _6b 
+đông_12_3 hyp k a_X p _6b s E_X k _5b k aO _5a m a_X w _2 s a_X j _1 r 7_X t _5b k o j _3 
+đông_12_3 op C C C C S C C C C S C C C C C C S S C S C C C S S S S 
+đông_12_3 #csid 18 9 0 0
+đông_130_14 ref G 7_X w _5a b o Nm _1 d E p _6b k wp a _5a 
+đông_130_14 hyp <eps> <eps> <eps> <eps> t t Nm _1 d E p _6b k wp a _5a 
+đông_130_14 op D D D D S S C C C C C C C C C C 
+đông_130_14 #csid 10 2 0 4
+đông_131_14 ref G O_X kp _5b h O_X kp _6b t 7_X p _6b k a_X n _1 m a t _5b 
+đông_131_14 hyp <eps> <eps> <eps> <eps> h O_X kp _6b d 7_X p _6b <eps> <eps> <eps> <eps> <eps> <eps> d _5b 
+đông_131_14 op D D D D C C C C S C C C D D D D D D S C 
+đông_131_14 #csid 8 2 0 10
+đông_132_14 ref a m _1 ts_ O _1 b E _5a 
+đông_132_14 hyp <eps> <eps> <eps> ts_ <eps> <eps> b E a 
+đông_132_14 op D D D C D D C C S 
+đông_132_14 #csid 3 1 0 5
+đông_133_14 ref m 7 j _5a 
+đông_133_14 hyp <eps> <eps> <eps> _5a 
+đông_133_14 op D D D C 
+đông_133_14 #csid 1 0 0 3
+đông_134_14 ref b i J _2 v e _2 k wp e _1 t_h a_X m _1 o Nm _1 b a _2 
+đông_134_14 hyp t i m _1 v e _2 k wp e _1 t_h a_X m <eps> _1m N _1 b a _2 
+đông_134_14 op S C S S C C C C C C C C C C D S S C C C C 
+đông_134_14 #csid 15 5 0 1
+đông_135_14 ref M7 n _2 s M7 _1 dZ O _5a m a <eps> t _5b 
+đông_135_14 hyp <eps> <eps> <eps> ts_ M7 _1 <eps> k 7 m a k _5b_6a k 
+đông_135_14 op D D D S C C D S S C C I S S 
+đông_135_14 #csid 4 5 1 4
+đông_13_3 ref k o kp _5b n M7 k _5b k O _5a m a_X w _2 tS a_X N _5a r 7_X t _5b d E p _6b 
+đông_13_3 hyp k o t _5b n ie k _5b <eps> <eps> _5a v 7_X w _2 tS <eps> O _5a <eps> dZ n _5a tS o n _2 
+đông_13_3 op C C S C C S C C D D C S S C C C D S C D S S S S S S S 
+đông_13_3 #csid 11 12 0 4
+đông_14_3 ref t o j _1 l a _2 k a _1 S i _4 n o j _3 t ie N _5a 
+đông_14_3 hyp t o j _1 l a _2 k a _1 S <eps> u l o <eps> <eps> Nm ie <eps> _3 
+đông_14_3 op C C C C C C C C C C C D S S C D D S C D S 
+đông_14_3 #csid 13 4 0 4
+đông_15_3 ref t o j _1 <eps> <eps> n a _2 k O _5a m o t _6b k uo n _5a S E_X k _5b 
+đông_15_3 hyp t o j _1 m uo n <eps> _5a k O _5a m o t _6b k M7 N _5a S a k _5b 
+đông_15_3 op C C C C I I C D S C C C C C C C C S S C C S C C 
+đông_15_3 #csid 17 4 2 1
+đông_16_3 ref k O n _1 O_X Nm _1 t_h 7_X t _6b l a _2 ts_ a_X m _1 ts_ i _3 
+đông_16_3 hyp <eps> <eps> <eps> <eps> O_X Nm _1 t_h 7_X t _6b l a _2 ts_ O_X m _1 ts_ <eps> _3 
+đông_16_3 op D D D D C C C C C C C C C C C S C C C D C 
+đông_16_3 #csid 15 1 0 5
+đông_17_3 ref s E n _1 k O _5a m u j _2 r 7_X t _5b t_h 7 m _1 
+đông_17_3 hyp h E <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> h a_X Nm l _1 dZ 7 <eps> _1 
+đông_17_3 op S C D D D D D D D D S S S S S S C D C 
+đông_17_3 #csid 3 7 0 9
+đông_18_3 ref k a j _5a t u _3 l E_X J _6a z u Nm _2 d e _3 l a m _2 dZ i _2 
+đông_18_3 hyp <eps> <eps> t M t <eps> _3 l <eps> <eps> a z u <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> N _1 
+đông_18_3 op D D S S C D C C D D S C C D D D D D D D D D D S S 
+đông_18_3 #csid 5 5 0 15
+đông_19_3 ref S ie w _1 J 7_X n _1 G 7_X w _5a b o Nm _1 
+đông_19_3 hyp S <eps> <eps> E _1n i N _1 k e w _1 b o Nm _1 
+đông_19_3 op C D D S S S S C S S C S C C C C 
+đông_19_3 #csid 7 7 0 2
+đông_1_1 ref a m _2 dZ i _2 d 7_X j _5a 
+đông_1_1 hyp <eps> <eps> <eps> dZ i _2 d a_X j _6a 
+đông_1_1 op D D D C C C C S C S 
+đông_1_1 #csid 5 2 0 3
+đông_20_3 ref k a j _5a n o j _2 m E _6a n 7_X w _5a k E_X J _1 
+đông_20_3 hyp <eps> <eps> <eps> <eps> l o j _2 m E <eps> _2 N 7 _5a k <eps> a _5a 
+đông_20_3 op D D D D S C C C C C D S S S C C D S S 
+đông_20_3 #csid 7 6 0 6
+đông_23_4 ref o m _1 n a_X j _1 l a _2 t_h M <eps> _5a S a_X w _5a 
+đông_23_4 hyp <eps> u _1 b a j <eps> l <eps> _1 s M w _1_5a S a w _1 
+đông_23_4 op D S C S S C D C D S S C I S C S C S 
+đông_23_4 #csid 6 8 1 3
+đông_24_4 ref z 7_X j _6a S 7 m _5a S a_X w _5a ts_ 7 _2 
+đông_24_4 hyp <eps> <eps> <eps> <eps> <eps> <eps> s M s a w _1 k 7 _1 
+đông_24_4 op D D D D D D S S S S C S S C S 
+đông_24_4 #csid 2 7 0 6
+đông_25_4 ref <eps> <eps> <eps> <eps> b uo j _3 tS M7 _1 E m _1 a_X n _1 <eps> k 7 m _2 k 7 m _1 7 _3 tS M7 N _2 
+đông_25_4 hyp tS M7 t _1 b o j _2 tS M7 _1 E <eps> <eps> <eps> n _1 d k 7 w _2 <eps> 7 <eps> <eps> j _2 tS M7 j _2 
+đông_25_4 op I I I I C S C S C C C C D D D C C I C C S C D C D D S S C C S C 
+đông_25_4 #csid 15 6 5 6
+đông_26_5 ref v uo _1 k wp a _5a 
+đông_26_5 hyp <eps> <eps> <eps> _2k wp a _2 
+đông_26_5 op D D D S C C S 
+đông_26_5 #csid 2 2 0 3
+đông_27_5 ref b E _5a t_h 7 m _1 k wp a _5a 
+đông_27_5 hyp <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> h v 
+đông_27_5 op D D D D D D D D D S S 
+đông_27_5 #csid 0 2 0 9
+đông_28_5 ref <eps> k O _5a k u _3 h wp a j _1 x wp a j _1 
+đông_28_5 hyp h k uo _5a <eps> <eps> <eps> h <eps> a j _1 <eps> l a <eps> _1 
+đông_28_5 op I C S C D D D C D C C C D S C D C 
+đông_28_5 #csid 8 2 1 6
+đông_29_5 ref m o _6a ts_ ie k _5b l a _5a r 7 j _1 
+đông_29_5 hyp <eps> <eps> <eps> ts_ e t _1 l a _5a z 7 j _1 
+đông_29_5 op D D D C S S S C C C S C C C 
+đông_29_5 #csid 7 4 0 3
+đông_2_1 ref b o Nm _1 k u kp _5b k a_X m _5a n a_X N _5a m a_X t _6b tS 7 j _2 
+đông_2_1 hyp b 7 j _1 k u kp _5b k a_X m _5a n a_X N _5a m a_X t _6b tS 7 j _5a 
+đông_2_1 op C S S C C C C C C C C C C C C C C C C C C C C S 
+đông_2_1 #csid 21 3 0 0
+đông_30_5 ref uo _1 J ie w _2 t_h e _5a 
+đông_30_5 hyp <eps> <eps> J ie w _2 t_h e _2 
+đông_30_5 op D D C C C C C C S 
+đông_30_5 #csid 6 1 0 2
+đông_31_5 ref k a _5a x o _1 a_X n _1 m uo j _5a k a _5a <eps> M7 n _1 
+đông_31_5 hyp k a <eps> x o Nm _5a a _5a m 7 j _5a k a _5a l o n _6a 
+đông_31_5 op C C D C C S S S S C S C C C C C I S C S 
+đông_31_5 #csid 11 7 1 1
+đông_32_5 ref o t _6b d <eps> e _3 k wp E t _5b J a _2 
+đông_32_5 hyp <eps> <eps> <eps> d E t _2 k <eps> <eps> e _6a J a _2 
+đông_32_5 op D D D C I S S C D D S S C C C 
+đông_32_5 #csid 5 4 1 5
+đông_33_5 ref b a _2 k O _5a x wp E _3 x o Nm _1 a _6a 
+đông_33_5 hyp <eps> <eps> ba w_2S 7 _3 h wp a _2 x <eps> O v7 a _2 
+đông_33_5 op D D S S S S S C S S C D S S C S 
+đông_33_5 #csid 3 10 0 3
+đông_34_5 ref a N _5a ie w _1 
+đông_34_5 hyp <eps> <eps> <eps> J i _2 
+đông_34_5 op D D D S S S 
+đông_34_5 #csid 0 3 0 3
+đông_35_5 ref ie w _1 J 7_X n _1 k uo N _2 f O_X <eps> Nm _1 
+đông_35_5 hyp <eps> <eps> <eps> <eps> <eps> <eps> <eps> k uo n _2 S O_X m _1 _1 
+đông_35_5 op D D D D D D D C C S C S C I S C 
+đông_35_5 #csid 5 3 1 7
+đông_36_6 ref G 7_X w _5a k O n _1 k a m _3 7 n _1 b a k _5b <eps> v O j _1 
+đông_36_6 hyp <eps> b o _5a k O n _1 k a m _3 7 n _1 b 7_X k _5b f wp O j _1 
+đông_36_6 op D S S C C C C C C C C C C C C C S C C I S C C C 
+đông_36_6 #csid 18 4 1 1
+đông_37_6 ref M n _1 b ie n _3 k a _3 
+đông_37_6 hyp <eps> <eps> <eps> <eps> G a J k a _2 
+đông_37_6 op D D D D S S S C C S 
+đông_37_6 #csid 2 4 0 4
+đông_38_6 ref k O n _1 r a _1 v M7 n _2 h a j _5a k a w _5a 
+đông_38_6 hyp k <eps> n <eps> _1r a _1 v M7 t _2 h a j _5a k a w _5a 
+đông_38_6 op C D C D S C C C C S C C C C C C C C C 
+đông_38_6 #csid 15 2 0 2
+đông_39_6 ref G 7_X w _5a k O n _1 b M7 N _1 t a w _5a m 7 j _2 b o _5a m E _6a 
+đông_39_6 hyp <eps> r u _5a k O n _1 v M7 N _1 b a_X Nm _5a m <eps> M7 _5a v o _5a <eps> <eps> <eps> 
+đông_39_6 op D S S C C C C C S C C C S S S C C D S S S C C D D D 
+đông_39_6 #csid 12 9 0 5
+đông_3_1 ref t_h ie n _1 J ie n _1 t_h 7_X t _6b d E p _6b 
+đông_3_1 hyp ts_ ie n _1 N ie m _1 t_h 7_X t _6b d E p _5b 
+đông_3_1 op S C C C S C S C C C C C C C C S 
+đông_3_1 #csid 12 4 0 0
+đông_40_6 ref m E _6a l a _2 N M7 j _2 <eps> f u _6a n M _4 h ie n _2 z i w _6a 
+đông_40_6 hyp m E _6a <eps> E w _1 M7 <eps> _2 x E N _1 n <eps> M7 k _5b a _1 z <eps> ie _1 
+đông_40_6 op C C C D S S S C D C I S S S C D S S S S S C D S S 
+đông_40_6 #csid 7 13 1 4
+đông_41_6 ref b E _5a d a N _1 n a_X m _2 N u _3 
+đông_41_6 hyp b E <eps> d o N _5a J o m _1 N E _6a 
+đông_41_6 op C C D C S C S S S C S C S S 
+đông_41_6 #csid 6 7 0 1
+đông_42_6 ref k O_X Nm _2 d i _1 ts_ 7 _6a tS 7 j _2 m M7 _1 
+đông_42_6 hyp <eps> <eps> <eps> <eps> d <eps> _1 tS uo _2 tS 7 <eps> _1 m M7 _1 
+đông_42_6 op D D D D C D C S S S C C D S C C C 
+đông_42_6 #csid 7 4 0 6
+đông_43_6 ref x o Nm _1 N O n _1 
+đông_43_6 hyp <eps> o Nm <eps> _5ak O <eps> _5a 
+đông_43_6 op D C C D S C D S 
+đông_43_6 #csid 3 2 0 3
+đông_44_6 ref d a N _1 x a m _5a b e J _6a 
+đông_44_6 hyp S a <eps> Nm b a <eps> <eps> <eps> j _6a _6a 
+đông_44_6 op S C D S S C D D D S S C 
+đông_44_6 #csid 3 5 0 4
+đông_45_6 ref m E _6a t a N _1 l a_X w _1 S a n _2 J a _2 
+đông_45_6 hyp m E _6a <eps> a_X n _1 l a w _1 s a <eps> _2 N O _2 
+đông_45_6 op C C C D S S C C S C C S C D C S S C 
+đông_45_6 #csid 10 6 0 2
+đông_46_7 ref n u _4 h o n _1 tS e n _1 b a n _2 t a_X j _1 
+đông_46_7 hyp J o N k o n _1 ts_ ie N _1 b a_X n _1 t a j _2 
+đông_46_7 op S S S S C C C S S S C C S C S C S C S 
+đông_46_7 #csid 8 11 0 0
+đông_47_7 ref tS 7 j _2 n o j _3 dZ O _5a t O _1 
+đông_47_7 hyp tS o j _2 N 7 j _2 dZ O _5a t O _1_2 
+đông_47_7 op C S C C S S C S C C C C C S 
+đông_47_7 #csid 9 5 0 0
+đông_48_7 ref k 7_X j _1 l ie w _4 x o Nm _1 N M N _2 l a_X k _5b l M _1 
+đông_48_7 hyp k 7_X j _1 l ie w <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> _6a 
+đông_48_7 op C C C C C C C D D D D D D D D D D D D D D D S 
+đông_48_7 #csid 7 1 0 15
+đông_49_7 ref G o _4 b ie t _5b b a_X j <eps> <eps> _1 
+đông_49_7 hyp <eps> <eps> <eps> <eps> <eps> <eps> <eps> Et_5bb a_X j _1 o _1 
+đông_49_7 op D D D D D D D S C C I I C 
+đông_49_7 #csid 3 1 2 7
+đông_4_1 ref t ie N _5a d o Nm _6a dZ i _2 l a _6a l a_X m _5a 
+đông_4_1 hyp <eps> <eps> <eps> <eps> d <eps> Nm _5a dZ i _2 l a _6a l a_X m _5a 
+đông_4_1 op D D D D C D C S C C C C C C C C C C 
+đông_4_1 #csid 12 1 0 5
+đông_50_7 ref n a_X j _1 tS 7 j _2 l E_X J _6a k wp a _5a 
+đông_50_7 hyp <eps> a_X j <eps> tS 7 j _2 n E_X J _6a k wp a _5a 
+đông_50_7 op D C C D C C C C S C C C C C C C 
+đông_50_7 #csid 13 1 0 2
+đông_51_7 ref <eps> b o _5a l a m _2 dZ i _2 k u Nm _4 x E w _5a l E w _5a 
+đông_51_7 hyp _5a b o _5a l a m _2 dZ i _2 k u Nm _4 <eps> s 7 _5a l E <eps> _5a 
+đông_51_7 op I C C C C C C C C C C C C C C D S S C C C D C 
+đông_51_7 #csid 18 2 1 2
+đông_52_7 ref t e t _5b t O_X kp _5b ts_ O _1 E m _1 
+đông_52_7 hyp <eps> <eps> <eps> E _5bt O_X kp _5b ts_ O _1 E m _1 
+đông_52_7 op D D D S S C C C C C C C C C 
+đông_52_7 #csid 9 2 0 3
+đông_53_7 ref f i _1 J E_X J _1 J M _1 b a_X j _1 
+đông_53_7 hyp S i <eps> _1J E_X J _1 J M _1 b a_X j _1 
+đông_53_7 op S C D S C C C C C C C C C C 
+đông_53_7 #csid 11 2 0 1
+đông_54_7 ref S E _4 k O _5a t_h M7 N _3 
+đông_54_7 hyp <eps> <eps> <eps> SE_4k O _2 t_h M7 <eps> _3 
+đông_54_7 op D D D S C S C C D C 
+đông_54_7 #csid 4 2 0 4
+đông_55_7 ref ts_ ie k _5b r e _4 d a _1 tS O _2 
+đông_55_7 hyp ts_ ie k _5b r e _4 d a _1 tS 7 _2 
+đông_55_7 op C C C C C C C C C C C S C 
+đông_55_7 #csid 12 1 0 0
+đông_56_7 ref b 7_X w _2 tS 7 j _2 s E_X J _1 t_h a_X m _1 t_h a_X m _3 
+đông_56_7 hyp b 7_X w _2 tS 7 j _2 s E_X J _1 <eps> <eps> <eps> _1 <eps> a_X <eps> _1 
+đông_56_7 op C C C C C C C C C C C C D D D C D C D S 
+đông_56_7 #csid 14 1 0 5
+đông_57_7 ref t o j _1 d M7 _1 N E_X J _3 m E_X J _3 dZ 7_X j _5a ts_ O _1 N M7 j _2 m E _6a 
+đông_57_7 hyp t o j _1 d M7 _1 N E_X J _2 m a j _2 dZ 7_X j _5a ts_ O _2 N M7 j _2 m E _6a 
+đông_57_7 op C C C C C C C C C C S C S S S C C C C C C S C C C C C C C 
+đông_57_7 #csid 24 5 0 0
+đông_58_7 ref o Nm _1 s E m _1 v a _2 k a_X w _1 m a_X j _2 
+đông_58_7 hyp o <eps> <eps> _1s E n _1 v a _2 k 7_X w _1 m a_X j _2 
+đông_58_7 op C D D S C S C C C C C S C C C C C C 
+đông_58_7 #csid 13 3 0 2
+đông_59_7 ref G a _2 tS o Nm _5a b a_X j _1 l e n _1 
+đông_59_7 hyp <eps> <eps> <eps> _2tS M N _1 b a_X j _1 l e n _1 
+đông_59_7 op D D D S S S S C C C C C C C C 
+đông_59_7 #csid 8 4 0 3
+đông_5_1 ref s 7_X w _5a h o _3 E _5a m a_X t _5b J i n _2 
+đông_5_1 hyp <eps> <eps> <eps> 7_Xw _1h o _6a E _5a m a_X k _5b J i n _2 
+đông_5_1 op D D D S S C S C C C C S C C C C C 
+đông_5_1 #csid 10 4 0 3
+đông_60_7 ref b e _5a d M7 _1 m a_X t _5b J i n _2 k wp E_X J _1 
+đông_60_7 hyp b e _5a d M7 _1 m 7_X t _5b J i n _2 k wp E_X J _1 
+đông_60_7 op C C C C C C C S C C C C C C C C C C C 
+đông_60_7 #csid 18 1 0 0
+đông_61_8 ref k O n _1 N u _3 N O n _1 <eps> 
+đông_61_8 hyp <eps> <eps> <eps> <eps> _1l u <eps> <eps> <eps> <eps> _1 _1_1 
+đông_61_8 op D D D D S C D D D D C I 
+đông_61_8 #csid 2 1 1 8
+đông_62_8 ref k O n _1 
+đông_62_8 hyp <eps> O n _1 
+đông_62_8 op D C C C 
+đông_62_8 #csid 3 0 0 1
+đông_63_8 ref t a w _3 r 7_X t _5b ie w _1 k wp e _1 h M7 N _1 m i J _2 
+đông_63_8 hyp k a <eps> _3 z 7_X k _5b E w _1 k wp E _1 <eps> M7 <eps> _1 m i <eps> _2 
+đông_63_8 op S C D C S C S C S C C C C S C D C D C C C D C 
+đông_63_8 #csid 14 5 0 4
+đông_64_8 ref k O n _1 m M7 _1 r a w _2 k E w _5a d e n _5a 
+đông_64_8 hyp k 7 n _1 m M7 _1 z a w _1 k E w _1 d e n _5a 
+đông_64_8 op C S C C C C C S C C S C C C S C C C C 
+đông_64_8 #csid 15 4 0 0
+đông_65_8 ref <eps> <eps> <eps> <eps> tS 7 j _2 N a j _2 k a N _2 l E_X J _6a h 7 n _1 
+đông_65_8 hyp b a n _6a ts_ 7 j _1 N a j _1 dZ a N _1 l a N _3 h 7 n _5a 
+đông_65_8 op I I I I S C C S C C C S S C C S C S S S C C C S 
+đông_65_8 #csid 11 9 4 0
+đông_66_8 ref k 7_X j _1 m uo _2 t_h u _1 
+đông_66_8 hyp <eps> <eps> <eps> Eb i n _2 v u _1 
+đông_66_8 op D D D S S S C S C C 
+đông_66_8 #csid 3 4 0 3
+đông_67_8 ref J i m _5a k O n _1 v o _1 k u Nm _2 N a k _6b J ie n _1 
+đông_67_8 hyp m i m _4 k O n _1 v uo _1 k u Nm _2 N a k _6b J ie n _1 
+đông_67_8 op S C C S C C C C C S C C C C C C C C C C C C C 
+đông_67_8 #csid 20 3 0 0
+đông_68_8 ref b a n _6a l a m _2 dZ i _2 
+đông_68_8 hyp <eps> <eps> <eps> <eps> <eps> la m i dZ E n 
+đông_68_8 op D D D D D S C S C S S 
+đông_68_8 #csid 2 4 0 5
+đông_69_8 ref t o j _5a u m _1 t u m _2 
+đông_69_8 hyp <eps> b O _5a o m _1 k o N _2 
+đông_69_8 op D S S C S C C S S S C 
+đông_69_8 #csid 4 6 0 1
+đông_6_2 ref m E _6a m 7 j _5a m uo _1 o _1 t o _1 
+đông_6_2 hyp m E <eps> _5am O j _5a m o _6a o _1 t o _1 
+đông_6_2 op C C D S S C C C S S C C C C C 
+đông_6_2 #csid 10 4 0 1
+đông_70_8 ref O_X Nm _1 ts_ uo _5a b a_X j _1 v e <eps> _2 t o _3 
+đông_70_8 hyp O_X Nm _1 ts_ uo _5a b a j _1 v e n _1 b e _3 
+đông_70_8 op C C C C C C C S C C C C I S S S C 
+đông_70_8 #csid 12 4 1 0
+đông_71_9 ref <eps> <eps> e _1 h M N _1 <eps> n a _2 ts_ u m _2 x e _5a N O t _6b 
+đông_71_9 hyp _1 E m _1 h ie n _1 l 7 k _6b ts_ u <eps> _1 k a _5a <eps> <eps> <eps> <eps> 
+đông_71_9 op I I S C C S S C I S S S C C D S S S C D D D D 
+đông_71_9 #csid 6 9 3 5
+đông_72_9 ref t_h 7 m _1 m a t _5b <eps> m E _3 
+đông_72_9 hyp h 7 <eps> <eps> _1h a <eps> _5b k M7 j _1 
+đông_72_9 op S C D D S C D C I S S S 
+đông_72_9 #csid 3 5 1 3
+đông_74_9 ref t a _2 t wp ie t _6b z ie w _6a <eps> 
+đông_74_9 hyp v a <eps> <eps> <eps> _2k E _2 z <eps> E _6a k 
+đông_74_9 op S C D D D S S S C D S C I 
+đông_74_9 #csid 3 5 1 4
+đông_75_9 ref <eps> <eps> <eps> <eps> E m _1 b E _5a d a N _1 N wp a n _1 N wp a n _4 a_X n _1 k 7 m _1 
+đông_75_9 hyp k 7 m _1 E m _1 b E _2 t a n _1 <eps> Nwp ie n _1 <eps> m a <eps> <eps> a_X n _1 k 7 <eps> _2 
+đông_75_9 op I I I I C C C C C S S C S C D S S C C D S C D D C C C C C D S 
+đông_75_9 #csid 15 7 4 5
+đông_77_9 ref f i _1 v a w _2 t_h a_X m _1 v M7 n _2 h wp a _1 
+đông_77_9 hyp <eps> <eps> <eps> ib a <eps> _2 t_h <eps> n _1 v <eps> M _2 <eps> v a <eps> 
+đông_77_9 op D D D S C D C C D S C C D S C D S C D 
+đông_77_9 #csid 7 4 0 8
+đông_78_9 ref b a n _6a n O <eps> _3 t_h a _3 z ie w _2 tS e n _1 k E_X J _5a d o Nm _2 
+đông_78_9 hyp b a n _6a m O j _3 t_h a _3 dZ 7_X t _6b tS o Nm _1 k a n _1 d 7_X w _2 
+đông_78_9 op C C C C S C I C C C C S S S S C S S C C S S S C S S C 
+đông_78_9 #csid 14 12 1 0
+đông_79_9 ref t ie N _5a h wp a n _1 d a N _1 b a_X j _1 k wp a _1 S a w _1 
+đông_79_9 hyp <eps> d u _5a <eps> k O n _1 d a N _1 b a_X j _1 <eps> r a _1 S a w _1 
+đông_79_9 op D S S C D S S C C C C C C C C C C D S C C C C C C 
+đông_79_9 #csid 17 5 0 3
+đông_7_2 ref E m _1 d a _1 a_X n _1 k 7 m _1 
+đông_7_2 hyp E m _1 <eps> <eps> da E n _1 k 7 m _1 
+đông_7_2 op C C C D D S S C C C C C C 
+đông_7_2 #csid 9 2 0 2
+đông_80_9 ref s E_X J _1 n a m _2 
+đông_80_9 hyp S E_X <eps> <eps> _1G a <eps> n 
+đông_80_9 op S C D D S C D S 
+đông_80_9 #csid 2 3 0 3
+đông_81_10 ref ts_ u kp _5b p M7 N _1 r 7_X t _5b d E p _6b <eps> 
+đông_81_10 hyp <eps> <eps> ts_u w t M7 N _1 z 7_X t _5b d E p _6b t 
+đông_81_10 op D D S S S C C C S C C C C C C C I 
+đông_81_10 #csid 10 4 1 2
+đông_82_10 ref t_h O _3 k O n _1 J i n _2 k a w _5a 
+đông_82_10 hyp t_h <eps> <eps> O_2k O n _1 N i n _2 k a w _1 
+đông_82_10 op C D D S C C C S C C C C C C S 
+đông_82_10 #csid 10 3 0 2
+đông_83_10 ref <eps> <eps> <eps> k a k _5b b a n _6a k O _5a k wp E n _1 <eps> z e _5a m E n _2 x o Nm _1 
+đông_83_10 hyp o Nm _1 k <eps> k _5b b a n _6a t 7 j k <eps> O m _1 dZ O j _5a m E <eps> _1 x o N _1 
+đông_83_10 op I I I C D C C C C C C S S S C D S S C I S S C C C D S C C S C 
+đông_83_10 #csid 15 9 4 3
+đông_84_10 ref t 7_X p _6b d O_X kp _6b 
+đông_84_10 hyp <eps> <eps> <eps> <eps> d <eps> O_Xkp _6a 
+đông_84_10 op D D D D C D S S 
+đông_84_10 #csid 1 2 0 5
+đông_85_10 ref t o j _1 tS 7 _3 v e _2 k wp e _1 h M7 N _1 
+đông_85_10 hyp t o j _2 tS 7 <eps> v e _2 k wp e _1 h M7 N _2 
+đông_85_10 op C C C S C C D C C C C C C C C C C S 
+đông_85_10 #csid 15 2 0 1
+đông_86_10 ref d M7 N _2 v e _2 s a _1 l a_X k _5b s a _1 v wp 7 _1 l 7 _1 
+đông_86_10 hyp d M7 N _1 v e _2 s a _1 l a_X k _5b s a _1 v <eps> <eps> <eps> <eps> M7 _1 
+đông_86_10 op C C C S C C C C C C C C C C C C C C D D D D S C 
+đông_86_10 #csid 18 2 0 4
+đông_87_10 ref t o j _1 d e n _5a t_h a_X m <eps> _1 E_X J _1 h a j _1 t o j _1 
+đông_87_10 hyp t o j <eps> <eps> ie n _5a t a_X m _5a m M7 j _1 h a j _1 t_h o j _1 
+đông_87_10 op C C C D D S C C S C C I S S S C C C C C S C C C 
+đông_87_10 #csid 15 6 1 2
+đông_88_10 ref E m _1 ie w _1 N o j _1 J a _2 k uo _3 E m _1 
+đông_88_10 hyp ne m _4 N M _1 N uo j _1 J a _2 k u _6a E p _1 
+đông_88_10 op S C S S S C C S C C C C C C S S C S C 
+đông_88_10 #csid 11 8 0 0
+đông_89_10 ref ie w _1 ts_ u Nm _5a S i n _1 
+đông_89_10 hyp <eps> w <eps> <eps> _1ts_ M _5a <eps> <eps> <eps> _1 
+đông_89_10 op D C D D S S C D D D C 
+đông_89_10 #csid 3 2 0 6
+đông_8_2 ref k 7_X k _5b v u j _1 v E _3 
+đông_8_2 hyp <eps> <eps> <eps> <eps> 7 _5bv j <eps> <eps> <eps> _5a 
+đông_8_2 op D D D D S S C D D D S 
+đông_8_2 #csid 1 3 0 7
+đông_90_10 ref h E _2 d e n _5a r o j _2 
+đông_90_10 hyp <eps> E <eps> _5ad e m _5a z o j _5a 
+đông_90_10 op D C D S C S C S C C S 
+đông_90_10 #csid 5 4 0 2
+đông_91_10 ref <eps> o Nm _1 7 j _1 o Nm _1 k O _5a x wp E _3 x o Nm _1 
+đông_91_10 hyp t_h o N _1 <eps> l e M k _1 k O _5a x wp E _6b x o Nm _1 
+đông_91_10 op I C S C D S S S S C C C C C C C S C C C C 
+đông_91_10 #csid 13 6 1 1
+đông_92_10 ref d u Nm _5a l o kp _5b d O _5a tS 7 j _2 d o _3 m M7 _1 
+đông_92_10 hyp d M N _5a dZ O_X p _5b t a _5a tS 7_X j _2 d 7 _5a m M7 _1 
+đông_92_10 op C S S C S S S C S S C C S C C C S S C C C 
+đông_92_10 #csid 11 10 0 0
+đông_93_10 ref b o _5a m E _6a k O n _1 ts_ wp 7_X n _3 b i _6a J E _5a 
+đông_93_10 hyp b o _5a b E _2 k <eps> <eps> <eps> <eps> <eps> <eps> n <eps> <eps> <eps> <eps> <eps> k u 
+đông_93_10 op C C C S C S C D D D D D D C D D D D D S S 
+đông_93_10 #csid 6 4 0 11
+đông_94_10 ref h M7 N _1 tS o Nm _1 t_h 7_X t _6b l a <eps> _2 d E p _6b 
+đông_94_10 hyp <eps> <eps> <eps> <eps> _1tS O_X Nm _1 tS 7_X t _6b l a j _2 d E p _6b 
+đông_94_10 op D D D D S S C C S C C C C C I C C C C C 
+đông_94_10 #csid 12 3 1 4
+đông_95_10 ref <eps> s O m _5a l a _2 d o Nm _2 z uo N _6a l 7_X m _2 k 7_X j _1 
+đông_95_10 hyp _3 S o N _5a G 7_X _2 d M7 N _2 z M N _6a l 7_X <eps> _2 k <eps> o _1 
+đông_95_10 op I S S S C S S C C S S C C S C C C C D C C D S C 
+đông_95_10 #csid 12 9 1 2
+đông_96_11 ref tS a N _1 t_h M7 N _1 ts_ 7 _5a m E w _2 l a_X m _5a 
+đông_96_11 hyp <eps> <eps> <eps> ts_ E f u _1 ts_ 7 _5a <eps> <eps> <eps> <eps> _5a b a _5a 
+đông_96_11 op D D D S S S S C C C C D D D D S S S C 
+đông_96_11 #csid 5 7 0 7
+đông_97_11 ref k O n _1 m E w _2 l o Nm _1 v a N _2 O_X Nm _5a 
+đông_97_11 hyp t a j _1 m E w _2 l o Nm _1 v a N _2 a w _1 
+đông_97_11 op S S S C C C C C C C C C C C C C S S S 
+đông_97_11 #csid 13 6 0 0
+đông_98_11 ref k wp e _1 t 7 _5a 7 <eps> _3 h a j _3 f O_X Nm _2 
+đông_98_11 hyp k wp e _1 t 7 _5a 7 j _3 h a j _3 f a w _2 
+đông_98_11 op C C C C C C C C I C C C C C C S S C 
+đông_98_11 #csid 15 2 1 0
+đông_99_11 ref <eps> <eps> v M7 n _2 k 7_X j _1 tS o Nm _1 n 7 _3 G o kp _6b 
+đông_99_11 hyp 7 _2 v M7 n _2 k a_X j _1 ts_ o Nm _1 d 7 _3 <eps> z O_X _6b 
+đông_99_11 op I I C C C C C S C C S C C C S C C D S S C 
+đông_99_11 #csid 13 5 2 1
+đông_9_2 ref m u j _2 z 7_X w _1 r 7_X t _5b t_h 7 m _1 
+đông_9_2 hyp <eps> <eps> <eps> <eps> <eps> as M _1 k E_X k _5b h 7 <eps> _1 
+đông_9_2 op D D D D D S S C S S S C S C D C 
+đông_9_2 #csid 4 6 0 6

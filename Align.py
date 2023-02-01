@@ -8,7 +8,7 @@ import pandas as pd
 
 
 
-test = pd.read_csv("PAPL_MHA_KALDI_Mandarin.csv")
+test = pd.read_csv("MHA_NCCF_kids.csv")
 del_sub_count = 0
 ins_del_sub_count = 0
 number_phoneme = 0
@@ -22,8 +22,6 @@ for i in range(len(test)):
     cnt, len_sentence = Accuracy((test['Transcript'][i].split(" ")), (test['Predict'][i].split(" ")))
     ins_del_sub_count+=cnt
     number_phoneme+=len_sentence
-
-dec = ['n', 'h', 'ng', '7', 'q', 'l', 'sh', '7X', 't', '1', 'j', 'er', '2', 'a', '4', 'p', 'i', 'g', 'v', 's', 'r', 'z', 'zh', 'c', '3', 'b', 'u', 'ch', 'e', 'm', 'o', 'd', 'x', '5', 'f', 'k']
 
 # print(number_phoneme)
 # print(del_sub_count)

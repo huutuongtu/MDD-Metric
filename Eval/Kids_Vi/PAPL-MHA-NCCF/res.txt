@@ -1,0 +1,96 @@
+APL_Baseline
+Correctness :0.5937759828958309
+Accuracy :0.5712079819455992
+Recall: 0.8460
+Precision: 0.3103
+f1-score:0.4541
+True Acception: 0.6222 4704
+False Rejection: 0.3778 2856
+False Acceptance: 0.1540 234
+Correct Diagnosis: 0.6630 852
+Error Diagnosis: 0.3370 433
+False Acceptance Rate: 0.1540
+False Rejection Rate: 0.3778
+Diagnosis Error Rate: 0.3370
+Detection Accuracy: 0.6596541469324816
+
+APL_MHA
+Correctness: 0.5469770756621927
+Accuracy: 0.5251217484261789
+Recall: 0.8466
+Precision: 0.2842
+f1-score:0.4255
+True Acception: 0.5716 4321
+False Rejection: 0.4284 3239
+False Acceptance: 0.1534 233
+Correct Diagnosis: 0.6509 837
+Error Diagnosis: 0.3491 449
+False Acceptance Rate: 0.1534
+False Rejection Rate: 0.4284
+Diagnosis Error Rate: 0.3491
+Detection Accuracy: 0.6175790285273709
+
+PAPL_NCCF
+Correctness: 0.5715643188027082
+Accuracy :0.5245278536643306
+Recall: 0.8532
+Precision: 0.2990
+f1-score:0.4428
+True Acception: 0.5981 4522
+False Rejection: 0.4019 3038
+False Acceptance: 0.1468 223
+Correct Diagnosis: 0.6574 852
+Error Diagnosis: 0.3426 444
+False Acceptance Rate: 0.1468
+False Rejection Rate: 0.4019
+Diagnosis Error Rate: 0.3426
+Detection Accuracy: 0.6408194735102984
+
+PAPL_KALDI
+Correctness: 0.6029219622282932
+Accuracy :0.5784534980401473
+Recall: 0.8604
+Precision: 0.3178
+f1-score:0.4641
+True Acception: 0.6288 4754
+False Rejection: 0.3712 2806
+False Acceptance: 0.1396 212
+Correct Diagnosis: 0.6748 882
+Error Diagnosis: 0.3252 425
+False Acceptance Rate: 0.1396
+False Rejection Rate: 0.3712
+Diagnosis Error Rate: 0.3252
+Detection Accuracy: 0.6675845357418217
+
+PAPL_MHA_NCCF
+Correctness: 0.5928257512768738
+Accuracy :0.5339113909015323
+Recall: 0.8479
+Precision: 0.3101
+f1-score:0.4542
+True Acception: 0.6210 4695
+False Rejection: 0.3790 2865
+False Acceptance: 0.1521 231
+Correct Diagnosis: 0.6522 840
+Error Diagnosis: 0.3478 448
+False Acceptance Rate: 0.1521
+False Rejection Rate: 0.3790
+Diagnosis Error Rate: 0.3478
+Detection Accuracy: 0.6589932811983699
+
+PAPL_MHA_KALDI
+Correctness: 0.6047036465138378
+Accuracy: 0.545551728233757
+Recall: 0.8506
+Precision: 0.3180
+f1-score:0.4629
+True Acception: 0.6335 4789
+False Rejection: 0.3665 2771
+False Acceptance: 0.1494 227
+Correct Diagnosis: 0.6548 846
+Error Diagnosis: 0.3452 446
+False Acceptance Rate: 0.1494
+False Rejection Rate: 0.3665
+Diagnosis Error Rate: 0.3452
+Detection Accuracy: 0.6697874215221941
+
