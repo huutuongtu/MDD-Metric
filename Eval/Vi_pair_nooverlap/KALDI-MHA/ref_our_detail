@@ -1,0 +1,2448 @@
+TQA_7_NAM_S0045_276 ref k 7_X w _1 t_h 7 _1 ts_ O _1 t_h 7_X j _5a b a j _2 ts_ i m _1 k u _1 r 7_X t _5b t_h i k _5b b 7 _2 ts_ E _1 l a _2 o _2 ts_ E _1 r 7_X t _5b m a t _5b 
+TQA_7_NAM_S0045_276 hyp k 7_X w _1 t_h 7 _1 ts_ O _1 t_h 7_X j _5a b 7_X j _2 ts_ i m _1 k u _1 r 7_X t _5b t_h i k _5b b 7 _2 ts_ E _1 l a _2 o _2 ts_ E _1 r 7_X t _5b m 7 t _5b 
+TQA_7_NAM_S0045_276 op C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C 
+TQA_7_NAM_S0045_276 #csid 53 2 0 0
+TQA_7_NAM_S0045_123 ref 7 j _1 t_h e _5a k 7_X w _6a t_h i _2 t_h i k _5b l wp a j _6a ts_ i m _1 n a w _2 
+TQA_7_NAM_S0045_123 hyp 7 <eps> _1 t_h e _5a k 7_X w _6a t_h J _5a t_h i k _5b l <eps> wpa j _6a ts_ i m _1 n a w _2 
+TQA_7_NAM_S0045_123 op C D C C C C C C C C C S S C C C C C D S C C C C C C C C C C 
+TQA_7_NAM_S0045_123 #csid 25 3 0 2
+TQA_7_NAM_S0045_182 ref h a j _1 k 7_X w _6a b E _5a d a_X t _6b k O n _1 ts_ i m _1 v a w _2 m o t _6b ts_ ie k _5b h o p _6b r 7_X t _5b d E p _6b v a _2 ts_ o n _1 k 7_X t _5b t_h 7_X t _6b l O_X Nm _1 tS O_X Nm _6a 
+TQA_7_NAM_S0045_182 hyp h a j _1 k 7_X w _6a b E _6a d a_X t _6b k O n _1 ts_ i m _1 v a w _6b m o t _6b ts_ ie k _5b h o p _6b r 7_X t _5b d E p _6b v a _2 ts_ o n _1 k 7_X t _5b t_h 7_X t _6b l O_X Nm _1 tS O_X Nm _6a 
+TQA_7_NAM_S0045_182 op C C C C C C C C C C S C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_182 #csid 68 2 0 0
+TQA_7_NAM_S0045_109 ref t 7 _5a h O j _3 t_h a w _3 k o _1 n a_X j _2 J E _5a 
+TQA_7_NAM_S0045_109 hyp t 7 _5a h O j _3 t_h a w _3 k o _1 n a_X j _2 J E _5a 
+TQA_7_NAM_S0045_109 op C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_109 #csid 21 0 0 0
+TQA_7_NAM_S0045_130 ref s e _1 h O _6a J a _2 ts_ i m _1 r i w _5a r i t _5b b a_X j _1 d e n _5a d 7_X w _6a 7 _3 J M N _4 b u j _6a k 7_X j _1 k wp E_X J _1 h o _2 
+TQA_7_NAM_S0045_130 hyp s e _1 h O _1 J a _2 ts_ i m _1 r i w _5a r i k _5b b a_X j _1 d e n _1 d 7_X w _6a 7 _3 J M N _4 b M7 k _5b k 7_X j _1 <eps> <eps> wpE_X J _1 h o _2 
+TQA_7_NAM_S0045_130 op C C C C C S C C C C C C C C C C C C C S C C C C C C C C S C C C C C C C C C C C S S S C C C C D D S C C C C C 
+TQA_7_NAM_S0045_130 #csid 46 7 0 2
+NQH_7_NAM_S0049_18 ref m o t _6b n a_X m _1 h O_X kp _6b b a_X t _5b d 7_X w _2 
+NQH_7_NAM_S0049_18 hyp m o t _6b n a_X m _1 h O_X kp _6b b a_X t _6b d 7_X w _2 
+NQH_7_NAM_S0049_18 op C C C C C C C C C C C C C C C S C C C C 
+NQH_7_NAM_S0049_18 #csid 19 1 0 0
+TQA_7_NAM_S0045_110 ref k 7_X w _6a h a_X j _4 t i m _2 J M N _4 t M _2 N M _4 t a _3 v E _3 d E p _6b k uo _3 m a_X t _6b h o _2 i _1 r 7 _1 p a w _1 
+TQA_7_NAM_S0045_110 hyp k 7_X w _6a h a_X j _6a t i m _1 J M N _4 t M _2 N M _4_1 t a _3 v E _3 d E p _6b k uo _3 m a_X t _6b h o _1 i _1 r 7_X _1 p a w _1 
+TQA_7_NAM_S0045_110 op C C C C C C C S C C C S C C C C C C C C C S C C C C C C C C C C C C C C C C C C C S C C C S C C C C C 
+TQA_7_NAM_S0045_110 #csid 46 5 0 0
+ĐNL_Nu_6_S0007_51 ref s uo N _5a d 7_X j _1 ts_ i m _1 k O _5a b ie t _5b b 7 j _1 
+ĐNL_Nu_6_S0007_51 hyp s uo N _5a d 7_X t _5b ts_ e n _1 k O _5a k e t _5b d 7 j _1 
+ĐNL_Nu_6_S0007_51 op C C C C C C S S C S S C C C C S S C C S C C C 
+ĐNL_Nu_6_S0007_51 #csid 16 7 0 0
+TQA_7_NAM_S0045_47 ref m M N _2 v u j _1 r o j _2 l a j _6a d i _1 
+TQA_7_NAM_S0045_47 hyp m M N _2 v u j _1 r o j _2 l a j _6a d i _1 
+TQA_7_NAM_S0045_47 op C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_47 #csid 19 0 0 0
+TQA_7_NAM_S0045_190 ref ts_ i m _1 t M _6a z O _1 b a_X j _1 J a_X j _3 tS O_X Nm _1 t_h e _5a dZ 7 j _5a r o Nm _6a l 7 n _5a 
+TQA_7_NAM_S0045_190 hyp ts_ i m _1 t M _6a z O _1 b a_X j _1 J a_X j _6a tS O_X Nm _1 t_h e _5a dZ 7 j _1 dZ O_X Nm _6a l 7 n _5a 
+TQA_7_NAM_S0045_190 op C C C C C C C C C C C C C C C C C S C C C C C C C C C C S S S C C C C C C 
+TQA_7_NAM_S0045_190 #csid 33 4 0 0
+TQA_7_NAM_S0045_113 ref t 7 _5a h O j _3 k 7_X w _6a 
+TQA_7_NAM_S0045_113 hyp t 7 _5a h O j _3 k 7_X w _6a 
+TQA_7_NAM_S0045_113 op C C C C C C C C C C C 
+TQA_7_NAM_S0045_113 #csid 11 0 0 0
+TQA_7_NAM_S0045_62 ref J M N _4 k 7_X w _1 t_h 7 _1 t a _3 v E _3 d E p _6b k uo _3 k 7_X j _1 k o j _5a x i _1 s wp 7_X n _1 v e _2 
+TQA_7_NAM_S0045_62 hyp J M N _4 k 7_X w _1 t_h 7 _1 t a _3 v E _3 d E p _6b k uo _3 k 7_X j _1 k o j _5a x i _1 s <eps> wp7_X n _1 v e _2 
+TQA_7_NAM_S0045_62 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D S C C C C C 
+TQA_7_NAM_S0045_62 #csid 41 1 0 1
+TQA_7_NAM_S0045_242 ref m o t _6b d a n _2 k O _2 b E_X k _6b 
+TQA_7_NAM_S0045_242 hyp m o t _6b d a n _2 k O _2 b E_X k _6b 
+TQA_7_NAM_S0045_242 op C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_242 #csid 15 0 0 0
+TQA_7_NAM_S0045_137 ref s e _1 v E n _1 h o _2 J M N _4 k O n _1 ts_ i m _1 k <eps> 7 _1 p u kp _5b h O t _5b l e n _1 l E_X J _1 l E_X J _3 
+TQA_7_NAM_S0045_137 hyp s e _1 v e n _1 h o _2 J M N _4 k O n _1 ts_ i m _1 k 7_X w _1 k u kp _5b h O t _5b l e n _1 l E_X J _1 l E_X J _3 
+TQA_7_NAM_S0045_137 op C C C C S C C C C C C C C C C C C C C C C C C I S C S C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_137 #csid 42 3 1 0
+TQA_7_NAM_S0045_21 ref t 7 _5a m M7 j _2 t_h a w _3 k 7_X w _6a h a_X j _4 tS a _3 l 7 j _2 b M k <eps> _5b tS E_X J _1 t_h M _3 n a_X m _1 d i _1 
+TQA_7_NAM_S0045_21 hyp t 7 <eps> <eps> 7 j _3 t_h a w _3 k7 e t _6a <eps> <eps> <eps> <eps> tS 7 _3 l <eps> <eps> <eps> <eps> e k E _5b tS 7 N _1 t_h M _3 n a_X m _1 d i _1 
+TQA_7_NAM_S0045_21 op C C D D S C S C C C C S S S C D D D D C S C C D D D D S C I C C S S C C C C C C C C C C C 
+TQA_7_NAM_S0045_21 #csid 25 9 1 10
+TQA_7_NAM_S0045_282 ref b o _2 k 7_X w _1 b o _5a m E _6a t_h a_X j _1 J a_X w _1 7_X p _5b tS M N _5a 
+TQA_7_NAM_S0045_282 hyp b o _2 k o Nm _1 b o _5a m E _6a t_h a_X j _1 J a_X w <eps> O_X kp _5b tS M N _5a 
+TQA_7_NAM_S0045_282 op C C C C S S C C C C C C C C C C C C C C D S S C C C C C 
+TQA_7_NAM_S0045_282 #csid 23 4 0 1
+TQA_7_NAM_S0045_247 ref k O _5a b a k _5b b o _2 n o Nm _1 
+TQA_7_NAM_S0045_247 hyp k O _5a b a k _5b b o _2 n o Nm _1 
+TQA_7_NAM_S0045_247 op C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_247 #csid 14 0 0 0
+TQA_7_NAM_S0045_42 ref k 7_X j _1 k a m _1 v a N _2 t_h e m _1 tS a j _5a 
+TQA_7_NAM_S0045_42 hyp k 7_X j _1 k a m _1 v a N _2 t_h e m _1 tS a j _5a 
+TQA_7_NAM_S0045_42 op C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_42 #csid 20 0 0 0
+TQA_7_NAM_S0045_61 ref t 7 _5a S E _4 tS a _3 l 7 j _2 d 7_X j _1 l a _2 k 7_X w _1 k uo _3 t 7 _5a 
+TQA_7_NAM_S0045_61 hyp t 7 _5a <eps> E _4 tS a _3 l 7 j _2 d 7_X j <eps> l a _2 k 7_X w _1 k uo _3 t 7 _5a 
+TQA_7_NAM_S0045_61 op C C C D C C C C C C C C C C C C D C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_61 #csid 28 0 0 2
+NQH_7_NAM_S0049_58 ref k o _1 dZ a w _5a l 7 p _5b E m _1 J E _5a 
+NQH_7_NAM_S0049_58 hyp k u _1 z a w _1 l 7 p _5b E m _1 J E _5a 
+NQH_7_NAM_S0049_58 op C S C S C C S C C C C C C C C C C 
+NQH_7_NAM_S0049_58 #csid 14 3 0 0
+ĐNL_Nu_6_S0007_11 ref x i _1 m E _6a m a_X t _6b tS 7 j _2 G O j _6a h a t _6b n a_X N _5a b a m _5a k E_X J _5a t a_X j _1 <eps> <eps> <eps> h o Nm _2 k uo _3 m E _6a v e _2 b e n _1 k ie <eps> _1 n u j _5a 
+ĐNL_Nu_6_S0007_11 hyp x i _1 m E _6a m a_X t _6b tS 7 j _2 k O j _6a h a <eps> <eps> n a N _5a b a m _5a k E_X J _2 t a_X j _1 v u j f o Nm _2 k uo _3 m E _6a v E _2 b e n _1 k ie n _1 n u j _5a 
+ĐNL_Nu_6_S0007_11 op C C C C C C C C C C C C C C S C C C C C D D C S C C C C C C C C C S C C C C I I I S C C C C C C C C C C S C C C C C C C I C C C C C 
+ĐNL_Nu_6_S0007_11 #csid 55 5 4 2
+NQH_7_NAM_S0049_74 ref f M7 N _1 7 j _1 t 7 _5a d O_X kp _6b s O_X Nm _1 r o j _2 k 7_X w _6a d O_X kp _6b t ie p _5b J E _5a 
+NQH_7_NAM_S0049_74 hyp f M7 N _1 7 j _1 t 7 _1 d O_X kp _6b s O_X Nm _1 r o j _2 k 7_X w _6a d O_X kp _6b t ie p _5b J E _5a 
+NQH_7_NAM_S0049_74 op C C C C C C C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_74 #csid 36 1 0 0
+TQA_7_NAM_S0045_81 ref r a_X w _1 s u m _1 s wp e _1 7 _3 r a_X w _1 s u m _1 s wp e _1 7 _3 tS e <eps> <eps> n <eps> <eps> _1 b a j _4 
+TQA_7_NAM_S0045_81 hyp r a_X w _1 s u m _1 <eps> <eps> M7 _1 <eps> _1 s a_X <eps> _1 s u m _1 s <eps> M7 _1 7 _3 tS e n _1 n M7 N _1 b a j _4 
+TQA_7_NAM_S0045_81 op C C C C C C C C D D S C D S S C D C C C C C C D S C C C C C I I C I I C C C C C 
+TQA_7_NAM_S0045_81 #csid 27 4 4 5
+TQA_7_NAM_S0045_156 ref ts_ i m _1 S E _3 S o Nm _5a 7 _3 tS e n _1 k 7_X j _1 n e n _1 f a j _3 b a m _5a v a w _2 k E_X J _2 k 7_X j _1 b a_X N _2 k a _3 h a j _1 ts_ 7_X n _1 ts_ O _1 x O j _3 N a _4 
+TQA_7_NAM_S0045_156 hyp ts_ i m _1 S E _3 S o Nm _5a 7 _3 tS e n _1 k 7_X j _1 b e n _1 f a j _3 b a m _5a v a w _1 k E_X J _2 k 7_X j _1 b a_X N _2 k a _3 h a j _1 ts_ 7_X n _1 ts_ O _1 x O j _3 N a _4 
+TQA_7_NAM_S0045_156 op C C C C C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_156 #csid 68 2 0 0
+NQH_7_NAM_S0049_44 ref h a N _2 N a_X j _2 E m _1 d M7 k _6b d e n _5a tS M7 N _2 G a_X p _6b k a k _5b b a n _6a v a _2 k o _1 dZ a w _5a 
+NQH_7_NAM_S0049_44 hyp h a N _2 N a_X j _2 E m _1 d M7 k _6b d e n _5a tS M7 N _2 G a_X p _6b k a k _6b b a n _6a v a _2 k M _1 dZ a w _5a 
+NQH_7_NAM_S0049_44 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C C S C C C C C 
+NQH_7_NAM_S0049_44 #csid 43 2 0 0
+NQH_7_NAM_S0049_34 ref k a k _5b b a n _6a 7 j _1 n e w _5a k O _5a k a k _5b b a n _6a 7 _3 n 7 j _1 x a k _5b d e n _5a t_h a_X m _1 tS M7 N _2 
+NQH_7_NAM_S0049_34 hyp k <eps> k <eps> <eps> _5bba n _6a 7 j _1 n e w _5a k O _5a <eps> ka k _5b b a n _6a 7 _3 n 7 j _1 x a k _5b d e n _5a t_h O_X m _1 tS M7 N _2 
+NQH_7_NAM_S0049_34 op C D C D D S C C C C C C C C C C C C D S C C C C C C C C C C C C C C C C C C C C C S C C C C C C 
+NQH_7_NAM_S0049_34 #csid 41 3 0 4
+ĐNL_Nu_6_S0007_30 ref k a _5a v a _2 ts_ i m _1 
+ĐNL_Nu_6_S0007_30 hyp k a _2 v a _2 ts_ i m _1 
+ĐNL_Nu_6_S0007_30 op C C S C C C C C C C 
+ĐNL_Nu_6_S0007_30 #csid 9 1 0 0
+NQH_7_NAM_S0049_21 ref h M7 N _1 7 j _1 k 7_X w _6a v 7 j _5a t 7 _5a k u Nm _2 t i m _2 h ie w _3 f 7_X n _2 d O_X kp _6b h ie w _3 J E _5a 
+NQH_7_NAM_S0049_21 hyp h M7 N _1 7 j _1 k 7_X w _6a v <eps> a _2 t 7 _1 k u Nm _2 t i m _3 h ie w _6a f 7_X n _2 d O_X kp _6b h ie w _3 J E _5a 
+NQH_7_NAM_S0049_21 op C C C C C C C C C C C C D S S C C S C C C C C C C S C C C S C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_21 #csid 39 5 0 1
+ĐNL_Nu_6_S0007_94 ref n <eps> <eps> e w _5a J M _1 E m _1 t_h 7_X j _5a t M k _5b dZ 7_X n _6a t_h i _2 h a_X j _4 l 7_X j _5a b O_X Nm _5a v a _2 t_h o j _3 t_h 7_X t _6b t_h o j _3 b O_X Nm _5a J E _5a 
+ĐNL_Nu_6_S0007_94 hyp n 7_X j e w _5a J M _1 E n _1 t_h 7_X j _5a t M k _5b dZ 7_X t _1 t_h i n _5a e n _1 dZ E p _1 n O_X Nm _5a v a_X t _6b t 7_X _5a t_h 7_X t _6b n o t _5a b <eps> a J J E _5a 
+ĐNL_Nu_6_S0007_94 op C I I C C C C C C C S C C C C C C C C C C C S S C C S S S S S S S S S S C C C C S S S S S S C C C C S C S S C D S S C C C 
+ĐNL_Nu_6_S0007_94 #csid 34 24 2 1
+TQA_7_NAM_S0045_153 ref v i _2 v 7_X j _6a x i _1 k 7_X n _2 N i _3 n O _5a k O _1 m o t _6b ts_ 7_X n _1 l e n _1 a p _5b S a t _5b b u Nm _6a h a j _1 ts_ 7_X n _1 k O _2 t_h a_X j _1 J a_X w _1 k O _1 l e n _1 ts_ O _1 d 7 _4 m O j _3 
+TQA_7_NAM_S0045_153 hyp v i _2 v 7_X j _6a x i _1 k 7_X n _2 N i _3 n O _5a k O _1 m o t _6a ts_ 7_X n _1 l e n _1 a k _5b s a t _5b b u N _6a h a j _1 ts_ 7_X n _1 k O _2 t_h a_X j _1 J a_X w _1 k O _1 l e n _1 ts_ O _1 d 7 _4 m O j _3 
+TQA_7_NAM_S0045_153 op C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C C C S C S C C C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_153 #csid 78 4 0 0
+TQA_7_NAM_S0045_15 ref h i J _2 E_X J _3 S o <eps> _5a m o t _6b l a _2 k O n _1 ts_ i m _1 k E_X J _5a k u t _6b 
+TQA_7_NAM_S0045_15 hyp h i J _2 E_X J _2 S o m _5a m o t _2 l a _2 k O n _1 ts_ i m _1 k E nJ _5a k o t _6b 
+TQA_7_NAM_S0045_15 op C C C C C C S C C I C C C C S C C C C C C C C C C C C S S C C S C C 
+TQA_7_NAM_S0045_15 #csid 28 5 1 0
+ĐNL_Nu_6_S0007_32 ref n a_X j _2 b a n _6a ts_ i m _1 7 j _1 
+ĐNL_Nu_6_S0007_32 hyp l e j _5a b a n _6a ts_ i m _1 7 j _1 
+ĐNL_Nu_6_S0007_32 op S S C S C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_32 #csid 12 3 0 0
+TQA_7_NAM_S0045_147 ref m O _3 ts_ i m _1 S E _3 v a _2 m O _3 ts_ i m _1 b o _2 k 7_X w _1 h i J _2 t a m _1 dZ a k _5b J O _3 N a_X n _5a v a <eps> _2 k M N _5a v i _2 ts_ u Nm _5a a_X n _1 h a t _6b N u _4 k o kp _5b 
+TQA_7_NAM_S0045_147 hyp m O _6a ts_ i m _1 S E _3 v a _2 m O _2 ts_ i m _1 b o _2 k 7_X w _1 h i J _2 t a m _1 v a k _5b J O _3 N a_X n _5a v a w _2 k M7 N _5a v i _2 ts_ u Nm _6a a n _1 h a t _6b N u _4 k o k _5b 
+TQA_7_NAM_S0045_147 op C C S C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C I C C S C C C C C C C C S S C C C C C C C C C C C S C 
+TQA_7_NAM_S0045_147 #csid 67 7 1 0
+TQA_7_NAM_S0045_160 ref m o j _4 N M7 j _2 d O_X kp _6b m o t _6b d wp a n _6a k 7_X w _6a d O_X kp _6b tS M7 k _5b d i _1 h <eps> 7_X n _1 
+TQA_7_NAM_S0045_160 hyp m o j _4 v M7 <eps> <eps> d O_X t _6b m o t _6b d wp a n _6a k 7_X w _6a d O_X kp _6b tS M7 k _5b d i _1 h wp a n _1 
+TQA_7_NAM_S0045_160 op C C C C S C D D C C S C C C C C C C C C C C C C C C C C C C C C C C C C C I S C C 
+TQA_7_NAM_S0045_160 #csid 35 3 1 2
+TQA_7_NAM_S0045_249 ref <eps> i m _1 J M _1 t M7 N _6a d a _5a 
+TQA_7_NAM_S0045_249 hyp i i m _1 <eps> M _1 t M7 N _6a d a _5a 
+TQA_7_NAM_S0045_249 op I C C C D C C C C C C C C C 
+TQA_7_NAM_S0045_249 #csid 12 0 1 1
+TQA_7_NAM_S0045_212 ref v i _2 t_h e _5a k a k _5b k 7_X w _6a x o Nm _1 n e n _1 b a_X t _5b ts_ i m _1 v a _2 N a_X t _5b h wp a _1 m a _2 x o Nm _1 d e _3 i _5a t 7 j _5a dZ a _5a tS i _6a k uo _3 ts_ u Nm _5a 
+TQA_7_NAM_S0045_212 hyp v i _2 t_h e _5a k a k _5b k 7_X w _6a x o Nm _1 n e n _1 b a_X t _5b ts_ i m _1 v a _2 N a_X t _5b h wp a _1 m a _2 x o Nm _1 d e _3 i _5a t 7 j _5a dZ a _5a tS i _6a k uo _3 ts_ u Nm _5a 
+TQA_7_NAM_S0045_212 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_212 #csid 70 0 0 0
+NQH_7_NAM_S0049_94 ref k o _1 m i m _3 k M7 j _2 t_h 7_X t _6b t M7 j _1 
+NQH_7_NAM_S0049_94 hyp k o _1 m i m _3 k M7 j <eps> t_h 7_X t _6b k M7 j _1 
+NQH_7_NAM_S0049_94 op C C C C C C C C C C D C C C C S C C C 
+NQH_7_NAM_S0049_94 #csid 17 1 0 1
+TQA_7_NAM_S0045_214 ref t 7 _5a k u Nm _4 d o Nm _2 i _5a v 7 j _5a i _5a k ie n _5a k uo _3 k 7_X w _6a 
+TQA_7_NAM_S0045_214 hyp t 7 _5a k u Nm _4 d o Nm _6a i _5a v 7 j _5a i _5a k ie n _5a k uo _3 k 7_X w _6a 
+TQA_7_NAM_S0045_214 op C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_214 #csid 29 1 0 0
+TQA_7_NAM_S0045_290 ref t M7 N _5a t M7 N _5a N wp ie n _4 tS i k _5b d a _4 z u Nm _2 b o _2 k 7_X w _1 d M7 _1 t i n _1 G O p _5b f 7_X n _2 d E_X J _5a t_h a_X N _5a J ie w _2 tS 7_X n _6a k wp a n _1 tS O_X Nm _6a 
+TQA_7_NAM_S0045_290 hyp t M7 N _5a t <eps> M _5a N wp ie n _1 ts_ M k _5b d a _4 z M Nm _6a b o _5a k 7_X w _1 d M7 _1 t i n _1 G O p _5b f 7_X n _2 d E_X J _5a t_h a_X N _5a J ie w _5a tS 7_X n _6a k wp a n _5a tS O_X Nm _6a 
+TQA_7_NAM_S0045_290 op C C C C C D S C C C C C S S S C C C C C C S C S C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C C S C C C C 
+TQA_7_NAM_S0045_290 #csid 61 9 0 1
+TQA_7_NAM_S0045_8 ref t 7 _5a d o _5a k a k _5b k 7_X w _6a h i J _2 E_X J _3 S o _5a S a_X w _5a v a _2 ts_ i m _1 dZ i _2 v 7_X j _6a 
+TQA_7_NAM_S0045_8 hyp t 7 <eps> _5ad o _5a k a k _5b k 7_X w _6a h i J _2 E_X J _2 s o _5a Ss a_X w _5a v a _2 ts_ i m _1 dZ i _2 v 7_X j _6a 
+TQA_7_NAM_S0045_8 op C C D S C C C C C C C C C C C C C C C C S S C C S C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_8 #csid 37 4 0 1
+NQH_7_NAM_S0049_60 ref t 7 _5a d O_X kp _6b tS M7 k _5b J E _5a 
+NQH_7_NAM_S0049_60 hyp t 7 _5a d O_X kp _6b tS M7 k _5b J E _5a 
+NQH_7_NAM_S0049_60 op C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_60 #csid 14 0 0 0
+TQA_7_NAM_S0045_24 ref a _2 h i J _2 E_X J _3 S o _5a S a_X w _5a l a _2 k O n _1 k wp a _6a 
+TQA_7_NAM_S0045_24 hyp a _2 h i J _2 E_X J <eps> S o _5a S a w _5a l a _2 k O n _1 k wp a _6a 
+TQA_7_NAM_S0045_24 op C C C C C C C C D C C C C S C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_24 #csid 25 1 0 1
+TQA_7_NAM_S0045_210 ref t 7 _5a m uo n _5a n O j _5a v 7 j _5a k a k _5b k 7_X w _6a 7_X j _5a 
+TQA_7_NAM_S0045_210 hyp t 7 _5a m uo n _5a n O j _5a v 7 j _5a k a k _5b k 7_X w _6a 7_X j _5a 
+TQA_7_NAM_S0045_210 op C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_210 #csid 26 0 0 0
+ĐNL_Nu_6_S0007_80 ref J M N _1 x i _3 l E w _1 t O t _5b m o t _6b k a j _5a d a _4 t a_X N _5a d a _4 t_h a_X N _5a 
+ĐNL_Nu_6_S0007_80 hyp J M N _1 M N _3 d E <eps> _1 t O p _5b m o t _6b k a j _4 t a _4 t a_X N _4 t a _4 t_h a_X N _5a 
+ĐNL_Nu_6_S0007_80 op C C C C S S C S C D C C C S C C C C C C C C S S C C C C C S S C C C C C C 
+ĐNL_Nu_6_S0007_80 #csid 28 8 0 1
+TQA_7_NAM_S0045_273 ref b 7_X j _2 ts_ i m _1 k u _1 G 7_X t _6b G u _2 k a _1 h a t _5b 
+TQA_7_NAM_S0045_273 hyp b a_X j _2 ts_ i m _1 k u _1 G 7_X p _6b G o _2 k a _1 h a t _5b 
+TQA_7_NAM_S0045_273 op C S C C C C C C C C C C C S C C S C C C C C C C C 
+TQA_7_NAM_S0045_273 #csid 22 3 0 0
+TQA_7_NAM_S0045_204 ref h E_X J _2 d o Nm _6a k uo _3 k a k _5b k 7_X w _6a b E _5a G 7_X j _1 r a _1 ts_ wp ie n _6a dZ i _2 d a_X w _1 l O_X Nm _2 
+TQA_7_NAM_S0045_204 hyp h E_X J _2 d o Nm _6a k uo _3 k a k _5b k 7_X w _6a b E _5a G 7_X j _1 r a _1 ts_ wp ie n _6a dZ i _2 d a_X w _2 l O_X Nm _2 
+TQA_7_NAM_S0045_204 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C 
+TQA_7_NAM_S0045_204 #csid 44 1 0 0
+ĐNL_Nu_6_S0007_19 ref x i _1 <eps> m E _6a m a_X t _6b tS 7 j _2 G O j _6a h a t _6b n a_X N _5a b a m _5a k E_X J _5a t a_X j _1 h o Nm _2 k uo _3 m E _6a v e _2 b e n _1 k ie _1 n u j _5a 
+ĐNL_Nu_6_S0007_19 hyp x i _1 n e n _1 m E_X n _1 S 7 j _2 v O j <eps> <eps> <eps> <eps> <eps> _1 b E _5a l a m _5a k E_X J _2 t a_X j _1 h o Nm _2 <eps> uo _3 m E _6a v e _5a b e n _1 J E _1 <eps> <eps> <eps> _5a 
+ĐNL_Nu_6_S0007_19 op C C C I S S S C S S S S C C C S C C D D D D D S S S C S C C C C C C S C C C C C C C C D C C C C C C C S C C C C S S C D D D C 
+ĐNL_Nu_6_S0007_19 #csid 37 16 1 9
+TQA_7_NAM_S0045_33 ref h 7_X n _1 7 j _1 k 7_X w _6a d O_X kp _6b ts_ O _1 ts_ O _1 b O n _6a t 7 _5a N E _1 b a j _2 ts_ i m _1 E n _5a J E _5a 
+TQA_7_NAM_S0045_33 hyp h 7_X n _1 7 j _1 k 7_X w _1 d O_X kp _6b ts_ 7 _1 t 7 _5a b O_X n _2 t 7 _5a N E _1 b a j _1 ts_ i m _1 E n <eps> J E _5a 
+TQA_7_NAM_S0045_33 op C C C C C C C C C C S C C C C C S C S S S C S C S C C C C C C C C C S C C C C C C D C C C 
+TQA_7_NAM_S0045_33 #csid 36 8 0 1
+TQA_7_NAM_S0045_237 ref x wp e _1 7 j _1 k 7_X w _6a d O_X kp _6b ts_ O _1 b O n _6a t 7 _5a N E _1 
+TQA_7_NAM_S0045_237 hyp x wp E _1 7 j _1 k 7_X w _6a d O_X kp _6b ts_ O _1 b O n _6a t 7 _5a N E _1 
+TQA_7_NAM_S0045_237 op C C S C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_237 #csid 27 1 0 0
+TQA_7_NAM_S0045_140 ref b e _1 tS e n _1 m a_X t _6b h o _2 b 7_X j _2 t_h ie n _1 N a _1 tS a_X N _5a m uo t _5b d a N _1 b 7 j _1 l o j _6a 
+TQA_7_NAM_S0045_140 hyp b e _1 tS e n _1 m a_X t _6b h o _2 b 7_X j _2 <eps> ts_ a _1 N a _1 tS a_X N _5a m uo t _5b d a N _1 b 7 j _1 l o j _6a 
+TQA_7_NAM_S0045_140 op C C C C C C C C C C C C C C C C C C D S S C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_140 #csid 42 2 0 1
+TQA_7_NAM_S0045_23 ref h wp a _1 7 j _1 d e n _5a l M7 t _6b k 7_X w _6a r o j _2 
+TQA_7_NAM_S0045_23 hyp h wp e _1 7 j _1 <eps> d7_X n <eps> <eps> 7_X t _6b k 7_X w _6a r o j _2 
+TQA_7_NAM_S0045_23 op C C S C C C C D S C D D S C C C C C C C C C C 
+TQA_7_NAM_S0045_23 #csid 17 3 0 3
+ĐNL_Nu_6_S0007_43 ref k a _5a b 7 j _1 z M7 j _5a S uo j _5a 
+ĐNL_Nu_6_S0007_43 hyp k <eps> <eps> m 7 <eps> _5a t M7 <eps> _5a S uo j _5a 
+ĐNL_Nu_6_S0007_43 op C D D S C D S S C D C C C C C 
+ĐNL_Nu_6_S0007_43 #csid 8 3 0 4
+NQH_7_NAM_S0049_49 ref l a <eps> _2 tS M7 N _2 E m _1 t e n _1 l a _2 N wp ie n _4 v ie t _5b s wp 7_X n _1 
+NQH_7_NAM_S0049_49 hyp l a _2 _2 tS M7 N _2 E m _1 t e n _1 l a _2 N wp ie n _1 v ie t _5b s wp 7_X n _1 
+NQH_7_NAM_S0049_49 op C C I C C C C C C C C C C C C C C C C C C C S C C C C C C C C C 
+NQH_7_NAM_S0049_49 #csid 30 1 1 0
+TQA_7_NAM_S0045_215 ref t 7 _5a k u Nm _4 m uo n _5a n O j _5a k a k _5b b a n _6a x o Nm _1 n e n _1 b a_X t _5b ts_ i m _1 v a _2 N a_X t _5b h wp a _1 
+TQA_7_NAM_S0045_215 hyp t 7 _5a k u Nm _4 m uo n _5a n O j _5a k a k _5b b a n _6a x o Nm _1 n e n _1 b a_X t _5b ts_ i m _1 v a _2 N a_X p _5b h wp a _1 
+TQA_7_NAM_S0045_215 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C 
+TQA_7_NAM_S0045_215 #csid 49 1 0 0
+NQH_7_NAM_S0049_4 ref J 7 _5a l a j _6a n a_X m _1 N wp a j _5a dZ 7 _2 r a _1 ts_ 7 j _1 
+NQH_7_NAM_S0049_4 hyp J 7 _5a l a j _4 n a_X m _1 N wp a j _5a dZ 7 _2 dZ a _1 ts_ 7 j _1 
+NQH_7_NAM_S0049_4 op C C C C C C S C C C C C C C C C C C C S C C C C C C 
+NQH_7_NAM_S0049_4 #csid 24 2 0 0
+ĐNL_Nu_6_S0007_35 ref t_h i k _5b l a_X m _5a t_h i k _5b l a_X m _5a 
+ĐNL_Nu_6_S0007_35 hyp t_h <eps> <eps> _5b l a_X m _1 t i k _5b l a_X m _5a 
+ĐNL_Nu_6_S0007_35 op C D D C C C C S S C C C C C C C 
+ĐNL_Nu_6_S0007_35 #csid 12 2 0 2
+TQA_7_NAM_S0045_82 ref h wp a <eps> _1 x wp E _1 S a_X k _5b n 7 j _1 n 7 j _1 
+TQA_7_NAM_S0045_82 hyp h wp a n _1 x wp E _1 S a_X p _1 n 7 j _1 n 7 j _1 
+TQA_7_NAM_S0045_82 op C C C I C C C C C C C S S C C C C C C C C 
+TQA_7_NAM_S0045_82 #csid 18 2 1 0
+TQA_7_NAM_S0045_240 ref b 7 _2 tS E _1 d O n _5a x E_X k _5b 
+TQA_7_NAM_S0045_240 hyp b 7 _2 tS E _1 d O n _5a x a_X k _5b 
+TQA_7_NAM_S0045_240 op C C C C C C C C C C C S C C 
+TQA_7_NAM_S0045_240 #csid 13 1 0 0
+TQA_7_NAM_S0045_179 ref b o Nm _1 k u kp _5b h E w _5a l a _3 d i _1 v i _2 t_h M7 N _1 f a t _5b 
+TQA_7_NAM_S0045_179 hyp b o Nm _1 k u kp _5b h E w _1 l a _6a d i _1 v i _2 t_h M7 N _1 p a t _5b 
+TQA_7_NAM_S0045_179 op C C C C C C C C C C C S C C S C C C C C C C C C C S C C C 
+TQA_7_NAM_S0045_179 #csid 26 3 0 0
+TQA_7_NAM_S0045_13 ref t 7 _5a v a _2 k a k _5b k 7_X w _6a k u Nm _2 k e _3 n o j _5a t ie p _5b t e n _1 k uo _3 k a k _5b l wp a j _2 ts_ i m _1 tS O_X Nm _1 b M k _5b tS E_X J _1 J E _5a 
+TQA_7_NAM_S0045_13 hyp t 7 _5a v a _2 k a k _5b k 7_X w _6a k u Nm _2 k e _3 n o j _5a t ie p _5b t e n _1 k uo _3 k a k _5b l wp a j _2 ts_ i m _1 tS <eps> Nm _1 b M k _5b tS E_X J _5b J J _5a 
+TQA_7_NAM_S0045_13 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C S C S C 
+TQA_7_NAM_S0045_13 #csid 61 2 0 1
+TQA_7_NAM_S0045_18 ref a _2 h i J _2 E_X J _3 S o _5a b a _1 l a _2 k O n _1 ts_ i m _1 r E _3 k wp a t _6b 
+TQA_7_NAM_S0045_18 hyp r _2 h i J _2 E_X J _3 S o _5a b a _1 l a _2 k O n _5a ts_ ie m _5a d E _3 k wp a t _6b 
+TQA_7_NAM_S0045_18 op S C C C C C C C C C C C C C C C C C C C C S C S C S S C C C C C C C 
+TQA_7_NAM_S0045_18 #csid 29 5 0 0
+TQA_7_NAM_S0045_161 ref ts_ i m _1 S 7 n _1 k a _1 v a _2 b o Nm _1 k u kp _5b tS a_X N _5a 
+TQA_7_NAM_S0045_161 hyp ts_ i m _1 S 7 n _1 k a _1 v a _2 b o Nm _1 k u kp _5b tS a_X N _5a 
+TQA_7_NAM_S0045_161 op C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_161 #csid 26 0 0 0
+TQA_7_NAM_S0045_193 ref h 7_X n _1 7 j _1 k 7_X w _6a tS a _3 l 7 j _2 dZ u p _5b t 7 _5a k 7_X w _1 n a_X j _2 J E _5a 
+TQA_7_NAM_S0045_193 hyp h 7_X n _1 7 j _1 k 7_X w _1 tS a _3 l 7 j _1 dZ u p _5b d 7 _1 k 7_X <eps> _1 n a_X j _2 J E _5a 
+TQA_7_NAM_S0045_193 op C C C C C C C C C C S C C C C C C S C C C C S C S C C D C C C C C C C C 
+TQA_7_NAM_S0045_193 #csid 31 4 0 1
+TQA_7_NAM_S0045_59 ref J M N _4 k 7_X w _1 t_h 7 _1 t a _3 v E _3 d E p _6b k uo _3 k 7_X j _1 k o j _5a x i <eps> _1 m uo _2 s wp 7_X n _1 v e _2 
+TQA_7_NAM_S0045_59 hyp J M N _6a k 7_X w _1 t_h 7 _1 t a _3 v E _3 d E p _6b k uo _3 k 7_X j _1 k o j _1 x i m _1 k uo _2 <eps> swp 7_X n _1 v e _2 
+TQA_7_NAM_S0045_59 op C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C I C S C C D S C C C C C C 
+TQA_7_NAM_S0045_59 #csid 41 4 1 1
+TQA_7_NAM_S0045_287 ref ts_ u Nm _5a v 7_X n _4 J 7 _5a d M7 N _2 v e _2 
+TQA_7_NAM_S0045_287 hyp ts_ u Nm _5a v 7_X n _4 J 7 _5a d M7 N _2 v e _2 
+TQA_7_NAM_S0045_287 op C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_287 #csid 18 0 0 0
+ĐNL_Nu_6_S0007_77 ref dZ 7 _2 r a _1 ts_ 7 j _1 b a w _5a k O n _1 r a _1 S 7_X n _1 ts_ 7 j _1 v 7 j _5a k a k _5b b a n _6a 
+ĐNL_Nu_6_S0007_77 hyp dZ 7 _3 tS O _1 ts_ 7 j _1 b a w _5a k O n _1 r a _1 ts_ 7_X n _1 ts_ 7 j _1 <eps> v7 j _6a k a k _5b b a n _6a 
+ĐNL_Nu_6_S0007_77 op C C S S S C C C C C C C C C C C C C C C C S C C C C C C C D S C S C C C C C C C C 
+ĐNL_Nu_6_S0007_77 #csid 34 6 0 1
+TQA_7_NAM_S0045_106 ref h O _6a J a _2 ts_ i m _1 d u _3 k a k _5b l wp a j _6a d u _3 k a k _5b m a_X w _2 S a_X k _5b 
+TQA_7_NAM_S0045_106 hyp h O _6a J a _2 ts_ i m _1 d u _3 k E_X k _5b l wp a j _6a d u _3 k a k _5b m a_X w _2 S a_X k _5b 
+TQA_7_NAM_S0045_106 op C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_106 #csid 36 1 0 0
+TQA_7_NAM_S0045_188 ref tS M7 k _5b x i _1 b i _6a b O _3 v a w _2 l o Nm _2 ts_ i m _1 v a _2 h wp a _1 S o Nm _5a t_h e _5a n a w _2 
+TQA_7_NAM_S0045_188 hyp tS M7 k _5b x i _1 b i _6a b O _3 v a w _2 l o Nm _2 ts_ i m _1 v a _2 h wp a _1 S o Nm _1 t_h e _5a n a w _2 
+TQA_7_NAM_S0045_188 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C 
+TQA_7_NAM_S0045_188 #csid 42 1 0 0
+ĐNL_Nu_6_S0007_62 ref ts_ i m _1 b a_X j _1 tS e n _1 tS 7 j _2 
+ĐNL_Nu_6_S0007_62 hyp ts_ i m _1 b a j _1 tS e n _1 tS 7 j _2 
+ĐNL_Nu_6_S0007_62 op C C C C C S C C C C C C C C C C 
+ĐNL_Nu_6_S0007_62 #csid 15 1 0 0
+TQA_7_NAM_S0045_157 ref v i _2 k wp e n _1 z u Nm _2 d o Nm _2 t_h 7 j _2 h a j _1 ts_ 7_X n _1 
+TQA_7_NAM_S0045_157 hyp v i _2 k wp e n _1 z o Nm _2 d o Nm _2 t_h 7 j _2 h a j _1 ts_ 7_X n _1 
+TQA_7_NAM_S0045_157 op C C C C C C C C C S C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_157 #csid 27 1 0 0
+NQH_7_NAM_S0049_134 ref t_h e _5a k O n _2 k 7_X w _6a 
+NQH_7_NAM_S0049_134 hyp t_h e <eps> k <eps> n <eps> <eps> <eps> w _6a 
+NQH_7_NAM_S0049_134 op C C D C D C D D D C C 
+NQH_7_NAM_S0049_134 #csid 6 0 0 5
+ĐNL_Nu_6_S0007_49 ref k a _5a b 7 j _1 z M7 j _5a S uo j _5a t_h 7_X j _5a ts_ i m _1 h O t _5b tS e n _1 k E_X J _2 
+ĐNL_Nu_6_S0007_49 hyp k a _5a <eps> wp e _1 z o j _5a s uo j _5a t_h e j _5a ts_ i J _1 k o t _5b ts_ u J _1 k E_X J _2 
+ĐNL_Nu_6_S0007_49 op C C C D S S C C S C C S C C C C S C C C C S C S S C C S S S C C C C C 
+ĐNL_Nu_6_S0007_49 #csid 23 11 0 1
+TQA_7_NAM_S0045_170 ref t_h a w _3 7 j _1 k 7_X w _6a d O_X kp _6b d wp a n _6a t ie p _5b t_h E w _1 d i _1 
+TQA_7_NAM_S0045_170 hyp t_h a w _3 7 j _1 k 7_X w _6a d O_X kp _6a d <eps> wpa n _6a t ie p _5b t_h E w _1 d i _1 
+TQA_7_NAM_S0045_170 op C C C C C C C C C C C C C C S C D S C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_170 #csid 28 2 0 1
+TQA_7_NAM_S0045_294 ref x wp e _1 7 j _1 k 7_X w _6a tS a _3 l 7 j _2 dZ u p _5b t 7 _5a J M N _4 k 7_X w _1 h O j _3 n a_X j _2 J E _5a 
+TQA_7_NAM_S0045_294 hyp x wp e _1 7 j _1 k 7_X w _6a tS a _3 l 7 j _1 dZ M p _5b t 7 <eps> _1 JM N _1 k 7_X w _1 h O j _3 n a_X j _2 J E _5a 
+TQA_7_NAM_S0045_294 op C C C C C C C C C C C C C C C C C S C S C C C C D S S C S C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_294 #csid 38 5 0 1
+TQA_7_NAM_S0045_145 ref v i _2 S a w _1 m O <eps> _3 k uo _3 k a k _5b l wp a j _2 ts_ i m _1 x o Nm _1 dZ o Nm _5a J a_X w _1 
+TQA_7_NAM_S0045_145 hyp v i _2 S a w _1 m O n _6a k uo _3 k a k _5b l wp a j _2 ts_ i m _1 x o Nm _1 dZ o Nm _5a J a_X w _1 
+TQA_7_NAM_S0045_145 op C C C C C C C C C I S C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_145 #csid 37 1 1 0
+ĐNL_Nu_6_S0007_47 ref t_h e _5a r o j _2 h a j _1 b a n _6a k u Nm _2 d i _1 ts_ 7 j _1 
+ĐNL_Nu_6_S0007_47 hyp t_h e _5a r o j _2 h a j _1 b a n _6a k u Nm _6a d i _1 ts_ 7 j _1 
+ĐNL_Nu_6_S0007_47 op C C C C C C C C C C C C C C C C C C S C C C C C C C 
+ĐNL_Nu_6_S0007_47 #csid 25 1 0 0
+TQA_7_NAM_S0045_223 ref t_h e _5a ts_ i m _1 dZ i _2 b ie t _5b d M7 _1 t_h M _1 l a _2 b ie w _3 h ie n _6a k uo _3 h wp a _2 b i J _2 
+TQA_7_NAM_S0045_223 hyp t_h e _5a ts_ i m _1 dZ i _2 b ie t _5b d M7 _1 t_h M _1 l a _2 b ie w _3 h ie n _6a k uo _2 h <eps> a _2 b i J _2 
+TQA_7_NAM_S0045_223 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C D C C C C C C 
+TQA_7_NAM_S0045_223 #csid 40 1 0 1
+ĐNL_Nu_6_S0007_58 ref ts_ i m _1 b a_X j _1 tS e n _1 tS 7 j _2 
+ĐNL_Nu_6_S0007_58 hyp ts_ i m _1 b a w _1 ts_ e n _1 tS 7 j _2 
+ĐNL_Nu_6_S0007_58 op C C C C C S S C S C C C C C C C 
+ĐNL_Nu_6_S0007_58 #csid 13 3 0 0
+TQA_7_NAM_S0045_167 ref b o Nm _1 k u kp _5b d a _4 N E _1 t_h 7_X j _5a t ie N _5a S 7 n _1 k a _1 b uo n _2 t_h a m _3 
+TQA_7_NAM_S0045_167 hyp b o Nm _1 k u kp _5b d a _4 N E _1 t_h 7_X j _5a t ie N _5a S 7 n _1 k a _1 b uo n _1 t_h a m _3 
+TQA_7_NAM_S0045_167 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C 
+TQA_7_NAM_S0045_167 #csid 36 1 0 0
+ĐNL_Nu_6_S0007_16 ref n O _5a a n _1 u j _3 r o j _2 G M j _3 t a_X N _6a b o Nm _1 h o Nm _2 b o Nm _1 h o Nm _2 ts_ ie k _5b x a_X n _1 v a N _2 O_X Nm _5a 
+ĐNL_Nu_6_S0007_16 hyp n O _5a a n _1 <eps> <eps> <eps> r o j _2 <eps> k o _3 d a w _6a b 7_X Nm _1 h o Nm _2 b o Nm _1 h O_X Nm _6a ts_ ie k _5b n a N _1 v a N _2 O_X Nm _5a 
+ĐNL_Nu_6_S0007_16 op C C C C C C D D D C C C C D S S C S S S C C S C C C C C C C C C C C S C S C C C C S S S C C C C C C C C 
+ĐNL_Nu_6_S0007_16 #csid 37 11 0 4
+ĐNL_Nu_6_S0007_89 ref v a _2 b a w _5a k O n _1 d a _4 t_h o j _3 l <eps> a j _6a h e t _5b S E_X k _6b v a _2 n O j _5a 
+ĐNL_Nu_6_S0007_89 hyp v a _2 <eps> a w _5a k O n _1 J a <eps> t_h <eps> u _3 l wp a n _6a h e t _5b S E_X k _6b v a _2 n O j _5a 
+ĐNL_Nu_6_S0007_89 op C C C D C C C C C C C S C D C D S C C I C S C C C C C C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_89 #csid 31 3 1 3
+TQA_7_NAM_S0045_100 ref m o j _4 l 7_X n _2 d a j _6a b a N _2 v o _4 k E_X J _5a l a j _6a f a t _5b r a _1 J M N _4 t ie N _5a v i _1 v u _1 v i _1 v u t _5b 
+TQA_7_NAM_S0045_100 hyp m o j _4 l 7_X n _2 d a j _6a b a N _2 v o _4 k E_X J _5a l a j _6a f a t _5b z a _1 J M N _4 t ie N _4 v i _1 v u _4 v i _1 v uo t _5b 
+TQA_7_NAM_S0045_100 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C C C S C C C C C S C C C C S C C 
+TQA_7_NAM_S0045_100 #csid 51 4 0 0
+TQA_7_NAM_S0045_189 ref tS M7 k _5b x i _1 b i _6a b O _3 v a w _2 l o Nm _2 
+TQA_7_NAM_S0045_189 hyp tS M7 k _5b x i _1 b i _6a b O _3 v a w _2 l o <eps> _2 
+TQA_7_NAM_S0045_189 op C C C C C C C C C C C C C C C C C C C D C 
+TQA_7_NAM_S0045_189 #csid 20 0 0 1
+TQA_7_NAM_S0045_131 ref 7 _1 k 7_X w _6a tS a _3 l 7 j _2 d i _1 
+TQA_7_NAM_S0045_131 hyp 7 _1 <eps> 7_X w <eps> ts_ a _2 l 7_X j _2 d i _1 
+TQA_7_NAM_S0045_131 op C C D C C D S C S C S C C C C C 
+TQA_7_NAM_S0045_131 #csid 11 3 0 2
+TQA_7_NAM_S0045_219 ref ts_ i m _1 b a w _3 h ie w _6a m uo _2 s wp 7_X n _1 S a N _1 l a _2 ts_ i m _1 E n _5a 
+TQA_7_NAM_S0045_219 hyp ts_ i m _1 b a w _1 h ie w _6a m uo _2 s wp 7_X n _1 S a N _1 l a _2 ts_ i m _1 E n _5a 
+TQA_7_NAM_S0045_219 op C C C C C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_219 #csid 33 1 0 0
+NQH_7_NAM_S0049_13 ref k O _5a d u _3 k a k _5b l wp a j _6a k 7_X j _1 
+NQH_7_NAM_S0049_13 hyp k O _5a d u _3 k a k _5b l wp a j _6a k 7_X j _1 
+NQH_7_NAM_S0049_13 op C C C C C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_13 #csid 19 0 0 0
+TQA_7_NAM_S0045_198 ref d ie w _2 dZ i _2 ts_ O _1 t_h 7_X j _5a k a k _5b k 7_X w _6a b E _5a r 7_X t _5b v o _1 t i J _2 d o j _5a v 7 j _5a ts_ i m _1 
+TQA_7_NAM_S0045_198 hyp d <eps> w _2 dZ i _2 ts_ O _1 t_h 7_X j _5a k a k _5b k 7_X w _6a b E _5a r 7_X t _5b v o _1 t i J _5a d o j _5a v 7 j _5a ts_ i m _1 
+TQA_7_NAM_S0045_198 op C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C 
+TQA_7_NAM_S0045_198 #csid 46 1 0 1
+NQH_7_NAM_S0049_106 ref k u Nm _4 t_h 7_X j _5a k o _1 d e n _5a r o j _2 
+NQH_7_NAM_S0049_106 hyp k u Nm _4 t_h e j _5a k o <eps> d e n _5a r o j _2 
+NQH_7_NAM_S0049_106 op C C C C C S C C C C D C C C C C C C C 
+NQH_7_NAM_S0049_106 #csid 17 1 0 1
+TQA_7_NAM_S0045_186 ref t_h i _2 h o m _1 n a_X j _1 ts_ a_X k _5b n O _5a v 7_X n _4 d a N _1 t a_X m _5a n a_X N _5a m a_X t _6b tS 7 j _2 
+TQA_7_NAM_S0045_186 hyp t_h i _2 <eps> o m _1 n a_X j _1 ts_ a_X k _6b n O _5a v 7_X n _1 d a N _1 t a_X m _5a n a_X N _5a m a_X t _6b tS 7 j _2 
+TQA_7_NAM_S0045_186 op C C C D C C C C C C C C C C S C C C C C C S C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_186 #csid 39 2 0 1
+TQA_7_NAM_S0045_272 ref s e _1 n o j _5a v 7 j _5a b o n _5a ts_ u _5a b O j _5a k a _5a b a_X j _1 s uo N _5a r o j _2 l a j _6a v u t _6b b a_X j _1 l e n _1 d e <eps> _1 n O j _5a v 7 j _5a b a _1 
+TQA_7_NAM_S0045_272 hyp s e _1 n o j _5a v <eps> e _5a b o <eps> _5a ts_ uo _5a b O j _5a k a _5a b a_X j _1 s uo N _5a r o j _3 l a j _5a v u t _6b b a_X j _1 l e n _1 d e n _1 l u j _5a v 7 j _5a b a _1 
+TQA_7_NAM_S0045_272 op C C C C C C C C D S C C C D C C S C C C C C C C C C C C C C C C C C C C S C C C S C C C C C C C C C C C C C C I C S S C C C C C C C C C 
+TQA_7_NAM_S0045_272 #csid 59 6 1 2
+ĐNL_Nu_6_S0007_25 ref t 7 _5a t_h 7_X j _5a b o Nm _1 h o Nm _2 d M7 k _6b h a t _6b n a_X N _5a a n _1 u j _3 k 7_X w _6a a _2 
+ĐNL_Nu_6_S0007_25 hyp t 7 _5a t_h 7_X j _5a b o Nm _1 h o Nm _1 d M7 k _6b h O_X kp _6b N a_X n _6a a n _1 u <eps> <eps> k 7_X w _6a a _2 
+ĐNL_Nu_6_S0007_25 op C C C C C C C C C C C C C C S C C C C C S S C S C S S C C C C D D C C C C C C 
+ĐNL_Nu_6_S0007_25 #csid 31 6 0 2
+NQH_7_NAM_S0049_105 ref S a N _5a n a w _2 E m _1 d e n _5a l 7 p _5b 
+NQH_7_NAM_S0049_105 hyp S a N _5a <eps> a w _5a E m _1 d e n _5a l 7 p _5b 
+NQH_7_NAM_S0049_105 op C C C C D C C S C C C C C C C C C C C 
+NQH_7_NAM_S0049_105 #csid 17 1 0 1
+NQH_7_NAM_S0049_116 ref J M N _4 d ie m _3 m M7 j _2 k o _1 ts_ O _1 
+NQH_7_NAM_S0049_116 hyp J M N <eps> d ie m _2 m 7 j _2 k o _2_1 ts_ O _1 
+NQH_7_NAM_S0049_116 op C C C D C C C S C S C C C C S C C C 
+NQH_7_NAM_S0049_116 #csid 14 3 0 1
+NQH_7_NAM_S0049_14 ref k E_X J _6a v M7 n _2 tS M7 N _2 l a _2 t_h M _1 v ie n _6a s E_X J _1 
+NQH_7_NAM_S0049_14 hyp k E_X j _2 v M7 n _2 tS M7 N _2 l a _2 t_h M _1 h ie n _6a s E_X J _1 
+NQH_7_NAM_S0049_14 op C C S S C C C C C C C C C C C C C C S C C C C C C C 
+NQH_7_NAM_S0049_14 #csid 23 3 0 0
+TQA_7_NAM_S0045_16 ref t_h a w _3 7 j _1 t 7 _5a m 7 j _2 k 7_X w _6a tS a _3 l 7 j _2 b M k _5b tS E_X J _1 S o _5a h a j _1 
+TQA_7_NAM_S0045_16 hyp t_h a w _3 7 j _1 t 7 _5a m 7 j _2 k 7_X w _6a tS a _3 l 7 j _2 <eps> bM k _5b tS E_X J <eps> S o _5a h a j _1 
+TQA_7_NAM_S0045_16 op C C C C C C C C C C C C C C C C C C C C C C C C C D S C C C C C D C C C C C C C 
+TQA_7_NAM_S0045_16 #csid 37 1 0 2
+TQA_7_NAM_S0045_150 ref v i _2 S a w _1 k O _5a t_h M7 N _2 d M N _5a b a_X N _2 m o t _6b ts_ 7_X n _1 
+TQA_7_NAM_S0045_150 hyp v i _2 s a w _1 k O _2 t_h M7 N _2 d M N _5a b a_X N _2 m o t _2 ts_ 7_X n _1 
+TQA_7_NAM_S0045_150 op C C C S C C C C C S C C C C C C C C C C C C C C C S C C C C 
+TQA_7_NAM_S0045_150 #csid 27 3 0 0
+TQA_7_NAM_S0045_112 ref m a_X t _6b h o _2 k a N _2 <eps> <eps> <eps> <eps> k a N _2 s E_X J _1 t_h e m _1 m e J _1 m o Nm _1 
+TQA_7_NAM_S0045_112 hyp m a_X t _6b h o _2 k a N _2 t_h e n _1 k a N _2 s E_X J _1 t_h e m _1 m E_X J _1 m o Nm _1 
+TQA_7_NAM_S0045_112 op C C C C C C C C C C C I I I I C C C C C C C C C C C C C S C C C C C C 
+TQA_7_NAM_S0045_112 #csid 30 1 4 0
+TQA_7_NAM_S0045_37 ref h o m _1 n a_X j _1 v e _2 m 7 _3 h o j _6a 
+TQA_7_NAM_S0045_37 hyp h o m _1 n a_X j _1 v e _1 m 7 _3 h o j _6a 
+TQA_7_NAM_S0045_37 op C C C C C C C C C C S C C C C C C C 
+TQA_7_NAM_S0045_37 #csid 17 1 0 0
+TQA_7_NAM_S0045_146 ref m O _3 k uo _3 ts_ i m _1 l ie n _1 k wp a n _1 d e n _5a t_h M k _5b a_X n _1 k uo _3 ts_ u Nm _5a 
+TQA_7_NAM_S0045_146 hyp m 7 _3 k uo _3 ts_ i m _1 l ie n _1 k wp a n _1 d e n _5a t_h M k _5b a_X n _1 k uo _3 ts_ u Nm _5a 
+TQA_7_NAM_S0045_146 op C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_146 #csid 36 1 0 0
+NQH_7_NAM_S0049_53 ref N o j _1 J a _2 t_h M _5a h a j _1 n a_X j _2 N o j _1 J a _2 t_h M _5a h a j _1 n a_X j _2 
+NQH_7_NAM_S0049_53 hyp N o j _1 J a _2 t_h M _5a h a j _1 n a_X j _2 N o j _1 J a _4 t_h <eps> <eps> <eps> <eps> <eps> <eps> N b j _2 
+NQH_7_NAM_S0049_53 op C C C C C C C C C C C C C C C C C C C C C C C C S C D D D D D D S S C C 
+NQH_7_NAM_S0049_53 #csid 27 3 0 6
+TQA_7_NAM_S0045_79 ref b o _6a f 7_X n _6a tS a _3 l 7 j _2 ts_ O _1 k 7_X w _1 <eps> <eps> 7 _3 d 7_X w _1 l a _2 l a _2 
+TQA_7_NAM_S0045_79 hyp b o _3 f 7_X t _6a tS a _3 l 7 j _2 ts_ O _1 k 7_X w _1 7 _2 7 _3 d 7_X w _1 l a <eps> <eps> _1 _2 
+TQA_7_NAM_S0045_79 op C C S C C S C C C C C C C C C C C C C C C I I C C C C C C C C D D S C 
+TQA_7_NAM_S0045_79 #csid 28 3 2 2
+TQA_7_NAM_S0045_88 ref t M _2 ts_ i _3 t M _2 N M _4 ts_ i _3 h wp a t _6b d o Nm _6a l a _2 m 7 _3 h o j _6a l M7 n _6a b a_X j _1 z 7_X n _4 l o j _5a r u _3 ts_ a w _1 v 7_X j _4 
+TQA_7_NAM_S0045_88 hyp t M _2 ts_ i _3 t M _2 N M _4 ts_ i _3 h wp a t _6b d o Nm _6a l a _2 m 7 _3 h o j _6a l M7 n _6a b a_X j _1 z 7_X n _4 l o j _4 r u _3 ts_ a w _1 v 7_X j _4 
+TQA_7_NAM_S0045_88 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C C C C C 
+TQA_7_NAM_S0045_88 #csid 60 1 0 0
+TQA_7_NAM_S0045_194 ref v i _2 S a w _1 t ie N _5a h a t _5b k uo _3 ts_ i m _1 tS 7 _3 n e n _1 b uo n _2 t_h a m _3 
+TQA_7_NAM_S0045_194 hyp v i _2 s a w _1 t ie N _5a h a_X t _5b k uo _3 ts_ i m _1 tS 7 _3 n e n <eps> b uo n <eps> t_h a m _3 
+TQA_7_NAM_S0045_194 op C C C S C C C C C C C C S C C C C C C C C C C C C C C C D C C C D C C C C 
+TQA_7_NAM_S0045_194 #csid 33 2 0 2
+TQA_7_NAM_S0045_271 ref b a k _5b b o _2 n o Nm _1 d M N _5a i m _1 J M _1 t M7 N _6a d a _5a 
+TQA_7_NAM_S0045_271 hyp b a k _5b b o _2 l o Nm _1 d M N _5a e m _1 J M _1 t_h uo N _6a d a _5a 
+TQA_7_NAM_S0045_271 op C C C C C C C S C C C C C C C S C C C C C S S C C C C C 
+TQA_7_NAM_S0045_271 #csid 24 4 0 0
+TQA_7_NAM_S0045_162 ref b e n _1 b 7 _2 r a w _2 dZ M7 _4 d a m _5a k O _3 z a j _6a k O _5a b o Nm _1 k u kp _5b tS a_X N _5a 
+TQA_7_NAM_S0045_162 hyp b e n _1 b 7 _2 r a w _2 dZ M7 _4 d a m _5a k O _3 z a j _6a k O _5a b o Nm _1 k u kp _5b tS a_X N _5a 
+TQA_7_NAM_S0045_162 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_162 #csid 40 0 0 0
+TQA_7_NAM_S0045_67 ref k a k _5b k 7_X w _6a m uo n _5a ts_ i m _1 E n _5a n O j _5a dZ i _2 x i _1 m uo _2 s wp 7_X n _1 v e _2 
+TQA_7_NAM_S0045_67 hyp k a k _5b k 7_X w _6a m uo n _5a ts_ i m _1 <eps> e _2 n O j _5a dZ i _2 x i _1 m uo <eps> <eps> _2s wp7_X n _1 v e _2 
+TQA_7_NAM_S0045_67 op C C C C C C C C C C C C C C C C D S S C C C C C C C C C C C C D D S S C C C C C 
+TQA_7_NAM_S0045_67 #csid 33 4 0 3
+ĐNL_Nu_6_S0007_81 ref b a w _5a k O n _1 b a w _5a k O n _1 r 7_X t _5b t M k _5b 
+ĐNL_Nu_6_S0007_81 hyp b a w _5a k O n _1 b a w _5a k O n _1_5a r 7_X t _5b t_h i k _5b 
+ĐNL_Nu_6_S0007_81 op C C C C C C C C C C C C C C C S C C C C S S C C 
+ĐNL_Nu_6_S0007_81 #csid 21 3 0 0
+TQA_7_NAM_S0045_268 ref t_h a w _3 7 j _1 k 7_X w _6a tS a _3 l 7 j _2 d i _1 
+TQA_7_NAM_S0045_268 hyp t_h a w _3 7 j _3 k 7_X w _6a_3 tS a _3 l 7 j _2 d i _1 
+TQA_7_NAM_S0045_268 op C C C C C C S C C C S C C C C C C C C C C 
+TQA_7_NAM_S0045_268 #csid 19 2 0 0
+ĐNL_Nu_6_S0007_60 ref x o Nm _1 l O _1 ts_ i m _1 7 j _1 
+ĐNL_Nu_6_S0007_60 hyp x <eps> Nm _1 l O <eps> <eps> <eps> <eps> _1 <eps> 7j _1 
+ĐNL_Nu_6_S0007_60 op C D C C C C D D D D C D S C 
+ĐNL_Nu_6_S0007_60 #csid 7 1 0 6
+TQA_7_NAM_S0045_1 ref k 7_X w _6a 7 j _1 ts_ u Nm _5a m i J _2 k u Nm _2 t_h i _1 G O j _6a t e n _1 J M N _4 l wp a j _2 ts_ i m _1 k O _5a t e n _1 tS O_X Nm _1 b M k _5b tS E_X J _1 n a_X j _2 J E _5a 
+TQA_7_NAM_S0045_1 hyp k 7_X w _6a 7 j _6a ts_ u <eps> <eps> m i J _2 k u Nm _2 t_h i _1 G O_X j _3 t e n _1 J M N _4 l wp a j _2 ts_ i m _1 k O _5a t e n _1 <eps> ts_ O _1 b M k _5b tS E_X J _1 n a_X j _2 J E _5a 
+TQA_7_NAM_S0045_1 op C C C C C C S C C D D C C C C C C C C C C C C S C S C C C C C C C C C C C C C C C C C C C C C C C C D S S C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_1 #csid 61 5 0 3
+TQA_7_NAM_S0045_232 ref k a k _5b l wp a j _2 ts_ i m _1 k O _5a r 7_X t _5b J ie w _2 l 7 j _6a i k _5b m a N _1 l a j _6a ts_ O _1 k O n _1 N M7 j _2 J M _1 dZ u p _5b J 7_X n _1 z 7_X n _1 b a w _3 v e _6a m uo _2 m a N _2 
+TQA_7_NAM_S0045_232 hyp k a k _5b l wp a j _2 ts_ i m _1 k O _5a_3 r 7_X t _5b J ie w _2 l 7 j _5a i k _5b m a N _1 l a j _6a ts_ O _1 k O n _1 N M7 j _2 J M _1 dZ u p _5b n M N _1 z 7_X n _1 b a w _3 v e _6a m uo _2 m a N _2 
+TQA_7_NAM_S0045_232 op C C C C C C C C C C C C C C C S C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S S S C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_232 #csid 74 5 0 0
+TQA_7_NAM_S0045_279 ref b o _2 k 7_X w _1 d M7 k _6b k O n _1 N M7 j _2 d M7 _1 v e _2 n uo j _1 t M _2 k E_X k _5b d 7_X j _1 n a_X m _1 N i n _2 n a_X m _1 
+TQA_7_NAM_S0045_279 hyp b o _2 k 7_X w _1 d M7 k _6b k O n _1 N M7 j _2 d M7 _1 v e _2 n uo j _1 t M _2 k E_X k _5b d 7_X j _1 n a_X m _1 <eps> <eps> <eps> <eps> n a_X m _1 
+TQA_7_NAM_S0045_279 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D D D D C C C C 
+TQA_7_NAM_S0045_279 #csid 48 0 0 4
+ĐNL_Nu_6_S0007_97 ref l 7_X n _2 S a_X w _1 E m _1 m a _2 k O <eps> _5a v E _3 m a_X t _6b t M k _5b dZ 7_X n _6a E m _1 S E _4 t_h o j _3 b O_X Nm _5a a _6a 
+ĐNL_Nu_6_S0007_97 hyp l M7 n _2 s 7_X Nw _1 E m _1 J a _2 k O _1 d i J _3 J E_X J _6a t M k _5b s 7_X n _1 E m _1 <eps> SE _4 t_h <eps> uo _3 b <eps> a _5a a _6a 
+ĐNL_Nu_6_S0007_97 op C S C C S S S C C C C S C C C C I S S S C S S S S C C C C S C C S C C C D S C C D S C C D S C C C 
+ĐNL_Nu_6_S0007_97 #csid 28 17 1 3
+ĐNL_Nu_6_S0007_55 ref o j _1 b a n _6a k a _5a 7 j _1 
+ĐNL_Nu_6_S0007_55 hyp o j _1 b a <eps> _6a k a _5a 7 j _1 
+ĐNL_Nu_6_S0007_55 op C C C C C D C C C C C C C 
+ĐNL_Nu_6_S0007_55 #csid 12 0 0 1
+TQA_7_NAM_S0045_93 ref J M N _4 k 7 n _1 dZ O _5a J E _6a l a <eps> _2 m a_X t _6b n M7 k _5b h o _2 i _1 r <eps> 7 _1 p a _1 ts_ a w _1 m i J _2 r u Nm _1 d o Nm _6a 
+TQA_7_NAM_S0045_93 hyp J M N _4 k 7 n _1 dZ O _5a J E _6a l a N _2 m a_X t _6b n M7 k _5b h o _2 i _1 r a w _1 t a _1 tS a w _1 m i J _2 r u Nm _4 d o Nm _6a 
+TQA_7_NAM_S0045_93 op C C C C C C C C C C C C C C C C I C C C C C C C C C C C C C C C I S C S C C S C C C C C C C C C C S C C C C 
+TQA_7_NAM_S0045_93 #csid 48 4 2 0
+NQH_7_NAM_S0049_30 ref h a _2 v a _2 k a k _5b b a n _6a t_h M7 N _2 tS O _2 ts_ wp ie n _6a v e _2 N o j _1 tS M7 N _2 d a N _1 s 7_X j _1 
+NQH_7_NAM_S0049_30 hyp h a _2 v a _2 k a k _5b b a n _2 t_h M7 N _2 tS 7 _2 ts_ wp ie n _2 v e _2 N o j _2 tS M7 N _2 d a N _1 s 7_X j _1 
+NQH_7_NAM_S0049_30 op C C C C C C C C C C C C C S C C C C C S C C C C C S C C C C C C S C C C C C C C C C C C C 
+NQH_7_NAM_S0049_30 #csid 41 4 0 0
+ĐNL_Nu_6_S0007_61 ref k a _5a b 7 j _1 z M7 j _5a S uo j _5a 
+ĐNL_Nu_6_S0007_61 hyp k a <eps> b 7 j _1 r M7 j _2 S uo j _5a 
+ĐNL_Nu_6_S0007_61 op C C D C C C C S C C S C C C C 
+ĐNL_Nu_6_S0007_61 #csid 12 2 0 1
+TQA_7_NAM_S0045_63 ref k O _3 m O_X kp _6b s E_X J _1 ts_ 7_X n _1 d e <eps> _1 
+TQA_7_NAM_S0045_63 hyp k O _3 m a_X t _6b s E_X J _1 tS e n _1 d e n _1 
+TQA_7_NAM_S0045_63 op C C C C S S C C C C C S S C C C C I C 
+TQA_7_NAM_S0045_63 #csid 14 4 1 0
+ĐNL_Nu_6_S0007_74 ref t 7 _5a k O _5a b a n _6a a _2 b a n _6a k e _3 d i _1 
+ĐNL_Nu_6_S0007_74 hyp t 7 _5a k O _5a b a n _6a a _2 b a n _6a k e _3 d i _1 
+ĐNL_Nu_6_S0007_74 op C C C C C C C C C C C C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_74 #csid 22 0 0 0
+TQA_7_NAM_S0045_217 ref t 7 _5a d o _5a J E _5a ts_ i m _1 dZ i _2 b a w _5a h ie w _6a m uo _2 s wp 7_X n _1 S a N _1 
+TQA_7_NAM_S0045_217 hyp t 7 _5a d o _5a J E _5a ts_ i m _1 t_h i _5a b a w _5a h ie w _6a m uo _5a s wp 7_X n _1 s a N _1 
+TQA_7_NAM_S0045_217 op C C C C C C C C C C C C C S C S C C C C C C C C C C S C C C C C S C C C 
+TQA_7_NAM_S0045_217 #csid 32 4 0 0
+TQA_7_NAM_S0045_149 ref k O n _2 ts_ i m _1 M N _1 k O _5a m O _3 v M7 _2 k M N _5a v M7 _2 S a_X k _5b d e _3 b a_X t _5b v a _2 s E _5a k O n _1 m o j _2 
+TQA_7_NAM_S0045_149 hyp k O n _2 ts_ i m _1 u Nm _1 k O _5a m O _3 v M7 _2 k M N _5a v M7 _2 s a_X k _5b d e _3 b a_X t _5b v a _2 s E _1 k O n _1 m o j _2 
+TQA_7_NAM_S0045_149 op C C C C C C C C S S C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C S C C C C C C C C 
+TQA_7_NAM_S0045_149 #csid 48 4 0 0
+TQA_7_NAM_S0045_40 ref k <eps> O _3 m O_X kp _6b s E_X J _1 ts_ 7_X n _1 d e <eps> _1 
+TQA_7_NAM_S0045_40 hyp k n 7 _3 m O_X kp _6b s E_X J _1 tS e n _1 d e n _1 
+TQA_7_NAM_S0045_40 op C I S C C C C C C C C C S S C C C C I C 
+TQA_7_NAM_S0045_40 #csid 15 3 2 0
+TQA_7_NAM_S0045_201 ref b e _1 d o j _5a v 7 j _5a h wp a _1 h a j _1 k 7_X w _6a k 7_X m _2 z a w _1 
+TQA_7_NAM_S0045_201 hyp b e _1 d o j _1 v 7 j _5a h wp a_X _1 h a j _1 k 7_X w _6a k 7_X m _2 z a w _1 
+TQA_7_NAM_S0045_201 op C C C C C C S C C C C C C S C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_201 #csid 29 2 0 0
+TQA_7_NAM_S0045_92 ref ts_ i m _1 r M N _2 t 7_X j _1 N wp ie n _1 
+TQA_7_NAM_S0045_92 hyp ts_ i n _1 r M N _2 t 7_X j _1 N wp n n _1 
+TQA_7_NAM_S0045_92 op C C S C C C C C C C C C C C S C C 
+TQA_7_NAM_S0045_92 #csid 15 2 0 0
+TQA_7_NAM_S0045_119 ref t_h ie n _1 N a _1 k O _5a b o _6a l o Nm _1 tS a_X N _5a m uo t _5b ts_ ie k _5b k o _3 z a j _2 t_h M7 N _2 s wp ie n _1 b 7 j _1 l o j _6a k wp E_X J _1 h o _2 
+TQA_7_NAM_S0045_119 hyp t_h ie n _1 N a _1 k O _5a b o _6a l o Nm _1 tS a_X N _4 m uo t _5b ts_ ie k _5b k o _3 z a j _2 t_h M7 Nm _1 s wp ie n _1 b 7 j _1 l 7 j _6a k wp E_X J _1 h o _2 
+TQA_7_NAM_S0045_119 op C C C C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C S S C C C C C C C C C C S C C C C C C C C C C 
+TQA_7_NAM_S0045_119 #csid 57 4 0 0
+TQA_7_NAM_S0045_65 ref k 7_X j _1 k a m _1 v a N _2 t_h e m _1 tS a j _5a 
+TQA_7_NAM_S0045_65 hyp k 7_X j _1 k a m _1 v a N _2 t_h e m _1 tS a j _5a 
+TQA_7_NAM_S0045_65 op C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_65 #csid 20 0 0 0
+ĐNL_Nu_6_S0007_18 ref t_h e _5a l a _2 m 7_X m _2 k 7_X j _1 d o j _6a d 7_X t _5b J o _1 l e n _1 
+ĐNL_Nu_6_S0007_18 hyp t_h e _5a n a _2 m a_X m _2 k 7_X j _5b t o <eps> _5b d a_X t _5b J o _1 l e n _1 
+ĐNL_Nu_6_S0007_18 op C C C S C C C S C C C C C S S C D S C S C C C C C C C C C 
+ĐNL_Nu_6_S0007_18 #csid 22 6 0 1
+ĐNL_Nu_6_S0007_98 ref b a n _6a v M7 _2 N E _1 s O_X Nm _1 k 7_X w _1 k 7_X w _1 ts_ wp ie n _6a t 7 _5a k e _3 d u Nm _5a x o Nm _1 
+ĐNL_Nu_6_S0007_98 hyp b a n _6a v M7 _2 N E _1 s O_X Nm _1 k 7_X w _1 k 7_X w _1 ts_ wp ie n _6a t 7 _5a k i _3 t u <eps> _4 x o Nm _1 
+ĐNL_Nu_6_S0007_98 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C S C D S C C C C 
+ĐNL_Nu_6_S0007_98 #csid 37 3 0 1
+ĐNL_Nu_6_S0007_4 ref d e _3 t 7 _5a d O_X kp _6b tS M7 k _5b b a n _6a J a _1 
+ĐNL_Nu_6_S0007_4 hyp d e _3 t 7 _5a d O_X kp _6b tS M7 k _5b b a_X t _6a J a _1 
+ĐNL_Nu_6_S0007_4 op C C C C C C C C C C C C C C C S S C C C C 
+ĐNL_Nu_6_S0007_4 #csid 19 2 0 0
+ĐNL_Nu_6_S0007_83 ref tS O_X Nm _1 k uo k _6b t_h i _1 v 7_X t _6b t a_X j _1 G 7_X w _5a k O n _1 t_h a_X N _5a 
+ĐNL_Nu_6_S0007_83 hyp tS O_X Nm _1 k uo k _6b t_h i _1 v a_X t _6b t a_X j _1 d o w _5a k O n _1 t_h a_X N _5a 
+ĐNL_Nu_6_S0007_83 op C C C C C C C C C C C C S C C C C C C S S C C C C C C C C C C 
+ĐNL_Nu_6_S0007_83 #csid 28 3 0 0
+ĐNL_Nu_6_S0007_68 ref d u Nm _5a r o j _2 d 7_X j _5a b a n _6a <eps> a _2 
+ĐNL_Nu_6_S0007_68 hyp d u Nm _5a r o j _2 d 7_X j _5a d a_X t _6a h a _2 
+ĐNL_Nu_6_S0007_68 op C C C C C C C C C C C C S S S C I C C 
+ĐNL_Nu_6_S0007_68 #csid 15 3 1 0
+TQA_7_NAM_S0045_267 ref b a j _2 t_h 7 _1 t a _3 z a N _5a v E _3 k uo _3 m o j _4 l wp a j _2 ts_ i m _1 d e n _5a b 7 _2 ts_ E _1 x a k _5b J a_X w _1 J M _1 t_h e _5a n a w _2 
+TQA_7_NAM_S0045_267 hyp b a j _2 t_h 7 _1 t a _3 z a N _5a v E _3 k uo _3 m o j _4 l wp a j _2 ts_ i m _1 d e n _5a b 7 _2 tS E _1 x a k _5b J a_X w _1 J M _1 t_h e _5a n a w _2 
+TQA_7_NAM_S0045_267 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_267 #csid 60 1 0 0
+TQA_7_NAM_S0045_52 ref ts_ O n _6a i _5a d u Nm _5a 
+TQA_7_NAM_S0045_52 hyp ts_ <eps> <eps> a i _5a d u Nm _5a 
+TQA_7_NAM_S0045_52 op C D D S C C C C C C 
+TQA_7_NAM_S0045_52 #csid 7 1 0 2
+TQA_7_NAM_S0045_83 ref s e p _5b k a k _5b t M _2 N M _4 S a_X w _1 v a w _2 m o t _6b J O m _5a t_h i k _5b h 7 p _6b 
+TQA_7_NAM_S0045_83 hyp s e p _5b k a_X t _5b t M _2 N M _4 dZ a_X w _1 v a w _2 f u t _6b J O m _1 t_h 7_X t _5b h 7 p _6b 
+TQA_7_NAM_S0045_83 op C C C C C S S C C C C C C C S C C C C C C C S S C C C C C S C S S C C C C C 
+TQA_7_NAM_S0045_83 #csid 30 8 0 0
+ĐNL_Nu_6_S0007_104 ref tS O_X Nm _1 k uo k _6b t_h i _1 l E w _1 k 7_X j _1 a j _1 t_h a_X N _5a 
+ĐNL_Nu_6_S0007_104 hyp tS O_X Nm _1 k uo k _6b t_h i _1 d E w _1 k 7_X J _1 a N _1 t_h a_X N _5a 
+ĐNL_Nu_6_S0007_104 op C C C C C C C C C C C S C C C C C S C C S C C C C C 
+ĐNL_Nu_6_S0007_104 #csid 23 3 0 0
+TQA_7_NAM_S0045_278 ref b o _2 k 7_X w _1 t u Nm _1 k E_X J _5a t o _3 t ie n _1 b o _2 k 7_X w _1 J a _2 l a _2 l wp a j _2 b o _2 k 7_X w _1 n u j _5a ts_ wp ie n _1 l a m _2 t o _3 tS e n _1 v E_X k _5b d a _5a 
+TQA_7_NAM_S0045_278 hyp b o _2 k o Nm _1 t u Nm _1 k E_X J _1 t o _3 t ie n _1 b o _1 k o Nm _1 J a _2 l a _2 l wp a j _2 b o _2 k o Nm _1 b o j _5a ts_ wp ie n _1 l a m _1 t o _3 tS e n _1 v E_X k _5b d a _5a 
+TQA_7_NAM_S0045_278 op C C C C S S C C C C C C C C S C C C C C C C C C S C S S C C C C C C C C C C C C C C C C S S C S S C C C C C C C C C C S C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_278 #csid 63 11 0 0
+ĐNL_Nu_6_S0007_3 ref ts_ u Nm _5a m i J _2 k u Nm _2 d O_X kp _6b b a j _2 h a t _6b n a_X N _5a b E _5a k O n _1 J E _5a 
+ĐNL_Nu_6_S0007_3 hyp ts_ u Nm _5a m i J _2 k u Nm _2 d O_X kp _6b b a j _2 h a t _6b n a_X N <eps> b E _5a k O n _5a J E _5a 
+ĐNL_Nu_6_S0007_3 op C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C S C C C 
+ĐNL_Nu_6_S0007_3 #csid 36 1 0 1
+ĐNL_Nu_6_S0007_76 ref t_h o j _3 b O_X Nm _5a 
+ĐNL_Nu_6_S0007_76 hyp t_h o j _3 b O_X Nm _5a 
+ĐNL_Nu_6_S0007_76 op C C C C C C C C 
+ĐNL_Nu_6_S0007_76 #csid 8 0 0 0
+TQA_7_NAM_S0045_39 ref r u _3 m uo _2 s wp 7_X n _1 k u Nm _2 v e _2 
+TQA_7_NAM_S0045_39 hyp r u _3 m uo _2 s wp 7_X n _1 k u Nm _2 v e _2 
+TQA_7_NAM_S0045_39 op C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_39 #csid 18 0 0 0
+TQA_7_NAM_S0045_172 ref d E m _1 v e _2 b O _3 v a w _2 l o Nm _2 S 7 n _1 k a _1 k O n _1 
+TQA_7_NAM_S0045_172 hyp d E m _1 v e _2 b O _2 v <eps> O _2 l o Nm _2 S 7 n _1 k a _1 k <eps> n _1 
+TQA_7_NAM_S0045_172 op C C C C C C C C C S C D S C C C C C C C C C C C C C D C C 
+TQA_7_NAM_S0045_172 #csid 25 2 0 2
+TQA_7_NAM_S0045_17 ref h i J _2 E_X J _3 S o _5a h a j _1 l a _2 k O n _1 ts_ i m _1 G a_X j _5a x wp e _1 7 j _1 k 7_X w _6a tS a _3 l 7 j _2 d i _1 
+TQA_7_NAM_S0045_17 hyp h i J _2 E_X J _3 S o _5a x a j _1 l a _2 k O n _1 ts_ i m _1 G a_X j _5a x wp e _4 7 j _1 k 7_X w _2 tS a _3 l 7 j _2 d i _1 
+TQA_7_NAM_S0045_17 op C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C C C S C C C C C C S C C C C C C C C C C 
+TQA_7_NAM_S0045_17 #csid 47 3 0 0
+NQH_7_NAM_S0049_63 ref k u Nm _4 t_h 7_X j _5a k o _1 d e n _5a r o j _2 
+NQH_7_NAM_S0049_63 hyp k u Nm _4 <eps> 7_X j _5a k o _5a d e n _5a r o j _2 
+NQH_7_NAM_S0049_63 op C C C C D C C C C C S C C C C C C C C 
+NQH_7_NAM_S0049_63 #csid 17 1 0 1
+TQA_7_NAM_S0045_283 ref x i _1 ts_ i m _1 n O n _1 m 7 j _5a r a _1 d 7 j _2 b o _5a m E _6a x o Nm _1 m 7 m _5a m o j _2 m a _2 m 7 m _5a S M7 _4 ts_ M7 _5a tS O_X Nm _1 z ie w _2 ts_ O _1 k O n _1 
+TQA_7_NAM_S0045_283 hyp x i _1 ts_ i m _1 n a n _1 m 7 j _1 r a _1 d 7 j _2 b o _5a m E _6a <eps> xo Nm _1 m M7 m _5a m o j _2 m a _2 m M7 m _5a S M7 _4 ts_ M7 _5a ts_ O_X Nm _1 z ie w _2 ts_ O _1 k O n _1 
+TQA_7_NAM_S0045_283 op C C C C C C C C S C C C C C S C C C C C C C C C C C C C D S C C C S C C C C C C C C C C S C C C C C C C C S C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_283 #csid 61 6 0 1
+ĐNL_Nu_6_S0007_70 ref t_h E w _1 t 7 _5a t_h i _2 ts_ i m _1 b a_X j _1 tS e n _1 tS 7 j _2 
+ĐNL_Nu_6_S0007_70 hyp t_h E w _1 t M _5a t_h i _2 ts_ i m _1 b a_X j _1 tS e n _1 tS 7 j _2 
+ĐNL_Nu_6_S0007_70 op C C C C C S C C C C C C C C C C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_70 #csid 25 1 0 0
+TQA_7_NAM_S0045_165 ref k u kp _5b S u Nm _1 S M7 N _5a x o n _1 t a _3 ts_ i m _1 v E w _5a v O n _1 m a j _4 r o j _2 m 7 j _5a b a_X j _1 v e <eps> _2 v e _2 tS 7 j _2 s E_X J _1 t_h a_X m _3 
+TQA_7_NAM_S0045_165 hyp k u kp _5b s u Nm _1 S M7 N _5a x o n _5a t a <eps> ts_ i m <eps> <eps> <eps> <eps> _5a t_h h o _5a m a j _4 <eps> o j _2 m 7 j _5a <eps> a_X j _1 v e _5a b o j _2 tS 7 j _2 s E_X J _1 t_h <eps> m _3 
+TQA_7_NAM_S0045_165 op C C C C S C C C C C C C C C C S C C D C C C D D D D C S S S S C C C C D C C C C C C C D C C C C C I S S S C C C C C C C C C C D C C 
+TQA_7_NAM_S0045_165 #csid 48 9 1 8
+TQA_7_NAM_S0045_185 ref k O n _2 b o Nm _1 h wp a _1 dZ a _5a v a _2 k a k _5b k 7_X w _6a d M N _2 N a_X t _5b n O _5a 
+TQA_7_NAM_S0045_185 hyp k O n _2 b o N _1 h wp a _1 dZ a _5a <eps> ma _2 k a k _5b k 7_X w _6a d M <eps> <eps> N <eps> <eps> <eps> _5a h _5a 
+TQA_7_NAM_S0045_185 op C C C C C C S C C C C C C C C D S C C C C C C C C C C C D D C D D D S S C 
+TQA_7_NAM_S0045_185 #csid 27 4 0 6
+NQH_7_NAM_S0049_95 ref k o _1 z a_X j _6a E m _1 t 7_X p _6b v ie t _5b 
+NQH_7_NAM_S0049_95 hyp k o _1 z 7_X j _6a E m _1 t 7_X p _6b v ie t _5b 
+NQH_7_NAM_S0049_95 op C C C C S C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_95 #csid 17 1 0 0
+ĐNL_Nu_6_S0007_8 ref n O <eps> _5a a n _1 u j _3 r o j _2 G M j _3 t a_X N _6a b o Nm _1 h o Nm _2 ts_ ie k _5b x a_X n _1 v a N _2 O_X Nm _5a 
+ĐNL_Nu_6_S0007_8 hyp n O _2 d a N _1 u <eps> _3 r 7_X t _1 G M j _3 t E_X N _6a b o Nm _1 tS O_X Nm _1 ts_ ie k _5b x 7_X N _1 n a N _1 O_X Nm _5a 
+ĐNL_Nu_6_S0007_8 op C C I S C S C C D C C S S S C C C C C S C C C C C C S S C S C C C C C S S C S C C S C C C 
+ĐNL_Nu_6_S0007_8 #csid 30 13 1 1
+TQA_7_NAM_S0045_168 ref t_h i _2 r a _1 S 7 n _1 k a _1 d a _4 b i _6a J o t _5b tS O_X Nm _1 l o Nm _2 
+TQA_7_NAM_S0045_168 hyp t_h i _2 r a _1 S 7 n _1 k a _4 d a _4 b i _6a J o t _5b tS O_X Nm _4 l o Nm _2 
+TQA_7_NAM_S0045_168 op C C C C C C C C C C C C S C C C C C C C C C C C C C S C C C C 
+TQA_7_NAM_S0045_168 #csid 29 2 0 0
+NQH_7_NAM_S0049_122 ref k o _1 dZ a w _5a z a_X j _6a ts_ u Nm _5a E m _1 t 7_X p _6b v ie t _5b 
+NQH_7_NAM_S0049_122 hyp k o _1 z a w _5a z 7_X j _6a ts_ u Nm _5a E m _1 <eps> t7_X p _6b v 7_X t _5b 
+NQH_7_NAM_S0049_122 op C C C S C C C C S C C C C C C C C C D S C C C S C C 
+NQH_7_NAM_S0049_122 #csid 21 4 0 1
+NQH_7_NAM_S0049_127 ref v i _2 k o _1 b i J _2 k O _5a z a N _5a v E _3 r 7_X t _5b h ie n _6a h wp a _2 
+NQH_7_NAM_S0049_127 hyp v i _2 k o _1 b i J _2 k O _5a z a N _5a v E _3 z 7_X t _5b t_h ie n _2 h wp a _2 
+NQH_7_NAM_S0049_127 op C C C C C C C C C C C C C C C C C C C C S C C C S C C S C C C C 
+NQH_7_NAM_S0049_127 #csid 29 3 0 0
+TQA_7_NAM_S0045_3 ref t 7 _5a m 7 j _2 h 7_X n _1 tS a _3 l 7 j _2 
+TQA_7_NAM_S0045_3 hyp t 7 _5a <eps> 7 j _5a h 7_X n _1 tS a _3 l 7 j _2 
+TQA_7_NAM_S0045_3 op C C C D C C S C C C C C C C C C C C 
+TQA_7_NAM_S0045_3 #csid 16 1 0 1
+ĐNL_Nu_6_S0007_24 ref t_h E w _1 b a n _6a b o Nm _1 h o Nm _2 d M7 k _6b t_h a _3 h a t _6b n a_X N _5a a n _1 u j _3 h a_X j _1 r u t _5b h a t _6b l a _5a k 7_X j _1 n a_X j _3 m 7_X m _2 
+ĐNL_Nu_6_S0007_24 hyp t_h E w _1 b a t _6a b O_X Nm _1 h o Nm _2 d M7 k _6b t_h a _3 h a <eps> _6b n a_X N <eps> a n _1 <eps> <eps> _6b h a_X j _1 m u t _5b h a <eps> _6b <eps> a <eps> k 7_X j _1 n a_X j _6b nm a_X m _2 
+ĐNL_Nu_6_S0007_24 op C C C C C C S C C S C C C C C C C C C C C C C C C D C C C C D C C C D D S C C C C S C C C C C D C D C D C C C C C C C S S S C C 
+ĐNL_Nu_6_S0007_24 #csid 50 7 0 7
+TQA_7_NAM_S0045_248 ref d M N _5a J i n _2 m e J _1 m o Nm _1 
+TQA_7_NAM_S0045_248 hyp d M N _5a J i n _2 m E_X J _1 m o Nm _1 
+TQA_7_NAM_S0045_248 op C C C C C C C C C S C C C C C C 
+TQA_7_NAM_S0045_248 #csid 15 1 0 0
+TQA_7_NAM_S0045_228 ref ts_ i J _5a l a _2 ts_ i m _1 k u _5a m E w _2 
+TQA_7_NAM_S0045_228 hyp ts_ i J _5a l a _2 ts_ i m _1 k u _1 m E w _2 
+TQA_7_NAM_S0045_228 op C C C C C C C C C C C C C S C C C C 
+TQA_7_NAM_S0045_228 #csid 17 1 0 0
+TQA_7_NAM_S0045_203 ref m a _2 x o Nm _1 k 7_X n _2 b ie t _5b b o Nm _1 h wp a _1 d a N _1 tS 7 _3 n e n _1 d 7_X t _5b d E p _6b 
+TQA_7_NAM_S0045_203 hyp m a _2 x o Nm _1 k 7_X n _2 b ie t _5b b o Nm _1 h wp a _1 d a N _1 tS 7 _3 n e n _1 r 7_X t _5b d E p _6b 
+TQA_7_NAM_S0045_203 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C 
+TQA_7_NAM_S0045_203 #csid 41 1 0 0
+TQA_7_NAM_S0045_218 ref h <eps> 7_X n _1 k 7_X w _6a tS a _3 l 7 j _2 dZ u p _5b t 7 _5a 
+TQA_7_NAM_S0045_218 hyp h wp 7_X n _1 k 7_X w <eps> tS a _3 l 7 j _1 dZ u p _5b t 7 _5a 
+TQA_7_NAM_S0045_218 op C I C C C C C C D C C C C C C S C C C C C C C 
+TQA_7_NAM_S0045_218 #csid 20 1 1 1
+TQA_7_NAM_S0045_86 ref t 7 _5a <eps> S a_X p _5b s e p _5b J M _1 S a_X w _1 
+TQA_7_NAM_S0045_86 hyp t 7 _5a SE _5a sa_X p _5b s E t _5b J M _1 s a_X w _1 
+TQA_7_NAM_S0045_86 op C C C I S S C C C S S C C C C S C C C 
+TQA_7_NAM_S0045_86 #csid 13 5 1 0
+NQH_7_NAM_S0049_27 ref 7 _3 tS O_X Nm _1 t_h M _1 v ie n _6a k O _5a r 7_X t _5b J ie w _2 k uo n _5a S E_X k _5b h a_X j _1 
+NQH_7_NAM_S0049_27 hyp 7 _3 <eps> O_X Nm _1 t_h M7 _1 z ie n _6a k O _5a r 7_X t _5b J ie w _2 k uo n _5a s a_X k _5b h a_X j _1 
+NQH_7_NAM_S0049_27 op C C D C C C C S C S C C C C C C C C C C C C C C C C C C S S C C C C C C 
+NQH_7_NAM_S0049_27 #csid 31 4 0 1
+NQH_7_NAM_S0049_103 ref d e n _5a t 7 _5a 
+NQH_7_NAM_S0049_103 hyp d e n _5a t 7 _5a 
+NQH_7_NAM_S0049_103 op C C C C C C C 
+NQH_7_NAM_S0049_103 #csid 7 0 0 0
+NQH_7_NAM_S0049_35 ref E m _1 S E _4 dZ 7 j _5a t_h ie w _6a t_h e _5a n a w _2 v e _2 N o j _1 tS M7 N _2 k uo _3 m i J _2 
+NQH_7_NAM_S0049_35 hyp E m _1 <eps> E _4 dZ 7 j _5a t_h ie w _6a t_h e _5a n a w _2 v e _2 N o j _1 tS M7 N <eps> k uo <eps> _2m i J _2 
+NQH_7_NAM_S0049_35 op C C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C D S C C C 
+NQH_7_NAM_S0049_35 #csid 35 1 0 3
+TQA_7_NAM_S0045_34 ref d M7 k _6b t_h o j _1 t 7 _5a d O_X kp _6b J E _5a 
+TQA_7_NAM_S0045_34 hyp d M7 k _6b t_h o j _1 t 7 _5a d O_X kp _6b J E _5a 
+TQA_7_NAM_S0045_34 op C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_34 #csid 18 0 0 0
+ĐNL_Nu_6_S0007_6 ref m E _6a m a_X t _6b tS 7 j _2 t_h a _3 h a t _6b n a_X N _5a s uo N _5a d 7_X t _5b ts_ 7 j _1 
+ĐNL_Nu_6_S0007_6 hyp m E _6a m a_X t _6b tS 7 j _2 t_h a _3 h a t _6b n a_X N _5a s uo N _5a t_h 7_X t _5b ts_ 7 j _1 
+ĐNL_Nu_6_S0007_6 op C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C 
+ĐNL_Nu_6_S0007_6 #csid 33 1 0 0
+TQA_7_NAM_S0045_87 ref t M _2 N M _4 ts_ i _3 S M _6a v 7_X t _6b l a _2 ts_ i m _1 E n _5a h wp a _1 k E_X J _5a m 7_X m _2 n O n _1 
+TQA_7_NAM_S0045_87 hyp t M _2 n M _4 ts_ i _3 s M _6a v 7_X t _6b l a _2 ts_ i m _1 E n _5a h wp a _1 k E_X J _5b m 7_X m _2 n O n _1 
+TQA_7_NAM_S0045_87 op C C C S C C C C C S C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C C 
+TQA_7_NAM_S0045_87 #csid 39 3 0 0
+NQH_7_NAM_S0049_128 ref v a _2 k o _1 r 7_X t _5b k a w _1 r a w _5a v a _2 s i J _1 d E p _6b 
+NQH_7_NAM_S0049_128 hyp v a _2 k o _1 z 7_X t _5b k a w _1 z a w _5a v a _2 s i J _1 d E p _6b 
+NQH_7_NAM_S0049_128 op C C C C C C S C C C C C C C S C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_128 #csid 27 2 0 0
+TQA_7_NAM_S0045_269 ref G E p _5b d u Nm _5a l a _2 a _1 n o j _5a v 7 j _5a h a j _1 d a n _2 k O _2 h a _6a k E_X J <eps> _5a r E w _1 m M N _2 
+TQA_7_NAM_S0045_269 hyp G E t _5b d u Nm _5a l a _2 a _1 n uo j _5a v 7 j _5a h a <eps> <eps> d a n _2 k O _5a h a _6a k E_X J _5a _5a r a w _2 m M N _2 
+TQA_7_NAM_S0045_269 op C C S C C C C C C C C C C C S C C C C C C C C D D C C C C C C S C C C C C C I C C S C S C C C C 
+TQA_7_NAM_S0045_269 #csid 40 5 1 2
+TQA_7_NAM_S0045_262 ref k 7_X w _1 t_h 7 _1 n a w _2 ts_ O _1 t_h 7_X j _5a b 7 _2 tS <eps> E _1 r 7_X t _5b v u j _1 x i _1 k O _5a x E_X k _5b d e n _5a 
+TQA_7_NAM_S0045_262 hyp k 7_X w _1 t_h 7 _1 n a w _2 ts_ O _1 t_h 7_X j _5a b 7 _2 tS e n _1 <eps> 7_X k _5b v u j _1 x i _1 k O _5a x a_X k _5b d e n _5a 
+TQA_7_NAM_S0045_262 op C C C C C C C C C C C C C C C C C C C C C C I S C D C S C C C C C C C C C C C C S C C C C C C 
+TQA_7_NAM_S0045_262 #csid 42 3 1 1
+NQH_7_NAM_S0049_61 ref k o _1 dZ a w _5a l 7 p _5b E m _1 
+NQH_7_NAM_S0049_61 hyp k o _1 dZ a <eps> _5a r 7_X t _5a E m _1 
+NQH_7_NAM_S0049_61 op C C C C C D C S S S S C C C 
+NQH_7_NAM_S0049_61 #csid 9 4 0 1
+TQA_7_NAM_S0045_266 ref n 7 _3 d 7_X j _2 h wp a _1 tS a_X N _5a 
+TQA_7_NAM_S0045_266 hyp n 7 _3 d 7_X j _2 h wp a _1 tS a_X N _5a 
+TQA_7_NAM_S0045_266 op C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_266 #csid 15 0 0 0
+TQA_7_NAM_S0045_35 ref ts_ i m _1 E n _5a 
+TQA_7_NAM_S0045_35 hyp ts_ i m _1 E n _5a 
+TQA_7_NAM_S0045_35 op C C C C C C C 
+TQA_7_NAM_S0045_35 #csid 7 0 0 0
+ĐNL_Nu_6_S0007_72 ref b a n _6a v a _2 t 7 _5a t_h 7_X j _5a k a _5a v a _2 ts_ i m _1 k u Nm _2 d i _1 ts_ 7 j _1 n M7 <eps> _4 d O _5a 
+ĐNL_Nu_6_S0007_72 hyp b a n _6a v a _2 t 7 _6a t_h 7_X j _2_3 k a _3 v a _2 ts_ i m _1 k u Nm _2 d i _1 ts_ 7 j _1 l M7 k _5b d O _5a 
+ĐNL_Nu_6_S0007_72 op C C C C C C C C C S C C C S C C S C C C C C C C C C C C C C C C C C C S C I S C C C 
+ĐNL_Nu_6_S0007_72 #csid 36 5 1 0
+NQH_7_NAM_S0049_6 ref v a _2 t M7 N _3 t M7 N _6a b ie t _5b b a w _1 d ie w _2 
+NQH_7_NAM_S0049_6 hyp v a _2 t M7 N _6b t M7 N _5a b ie t _5b b a w _5a d ie w _2 
+NQH_7_NAM_S0049_6 op C C C C C C S C C C S C C C C C C C S C C C C 
+NQH_7_NAM_S0049_6 #csid 20 3 0 0
+NQH_7_NAM_S0049_120 ref ts_ u Nm _5a E m _1 ie w _1 k wp i _5a k o _1 n o j _5a v a w _2 x o _3 n a w _2 v 7_X j _6a 
+NQH_7_NAM_S0049_120 hyp ts_ u Nm _5a i m _1 ie w _1 k wp i _5a k o _1 n o j _5a v a w _2 k o _3 n a j _2 v 7_X j _6a 
+NQH_7_NAM_S0049_120 op C C C C S C C C C C C C C C C C C C C C C C C C C S C C C C S C C C C C 
+NQH_7_NAM_S0049_120 #csid 33 3 0 0
+TQA_7_NAM_S0045_101 ref t M _2 tS e n _1 n e n _2 tS 7 j _2 s E_X J _1 t_h a_X m _3 dZ o Nm _5a J M _1 k O _5a h a N _2 tS a_X m _1 ts_ ie k _5b 
+TQA_7_NAM_S0045_101 hyp t M _2 tS e n _1 n e n _2 tS 7 j _2 s E_X J _1 t_h a_X <eps> _3 dZ o Nm _5a J M _1 k O _5a h a N _2 tS a_X m _1 ts_ ie k _5b 
+TQA_7_NAM_S0045_101 op C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_101 #csid 44 0 0 1
+TQA_7_NAM_S0045_181 ref S a N _5a h o m _1 S a_X w _1 t_h 7_X j _5a S 7 n _1 k a _1 d a _4 ts_ e t _5b 
+TQA_7_NAM_S0045_181 hyp S a N _5a h o m _1 S a_X w _1 t_h 7_X j _5a S 7 n _1 k a _1 d a _4 ts_ e t _5b 
+TQA_7_NAM_S0045_181 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_181 #csid 30 0 0 0
+TQA_7_NAM_S0045_32 ref a _2 h i J _2 E_X J _3 S o _5a m M7 j _2 l a _2 k O n _1 ts_ i m _1 b i m _2 b i p _6b d 7_X j _5a 
+TQA_7_NAM_S0045_32 hyp a _2 h i J <eps> E_X J <eps> _2_3 so _5a m M7 j _2 l a <eps> k O n _1 ts_ i n _1 t ie N _2 b ie t _5b k 7_X j _5a 
+TQA_7_NAM_S0045_32 op C C C C C D C C D S S C C C C C C C D C C C C C C S C S S S C C S S S S C C C 
+TQA_7_NAM_S0045_32 #csid 26 10 0 3
+TQA_7_NAM_S0045_231 ref t_h E w _1 k a k _5b k 7_X w _6a k a k _5b l wp a j _2 ts_ i m _1 m a N _1 d e n _5a l 7 j _6a i k _5b dZ i _2 ts_ O _1 k O n _1 N M7 j _2 
+TQA_7_NAM_S0045_231 hyp t_h E w _1 k a k _5b k 7_X w _6a k a k _5b l wp a j _2 ts_ i <eps> _1 m a N _1 d e n _5a l 7 j _2 i k _5b dZ i _2 ts_ O _1 k O n _1 N M7 j _2 
+TQA_7_NAM_S0045_231 op C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_231 #csid 52 1 0 1
+TQA_7_NAM_S0045_154 ref n e w _5a t_h 7_X j _5a N wp i _1 h ie m _3 k O <eps> _2 k O _5a t_h e _3 b a_X j _1 d i _1 tS o n _5a t_h 7_X t _6b J E_X J _1 
+TQA_7_NAM_S0045_154 hyp n e w _5a t_h 7_X j _5a N wp i _1 h ie m _3 k O n _6a k O _5a t_h e _3 b a_X j _5a d i _1 ts_ o n _5a t_h 7_X t _6b J E_X J _1 
+TQA_7_NAM_S0045_154 op C C C C C C C C C C C C C C C C C C I S C C C C C C C C C S C C C S C C C C C C C C C C C 
+TQA_7_NAM_S0045_154 #csid 41 3 1 0
+TQA_7_NAM_S0045_56 ref h a t _5b 7 j _1 k 7_X w _6a tS a _3 l 7 j _2 dZ u p _5b t 7 _5a J E _5a 
+TQA_7_NAM_S0045_56 hyp h <eps> <eps> <eps> <eps> j <eps> _2 7_X w _6a tS a <eps> l 7 j _5a dZ u p _5b t 7 _5a J E _5a 
+TQA_7_NAM_S0045_56 op C D D D D C D S C C C C C D C C C S C C C C C C C C C C 
+TQA_7_NAM_S0045_56 #csid 20 2 0 6
+TQA_7_NAM_S0045_116 ref z M7 _6a t_h E w _1 b a j _2 d O_X kp _6b h a_X j _4 t a _3 l a j _6a h i J _2 E_X J _3 k uo _3 m o t _6b l wp a j _2 ts_ i m _1 m a _2 k a k _5b b a n _6a t_h i k _5b J E _5a 
+TQA_7_NAM_S0045_116 hyp z M7 _6a t_h E w _1 b a j _6a d O_X kp _6b h a_X j _4 t a _3 l a j _2 h i J <eps> E_X J _3 k uo _3 m o t <eps> l wp a j _2 ts_ i m _1 m a _2 k a k <eps> <eps> ba n _6a t_h i k _5b J E _5a 
+TQA_7_NAM_S0045_116 op C C C C C C C C C C S C C C C C C C C C C C C C C S C C C D C C C C C C C C C D C C C C C C C C C C C C C C C D D S C C C C C C C C C 
+TQA_7_NAM_S0045_116 #csid 60 3 0 4
+TQA_7_NAM_S0045_178 ref d e m _1 7_X j _5a S 7 n _1 k a _1 l ie _2 d 7 j _2 
+TQA_7_NAM_S0045_178 hyp d e m _1 7_X j _1 S 7 n _1 k a _1 l i _2 d 7 j _2 
+TQA_7_NAM_S0045_178 op C C C C C C S C C C C C C C C S C C C C C 
+TQA_7_NAM_S0045_178 #csid 19 2 0 0
+NQH_7_NAM_S0049_77 ref k u Nm _4 t_h 7_X j _5a k o _1 d e n _5a r o j _2 
+NQH_7_NAM_S0049_77 hyp k u Nm _4 t_h e j _5a k o _1 d e n _5a r o j _2 
+NQH_7_NAM_S0049_77 op C C C C C S C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_77 #csid 18 1 0 0
+TQA_7_NAM_S0045_192 ref n O _5a s wp E _2 J M N _4 k E_X J _2 tS a_X N _5a t M7 j _1 t a_X n _5a d O n _5a n a_X N _5a m a_X t _6b tS 7 j _2 v a _2 S u Nm _1 S M7 N _5a x o n _1 t a _3 x i _1 N E _1 S 7 n _1 k a _1 h O t _5b 
+TQA_7_NAM_S0045_192 hyp n O _5a s wp E _2 J M N _4 k E_X J _2 tS a_X N _4 t M7 j _1 t a_X n _5a d O <eps> _6a n a_X N _4 m a_X t _6b tS 7 j _2 v a _2 s u N _1 s M7 N _5a x 7 n _1 t a _3 x i _1 NJ E _1 S 7 n _1 k a _1 h O t _5b 
+TQA_7_NAM_S0045_192 op C C C C C C C C C C C C C C C C C C S C C C C C C C C C C D S C C C S C C C C C C C C C C C S C S C S C C C C S C C C C C C C C S C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_192 #csid 69 8 0 1
+TQA_7_NAM_S0045_164 ref k u kp _5b 7 j _1 k u kp _5b s i J _1 s a_X n _5a l a m _2 S a w _1 
+TQA_7_NAM_S0045_164 hyp k u kp _5b 7 j _1 k u kp _5b s i m _1 <eps> S a J l a m _2 S a w _1 
+TQA_7_NAM_S0045_164 op C C C C C C C C C C C C C S C D S S S C C C C C C C C 
+TQA_7_NAM_S0045_164 #csid 22 4 0 1
+TQA_7_NAM_S0045_171 ref b o Nm _4 k O _5a h a j _1 k 7_X w _6a b E _5a d i _1 v a w _2 v M7 n _2 k a_X t _5b k a _3 d a m _5a x O j _3 z a j _6a l 7_X n _4 b o Nm _1 k u kp _5b 
+TQA_7_NAM_S0045_171 hyp b o Nm _4 k O _5a h a j _1 k 7_X w _6a b E _5a d i _1 v a w _3 b M7 n _2 k a_X t _5b k a _3 d a m _4 k O <eps> _3 z a j _6a l 7_X n _4 b o Nm _1 k u kp _5b 
+TQA_7_NAM_S0045_171 op C C C C C C C C C C C C C C C C C C C C C C C C S S C C C C C C C C C C C C C S S C D C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_171 #csid 55 4 0 1
+TQA_7_NAM_S0045_10 ref t 7 _5a m 7 j _5a h 7_X n _1 tS a _3 l 7 j _2 h o _6a t 7 _5a 
+TQA_7_NAM_S0045_10 hyp t 7 _5a <eps> <eps> j _5a <eps> <eps> <eps> <eps> <eps> a <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> tS 7 _5a 
+TQA_7_NAM_S0045_10 op C C C D D C C D D D D D C D D D D D D D D S C C 
+TQA_7_NAM_S0045_10 #csid 8 1 0 15
+NQH_7_NAM_S0049_48 ref E m _1 S E _4 dZ 7 j _5a t_h ie w _6a 
+NQH_7_NAM_S0049_48 hyp E m <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> ie <eps> _6a 
+NQH_7_NAM_S0049_48 op C C D D D D D D D D D C D C 
+NQH_7_NAM_S0049_48 #csid 4 0 0 10
+ĐNL_Nu_6_S0007_101 ref tS O_X Nm _1 k uo k _6b t_h i _1 ts_ a_X j _6a b a w _5a t_h a_X N _5a h a_X j _1 t_h uo _1 
+ĐNL_Nu_6_S0007_101 hyp tS a_X w _1 k uo <eps> _3 x i _1 ts_ a_X j _6a b a w _5a t_h a_X N _5a h a j _1 t_h M7 _1 
+ĐNL_Nu_6_S0007_101 op C S S C C C D S S C C C C C C C C C C C C C C C S C C C S C 
+ĐNL_Nu_6_S0007_101 #csid 23 6 0 1
+NQH_7_NAM_S0049_87 ref J M N _4 d ie m _3 m M7 j _2 k o _1 ts_ O _1 
+NQH_7_NAM_S0049_87 hyp J M N _4 d ie m _2 m M7 j _2 k o _2 ts_ O _1 
+NQH_7_NAM_S0049_87 op C C C C C C C S C C C C C C S C C C 
+NQH_7_NAM_S0049_87 #csid 16 2 0 0
+ĐNL_Nu_6_S0007_59 ref k a _5a <eps> n O j _5a 
+ĐNL_Nu_6_S0007_59 hyp k a _5a h a_X J _5a _5a 
+ĐNL_Nu_6_S0007_59 op C C C I S S S C 
+ĐNL_Nu_6_S0007_59 #csid 4 3 1 0
+TQA_7_NAM_S0045_227 ref t_h a w _3 7 j _1 k 7_X w _6a tS a _3 l 7 j _2 h o _6a t 7 _5a 
+TQA_7_NAM_S0045_227 hyp t_h a m _3 7 n _1 k 7_X w _6a tS a <eps> l 7 j _6a h o _6a t 7 _5a 
+TQA_7_NAM_S0045_227 op C C S C C S C C C C C C C D C C C S C C C C C C 
+TQA_7_NAM_S0045_227 #csid 20 3 0 1
+ĐNL_Nu_6_S0007_37 ref o j _1 b a n _6a k a _5a 7 j _1 
+ĐNL_Nu_6_S0007_37 hyp o j _2 m a <eps> _6a tS a _5a 7 j _1 
+ĐNL_Nu_6_S0007_37 op C C S S C D C S C C C C C 
+ĐNL_Nu_6_S0007_37 #csid 9 3 0 1
+TQA_7_NAM_S0045_105 ref t_h a w _3 7 j _1 k 7_X w _6a d O_X kp _6b d wp a n _6a b a _1 d i _1 
+TQA_7_NAM_S0045_105 hyp t_h a w _3 7 j _1 k 7_X w _6a d O_X kp _6b d <eps> wpa n <eps> b a <eps> d i _1 
+TQA_7_NAM_S0045_105 op C C C C C C C C C C C C C C C C D S C D C C D C C C 
+TQA_7_NAM_S0045_105 #csid 22 1 0 3
+TQA_7_NAM_S0045_152 ref n e w _5a n O _5a n a_X m _2 h a_X n _3 s uo N _5a t_h i _2 d M N _5a v 7_X j _6a S E _4 r 7_X t _5b x O _5a x a_X n _1 
+TQA_7_NAM_S0045_152 hyp n e w _5a n O _5a n a_X m _2 h a_X N _5a s uo NNm _5a t_h i _2 d M Nm _5a v 7_X j _6a s E _4 r 7_X t _5b x O _5a x a_X n _1 
+TQA_7_NAM_S0045_152 op C C C C C C C C C C C C C S S C C S C C C C C C S C C C C C S C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_152 #csid 39 5 0 0
+TQA_7_NAM_S0045_2 ref t 7 _5a d o _5a k a k _5b k 7_X w _6a tS M7 k _5b h i J _2 E_X J _3 S o _5a m o t _6b l a _2 ts_ i m _1 dZ i _2 v 7_X j _6a 
+TQA_7_NAM_S0045_2 hyp t 7 _5a d o _5a k a k _5b k 7_X w _6a tS M7 k _5b h i J _2 E_X J _3 S o _5a m o t _6b l a _2 ts_ i m _1 dZ i _2 v 7_X j _6a 
+TQA_7_NAM_S0045_2 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_2 #csid 46 0 0 0
+ĐNL_Nu_6_S0007_73 ref v ie t _6b n a m _1 7 j _1 b a n _6a k O _5a m uo n _5a N E _1 m o t _6b k 7_X w _1 ts_ wp ie n _6a x o Nm _1 
+ĐNL_Nu_6_S0007_73 hyp v ie t _6b n a m _1 7 j _1 b a n _6a k O _5a m uo n _5a N E _1 m o <eps> _3 k 7_X w _1 ts_ wp ie n _6a x o Nm _1 
+ĐNL_Nu_6_S0007_73 op C C C C C C C C C C C C C C C C C C C C C C C C C C C D S C C C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_73 #csid 40 1 0 1
+ĐNL_Nu_6_S0007_5 ref h a t _6b n a_X N _5a b E _5a k O n _1 
+ĐNL_Nu_6_S0007_5 hyp h a t _6b n a_X N _5a b E _5a k O n _1 
+ĐNL_Nu_6_S0007_5 op C C C C C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_5 #csid 15 0 0 0
+TQA_7_NAM_S0045_19 ref b 7_X j _1 dZ 7 _2 t 7 _5a m 7 j _2 b a n _6a h 7_X n _1 tS a _3 l 7 j _2 b M k _5b tS E_X J _1 S o _5a b o n _5a 
+TQA_7_NAM_S0045_19 hyp b 7_X j _1 dZ 7 _2 t 7 _5a m 7 j <eps> <eps> ba n _6a h 7_X n <eps> tS a <eps> _3l 7 j _2 b M k _6a tS E_X J <eps> S o _5a b o n _5a 
+TQA_7_NAM_S0045_19 op C C C C C C C C C C C C C D D S C C C C C D C C D S C C C C C C S C C C D C C C C C C C 
+TQA_7_NAM_S0045_19 #csid 36 3 0 5
+TQA_7_NAM_S0045_134 ref t i m _2 b o _6a f 7_X n _6a k 7_X w _1 tS a _3 l 7 j _2 ts_ O _1 k 7_X w _1 h O j _3 7 _3 d 7_X w _1 
+TQA_7_NAM_S0045_134 hyp t i n _2 b o _6a f 7_X n _6a k 7_X w _1 tS a _3 l 7 j _2 ts_ O _1 k 7_X w _1 h O j _3 7 _3 d 7_X w _1 
+TQA_7_NAM_S0045_134 op C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_134 #csid 38 1 0 0
+ĐNL_Nu_6_S0007_86 ref N a_X j _2 m a j _1 k O _5a k uo k _6b k uo k _6b k uo k _6b l e _4 t_h ie w _5a J i _1 
+ĐNL_Nu_6_S0007_86 hyp N a_X j _2 m a_X j _1 k O _5a k uo <eps> _6b k uo <eps> _6b k uo <eps> _6b n E _4 <eps> ts_ 7 _5a J i _1 
+ĐNL_Nu_6_S0007_86 op C C C C C S C C C C C C C D C C C D C C C D C S S C D S S C C C C 
+ĐNL_Nu_6_S0007_86 #csid 24 5 0 4
+TQA_7_NAM_S0045_72 ref k a m _3 7 n _1 b a n _6a d a _4 v e _2 d 7_X j _1 ts_ 7 j _1 k u Nm _2 ts_ u Nm _5a t o j _1 
+TQA_7_NAM_S0045_72 hyp k a m _3 7 n _1 b a n _6a d a _4 v e _3 d 7_X j _1 ts_ 7 j _1 k u Nm _2 ts_ <eps> Nm _5a t o j _1 
+TQA_7_NAM_S0045_72 op C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C D C C C C C C 
+TQA_7_NAM_S0045_72 #csid 35 1 0 1
+ĐNL_Nu_6_S0007_315 ref m <eps> uo _2 n a w _2 v M7 n _2 k u Nm _4 r M k _6b r 7 _4 N a t _5b h M7 N _1 
+ĐNL_Nu_6_S0007_315 hyp m o t n n a w _2 v M7 n _2 k u N _4 r M <eps> _5b z 7 _4 h a t _5b t_h M N _1 
+ĐNL_Nu_6_S0007_315 op C I S S C C C C C C C C C C S C C C D S S C C S C C C S S C C 
+ĐNL_Nu_6_S0007_315 #csid 21 8 1 1
+TQA_7_NAM_S0045_49 ref x i _1 l 7 n _5a t_h e m _1 m o t _6b t uo j _3 
+TQA_7_NAM_S0045_49 hyp x i _1 l 7 n _5a t_h e m _1 m o t _6b t uo j _3 
+TQA_7_NAM_S0045_49 op C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_49 #csid 19 0 0 0
+ĐNL_Nu_6_S0007_67 ref a _2 t 7 _5a t_h 7_X j _5a k a _5a b 7 j _1 z M7 j _5a S uo j _5a k 7_X w _6a a _6a 
+ĐNL_Nu_6_S0007_67 hyp a _2 t_h 7 _5a t_h 7_X j _5a k a _5a b 7 j _1 <eps> r uo _5a S uo j _5a k 7_X w _6a a _6a 
+ĐNL_Nu_6_S0007_67 op C C S C C C C C C C C C C C C C D S S C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_67 #csid 26 3 0 1
+NQH_7_NAM_S0049_50 ref tS O_X Nm _1 tS M7 N _2 E m _1 t_h i k _5b x u _1 t_h M _1 v ie n _6a 
+NQH_7_NAM_S0049_50 hyp tS O_X Nm _1 tS M7 N _2 E m _1 t_h i k _5b x u _1 t_h M _1 v ie n _6a 
+NQH_7_NAM_S0049_50 op C C C C C C C C C C C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_50 #csid 25 0 0 0
+NQH_7_NAM_S0049_28 ref k 7_X w _6a tS a _3 l 7 j _2 ts_ O _1 t 7 _5a k 7_X w _1 n a_X j _2 J E _5a 
+NQH_7_NAM_S0049_28 hyp k 7_X w _6a tS a _3 l 7 j _2 ts_ O _1 t 7 _5a k 7_X w _1 n a_X J _2 J E _5a 
+NQH_7_NAM_S0049_28 op C C C C C C C C C C C C C C C C C C C C C C C S C C C C 
+NQH_7_NAM_S0049_28 #csid 27 1 0 0
+TQA_7_NAM_S0045_94 ref b 7_X w _2 tS 7 j _2 tS O_X Nm _1 s E_X J _1 S O j _1 b O_X Nm _5a s uo N _5a d a_X j _5a h o _3 
+TQA_7_NAM_S0045_94 hyp b 7_X w _2 tS 7 j _2 tS O_X Nm _1 s E_X J _1 s wp a _1 b O_X Nm _1 s uo N _5a d a_X j _5a x o _3 
+TQA_7_NAM_S0045_94 op C C C C C C C C C C C C C C C C S S S C C C C S C C C C C C C C S C C 
+TQA_7_NAM_S0045_94 #csid 30 5 0 0
+NQH_7_NAM_S0049_11 ref ts_ o _4 n a w _2 k u Nm _4 d M7 k _6b x wp a k _5b t 7_X m _5a a w _5a m 7 j _5a t_h 7_X t _6b d E p _6b 
+NQH_7_NAM_S0049_11 hyp ts_ o _4 n a w _2 k u Nm _4 d M7 k _6b x wp a t _6b t 7_X m _2 a w _5a m 7 j _5a t_h 7_X t _6b d E p _6b 
+NQH_7_NAM_S0049_11 op C C C C C C C C C C C C C C C C C C S S C C C S C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_11 #csid 36 3 0 0
+ĐNL_Nu_6_S0007_12 ref d e _3 t 7 _5a d e _3 t 7 _5a d O_X kp _6b l a j _6a b a n _6a N E _1 J E _5a 
+ĐNL_Nu_6_S0007_12 hyp d e _3 t 7 _5a d e _3 t 7 _5a t O_X kp _6b l a j _6a b a n _6a J E _1 J E _5a 
+ĐNL_Nu_6_S0007_12 op C C C C C C C C C C C C S C C C C C C C C C C C S C C C C C 
+ĐNL_Nu_6_S0007_12 #csid 28 2 0 0
+TQA_7_NAM_S0045_163 ref m o t _6b ts_ u _5a S 7 n _1 k a _1 S a _2 s uo N _5a h O t _5b r a_X N _2 
+TQA_7_NAM_S0045_163 hyp m o t _6b tS u _5a s 7 n _1 k a _1 s a _2 s uo N _5a h O t _5b r a_X N _2 
+TQA_7_NAM_S0045_163 op C C C C S C C S C C C C C C S C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_163 #csid 26 3 0 0
+TQA_7_NAM_S0045_211 ref k a _3 ts_ i m _1 v a _2 h wp a _1 k u Nm _2 t o _1 d ie m _3 ts_ O _1 k uo k _6b S o Nm _5a tS 7 _3 n e n _1 t M7 j _1 d E p _6b h 7 n _1 
+TQA_7_NAM_S0045_211 hyp k a _3 ts_ i m _1 v a _2 h wp a _1 k u Nm <eps> t o _1 d ie m _3 ts_ O _1 k uo k _6b s o Nm _5a tS 7 _3 n e n _1 t M7 j _1 d E p _6b h 7 n _1 
+TQA_7_NAM_S0045_211 op C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_211 #csid 53 1 0 1
+TQA_7_NAM_S0045_6 ref k 7_X w _6a 7 j _1 t_h a w _3 7 j _1 k 7_X w _6a k O _5a t_h <eps> e _3 tS a _3 l 7 j _2 h o _6a t 7 <eps> _5a x o Nm _1 
+TQA_7_NAM_S0045_6 hyp k 7_X w _6a 7 j _1 t_h a w _3 7 j _1 k 7_X <eps> Nm k O _5a t_h 7_X j _5a tS 7 _3 l 7 <eps> <eps> <eps> <eps> _6a t_h 7 w _5a_6a x o Nm _1 
+TQA_7_NAM_S0045_6 op C C C C C C C C C C C C C C C C D S C C C C I S S C S C C C D D D D C S C I S C C C C 
+TQA_7_NAM_S0045_6 #csid 30 6 2 5
+TQA_7_NAM_S0045_177 ref t 7 j _5a r o j _2 ts_ a_X N _3 a j _1 ts_ O _1 k O n _1 ts_ i m _1 x o n _5a x o _3 m o t _6b dZ O t _6b n M7 k _5b 
+TQA_7_NAM_S0045_177 hyp t 7 <eps> _5a r o j _2 ts_ a_X N _3 a j _1 ts_ O _1 k O n _1 ts_ i m _1 x o n _5a x o _3 m o t _6b dZ O t _6b n M7 k _5b 
+TQA_7_NAM_S0045_177 op C C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_177 #csid 44 0 0 1
+NQH_7_NAM_S0049_104 ref k o _1 dZ a w _5a l 7 p _5b E m _1 
+NQH_7_NAM_S0049_104 hyp k o _1 dZ <eps> <eps> 7 _5al 7 p <eps> E m _1 
+NQH_7_NAM_S0049_104 op C C C C D D S S C C D C C C 
+NQH_7_NAM_S0049_104 #csid 9 2 0 3
+ĐNL_Nu_6_S0007_29 ref d e <eps> _3 t 7 _5a d O_X kp _6b b a n _6a N E _1 n a w _2 
+ĐNL_Nu_6_S0007_29 hyp d e n _6a t 7 _5a d O_X kp _6b b a n _6a J M _5b n a w _2 
+ĐNL_Nu_6_S0007_29 op C C I S C C C C C C C C C C C S S S C C C C 
+ĐNL_Nu_6_S0007_29 #csid 17 4 1 0
+TQA_7_NAM_S0045_226 ref ts_ i m _1 dZ i _2 dZ o Nm _5a m a_X t _6b m E w _2 a_X n _1 d e n _1 ts_ wp ie n _1 b a_X t _5b ts_ uo t _6b v 7_X j _6a k a k _5b k 7_X w _6a 
+TQA_7_NAM_S0045_226 hyp ts_ i m _1 v i _2 dZ 7_X w _5a m a_X t _6b m E w _2 a_X n _1 k e m _1 ts_ <eps> i n _1 b a k _5b ts_ uo t _6b v 7_X j <eps> k a k _5b k 7_X w _6a 
+TQA_7_NAM_S0045_226 op C C C C S C C C S S C C C C C C C C C C C C S C S C C D S C C C S S C C C C C C C C D C C C C C C C C 
+TQA_7_NAM_S0045_226 #csid 41 8 0 2
+TQA_7_NAM_S0045_159 ref ts_ u _5a m i J _2 l a j _6a d O_X kp _6b b a j _2 d O_X kp _6b ts_ i m _1 S 7 n _1 k a _1 v a <eps> _2 b o Nm _1 k u kp _5b tS a_X N _5a J E _5a 
+TQA_7_NAM_S0045_159 hyp ts_ u _5a m i J _2 l a j _6a d O_X kp _6b b a j _2 d O_X kp _6b ts_ i m _1 S 7 n _1 <eps> a _1 v a w _2 b o Nm _1 k u kp _5b ts_ a_X N _5a J E _5a 
+TQA_7_NAM_S0045_159 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C I C C C C C C C C C S C C C C C C 
+TQA_7_NAM_S0045_159 #csid 50 1 1 1
+ĐNL_Nu_6_S0007_48 ref t 7 _5a d O_X kp _6b l a j _6a l 7_X n _2 n M7 _4 ts_ u Nm _5a m i J _2 k u Nm _2 N E _1 J E _5a 
+ĐNL_Nu_6_S0007_48 hyp t 7 _5a d O_X kp _6b l a j _6a l 7_X n _2 n M7 _4 ts_ u Nm _5a m i J _2 k u Nm _4 N E _1 J E _5a 
+ĐNL_Nu_6_S0007_48 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C 
+ĐNL_Nu_6_S0007_48 #csid 35 1 0 0
+NQH_7_NAM_S0049_125 ref h M7 N _1 7 j _1 k o _1 dZ a w _5a ts_ u _3 J ie m _6a l 7 p _5b h a j _1 k uo _3 m i J _2 l a _2 k o _1 b i J _2 d 7_X j _5a 
+NQH_7_NAM_S0049_125 hyp h M N _1 7 j _1 k o _1 dZ a w _5a ts_ u _3 J ie m _4 l 7 p _5b h a j _1 k uo _3 m i J _2 l a _2 k o _1 <eps> i J _2 d 7_X j _5a 
+NQH_7_NAM_S0049_125 op C S C C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C C C D C C C C C C C 
+NQH_7_NAM_S0049_125 #csid 47 2 0 1
+TQA_7_NAM_S0045_175 ref k u kp _5b <eps> k a _3 h M7 N _1 t_h 7 m _1 N a w _2 N a t _6b a n _1 u j _3 ts_ i m _1 S 7 n _1 k a <eps> _1 
+TQA_7_NAM_S0045_175 hyp k o kp _5b t wp a _3 h M7 N _1 t_h 7 m _1 N a w _2 N a t _6b a n _1 u j _3 ts_ i m _1 S 7 n _1 k a n _1 
+TQA_7_NAM_S0045_175 op C S C C I S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C I C 
+TQA_7_NAM_S0045_175 #csid 38 2 2 0
+NQH_7_NAM_S0049_130 ref t 7 _5a r 7_X t _5b t_h i k _5b k o _1 b i J _2 v i _2 k o _1 b i J _2 <eps> <eps> <eps> dZ u p _5b t 7 <eps> <eps> <eps> _5a v ie t _5b ts_ M _4 d E p _6b 
+NQH_7_NAM_S0049_130 hyp t 7 _5a z 7_X t _5b t_h i k _5b k u _1 b i J _2 v i _2 k o _1 b i J _2 h a _1 dZ u p _5b t 7 _1 k O _5a v ie t _5b ts_ M7 _4 d E p _6b 
+NQH_7_NAM_S0049_130 op C C C S C C C C C C C C S C C C C C C C C C C C C C C C I I I C C C C C C I I I C C C C C C S C C C C C 
+NQH_7_NAM_S0049_130 #csid 43 3 6 0
+TQA_7_NAM_S0045_138 ref a _6a b o _6a f 7_X n _6a i n _1 d 7_X m _6a l a _2 b o _6a f 7_X n _6a tS a _3 l 7 j _2 ts_ O _1 k 7_X w _1 h O j _3 7 _3 d 7_X w _1 
+TQA_7_NAM_S0045_138 hyp a <eps> b o _6a f 7_X n _6a i n _1 d 7_X m _6a l a _2 b o _6a f 7_X n _6a tS a _3 l 7 j _1 ts_ O _1 k 7_X w _1 h O j _3 7 _3 d 7_X w _1 
+TQA_7_NAM_S0045_138 op C D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_138 #csid 48 1 0 1
+TQA_7_NAM_S0045_169 ref b o Nm _1 k u kp _5b m uo n _5a k M w _5a ts_ i m _1 J M N _1 ts_ a_X N _3 l a m _2 d M7 k _6b dZ i _2 
+TQA_7_NAM_S0045_169 hyp b o Nm _1 k u kp _5b m uo n _1 k M w _1 ts_ i m _1 J M N _1 ts_ a_X N _3 l a m <eps> d M7 k _6b dZ i _2 
+TQA_7_NAM_S0045_169 op C C C C C C C C C C C S C C C S C C C C C C C C C C C C C C C D C C C C C C C 
+TQA_7_NAM_S0045_169 #csid 36 2 0 1
+TQA_7_NAM_S0045_89 ref S a_X w _1 d 7_X j _1 t 7 _5a v a _2 k a k _5b k 7_X w _6a S E _4 k u Nm _2 d O_X kp _6b b a j _2 ts_ i m _1 r M N _2 t 7_X j _1 N wp ie n _1 
+TQA_7_NAM_S0045_89 hyp s a_X w _1 d 7_X j _1 t 7 _5a v a _2 k a k _5b k 7_X w _6a S E _4 k u Nm _2 d O_X kp _6b b a j _2 ts_ i <eps> j d M N _2 t 7_X j _1 N wp ie n _1 
+TQA_7_NAM_S0045_89 op S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D S S C C C C C C C C C C C C 
+TQA_7_NAM_S0045_89 #csid 50 3 0 1
+NQH_7_NAM_S0049_36 ref k o _1 m 7 j _2 b a n _6a f M7 N _1 n a w _2 
+NQH_7_NAM_S0049_36 hyp k o _1 m 7 j _1 b a n _1 f M7 N <eps> n a w _2 
+NQH_7_NAM_S0049_36 op C C C C C C S C C C S C C C D C C C C 
+NQH_7_NAM_S0049_36 #csid 16 2 0 1
+ĐNL_Nu_6_S0007_82 ref b a w _5a k O n _1 r 7_X t _5b b uo n _2 
+ĐNL_Nu_6_S0007_82 hyp b a <eps> _5a k O n _1 r 7_X t _5b b uo n _2 
+ĐNL_Nu_6_S0007_82 op C C D C C C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_82 #csid 15 0 0 1
+TQA_7_NAM_S0045_55 ref s e _1 ts_ i m _1 E n _1 v e _2 d e _3 m 7 _3 h o j _6a s wp 7_X n _1 
+TQA_7_NAM_S0045_55 hyp s e _1 ts_ i m _1 E n _1 v e _2 d e _3 m 7 _3 h o j _6a s wp 7_X n _1 
+TQA_7_NAM_S0045_55 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_55 #csid 28 0 0 0
+TQA_7_NAM_S0045_225 ref d O _5a l a _2 ts_ i m _1 b o _2 k 7_X w _1 
+TQA_7_NAM_S0045_225 hyp d O _5a l a _2 ts_ i m _1 b o _2 k 7_X w _1 
+TQA_7_NAM_S0045_225 op C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_225 #csid 17 0 0 0
+TQA_7_NAM_S0045_132 ref t_h E w _1 t 7 _5a b o _6a f 7_X n _6a i m _1 d 7_X m _6a tS O_X Nm _1 J M N _4 k 7_X w _1 tS e n _1 tS a _3 l 7 j _2 ts_ O _1 k 7_X w _1 h O j _3 7 _3 d 7_X w _1 
+TQA_7_NAM_S0045_132 hyp t_h E w _1 t 7 _1 b o _3 f 7_X n _6a i m _4 d a_X N _3 tS O_X Nm _1 J M N _4_1 k 7_X w _1 ts_ e n _1 tS a _3 l 7 j _2 ts_ O _1 k 7_X w _1 h O j _3 7 _3 d 7_X w _1 
+TQA_7_NAM_S0045_132 op C C C C C C S C C S C C C C C C S C S S S C C C C C C C S C C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_132 #csid 53 8 0 0
+ĐNL_Nu_6_S0007_102 ref t_h a j _5a d o _6a k uo _3 b a w _5a t_h e _5a n a w _2 
+ĐNL_Nu_6_S0007_102 hyp t_h a j _5a d o _6a k uo <eps> _5ab a <eps> <eps> t_h e _5a <eps> a w _2 
+ĐNL_Nu_6_S0007_102 op C C C C C C C C C D S C D D C C C D C C C 
+ĐNL_Nu_6_S0007_102 #csid 16 1 0 4
+ĐNL_Nu_6_S0007_100 ref d M7 k _6b t_h 7_X j _2 dZ 7 _2 r a _1 ts_ 7 j _1 b a w _5a k O n _1 r a _1 N wp a j _2 S 7_X n _1 ts_ 7 j _1 v 7 j _5a k a k _5b b a n _6a 
+ĐNL_Nu_6_S0007_100 hyp d M7 <eps> _6b t_h 7_X j _1 dZ 7 _2 l a _1 ts_ 7 j _1 b <eps> O_X _5a k O n _1 r a _1 N wp a j _6b s 7_X n _1 ts_ 7 j _1 v 7 j <eps> k a k _5b b a n _6a 
+ĐNL_Nu_6_S0007_100 op C C D C C C C S C C C S C C C C C C C D S C C C C C C C C C C C C S S C C C C C C C C C C D C C C C C C C C 
+ĐNL_Nu_6_S0007_100 #csid 46 5 0 3
+TQA_7_NAM_S0045_253 ref d 7_X w _6a v a w _2 ts_ o _4 k u _4 
+TQA_7_NAM_S0045_253 hyp d 7_X w _6a v a w _2 ts_ o _1 k u _4 
+TQA_7_NAM_S0045_253 op C C C C C C C C C C S C C C 
+TQA_7_NAM_S0045_253 #csid 13 1 0 0
+ĐNL_Nu_6_S0007_2 ref t_h e _5a m i J _2 t_h e _5a dZ 7 _2 ts_ u Nm _5a m i J _2 d O_X kp _6b b a j _2 dZ i _2 J i _3 
+ĐNL_Nu_6_S0007_2 hyp t_h e _5a m i J _2 t_h e _5a dZ 7 _2 ts_ u Nm _5a m i J _2 d O_X kp _6b b a j _2 dZ i _2 J i _3 
+ĐNL_Nu_6_S0007_2 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_2 #csid 35 0 0 0
+TQA_7_NAM_S0045_9 ref d O _5a l a _2 k wp a _6a k a k _5b k 7_X w _6a 7 j _1 h i J _2 E_X J _3 S o _5a b a_X j _3 l a _2 ts_ i m _1 dZ i _2 v 7_X j _6a 
+TQA_7_NAM_S0045_9 hyp d O _5a l a _2 k wp a _3 k a k _5b k 7_X w _6a 7 j _1 h i J _2 a J _3 s o _5a b a_X j _2 l a _2 ts_ i m _1 v i _2 v 7_X j _6a 
+TQA_7_NAM_S0045_9 op C C C C C C C C C S C C C C C C C C C C C C C C C S C C S C C C C C S C C C C C C C S C C C C C C 
+TQA_7_NAM_S0045_9 #csid 44 5 0 0
+TQA_7_NAM_S0045_241 ref b 7 _2 tS E _1 k wp E_X J _1 h o _2 S uo t _5b N a_X j _2 d O n _5a x E_X k _5b 
+TQA_7_NAM_S0045_241 hyp b 7 _2 tS E _1 k wp E_X J _1 t_h o _2 S uo t _5b N a_X j _2 d O n _5a x a_X k _5b 
+TQA_7_NAM_S0045_241 op C C C C C C C C C C C S C C C C C C C C C C C C C C C S C C 
+TQA_7_NAM_S0045_241 #csid 28 2 0 0
+TQA_7_NAM_S0045_184 ref k a k _5b k 7_X w _6a d a _4 d e _3 m a_X k _6b n O _5a ts_ e t _5b v i _2 d O j _5a x a t _5b 
+TQA_7_NAM_S0045_184 hyp k a k _5b k 7_X w _6a d a _4 d e _3 m a_X t _6b n O _5a ts_ e t _2 v i _2 d O n _2 x a t _5b 
+TQA_7_NAM_S0045_184 op C C C C C C C C C C C C C C C C S C C C C C C C S C C C C C S S C C C C 
+TQA_7_NAM_S0045_184 #csid 32 4 0 0
+NQH_7_NAM_S0049_76 ref S a N _5a n a w _2 E m _1 d e n _5a l 7 p _5b 
+NQH_7_NAM_S0049_76 hyp S a N _5a n a w _5a E m _1 d e n _5a l 7 p _5b 
+NQH_7_NAM_S0049_76 op C C C C C C C S C C C C C C C C C C C 
+NQH_7_NAM_S0049_76 #csid 18 1 0 0
+ĐNL_Nu_6_S0007_85 ref t_h 7_X j _2 v E _3 m a_X t _6b k uo _3 b a w _5a t_h 7_X j _5a v E _3 m a_X t _6b k uo _3 b a w _5a t_h 7_X j _2 h o _3 J 7 _2 J 7 _2 b a w _5a k O n _1 l a _2 
+ĐNL_Nu_6_S0007_85 hyp t_h 7_X j _3 v j _3 <eps> h a _2 m M7 _2 t a <eps> _5a z 7_X j _2 v E _3 m a_X t _6b k <eps> _3 b a w _5a t_h 7_X j _2 N u _3 J 7 _1 J 7 _2 t a w _5a k O n _1 m a _2 
+ĐNL_Nu_6_S0007_85 op C C C S C S C D S S S S S S S C D C S C C S C C C C C C C C D C C C C C C C C C S S C C C S C C C S C C C C C C C S C C 
+ĐNL_Nu_6_S0007_85 #csid 41 16 0 3
+TQA_7_NAM_S0045_139 ref d a j _6a b a N _2 ts_ a w _1 l M7 n _6a tS e n _1 n e n _2 tS 7 j _2 s E_X J _1 t_h a_X m _5a 
+TQA_7_NAM_S0045_139 hyp d a j _6a b a N _2 tS a w _1 l M7 n _6a tS e n _1 n e n _2 tS 7 j _2 s E_X J _1 t_h a_X m _5a 
+TQA_7_NAM_S0045_139 op C C C C C C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_139 #csid 35 1 0 0
+TQA_7_NAM_S0045_213 ref x wp e _1 7 j _1 k 7_X w _6a m uo n _5a n O j _5a dZ i _2 
+TQA_7_NAM_S0045_213 hyp x wp e _1 7 j _1 k 7_X w _6a m uo n _5a n O j _5a dZ i _2 
+TQA_7_NAM_S0045_213 op C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_213 #csid 22 0 0 0
+ĐNL_Nu_6_S0007_20 ref v 7_X j _6a t_h E w _1 b a n _6a l a n _1 t_h i _2 m E _6a m a_X t _6b tS 7 j _2 t M7 N _3 h a t _6b n a_X N _5a a n _1 u j _3 h a_X j _1 t_h a _3 h a t _6b n a_X N _5a s uo N _5a d 7_X t _5b ts_ 7 j _1 
+ĐNL_Nu_6_S0007_20 hyp v 7_X j _6a t_h E w _1 b a n _6a l a n _1 t_h i _2 m e _6a m a_X t _6b ts_ 7 t _6b t M7 k _6b h a t _6b n a_X N _5a a_X n _1 u j _3 h a_X j _1 t_h a _3 h a t _6b n a_X m _5a ts_ u N _5a t_h M k _5b ts_ 7 j _1 
+ĐNL_Nu_6_S0007_20 op C C C C C C C C C C C C C C C C C C C C S C C C C C S C S S C C S S C C C C C C C C S C C C C C C C C C C C C C C C C C C S C S S C C S S S C C C C C 
+ĐNL_Nu_6_S0007_20 #csid 62 13 0 0
+TQA_7_NAM_S0045_252 ref ts_ u _5a v u t _6b b a_X j _1 l e n _1 
+TQA_7_NAM_S0045_252 hyp ts_ u _5a v u t _6b b a_X j _1 l e n _1 
+TQA_7_NAM_S0045_252 op C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_252 #csid 15 0 0 0
+NQH_7_NAM_S0049_42 ref v i _2 d O _5a l a _2 ts_ o _4 d e _3 E m _1 h O_X kp _6b t 7_X p _6b v a _2 v <eps> <eps> ie t _5b b a j _2 
+NQH_7_NAM_S0049_42 hyp v i _2 d O _5a l a _2 ts_ o _5a d e _3 E m _1 h O_X kp _6b t 7_X p _6b v a _2 v i t e t _5b b a j _2 
+NQH_7_NAM_S0049_42 op C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C I I S C C C C C C 
+NQH_7_NAM_S0049_42 #csid 35 2 2 0
+TQA_7_NAM_S0045_4 ref a _1 d O _5a l a _2 ts_ i m _1 k E_X J _5a k u t _6b t 7 _5a k wp e n _1 
+TQA_7_NAM_S0045_4 hyp a _1 d O <eps> _5al a _2 ts_ e J _1 t i J <eps> k <eps> <eps> uo _5a d _4 k wp e <eps> _1 
+TQA_7_NAM_S0045_4 op C C C C D S C C C S S C S S C D C D D S S S S C C C D C 
+TQA_7_NAM_S0045_4 #csid 14 9 0 5
+NQH_7_NAM_S0049_33 ref <eps> b 7 j _3 v i _2 N o j _1 tS M7 N _2 m 7 j _5a l a _2 n ie m _6a v u j _1 k uo _3 h a _2 v a _2 k a k _5b b a n _6a 
+NQH_7_NAM_S0049_33 hyp b b 7 j _3 v i _2 N o j _1 tS M7 N _2 m 7 j _5a l a _2 n ie m _2 v u j _2 k uo _3 h a _2 v a _2 k a k _5b b a n _6a 
+NQH_7_NAM_S0049_33 op I C C C C C C C C C C C C C C C C C C C C C C C C C S C C C S C C C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_33 #csid 45 2 1 0
+TQA_7_NAM_S0045_246 ref d e n _5a ts_ 7 j _1 i m _1 l a_X N _6a 
+TQA_7_NAM_S0045_246 hyp d e n _5a ts_ 7 j _1 i m _1 l a_X N _6a 
+TQA_7_NAM_S0045_246 op C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_246 #csid 15 0 0 0
+TQA_7_NAM_S0045_25 ref v 7_X j _6a h 7_X n _1 7 j _1 k 7_X w _6a k O _5a b ie t _5b h i J _2 E_X J _3 S o _5a b a_X j _3 l a _2 k O n _1 ts_ i m _1 dZ i _2 x o Nm _1 
+TQA_7_NAM_S0045_25 hyp v 7_X j _6a h 7 n _1 7 j _1 k 7_X w _6a k O _5a b ie t _5b h i J _1 E_X <eps> j s o _5a b 7_X j _3 l a _2 k O n _1 ts_ i m _1 dZ i _2 x o Nm _1 
+TQA_7_NAM_S0045_25 op C C C C C S C C C C C C C C C C C C C C C C C C C S C D S S C C C S C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_25 #csid 48 5 0 1
+TQA_7_NAM_S0045_128 ref a _1 h o _3 i _1 r 7 _1 p a w _1 7 _3 t 7_X j _1 N wp ie n _1 
+TQA_7_NAM_S0045_128 hyp a _1 h o _1 i <eps> r o _1 t a w _1 7 _1 t 7_X j _1 N wp ie n _1 
+TQA_7_NAM_S0045_128 op C C C C S C D C S C S C C C C S C C C C C C C C C 
+TQA_7_NAM_S0045_128 #csid 20 4 0 1
+TQA_7_NAM_S0045_80 ref k O _3 m O_X kp _6b s E_X J _1 7 _3 tS e n _1 d e _1 
+TQA_7_NAM_S0045_80 hyp k O _3 <eps> <eps> a_X _3 s E_X J _1 7 _3 tS e n _1 d e _1 
+TQA_7_NAM_S0045_80 op C C C D D S S C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_80 #csid 16 2 0 2
+ĐNL_Nu_6_S0007_7 ref h a t _6b n a_X N _5a G a_X p _6b b o Nm _1 h o Nm _2 b <eps> i _6a G a_X j _4 k E_X J _2 d a N _1 S u t _6b S u j _2 x O_X kp _5b 
+ĐNL_Nu_6_S0007_7 hyp h a t _6b n a_X Nm _4 G a_X p _6b b o Nm _1 x o Nm _6b b e n _6b z a_X j _4 k E_X J <eps> <eps> a <eps> <eps> <eps> u t <eps> <eps> <eps> <eps> _5b x <eps> <eps> _5b 
+ĐNL_Nu_6_S0007_7 op C C C C C C S S C C C C C C C C S C C S C I S S S C C C C C C D D C D D D C C D D D D S C D D C 
+ĐNL_Nu_6_S0007_7 #csid 28 8 1 11
+NQH_7_NAM_S0049_92 ref k u Nm _4 t_h 7_X j _5a k o <eps> <eps> <eps> _1 d e n _5a r o j _2 
+NQH_7_NAM_S0049_92 hyp k u Nm _4 t_h 7_X j _1 k o d M7 k _3 d e n _5a r o j _2 
+NQH_7_NAM_S0049_92 op C C C C C C C S C C I I I S C C C C C C C C 
+NQH_7_NAM_S0049_92 #csid 17 2 3 0
+TQA_7_NAM_S0045_30 ref a _2 h i J _2 E_X J _3 S o _5a ts_ i n _5a l a _2 k O n _1 ts_ i m _1 v a N _2 E_X J _1 b 7_X j _1 dZ 7 _2 d e n _5a h 7_X n _1 d 7_X j _5a 
+TQA_7_NAM_S0045_30 hyp a _2 h i J _2 E_X J _3 s o _5a ts_ i <eps> <eps> l a _2 k O n _1 ts_ i m _1 v a N _2 E_X J _5a b 7_X j _1 dZ 7 _2 d e n _1 h 7_X t _5b d 7_X j _5a 
+TQA_7_NAM_S0045_30 op C C C C C C C C C S C C C C D D C C C C C C C C C C C C C C C C C S C C C C C C C C C C S C C S S C C C C 
+TQA_7_NAM_S0045_30 #csid 46 5 0 2
+TQA_7_NAM_S0045_208 ref k 7_X w _6a m uo n _5a k 7_X w _6a m uo n _5a n O j _5a dZ i _2 v 7 j _5a k a k _5b b a n _6a 7_X j _5a 
+TQA_7_NAM_S0045_208 hyp k 7_X w _6a m uo n _5a k 7_X w _6a m uo n _5a n O j _5a dZ i _2 v 7 j _5a k a k _6b b a n _6a 7_X j _5a 
+TQA_7_NAM_S0045_208 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C 
+TQA_7_NAM_S0045_208 #csid 37 1 0 0
+NQH_7_NAM_S0049_46 ref E m _1 t_h M7 _1 k o _1 l a _2 
+NQH_7_NAM_S0049_46 hyp E m _1 t_h M7 _1 k o _1 n 7 _2 
+NQH_7_NAM_S0049_46 op C C C C C C C C C S S C 
+NQH_7_NAM_S0049_46 #csid 10 2 0 0
+TQA_7_NAM_S0045_60 ref k 7_X w _6a tS a _3 l 7 j _2 d i _1 
+TQA_7_NAM_S0045_60 hyp k 7_X w _6a tS a _3 l 7 j _2 d i _1 
+TQA_7_NAM_S0045_60 op C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_60 #csid 14 0 0 0
+TQA_7_NAM_S0045_22 ref b M k _5b tS E_X J _1 t_h M _5a n a_X m _1 l a _2 k O n _1 b O j _5a k a _5a 
+TQA_7_NAM_S0045_22 hyp b M7 k _1 t_h E_X J _1 t_h M _5a n a_X m _1 l a _2 k O n _1 b O j _1 k a _5a 
+TQA_7_NAM_S0045_22 op C S C S S C C C C C C C C C C C C C C C C C C C C S C C C 
+TQA_7_NAM_S0045_22 #csid 25 4 0 0
+TQA_7_NAM_S0045_29 ref x <eps> wp e _1 7 j _1 k 7_X w _6a tS a _3 l 7 j _2 dZ u p _5b t 7 _5a h i J _2 E_X J _3 S o _5a ts_ i n _5a d i _1 
+TQA_7_NAM_S0045_29 hyp x w wp e _1 7 j _1 k 7_X w _1 tS a _3 l 7 j _1 dZ u p _5b t 7 _5a h i J _2 E_X J _3 s o _5a ts_ i n _5a d i _1 
+TQA_7_NAM_S0045_29 op C I C C C C C C C C C S C C C C C C S C C C C C C C C C C C C C C S C C C C C C C C C 
+TQA_7_NAM_S0045_29 #csid 39 3 1 0
+TQA_7_NAM_S0045_236 ref k u Nm _1 k 7_X p _5b N uo n _2 t_h M k _6b f 7_X m _3 ts_ O _1 k O n _1 N M7 j _2 
+TQA_7_NAM_S0045_236 hyp k u Nm _1 k 7_X p _6b N uo n _2 t_h M7 k _6b f 7_X m _3 ts_ O _1 k O n _1 N M7 j _2 
+TQA_7_NAM_S0045_236 op C C C C C C C S C C C C C S C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_236 #csid 29 2 0 0
+NQH_7_NAM_S0049_12 ref h a _2 v a _2 k a k _5b b a n _6a t_h i k _5b x <eps> u _1 v M7 n _2 tS M7 N _2 
+NQH_7_NAM_S0049_12 hyp h a _2 v a _2 k a k _5b b a n _6a t_h i k _5b x wpi J _1 v M7 n _2 tS M7 N _2 
+NQH_7_NAM_S0049_12 op C C C C C C C C C C C C C C C C C C C I S C C C C C C C C C 
+NQH_7_NAM_S0049_12 #csid 28 1 1 0
+TQA_7_NAM_S0045_97 ref n 7 j _1 d 7_X j _1 k 7_X t _5b l e n _1 J M N _4 t ie N _5a ts_ i m _1 r i w _5a r i t _5b 
+TQA_7_NAM_S0045_97 hyp n 7 j _1 d 7_X j _1 k 7_X t _5b l e n _1 J M N _4 t ie m _4 ts_ i m _1 r i w _5a rdZ i t _5b 
+TQA_7_NAM_S0045_97 op C C C C C C C C C C C C C C C C C C C C C C S S C C C C C C C C S C C C 
+TQA_7_NAM_S0045_97 #csid 33 3 0 0
+NQH_7_NAM_S0049_108 ref k o _1 m i m _3 k M7 j _2 t_h 7_X t _6b t M7 j _1 
+NQH_7_NAM_S0049_108 hyp k o _1 m i J _3 k M7 j _2 t_h 7_X t _6b t M7 j _1 
+NQH_7_NAM_S0049_108 op C C C C C S C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_108 #csid 18 1 0 0
+ĐNL_Nu_6_S0007_33 ref ts_ i m _1 k O _5a b ie t _5b b 7 j _1 
+ĐNL_Nu_6_S0007_33 hyp ts_ i m _1 k O _5a b ie t _5b b 7 j _1 
+ĐNL_Nu_6_S0007_33 op C C C C C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_33 #csid 15 0 0 0
+TQA_7_NAM_S0045_224 ref x wp e _1 7 j _1 k 7_X w _6a tS a _3 l 7 j _2 d i _1 
+TQA_7_NAM_S0045_224 hyp x wp e _1 7 j _1 k 7_X w _1 tS a <eps> l 7 j _1 d i _1 
+TQA_7_NAM_S0045_224 op C C C C C C C C C C S C C D C C C S C C C 
+TQA_7_NAM_S0045_224 #csid 18 2 0 1
+TQA_7_NAM_S0045_111 ref J M N _4 t M _2 N M _4 t a _3 v E _3 d E p _6b k uo _3 m a_X t _6b k uo _3 i n _1 r 7 _1 p a <eps> _1 l a _2 ts_ a w _1 m i J _2 r u Nm _1 d o Nm _6a 
+TQA_7_NAM_S0045_111 hyp J M N _4 t M _2 v Mu _4 t a _3 v E _3 d E p _6b k uo _3 m a_X t _6b h M _5a i <eps> <eps> r o _1 f a w _1 l a _2 ts_ a <eps> _1 m i J _2 r u Nm _4 d o Nm _6a 
+TQA_7_NAM_S0045_111 op C C C C C C C S S C C C C C C C C C C C C C C C C C C S S S C D D C S C S C I C C C C C C D C C C C C C C C S C C C C 
+TQA_7_NAM_S0045_111 #csid 47 8 1 3
+TQA_7_NAM_S0045_78 ref t_h a w _3 7 j _1 k 7_X w _6a tS a _3 l 7 j _2 dZ u p _5b t o j _1 J E _5a 
+TQA_7_NAM_S0045_78 hyp t_h a <eps> _3 7 j _1 k 7_X w _6a tS a _3 <eps> 7 j <eps> _1dZ u p <eps> t o j _1 J E _5a 
+TQA_7_NAM_S0045_78 op C C D C C C C C C C C C C C D C C D S C C D C C C C C C C 
+TQA_7_NAM_S0045_78 #csid 24 1 0 4
+TQA_7_NAM_S0045_243 ref h a <eps> _6a k E_X J <eps> <eps> _5a l a w _1 m M N _2 
+TQA_7_NAM_S0045_243 hyp h a n _6a k E_X J _5a JM _5a r E w _1 m M N _2 
+TQA_7_NAM_S0045_243 op C C I C C C C I I C S S C C C C C C 
+TQA_7_NAM_S0045_243 #csid 13 2 3 0
+TQA_7_NAM_S0045_288 ref v i _2 t_h e _5a t M _2 s M7 _1 N M7 j _2 t a _1 d a _4 h wp 7_X n _5a l wp ie n _6a b o _2 k 7_X w _1 d e _3 d M7 _1 t_h M _1 
+TQA_7_NAM_S0045_288 hyp v i _2 t_h e _5a t M _2 s M7 _1 N M7 j _2 t a _1 d a _4 h <eps> wp7_X n _5a l wp ie n _6a b o _2 k 7_X w _1 d e _3 d M7 _1 t_h M _1 
+TQA_7_NAM_S0045_288 op C C C C C C C C C C C C C C C C C C C C C C C D S C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_288 #csid 46 1 0 1
+TQA_7_NAM_S0045_274 ref k 7_X w _1 t_h 7 _1 n a w _2 ts_ O _1 t_h 7_X j _5a b 7_X j _2 ts_ i m _1 k u _1 r 7_X t _5b t_h i k _5b b 7 _2 tS E _1 
+TQA_7_NAM_S0045_274 hyp k 7_X w _1 t_h 7 _1 n a w _2 ts_ O _1 t_h 7_X j _5a b 7_X j _2 ts_ i m _1 k u _1 r 7_X t _5b <eps> tt_h ik _5b b 7 _2 tS E _1 
+TQA_7_NAM_S0045_274 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D S S C C C C C C C 
+TQA_7_NAM_S0045_274 #csid 40 2 0 1
+TQA_7_NAM_S0045_285 ref ts_ u Nm _5a k O _5a t_h e _3 b a_X j _1 r a _1 t 7 j _5a m o t _6b N i n _2 t a m _5a tS a_X m _1 k i _1 l o _1 m E t _5b 
+TQA_7_NAM_S0045_285 hyp ts_ u Nm _5a k O _5a t_h e _3 b a_X j _1 s a _1 t 7 j _5a m o t _6b N i n _2 t a m _1 tS a_X m _1 k i <eps> l o _1 m E t _5b 
+TQA_7_NAM_S0045_285 op C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C S C C C C C C D C C C C C C C 
+TQA_7_NAM_S0045_285 #csid 44 2 0 1
+ĐNL_Nu_6_S0007_38 ref ts_ i m _1 x o Nm _1 b ie t _5b b 7 j _1 
+ĐNL_Nu_6_S0007_38 hyp ts_ i n _1 <eps> o Nm _1 <eps> u t _5b b 7 j _1 
+ĐNL_Nu_6_S0007_38 op C C S C D C C C D S C C C C C C 
+ĐNL_Nu_6_S0007_38 #csid 12 2 0 2
+ĐNL_Nu_6_S0007_66 ref S a_X w _1 x i _1 d O_X kp _6b s O_X Nm _1 b a j _2 t_h 7 _1 t_h i _2 t_h E w _1 <eps> l a n _1 k a _5a 7 _3 d 7_X w _1 J i _3 
+ĐNL_Nu_6_S0007_66 hyp S a_X w _1 x i _1 d O_X kp _6b <eps> O_X Nm _1 b a j _2 t_h 7 _1 <eps> <eps> <eps> t_h E w _1 uo l <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> a_X _3 
+ĐNL_Nu_6_S0007_66 op C C C C C C C C C C C D C C C C C C C C C C D D D C C C C I C D D D D D D D D D D D D D S C 
+ĐNL_Nu_6_S0007_66 #csid 27 1 1 17
+ĐNL_Nu_6_S0007_14 ref m E _6a m a_X t _6b tS 7 j _2 t_h a <eps> _3 h a t _6b n a_X N _5a s uo N _5a d 7_X t _5b ts_ 7 j _1 
+ĐNL_Nu_6_S0007_14 hyp m i _6a m a_X t _6b tS 7 j _2 t_h a j _3 h a t _6b n a_X N _5a s uo N _5a d 7_X t _5b ts_ 7 j _1 
+ĐNL_Nu_6_S0007_14 op C S C C C C C C C C C C C I C C C C C C C C C C C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_14 #csid 33 1 1 0
+TQA_7_NAM_S0045_284 ref b o _5a k 7_X w _1 r 7_X t _5b t_h o Nm _1 m i J _1 
+TQA_7_NAM_S0045_284 hyp b o _5a k O n _1 r 7_X t _5b t_h o Nm _1 m i J _1 
+TQA_7_NAM_S0045_284 op C C C C S S C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_284 #csid 17 2 0 0
+ĐNL_Nu_6_S0007_69 ref v 7_X j _6a t_h E w _1 v ie t _6b n a m _1 t_h i _2 ts_ i m _1 7 _3 d 7_X w _1 
+ĐNL_Nu_6_S0007_69 hyp v 7_X j _6a t_h E w _1 v ie t _6b n a m _1 t_h i _2 ts_ i m _1 7 _3 d 7_X w _1 
+ĐNL_Nu_6_S0007_69 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_69 #csid 29 0 0 0
+NQH_7_NAM_S0049_129 ref k o _1 z 7_X j _6a r 7_X t _5b <eps> <eps> l a _2 t_h 7_X t _6b t wp ie t _6b v i _2 k o _1 z 7_X j _6a r 7_X t _5b h a_X j _1 
+NQH_7_NAM_S0049_129 hyp k o _1 z a_X j _6a z 7_X t _5b J 7 w _1 j t_h 7_X t _6b t <eps> ie p _6b v i _2 k o _1 z 7_X j _6a r 7_X t _5b h a_X j _1 
+NQH_7_NAM_S0049_129 op C C C C S C C S C C C I I S S S C C C C C D C S C C C C C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_129 #csid 34 6 2 1
+ĐNL_Nu_6_S0007_21 ref t_h E w _1 t 7 _5a t_h i _2 m E _6a m a_X t _6b tS 7 j _2 t_h a _3 h a t _6b n a_X N _5a s uo N _5a d 7_X t _5b ts_ 7 j _1 
+ĐNL_Nu_6_S0007_21 hyp t_h E w _1 t 7 _5a k i _2 J E _6a m a_X <eps> _6b tS 7 j _2 t_h a _3 h a t _6b m a_X N _5a s uo N _5a d 7_X t _5b ts_ 7 j _1 
+ĐNL_Nu_6_S0007_21 op C C C C C C C S C C S C C C C D C C C C C C C C C C C C S C C C C C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_21 #csid 40 3 0 1
+NQH_7_NAM_S0049_117 ref f M7 N _1 7 j _1 k 7_X w _6a h a_X j _4 t i m _2 ts_ O _1 t 7 _5a J M N _4 x o _3 t_h 7 _1 M N _5a v 7 j _5a i _5a J E _5a 
+NQH_7_NAM_S0049_117 hyp f M N _1 7 j _1 k 7_X w _6a h a_X j _1 t i m _1 ts_ O _1 t 7 _5a J M N _1 x u _3 t_h 7 _1 M N _5a v 7 j _5a i _5a J E _5a 
+NQH_7_NAM_S0049_117 op C S C C C C C C C C C C C C S C C C S C C C C C C C C C S C S C C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_117 #csid 42 5 0 0
+TQA_7_NAM_S0045_68 ref t 7 _5a m 7 j _2 x wp e _1 tS a <eps> _3 l 7 j _2 
+TQA_7_NAM_S0045_68 hyp t 7 _5a <eps> 7 j _5a x wp e _4 tS a n _2 n 7 j _2 
+TQA_7_NAM_S0045_68 op C C C D C C S C C C S C C I S S C C C 
+TQA_7_NAM_S0045_68 #csid 13 4 1 1
+TQA_7_NAM_S0045_36 ref ts_ i m _1 E n _5a b 7_X n _6a d i _1 d 7_X w _1 
+TQA_7_NAM_S0045_36 hyp ts_ i m _1_6a E m _1 b 7_X t _6a d i _1 d 7_X w _1 
+TQA_7_NAM_S0045_36 op C C C S C S S C C S C C C C C C C C 
+TQA_7_NAM_S0045_36 #csid 14 4 0 0
+TQA_7_NAM_S0045_46 ref E n _5a b a_X j _1 ts_ a w _1 k E_X J _5a v 7_X j _4 
+TQA_7_NAM_S0045_46 hyp E n _5a b a j _1 ts_ a w _1 b E_X n _5a v 7_X j _4 
+TQA_7_NAM_S0045_46 op C C C C S C C C C C C S C S C C C C C 
+TQA_7_NAM_S0045_46 #csid 16 3 0 0
+NQH_7_NAM_S0049_5 ref E m _1 v a _2 k a k _5b b a n _6a t_h M7 N _2 tS O _2 ts_ wp ie n _6a v e _2 N o j _1 tS M7 N _2 d a N _1 s 7_X j _1 
+NQH_7_NAM_S0049_5 hyp E m _1 v a _2 k a k _5b b a n _1 t_h M7 N _2 tS O _2 ts_ wp ie n _1 v e _2 N o j _1 tS M7 N _2 d a N _1 s 7_X j _1 
+NQH_7_NAM_S0049_5 op C C C C C C C C C C C C C S C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_5 #csid 43 2 0 0
+TQA_7_NAM_S0045_118 ref t 7 _5a t_h i k _5b l wp a j _2 ts_ i m _1 t_h ie n _1 N a _1 
+TQA_7_NAM_S0045_118 hyp t 7 _5a t_h i k _5b l wp a j _2 ts_ i m _1 t_h ie n _1 N a _1 
+TQA_7_NAM_S0045_118 op C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_118 #csid 23 0 0 0
+NQH_7_NAM_S0049_80 ref k o _1 z a_X j _6a E m _1 t 7_X p _6b v ie t _5b 
+NQH_7_NAM_S0049_80 hyp k o _1 <eps> 7_X j _6a E m _1 t 7_X p _6b v ie t _5b 
+NQH_7_NAM_S0049_80 op C C C D S C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_80 #csid 16 1 0 1
+ĐNL_Nu_6_S0007_15 ref h a t _6b n a_X N _5a G a_X p _6b b o Nm _1 h o Nm _2 b i _6a G a_X j _4 k E_X J _2 d a N _1 N o j _2 S u t _6b S u j _2 x O_X kp _5b 
+ĐNL_Nu_6_S0007_15 hyp h a t _6b n a_X N _6b G a_X p _6b <eps> o Nm _4 G o Nm _2 b i _6b G a_X j _5b tS E_X J _6b t a N _1 l o <eps> _6b s o t _6b <eps> <eps> <eps> <eps> x O_X kp _5b 
+ĐNL_Nu_6_S0007_15 op C C C C C C C S C C C C D C C S S C C C C C S C C C S S C C S S C C C S C D S S S C C D D D D C C C C 
+ĐNL_Nu_6_S0007_15 #csid 33 12 0 6
+TQA_7_NAM_S0045_44 ref tS 7 j _2 l a_X k _5b b u j _6a m M7 _1 r 7 j _1 
+TQA_7_NAM_S0045_44 hyp tS 7 j _2 d a_X k _5b b u j _6a m M7 _1 z 7 j _1 
+TQA_7_NAM_S0045_44 op C C C C S C C C C C C C C C C S C C C 
+TQA_7_NAM_S0045_44 #csid 17 2 0 0
+ĐNL_Nu_6_S0007_88 ref b a w _5a k O n _1 l a m _2 v ie k _6b b a w _5a k O n _1 d o Nm _2 i _5a N E _1 l 7 j _2 t_h 7_X j _2 
+ĐNL_Nu_6_S0007_88 hyp b a w _2 k O n _1 l a <eps> _2 v ie k _6b v a w _2 k O n _1 d o Nm _2 i _5a J i _1 l 7 j _2 t_h 7_X j _2 
+ĐNL_Nu_6_S0007_88 op C C C S C C C C C C D C C C C C S C C S C C C C C C C C C C S S C C C C C C C C C 
+ĐNL_Nu_6_S0007_88 #csid 35 5 0 1
+NQH_7_NAM_S0049_57 ref k 7_X w _6a k u Nm _2 t 7 <eps> _5a d O_X kp _6b b a j _2 t ie p _5b t_h E w _1 
+NQH_7_NAM_S0049_57 hyp k 7_X w _6a k u Nm _2 t 7 t _5b d O_X kp _6b b a j _2 t ie p _5b x e w _1 
+NQH_7_NAM_S0049_57 op C C C C C C C C C C I S C C C C C C C C C C C C S S C C 
+NQH_7_NAM_S0049_57 #csid 24 3 1 0
+NQH_7_NAM_S0049_29 ref t i m _2 J M N _4 ts_ i _1 t ie t _5b ts_ O _1 t_h 7_X j _5a h a _2 v a _2 k a k _5b b a n _6a r 7_X t _5b h a w _5a h M k _5b m O_X Nm _1 ts_ 7 <eps> <eps> <eps> _2 N o j _1 tS M7 N _2 m 7 j _5a 
+NQH_7_NAM_S0049_29 hyp t i m _2 J M N _1 ts_ i _1 t ie t _1 ts_ O _1 t_h 7_X j _5a h a _2 v a _2 k a k _5b b a n _6a r 7_X t _5b h a w _5a <eps> M k _5b m O NmN _1 ts_ 7 _2 v e _2 N o j _1 tS M7 N _2 m 7 j _5a 
+NQH_7_NAM_S0049_29 op C C C C C C C S C C C C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C S S C C C I I I C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_29 #csid 62 4 3 1
+TQA_7_NAM_S0045_76 ref b e _1 r a_X w _1 s u m _1 s wp e _1 n M7 N _1 b a j _4 
+TQA_7_NAM_S0045_76 hyp b e _1 r a_X w _1 s u <eps> _1 s <eps> e _1 n M7 N _1 b a j _4 
+TQA_7_NAM_S0045_76 op C C C C C C C C C D C C D C C C C C C C C C C 
+TQA_7_NAM_S0045_76 #csid 21 0 0 2
+TQA_7_NAM_S0045_5 ref t 7 _5a d <eps> o _5a k <eps> <eps> <eps> 7_X w _6a h i J _2 E_X J _3 S o _5a b o n _5a l a _2 ts_ i m _1 dZ i _2 v 7_X j _6a 
+TQA_7_NAM_S0045_5 hyp t 7 _5a d 7_X w _5a k o Nm _4 J i _5a h i J <eps> E_X J _3 s o _5a v o <eps> _5a l a _2 ts_ i m _1 dZ i _2 <eps> 7_X j _6a 
+TQA_7_NAM_S0045_5 op C C C C I S C C I I I S S S C C C D C C C S C C S C D C C C C C C C C C C C D C C C 
+TQA_7_NAM_S0045_5 #csid 29 6 4 3
+NQH_7_NAM_S0049_62 ref S a N _5a n a w _2 E m _1 d e n _5a l 7 p _5b 
+NQH_7_NAM_S0049_62 hyp S a N _5a d a w _5a E m _5a d e n _5a l 7 p _5b 
+NQH_7_NAM_S0049_62 op C C C C S C C S C C S C C C C C C C C 
+NQH_7_NAM_S0049_62 #csid 16 3 0 0
+TQA_7_NAM_S0045_70 ref m uo _2 s wp 7_X n _1 7 j _1 J 7 _2 k O _5a b a n _6a m a _2 k 7_X j _1 k o j _5a d 7_X m _1 ts_ o j _2 n a_X j _3 l o kp _6b 
+TQA_7_NAM_S0045_70 hyp m uo <eps> _2s wp 7_X n _1 7 j _1 J 7 _2 k O _5a b a n _2 m a _2 k 7_X j _1 k o j _5a d 7_X m _1 tS o j _2 n a_X j _3 l o kp _6b 
+TQA_7_NAM_S0045_70 op C C D S C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C S C C C C C C C C C C C 
+TQA_7_NAM_S0045_70 #csid 44 3 0 1
+TQA_7_NAM_S0045_259 ref x E_X k _5b d e n _5a b 7 _2 ts_ E _1 l a _2 J M N _4 l wp a j _2 ts_ i m _1 n a w _2 
+TQA_7_NAM_S0045_259 hyp x E_X k _5b d e n _5a b 7 _2 ts_ E _1 l a _2 J M N _4 l wp a j _2 <eps> <eps> <eps> <eps> <eps> l w _2 
+TQA_7_NAM_S0045_259 op C C C C C C C C C C C C C C C C C C C C C C C C C C D D D D D S C C 
+TQA_7_NAM_S0045_259 #csid 28 1 0 5
+TQA_7_NAM_S0045_264 ref k 7_X w _1 t_h 7 _1 ts_ O _1 t_h 7_X j _5a b 7 _2 tS E _1 r 7_X t _5b v u j _1 x i _1 k O _5a x E_X k _5b d e n _5a l a _2 
+TQA_7_NAM_S0045_264 hyp k 7_X w _1 t_h 7 _1 ts_ O _1 t_h 7_X j _5a b 7 _2 ts_ E _1 r 7_X t _5b v u j _1 x i _1 k O _5a x E_X k _5b d e n _5a l a _2 
+TQA_7_NAM_S0045_264 op C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_264 #csid 44 1 0 0
+TQA_7_NAM_S0045_277 ref E m _1 s i n _1 d O_X kp _6b b a j _2 b o _2 k 7_X w _1 t u Nm _1 k E_X J _5a 
+TQA_7_NAM_S0045_277 hyp E m _1 s i n _1 d O_X kp _6b b a j _2 b o _2 k 7_X w _1 t u Nm _1 k E_X J _5a 
+TQA_7_NAM_S0045_277 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_277 #csid 30 0 0 0
+NQH_7_NAM_S0049_24 ref h a _2 v a _2 k a k _5b b a n _6a t_h i k _5b J M N _4 dZ i _2 7 _3 N o j _1 tS M7 N _2 m 7 j _5a 
+NQH_7_NAM_S0049_24 hyp h a _2 v a _2 k a k _5b b a n _6a t_h i k _5b J M N _4 dZ i _2 7 _3 N o j _1 tS M7 N _2 m 7 j _5a 
+NQH_7_NAM_S0049_24 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_24 #csid 39 0 0 0
+NQH_7_NAM_S0049_114 ref 7_X m _5a tS a N _1 v 7 _3 t_h 7 m _1 t_h O _1 
+NQH_7_NAM_S0049_114 hyp 7_X m _5a tS a N _1 v 7 _3 t_h 7 m _1 t_h 7 _1 
+NQH_7_NAM_S0049_114 op C C C C C C C C C C C C C C C S C 
+NQH_7_NAM_S0049_114 #csid 16 1 0 0
+NQH_7_NAM_S0049_133 ref k o _1 7_X j _5a d a _4 dZ u p _5b t 7 _5a k O _5a t_h 7_X t _6b J ie w _2 n ie m _2 v u j _1 
+NQH_7_NAM_S0049_133 hyp k o _1 7_X j _5a d a _5a dZ u p _5b t 7 _5a k O _5a t_h 7_X t _6b J ie w _2 n ie m _2 v u j _1 
+NQH_7_NAM_S0049_133 op C C C C C C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_133 #csid 34 1 0 0
+TQA_7_NAM_S0045_261 ref x E_X k _5b d e n _5a b 7 _2 ts_ E _1 l a j _6a J M N _4 l wp a j _2 ts_ i m _1 S a_X w _1 k O n _2 b o _2 n o Nm _1 b O j _5a k a _3 ts_ i m _1 k u _1 
+TQA_7_NAM_S0045_261 hyp x E_X J _5b d e n _5a b 7 _2 ts_ E _1 l a <eps> _2 J M N _4 l wp a j _2 ts_ i m _1 s a_X w _1 k O <eps> _2 b O _2 n o Nm _1 b O j _2 k a _3 ts_ i m _1 s u _1 
+TQA_7_NAM_S0045_261 op C C S C C C C C C C C C C C C C D S C C C C C C C C C C C C C S C C C C C D C C S C C C C C C C C S C C C C C C C S C C 
+TQA_7_NAM_S0045_261 #csid 52 6 0 2
+TQA_7_NAM_S0045_95 ref m a_X k _6b h o _2 k a N _2 s E_X J _1 t_h e m _1 v a _2 J M _1 r o Nm _6a r a _1 m e J _1 m o Nm _1 
+TQA_7_NAM_S0045_95 hyp m a_X t _6b h o _2 k a N _2 s E_X J _1 t_h e m _1 v a _2 J M _1 r o Nm _6a r a _1 m E_X j _1 m o Nm _1 
+TQA_7_NAM_S0045_95 op C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S S C C C C C 
+TQA_7_NAM_S0045_95 #csid 37 3 0 0
+TQA_7_NAM_S0045_48 ref ts_ i m _1 7 j _1 ts_ i m _1 n O j _5a dZ i _2 
+TQA_7_NAM_S0045_48 hyp ts_ i m _1 7 j _1 s i m _1 n O j _5a dZ i _2 
+TQA_7_NAM_S0045_48 op C C C C C C C S C C C C C C C C C C 
+TQA_7_NAM_S0045_48 #csid 17 1 0 0
+NQH_7_NAM_S0049_1 ref h M7 N _1 7 j _1 t 7 _5a v 7 j _5a k 7_X w _6a k u Nm _2 d O_X kp _6b b a j _2 tS M7 N _2 E m _1 J E _5a 
+NQH_7_NAM_S0049_1 hyp h M7 N _1 7 j _1 t 7 _5a v <eps> a _2 k 7_X w _6a k u Nm _2 d O_X kp _6b b a j _2 tS M7 N _1 E m _1 J E _5a 
+NQH_7_NAM_S0049_1 op C C C C C C C C C C C D S S C C C C C C C C C C C C C C C C C C C S C C C C C C 
+NQH_7_NAM_S0049_1 #csid 36 3 0 1
+ĐNL_Nu_6_S0007_103 ref tS O_X Nm _1 k uo k _6b t_h i _1 ts_ a_X j _6a b a w _5a t_h a_X N _5a v a _2 b a w _5a k O _5a t_h a j _5a d o _6a r 7_X t _5b v u j _1 
+ĐNL_Nu_6_S0007_103 hyp tS O_X Nm _1 k uo k _6b t_h i _1 ts_ a_X j _6a b a w _5a t_h a_X N _5a v a _2 t_h a_X N _2 k O _5a t_h a j _5a d o _6a r 7_X t _5b v u j _1 
+ĐNL_Nu_6_S0007_103 op C C C C C C C C C C C C C C C C C C C C C C C C C C S S S S C C C C C C C C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_103 #csid 44 4 0 0
+NQH_7_NAM_S0049_55 ref t i J _2 k a m _3 k uo _3 E m _1 d o j _5a v 7 j _5a N o j _1 tS M7 N _2 
+NQH_7_NAM_S0049_55 hyp t i J _2 k a m _3 k uo _3 E m _1 d o j _4 v 7 j _4 N o j _1 tS M7 N _2 
+NQH_7_NAM_S0049_55 op C C C C C C C C C C C C C C C C C S C C C S C C C C C C C C 
+NQH_7_NAM_S0049_55 #csid 28 2 0 0
+TQA_7_NAM_S0045_148 ref m O _3 v E t _6b x wp a_X m _2 x wp a_X m _2 J M _1 k a j _5a S M N _2 tS 7_X w _1 v M7 _2 z a_X j _2 v M7 _2 k M N _5a dZ u p _5b ts_ u Nm _5a z e _4 z a N _2 m o _3 v 7 _4 k a k _5b h a t _6b k M N _5a 
+TQA_7_NAM_S0045_148 hyp m O _3 v E t _6b x wp a_X m _2 x wp a_X m _2 J M _1 k a j _5a S M N _5a tS M Nm _1 v M7 _2 z a_X j _2 v M7 _2 k M N _5a dZ u p _5b ts_ u Nm _5a z e _4 z a <eps> _2 m o _3 v 7 _4 k a k _5b h a t _6b k M N _5a 
+TQA_7_NAM_S0045_148 op C C C C C C C C C C C C C C C C C C C C C C C C C C C S C S S C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_148 #csid 75 3 0 1
+ĐNL_Nu_6_S0007_27 ref S a_X w _1 d 7_X j _1 t 7 _5a v a _2 v 7 j _5a b a n _6a k u Nm _2 t i m _2 h ie w _3 v e _2 k a _5a v a _2 ts_ i m _1 k wp a _1 b a j _2 t_h 7 _1 k a <eps> _5a v a _2 ts_ i m _1 J E _5a 
+ĐNL_Nu_6_S0007_27 hyp S a_X w _1 d 7_X j _1 t 7 _5a v a _6a v 7 j _5a b a n _6a k u Nm _2 t i m _2 h ie w _2 v e _2 k a _5a v a _2 ts_ i m _1 x wp a _1 b a j _2 t_h 7 _1 k a m _5a v a _2 ts_ i m _1 J E _5a 
+ĐNL_Nu_6_S0007_27 op C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C S C C C C C C C C C C C C I C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_27 #csid 68 3 1 0
+TQA_7_NAM_S0045_38 ref l M7 n _6a b a_X j _1 J M <eps> _1 z 7_X n _4 l o j _5a 
+TQA_7_NAM_S0045_38 hyp l M7 n _6a b a_X j _2 J M n _1 <eps> z7_X n _4 l o j _5a 
+TQA_7_NAM_S0045_38 op C C C C C C C S C C I C D S C C C C C C 
+TQA_7_NAM_S0045_38 #csid 16 2 1 1
+TQA_7_NAM_S0045_7 ref h i J _2 E_X J _3 r o j _2 b o n _5a l a _2 ts_ i m _1 G O _4 k ie n _5a 
+TQA_7_NAM_S0045_7 hyp h i J _2 E_X J _3 <eps> o j _5a v o n _5a l a _2 ts_ i m _1 <eps> v a k ie n _5a 
+TQA_7_NAM_S0045_7 op C C C C C C C D C C S S C C C C C C C C C C D S S C C C C 
+TQA_7_NAM_S0045_7 #csid 23 4 0 2
+ĐNL_Nu_6_S0007_305 ref m <eps> uo _2 n a w _2 v M7 n _2 k u Nm _4 r M k _6b r 7 _4 N a t _5b h M7 N <eps> _1 
+ĐNL_Nu_6_S0007_305 hyp m o t _2 n a w _2 v 7 n _2 k u <eps> _4 z M <eps> _5b z 7 _4 h a t _5b t_h M N _1 _1 
+ĐNL_Nu_6_S0007_305 op C I S C C C C C C S C C C C D C S C D S S C C S C C C S S C I C 
+ĐNL_Nu_6_S0007_305 #csid 20 8 2 2
+TQA_7_NAM_S0045_102 ref d a n _2 k u Nm _2 h wp a _2 7_X m _1 
+TQA_7_NAM_S0045_102 hyp d a N _2 k u Nm _2 h wp a _2 7_X m _1 
+TQA_7_NAM_S0045_102 op C C S C C C C C C C C C C C C 
+TQA_7_NAM_S0045_102 #csid 14 1 0 0
+NQH_7_NAM_S0049_25 ref h a _2 v a _2 k a k _5b b a n _6a t_h i k <eps> <eps> _5b x u _1 v M7 n _2 tS M7 N _2 v a _2 <eps> t_h M _1 v ie n _6a 
+NQH_7_NAM_S0049_25 hyp h a _2 v a _2 k a k _5b b a n _5b t_h i k _5b M7 _5b x u _1 v M7 n _2 tS M7 Nm _2 v a _2 M7 M7 N _1 v <eps> i _6a 
+NQH_7_NAM_S0049_25 op C C C C C C C C C C C C C S C C C I I C C C C C C C C C C S C C C C I S S C C D S C 
+NQH_7_NAM_S0049_25 #csid 33 5 3 1
+TQA_7_NAM_S0045_133 ref k <eps> <eps> 7_X w _6a tS a _3 l 7 j _2 ts_ O _1 t 7 _5a k 7_X w _1 n a_X j _2 J E _5a 
+TQA_7_NAM_S0045_133 hyp k a j 7_X w _6a tS a _3 l 7 j <eps> ts_ O _1 t 7 _5a k 7_X w _1 n a_X j _2 J E _5a 
+TQA_7_NAM_S0045_133 op C I I C C C C C C C C C D C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_133 #csid 27 0 2 1
+ĐNL_Nu_6_S0007_105 ref t_h a j _5a d <eps> o _6a k uo _3 b a w _5a t_h e _5a n a w _2 
+ĐNL_Nu_6_S0007_105 hyp t_h a j _5a d M7 k _6a k uo <eps> _5ab a w _5a t_h e _5a n a w _2 
+ĐNL_Nu_6_S0007_105 op C C C C C I S C C C D S C C C C C C C C C C 
+ĐNL_Nu_6_S0007_105 #csid 18 2 1 1
+TQA_7_NAM_S0045_151 ref k O <eps> _2 k O _5a k 7 _1 t_h e _3 t M7 N _1 d o j _5a l 7 n _5a 
+TQA_7_NAM_S0045_151 hyp k O n _5a k O _5a k 7 _1 t_h e _3 t M7 N _1 d o j _1 l 7 n _5a 
+TQA_7_NAM_S0045_151 op C C I S C C C C C C C C C C C C C C C C S C C C C 
+TQA_7_NAM_S0045_151 #csid 22 2 1 0
+TQA_7_NAM_S0045_90 ref m o j _4 N M7 j _2 d O_X kp _6b m o t _6b d wp a n _6a J E _5a 
+TQA_7_NAM_S0045_90 hyp m o j _4 N M7 j _2 d O_X kp _6b m o t _6b l wp a j _6a J E _5a 
+TQA_7_NAM_S0045_90 op C C C C C C C C C C C C C C C C S C C S C C C C 
+TQA_7_NAM_S0045_90 #csid 22 2 0 0
+NQH_7_NAM_S0049_132 ref tS O_X Nm _1 m o t _6b n a_X m _1 h O_X kp _6b 
+NQH_7_NAM_S0049_132 hyp tS O_X Nm _1 m o t _6b n a_X m _1 h O_X kp _6b 
+NQH_7_NAM_S0049_132 op C C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_132 #csid 16 0 0 0
+TQA_7_NAM_S0045_74 ref b o _6a f 7_X n _6a n a w _2 tS O_X Nm _1 m o j _4 k 7_X w _1 S a_X w _1 tS a _3 l 7 j _2 ts_ O _1 k 7_X w _1 h O j _3 7 _3 d 7_X w _1 
+TQA_7_NAM_S0045_74 hyp b o _6a f 7_X n _6a n a w _2 tS O_X Nm _1 m o j _4 k 7_X w _1 S a_X w _1 tS a _3 l 7 j _1 ts_ O _1 k 7_X w _1 h O j _3 7 _3 d 7_X w _1 
+TQA_7_NAM_S0045_74 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_74 #csid 50 1 0 0
+TQA_7_NAM_S0045_254 ref G E _5a ts_ 7 j _1 d o Nm _1 d u _3 
+TQA_7_NAM_S0045_254 hyp G E _5a ts_ 7 j _1 d o Nm _1 d u _3 
+TQA_7_NAM_S0045_254 op C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_254 #csid 14 0 0 0
+TQA_7_NAM_S0045_107 ref r i w _5a r i t _5b b a_X j _1 d e n _5a d 7_X w _6a 7 _3 J M N _4 b u j _6a k 7_X j _1 k wp E_X J _1 h o _2 
+TQA_7_NAM_S0045_107 hyp r i w _5a r i t _5b b a_X j _1 d e n _5a t E w _6a 7 _3 J M N _4 b u j _6a k 7_X j _1 k wp E_X J _1 h o _2 
+TQA_7_NAM_S0045_107 op C C C C C C C C C C C C C C C C S S C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_107 #csid 40 2 0 0
+TQA_7_NAM_S0045_222 ref ts_ i m _1 ts_ wp ie n _1 b a_X t _5b S 7_X w _1 d O _5a l a _2 ts_ i m _1 S 7_X w _1 
+TQA_7_NAM_S0045_222 hyp ts_ i m _1 <eps> z i m _1 b a_X t _1 S 7_X w _1 d O _1 l a _2 ts_ i m _1_2 S 7_X w _1 
+TQA_7_NAM_S0045_222 op C C C C D S S S C C C C S C C C C C C S C C C C C C S C C C C 
+TQA_7_NAM_S0045_222 #csid 24 6 0 1
+TQA_7_NAM_S0045_108 ref t ie N _5a h O t _5b r o n _6a v a N _1 k a _3 m a_X t _6b n M7 k _5b 
+TQA_7_NAM_S0045_108 hyp t ie N _5a h O t _5b r o n _6a v a N _1 k a _3 m a_X t _6b n M7 k _5b 
+TQA_7_NAM_S0045_108 op C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_108 #csid 27 0 0 0
+TQA_7_NAM_S0045_291 ref S a_X w _1 n a_X j _2 m a_X k _6b z u _2 d a _4 k O _5a J M N _4 f M7 N _1 t ie n _6a t_h o Nm _1 m i J _1 l ie n _1 l a k _6b 
+TQA_7_NAM_S0045_291 hyp S a_X w _1 n a_X j _2 m a_X k _6b z u _2 d a _4 k O _5a J M N _4 f M7 N _1 t ie n _5a t_h o Nm _1 m i J _1 l ie n _1 <eps> la k _6b 
+TQA_7_NAM_S0045_291 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C D S C C 
+TQA_7_NAM_S0045_291 #csid 46 2 0 1
+ĐNL_Nu_6_S0007_52 ref s uo N _5a d 7_X j _1 m a <eps> _2 ts_ 7 j _1 
+ĐNL_Nu_6_S0007_52 hyp d uo N _5a d 7_X j _1 m a N _2 ts_ 7 j _1 
+ĐNL_Nu_6_S0007_52 op S C C C C C C C C C I C C C C C 
+ĐNL_Nu_6_S0007_52 #csid 14 1 1 0
+ĐNL_Nu_6_S0007_17 ref N E _1 h a t _6b m 7_X m _2 t_h i _2 t_h 7_X m _2 n O _5a f a _3 h 7 j _1 d 7_X t _5b s uo N _5a d 7_X t _5b 
+ĐNL_Nu_6_S0007_17 hyp N <eps> _1 h a <eps> _2 b a_X m _2 ts_ i _2 t_h a_X n _2 n O <eps> <eps> <eps> _6a h 7 j _1 <eps> a_X m _5a s uo N <eps> <eps> <eps> <eps> _5b 
+ĐNL_Nu_6_S0007_17 op C D C C C D S S S C C S C C C S S C C C D D D S C C C C D S S S C C C D D D D C 
+ĐNL_Nu_6_S0007_17 #csid 20 10 0 10
+TQA_7_NAM_S0045_197 ref x wp e _1 7 j _1 k 7_X w _6a tS a _3 l 7 j _2 dZ u p _5b t 7 _5a k 7_X w _1 n a_X j _2 J E _5a 
+TQA_7_NAM_S0045_197 hyp x wp e _1 7 j _1 k 7_X w _6a tS a _3 l 7 j _5a dZ u p _5b t 7 _5a k 7_X w _1 n a_X j _5a J E _5a 
+TQA_7_NAM_S0045_197 op C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C S C C C 
+TQA_7_NAM_S0045_197 #csid 34 2 0 0
+ĐNL_Nu_6_S0007_31 ref k a _5a b 7 j _1 z M7 j _5a S uo j _5a t_h 7_X j _5a ts_ i m _1 h O t _5b tS e n _1 k 7_X j _1 b E n _2 r u _3 
+ĐNL_Nu_6_S0007_31 hyp k a _5a b 7 j _1 z M7 <eps> _5a ts_ uo <eps> <eps> <eps> r e _5a ts_ i m <eps> h O t _5b tS e <eps> _1 k 7_X j _1 b <eps> e _2 N u _3 
+ĐNL_Nu_6_S0007_31 op C C C C C C C C C D C S C D D D S S C C C C D C C C C C C D C C C C C C D S C S C C 
+ĐNL_Nu_6_S0007_31 #csid 30 5 0 7
+ĐNL_Nu_6_S0007_22 ref a _2 <eps> b a n _6a tS a _3 l 7 j _2 d u Nm _5a r o j _2 d 7_X j _5a 
+ĐNL_Nu_6_S0007_22 hyp a _2 a b a n _6a tS a _3 l 7 j _6a d u Nm _5a r o j _2 d 7_X j _5a 
+ĐNL_Nu_6_S0007_22 op C C I C C C C C C C C C C S C C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_22 #csid 24 1 1 0
+ĐNL_Nu_6_S0007_84 ref v a _2 G 7_X w _5a k O n <eps> <eps> <eps> <eps> <eps> _1 v a _2 t_h a j _5a d o _6a k uo _3 b a w _5a r 7_X t _5b t M k _5b v a _2 t_h a j _5a d o _6a k uo _3 b a w _5a r 7_X t _5b t M k _5b 
+ĐNL_Nu_6_S0007_84 hyp v a _2 <eps> b 7 _2 k O n _5a ts_ i _5a b M _5b a _2 t_h a j _5a d o _6a k uo _3 b a w _5a r 7_X t _5b t M k _5b <eps> a _2 t_h a j _5a <eps> o _3 k uo _3 b a <eps> _5a <eps> <eps> <eps> <eps> t M k _5b 
+ĐNL_Nu_6_S0007_84 op C C C D S S S C C C I I I I I S S C C C C C C C C C C C C C C C C C C C C C C C C D C C C C C C D C S C C C C C D C D D D D C C C C 
+ĐNL_Nu_6_S0007_84 #csid 47 6 5 8
+TQA_7_NAM_S0045_295 ref ts_ i m _1 b o _2 k 7_X w _1 7_X p _5b tS M N _5a n uo j _1 k O n _1 m 7 j _5a n 7 _3 t_h e _5a n a w <eps> _2 
+TQA_7_NAM_S0045_295 hyp ts_ i m _1 b o _2 k 7_X w _1 a_X p _5b tS M N _1 n uo j _1 k O n _1 m 7 j _1 N 7 _3 t_h e _5a n a w _1 _2 
+TQA_7_NAM_S0045_295 op C C C C C C C C C C C S C C C C C S C C C C C C C C C C C S S C C C C C C C C I C 
+TQA_7_NAM_S0045_295 #csid 36 4 1 0
+NQH_7_NAM_S0049_59 ref d M7 k _6b t_h o j _1 
+NQH_7_NAM_S0049_59 hyp d M7 k _6b t_h o j _1 
+NQH_7_NAM_S0049_59 op C C C C C C C C 
+NQH_7_NAM_S0049_59 #csid 8 0 0 0
+TQA_7_NAM_S0045_158 ref n e n _1 ts_ u Nm _5a x o Nm _1 t_h e _3 d i _1 l a j _6a b i J _2 t_h M7 N _2 tS e n _1 m a_X t _6b d 7_X t _5b 
+TQA_7_NAM_S0045_158 hyp n e n _1 ts_ u Nm _1 x o Nm _1 t_h e _3 d i _1 l a j _1 b i J _2 t_h M7 N _2 tS e n _1 m a_X t _6b d 7_X k _5b 
+TQA_7_NAM_S0045_158 op C C C C C C C S C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C S C 
+TQA_7_NAM_S0045_158 #csid 39 3 0 0
+NQH_7_NAM_S0049_51 ref v a _2 x u _1 J a _2 v e _6a S i J _1 s E_X J _1 S E_X k _6b d E p _6b r o Nm _6a r a j _4 
+NQH_7_NAM_S0049_51 hyp v a _2 x u _1 J a _2 v e _6a S i J _1 s E_X J _1 S E_X k _6b d E p _6b r o Nm _6a <eps> a j _4 
+NQH_7_NAM_S0049_51 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C 
+NQH_7_NAM_S0049_51 #csid 35 0 0 1
+TQA_7_NAM_S0045_200 ref x o Nm _1 J 7 _5a ts_ O _1 ts_ i m _1 uo N _5a n M7 k _5b d e _3 n O _5a h a t _5b x o _1 h O_X Nm _6a 
+TQA_7_NAM_S0045_200 hyp x o Nm _1 J 7 _5a ts_ O _1 ts_ i m _1 uo Nm _5a n M7 k _5b d e _3 n O _5a x a t _5b x o _1 h O_X Nm _6a 
+TQA_7_NAM_S0045_200 op C C C C C C C C C C C C C C C S C C C C C C C C C C C S C C C C C C C C C C 
+TQA_7_NAM_S0045_200 #csid 36 2 0 0
+TQA_7_NAM_S0045_84 ref ts_ i m _1 E n _5a r u _3 m 7 _3 h o j _6a l M7 n _6a b a_X j _1 h wp a _1 z 7_X n _4 l o j _5a r u _3 ts_ a w _1 k E_X J _5a <eps> v 7_X j _4 m 7_X m _2 n O n _1 
+TQA_7_NAM_S0045_84 hyp ts_ i m _6a E n <eps> <eps> <eps> _4 m 7 _3 h o j _6a l M7 n _6a b a_X j _1 h wp a _1 z 7_X n _4 l o j _5a r u _3 tS a w _1 k a j _5a v v 7_X j _4 m 7_X m _2 n O n _1 
+TQA_7_NAM_S0045_84 op C C C S C C D D D S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C S S C I C C C C C C C C C C C C 
+TQA_7_NAM_S0045_84 #csid 52 5 1 3
+TQA_7_NAM_S0045_117 ref h 7_X n _1 7 j _1 k 7_X w _6a k e _3 l a j _6a d i _1 
+TQA_7_NAM_S0045_117 hyp h 7_X n _1 7 j _1 k 7_X w _6a k e _3 l a j _6a d i _1 
+TQA_7_NAM_S0045_117 op C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_117 #csid 21 0 0 0
+TQA_7_NAM_S0045_292 ref h ie n _6a t a j _6a 7 _3 m o t _6b S o _5a n M7 k _5b N M7 j _2 t a _1 v 7_X n _4 S M _3 z u Nm _6a b M w _1 d ie n _6a b o _2 k 7_X w _1 
+TQA_7_NAM_S0045_292 hyp h ie n _6a <eps> a j _6a 7 _3 m o t _2 S o _5a n M7 k _5b N M7 j _2 t a _1 v 7_X n _6a S M _3 z u Nm _6a b M w _1 d ie n _6a b o _2 k 7_X w _1 
+TQA_7_NAM_S0045_292 op C C C C D C C C C C C C C S C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_292 #csid 51 2 0 1
+TQA_7_NAM_S0045_66 ref h wp a _1 x wp E _1 S a_X k _5b n 7 j _1 n 7 j _1 
+TQA_7_NAM_S0045_66 hyp h wp a _1 x wp E _1 S a_X k _5b n M7 j _1 n 7 j _1 
+TQA_7_NAM_S0045_66 op C C C C C C C C C C C C C S C C C C C C 
+TQA_7_NAM_S0045_66 #csid 19 1 0 0
+ĐNL_Nu_6_S0007_40 ref ts_ i m _1 b a_X j _1 tS e n _1 tS 7 j _2 
+ĐNL_Nu_6_S0007_40 hyp ts_ i <eps> _1 b a_X j _1 ts_ e m _1 tS 7 j _2 
+ĐNL_Nu_6_S0007_40 op C C D C C C C C S C S C C C C C 
+ĐNL_Nu_6_S0007_40 #csid 13 2 0 1
+TQA_7_NAM_S0045_58 ref k a k _5b k 7_X w _6a h a_X j _4 t i m _2 dZ u p _5b t 7 _5a 
+TQA_7_NAM_S0045_58 hyp k a k _5b <eps> t 7 _6a h a_X j _1 t i m _2 dZ u p _5b t 7 _5a 
+TQA_7_NAM_S0045_58 op C C C C D S S C C C C S C C C C C C C C C C C 
+TQA_7_NAM_S0045_58 #csid 19 3 0 1
+TQA_7_NAM_S0045_293 ref b M w _1 d ie n _6a n a_X j _2 k O _5a h a_X n _3 m o t _6b l wp a j _6a t E m _1 r ie N _1 
+TQA_7_NAM_S0045_293 hyp b M w _1 d ie n _6a n a_X j _2 k O _5a h a_X n _3 m o t _6b l wp a j _6a t E m _1 r ie N _1 
+TQA_7_NAM_S0045_293 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_293 #csid 36 0 0 0
+ĐNL_Nu_6_S0007_54 ref ts_ i m _1 tS a _3 l 7 j _2 
+ĐNL_Nu_6_S0007_54 hyp ts_ i m _1 tS a _3 l 7 j _2 
+ĐNL_Nu_6_S0007_54 op C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_54 #csid 11 0 0 0
+NQH_7_NAM_S0049_86 ref ie w _1 t_h M7 N _1 E m _1 N a_X m _5a m a j _4 
+NQH_7_NAM_S0049_86 hyp ie w _1 t_h M7 N _1 E m _1 N 7_X m _5a m a <eps> _4 
+NQH_7_NAM_S0049_86 op C C C C C C C C C C C S C C C C D C 
+NQH_7_NAM_S0049_86 #csid 16 1 0 1
+TQA_7_NAM_S0045_286 ref J M N _1 z u _2 b a_X j _1 r a _1 d e n _5a d 7_X w _1 
+TQA_7_NAM_S0045_286 hyp J M N _1 z u _5a b a_X j _1 s a _1 d e n _5a d 7_X w _1 
+TQA_7_NAM_S0045_286 op C C C C C C S C C C C S C C C C C C C C C C 
+TQA_7_NAM_S0045_286 #csid 20 2 0 0
+ĐNL_Nu_6_S0007_92 ref b a w _5a a _2 n e w _5a J M _1 n e w _5a J M _1 N M7 j _2 x a k _5b t_h a_X N _5a t_h i _2 k O j _1 J M _1 E m _1 l a _2 t_h uo _1 
+ĐNL_Nu_6_S0007_92 hyp b a w _5a E_X J _5a e w _5a J M _1 n e w _5a J M _1 N M7 j _2 x a k _5b t_h a_X N _5a t_h i _2 k O j _1 <eps> JM _1 E m _1 <eps> 7 _2 t_h uo _1 
+ĐNL_Nu_6_S0007_92 op C C C C S S S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D S C C C C D S C C C C 
+ĐNL_Nu_6_S0007_92 #csid 44 5 0 2
+ĐNL_Nu_6_S0007_28 ref h a_X j _1 d O _5a v ie t _6b n a m _1 a _2 
+ĐNL_Nu_6_S0007_28 hyp h a_X j _1 d O _4 G a t _6b n a m _1 a _2 
+ĐNL_Nu_6_S0007_28 op C C C C C C S S S C C C C C C C C 
+ĐNL_Nu_6_S0007_28 #csid 14 3 0 0
+TQA_7_NAM_S0045_31 ref k 7_X w _6a tS a _3 l 7 j _2 h i J _2 E_X J _3 S o _5a m M7 j _2 d i _1 
+TQA_7_NAM_S0045_31 hyp k 7_X w _6a <eps> tSa _3 l i j <eps> _3 be J _2 E_X J _3 <eps> so _5a m M7 j _2 d i _1 
+TQA_7_NAM_S0045_31 op C C C C D S C C S C D S S C C C C C D S C C C C C C C C 
+TQA_7_NAM_S0045_31 #csid 20 5 0 3
+TQA_7_NAM_S0045_206 ref h E_X J _2 d o Nm _6a k uo _3 k a k _5b k 7_X w _6a b E _5a G 7_X j _1 r a _1 ts_ wp ie n _6a d a_X w _1 l O_X Nm _2 v a w _2 S a N _5a h o m _1 S a_X w _1 
+TQA_7_NAM_S0045_206 hyp h E_X J _2 d o Nm _2 k uo _3 k a k _5b k 7_X w _6a b E _5a G 7_X j _1 r a _1 ts_ wp ie n _6a d a_X w _1 l O_X Nm _2 v a w _2 s a N _1 h o m _1 S a_X w _1 
+TQA_7_NAM_S0045_206 op C C C C C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C S C C C C C C C C 
+TQA_7_NAM_S0045_206 #csid 55 3 0 0
+TQA_7_NAM_S0045_127 ref b o _6a f 7_X n _6a i n _1 d 7_X m _1 tS O_X Nm _1 k 7_X w _1 S a_X w _1 tS a _3 l 7 j _2 ts_ O _1 k 7_X w _1 h O j _3 n a w _2 
+TQA_7_NAM_S0045_127 hyp b o _6a f 7_X n _6a i m _1 d o Nm _6a tS O_X Nm _1 k 7 n _1 s a_X w _1 tS a <eps> l 7 j <eps> ts_ O _1 k 7_X w _1 h O j _3 n a w _2 
+TQA_7_NAM_S0045_127 op C C C C C C C C S C C S S S C C C C C S S C S C C C C C D C C C D C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_127 #csid 39 7 0 2
+TQA_7_NAM_S0045_256 ref k a _1 h a t _5b G 7_X t _6b G u _2 
+TQA_7_NAM_S0045_256 hyp k a _1 h a t _5b G 7_X t _6b G u _2 
+TQA_7_NAM_S0045_256 op C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_256 #csid 14 0 0 0
+ĐNL_Nu_6_S0007_78 ref tS O_X Nm _1 k uo k _6b t_h i _1 ts_ a_X j _6a b a w _5a b a w _5a t_h a_X N _5a v a _2 b a w _5a r 7_X t _5b v u j _1 S M7 N _5a v i _2 m i J _2 t_h a_X N _5a 
+ĐNL_Nu_6_S0007_78 hyp tS O_X Nm _1 k uo k _6b t_h i _1 ts_ a_X j _6a b a w _5a v a w _2 t_h a_X N _5a v a _2 b a w _5a r 7_X t _5b v u j _1 S M7 N _5a v i _2 m M J _2 h M N _5a 
+ĐNL_Nu_6_S0007_78 op C C C C C C C C C C C C C C C C C C C S C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C S S C C 
+ĐNL_Nu_6_S0007_78 #csid 52 5 0 0
+TQA_7_NAM_S0045_205 ref k 7_X w _6a tS a _3 l 7 j <eps> _2 7 _3 t 7 _5a J E _5a t_h a w _3 
+TQA_7_NAM_S0045_205 hyp k 7_X w _6a <eps> a <eps> <eps> _3l7 j _5a v o _3 t 7 _5a J ie _5a t_h a w _3 
+TQA_7_NAM_S0045_205 op C C C C D C D D S C I S S C C C C C S C C C C C 
+TQA_7_NAM_S0045_205 #csid 16 4 1 3
+NQH_7_NAM_S0049_90 ref k o _1 dZ a w _5a l 7 p _5b E m _1 
+NQH_7_NAM_S0049_90 hyp k o _1 dZ a w _5a l 7 p <eps> E m _1 
+NQH_7_NAM_S0049_90 op C C C C C C C C C C D C C C 
+NQH_7_NAM_S0049_90 #csid 13 0 0 1
+TQA_7_NAM_S0045_255 ref k a _3 t wp a n _5a ts_ i m _1 k u _1 
+TQA_7_NAM_S0045_255 hyp k a _3 t wp a n _5a ts_ i m _1 k u _1 
+TQA_7_NAM_S0045_255 op C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_255 #csid 15 0 0 0
+NQH_7_NAM_S0049_378 ref v 7 j _5a k a _3 l a _2 S a_X p _5b d M7 k _6b r a <eps> _1 v e <eps> _2 
+NQH_7_NAM_S0049_378 hyp v 7 j _5a k a _3 l a _2 s a_X p _5b d M7 t _6b z a w _2 v e _2 _2 
+NQH_7_NAM_S0049_378 op C C C C C C C C C C S C C C C C S C S C I S C C I C 
+NQH_7_NAM_S0049_378 #csid 20 4 2 0
+TQA_7_NAM_S0045_26 ref a _2 t 7 _5a b ie t _5b h i J _2 E_X J _3 S o _5a b a_X j _3 l a _2 k O n _1 ts_ i m _1 S 7_X w _1 
+TQA_7_NAM_S0045_26 hyp a _2 t 7 _5a b ie t _5b h i J _5a E_X J <eps> S o _5a b a_X j _3 l a <eps> k O n _1 ts_ i m _1 s 7_X w _1 
+TQA_7_NAM_S0045_26 op C C C C C C C C C C C C S C C D C C C C C C C C C D C C C C C C C C S C C C 
+TQA_7_NAM_S0045_26 #csid 34 2 0 2
+TQA_7_NAM_S0045_115 ref J M N _4 l wp a j _2 ts_ i m _1 k wp E_X J _1 h o _2 i _1 r 7 _1 p a w _1 l a _2 d a j _6a b a N _2 t_h ie n _1 N a _1 ts_ i m _1 k 7 _1 p u kp _5b 
+TQA_7_NAM_S0045_115 hyp J M N _4 l wp a j _2 ts_ i m _1 k <eps> wpE_X J _1 h o _2 i _1 zr o _1 t a w _1 l a _2 d a j _6a b a N _2 t_h ie n _1 N a _1 ts_ i m _1 k 7 _1 b u p _5b 
+TQA_7_NAM_S0045_115 op C C C C C C C C C C C C C C D S C C C C C C C S S C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C S C 
+TQA_7_NAM_S0045_115 #csid 52 6 0 1
+NQH_7_NAM_S0049_91 ref S a N _5a n a w _2 E m _1 d e n _5a l 7 p _5b 
+NQH_7_NAM_S0049_91 hyp S a N _5a <eps> da w _2 E m _1 d e n _5a ldZ 7 p _5b 
+NQH_7_NAM_S0049_91 op C C C C D S C C C C C C C C C S C C C 
+NQH_7_NAM_S0049_91 #csid 16 2 0 1
+ĐNL_Nu_6_S0007_93 ref E m _1 d M N _2 t_h a j _5a d o _6a v E _3 m a_X t _6b b uo n _2 h a_X j _1 h a_X j _1 t M k _5b dZ 7_X n _6a J E _5a 
+ĐNL_Nu_6_S0007_93 hyp E <eps> <eps> <eps> <eps> <eps> _2 <eps> a <eps> <eps> <eps> <eps> 7_X b E _3 m E t _6b b <eps> j _3 h a_X j _1 h a_X j _1 t M k _5b dZ 7_X t _6b b E _5a 
+ĐNL_Nu_6_S0007_93 op C D D D D D C D C D D D D S S C C C S C C C D S S C C C C C C C C C C C C C C S S S C C 
+ĐNL_Nu_6_S0007_93 #csid 25 8 0 11
+TQA_7_NAM_S0045_251 ref d 7 _4 s uo N _5a k E_X J _2 m e m _2 
+TQA_7_NAM_S0045_251 hyp d <eps> o s uo Nm _5a k E_X J _2 m e m _2 
+TQA_7_NAM_S0045_251 op C D S C C S C C C C C C C C C 
+TQA_7_NAM_S0045_251 #csid 12 2 0 1
+TQA_7_NAM_S0045_136 ref i _5a b e _1 tS e n _1 m a_X t _6b h o _2 b 7_X j _2 t_h ie n _1 N a _1 ts_ a_X N _3 m uo t _5b d a N _1 b 7 j _1 l o j _6a 
+TQA_7_NAM_S0045_136 hyp i _1 b e _1 tS e n _1 m a_X t _6b h o _2 b 7_X j _1 t_h ie n _1 N a _1 ts_ a_X N _5a m uo t _5b d a N _1 b 7 j _1 l o j _6a 
+TQA_7_NAM_S0045_136 op C S C C C C C C C C C C C C C C C C C S C C C C C C C C C C S C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_136 #csid 44 3 0 0
+TQA_7_NAM_S0045_71 ref m uo n _1 t_h u _5a m M N _2 v u j _1 
+TQA_7_NAM_S0045_71 hyp m uo n _1 t_h u _5a m M N _2 v u j _1 
+TQA_7_NAM_S0045_71 op C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_71 #csid 15 0 0 0
+TQA_7_NAM_S0045_114 ref k wp E_X J _1 h o j _6a i _1 r 7 _1 b a w _1 k O _5a J M N _4 l wp a j _2 ts_ i m _1 n a w _2 
+TQA_7_NAM_S0045_114 hyp k wp E_X J _1 h o <eps> _1 i _1 r a _1 f a w _1 k O _5a <eps> JM N _4 l wp a j _2 ts_ i m _1 h a w _2 
+TQA_7_NAM_S0045_114 op C C C C C C C D S C C C S C S C C C C C C D S C C C C C C C C C C C S C C C 
+TQA_7_NAM_S0045_114 #csid 31 5 0 2
+TQA_7_NAM_S0045_12 ref b 7_X j _1 dZ 7 _2 ts_ u Nm _5a m i J _2 d a _4 b ie t _5b h e t _5b t e n _1 k uo _3 k a k _5b l wp a j _2 ts_ i m _1 tS O_X Nm _1 b M k _5b tS E_X J _1 tS e n _1 r o j _2 
+TQA_7_NAM_S0045_12 hyp b <eps> <eps> <eps> dZ 7 _2 ts_ u Nm _5a m i J _2 d a _4 b ie t _5b h e t _5b t e n _1 k u _3 k a k _5b l wp a j _2 ts_ i m _1 tS O_X Nm <eps> b M k _5b tS E_X J _1 tS e n _1 r o j _2 
+TQA_7_NAM_S0045_12 op C D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C D C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_12 #csid 61 1 0 4
+TQA_7_NAM_S0045_202 ref <eps> k a_X t _5b k a _3 d a m _5a k O _3 l 7_X n _4 b o Nm _1 <eps> h wp a _1 k u kp _5b b O _3 v a w _2 l o Nm _2 S 7 n _1 k a <eps> _1 
+TQA_7_NAM_S0045_202 hyp t w a_X t _5b k a _3 d a m _5a k O _3 l e J _5a b o Nm _1 u h wp a _1 k u kp _5b b O _3 v a w _2 l o Nm _2 S 7 n _1 k a m _1 
+TQA_7_NAM_S0045_202 op I S C C C C C C C C C C C C C C S S S C C C C I C C C C C C C C C C C C C C C C C C C C C C C C C I C 
+TQA_7_NAM_S0045_202 #csid 44 4 3 0
+TQA_7_NAM_S0045_235 ref dZ u p _5b f a t _5b t a n _5a h a t _6b dZ o Nm _5a k 7_X j _1 r M N _2 
+TQA_7_NAM_S0045_235 hyp dZ u p _5b f a t _5b t a n _5a h a t _6b dZ o Nm _5a k 7_X j _1 r M N _2 
+TQA_7_NAM_S0045_235 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_235 #csid 28 0 0 0
+TQA_7_NAM_S0045_28 ref h i J _2 E_X J _3 S o _5a t a m _5a l a _2 k O n _1 ts_ i m _1 k u <eps> _5a m E w _2 
+TQA_7_NAM_S0045_28 hyp h i J _2 E_X J _3 S o _5a t a m _5a <eps> <eps> la _2k O n _1 ts_ i m _1 k u w _5a m E w _2 
+TQA_7_NAM_S0045_28 op C C C C C C C C C C C C C C D D S S C C C C C C C C C I C C C C C 
+TQA_7_NAM_S0045_28 #csid 28 2 1 2
+ĐNL_Nu_6_S0007_75 ref k 7_X w _1 ts_ wp ie n _6a <eps> t_h o j _3 b O_X Nm _5a 
+ĐNL_Nu_6_S0007_75 hyp k 7_X w _1 ts_ wp ie n _6a t r o j _3 b O_X Nm _5a 
+ĐNL_Nu_6_S0007_75 op C C C C C C C C C I S C C C C C C C 
+ĐNL_Nu_6_S0007_75 #csid 16 1 1 0
+ĐNL_Nu_6_S0007_99 ref v 7_X j _6a b a n _6a h a_X j _4 ts_ O _1 t 7 _5a b ie t _5b dZ 7 _2 r a _1 ts_ 7 j _1 b a w _5a k O n _1 l a m _2 dZ i _2 
+ĐNL_Nu_6_S0007_99 hyp v 7_X j _6a b a n _6a h a_X j _4 ts_ O _1 t 7 _1 b ie t _5b o j _2 z a _1 ts_ 7 j _1 b a w _5a k 7_X w _1 l a m _2 dZ i _2 
+ĐNL_Nu_6_S0007_99 op C C C C C C C C C C C C C C C C C S C C C C S S C S C C C C C C C C C C C S S C C C C C C C C 
+ĐNL_Nu_6_S0007_99 #csid 41 6 0 0
+TQA_7_NAM_S0045_233 ref a_X n _1 S 7_X w _1 b O _6a k O _5a h a j _6a v a _2 d o Nm _6a v 7_X t _6b G a_X m _6a J 7_X m _5a 
+TQA_7_NAM_S0045_233 hyp a_X n _1 s 7_X w _1 b O _6a k O _5a h a j _6a v a _2 d o NNm _6a v 7_X t _6b G a_X N _6a J 7_X m _5a 
+TQA_7_NAM_S0045_233 op C C C S C C C C C C C C C C C C C C C C C C S C C C C C C C S C C C C C 
+TQA_7_NAM_S0045_233 #csid 33 3 0 0
+ĐNL_Nu_6_S0007_53 ref t_h i k _5b l a_X m _5a t_h i k _5b l a_X m _5a 
+ĐNL_Nu_6_S0007_53 hyp t_h i <eps> _5b l a_X p _5b t_h i k _5b l a_X m _5a 
+ĐNL_Nu_6_S0007_53 op C C D C C C S S C C C C C C C C 
+ĐNL_Nu_6_S0007_53 #csid 13 2 0 1
+TQA_7_NAM_S0045_199 ref h a j _1 k 7_X w _6a b E _5a b a_X t _5b ts_ i m _1 v a w _2 l o Nm _2 J M N _1 l a j _6a x o Nm _1 
+TQA_7_NAM_S0045_199 hyp h a j _1 k 7_X w _6a b E _5a b a_X k _5b ts_ i m _1 v a w _2 l o Nm _2 J M Nm _1 l a j <eps> <eps> xo Nm _1 
+TQA_7_NAM_S0045_199 op C C C C C C C C C C C C C S C C C C C C C C C C C C C C C S C C C C D D S C C 
+TQA_7_NAM_S0045_199 #csid 34 3 0 2
+NQH_7_NAM_S0049_79 ref k o _1 m i m _3 k M7 j _2 t_h 7_X t _6b t M7 j _1 
+NQH_7_NAM_S0049_79 hyp k o _1 m i m _3 k M7 j <eps> t_h 7_X t _6b t M7 j _1 
+NQH_7_NAM_S0049_79 op C C C C C C C C C C D C C C C C C C C 
+NQH_7_NAM_S0049_79 #csid 18 0 0 1
+NQH_7_NAM_S0049_131 ref v a _2 k o _1 dZ u p _5b t 7 _5a k O _5a m o t _6b k wp ie n _3 v 7 _3 S E_X k _6b S E _4 
+NQH_7_NAM_S0049_131 hyp v a _2 <eps> o _1 dZ u p _5b t 7 _5a k O _5a <eps> mo t _6b k wp ie n _3 v 7 <eps> _6b SE_X k _5b S E _4 
+NQH_7_NAM_S0049_131 op C C C D C C C C C C C C C C C C D S C C C C C C C C C D S S C S C C C 
+NQH_7_NAM_S0049_131 #csid 28 4 0 3
+TQA_7_NAM_S0045_289 ref 7 _3 n M7 k _5b t a _1 tS O_X Nm _1 k uo k _6b x 7 j _3 N ie _4 l a m _1 S 7 n _1 ts_ o Nm _5a k wp 7_X n _1 m i J _1 
+TQA_7_NAM_S0045_289 hyp 7 _3 n M7 k _5b t a _1 tS O_X Nm _1 k uo k _6b x 7 j _3 N ie _4 l a n _1 s 7 n _1 ts_ o Nm _1 k wp 7_X n _1 m i J _1 
+TQA_7_NAM_S0045_289 op C C C C C C C C C C C C C C C C C C C C C C C C C C S C S C C C C C C S C C C C C C C C C 
+TQA_7_NAM_S0045_289 #csid 42 3 0 0
+NQH_7_NAM_S0049_19 ref N o j _1 tS M7 N _2 m 7 j _5a d a _4 tS 7 _3 t_h E_X J _2 N o j _1 tS M7 N _2 t_h M _5a h a j _1 
+NQH_7_NAM_S0049_19 hyp N o <eps> _1 tS M7 N _2 m 7 j _1 d a _4 tS 7 _3 t_h a J _2 N o j _1 tS M7 N _2 t_h M _1 h a j _1 
+NQH_7_NAM_S0049_19 op C C D C C C C C C C C S C C C C C C C S C C C C C C C C C C C C S C C C C 
+NQH_7_NAM_S0049_19 #csid 33 3 0 1
+TQA_7_NAM_S0045_20 ref a _2 b M k _5b tS E_X J _1 S o _5a b o n _5a l a _2 k O n _1 ts_ i m _1 G O _4 k ie n _5a 
+TQA_7_NAM_S0045_20 hyp a _2 <eps> M k _5b tS E_X J _1 s o _5a v o n _5a l a _2 k O n _1 ts_ i w _1 o kp _5b k ie n _5a 
+TQA_7_NAM_S0045_20 op C C D C C C C C C C S C C S C C C C C C C C C C C C S C S S S C C C C 
+TQA_7_NAM_S0045_20 #csid 28 6 0 1
+ĐNL_Nu_6_S0007_13 ref h a t _6b n a_X N _5a b E _5a k O n _1 
+ĐNL_Nu_6_S0007_13 hyp h a t _6b N a_X n _5a t i _5a k O n _1 
+ĐNL_Nu_6_S0007_13 op C C C C S C S C S S C C C C C 
+ĐNL_Nu_6_S0007_13 #csid 11 4 0 0
+TQA_7_NAM_S0045_122 ref m i J _2 d O _3 ts_ O t _5b v a _2 J O _3 J M _1 k wp a _3 7 t _5b k O _5a k a_X p _6b m O _3 t_h E_X J _1 m E_X J _3 
+TQA_7_NAM_S0045_122 hyp m i J _2 d O _3 tS O t _5b v a _2 J O _2 J M _5a k wp a _3 7 t _5b k O _5a k a_X p _6b <eps> O _2 t_h E_X J <eps> _2 E_X J _3 
+TQA_7_NAM_S0045_122 op C C C C C C C S C C C C C C C C S C C S C C C C C C C C C C C C C C D C S C C C D S C C C 
+TQA_7_NAM_S0045_122 #csid 38 5 0 2
+TQA_7_NAM_S0045_230 ref ts_ i m _1 k O _5a b o _6a l o _1 l o Nm _1 d uo j _1 r M k _6b r 7 _4 S a_X p _5b m a_X w _2 m uo _5a r 7_X t _5b d E p _6b l a _2 ts_ i m _1 k o Nm _1 E_X J _1 
+TQA_7_NAM_S0045_230 hyp ts_ i m _1 k O _5a b o _6a <eps> <eps> <eps> l o Nm _1 d uo j _1 z M k _5b z 7 _4 S a_X k _5b m a_X w _5a m uo _5a <eps> <eps> t _5b d E p _5b l a _2 ts_ i m _1 k o Nm _1 E_X J _1 
+TQA_7_NAM_S0045_230 op C C C C C C C C C C D D D C C C C C C C C S C C S S C C C C S C C C C S C C C D D C C C C C S C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_230 #csid 50 6 0 5
+TQA_7_NAM_S0045_14 ref <eps> h 7_X n _1 7 j _1 k 7_X w _6a k e _3 tS M7 k _5b d i _1 
+TQA_7_NAM_S0045_14 hyp h h 7_X n _6a 7 j _1 k 7_X w _6a k e _3 tS M7 k _5b d i _1 
+TQA_7_NAM_S0045_14 op I C C C S C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_14 #csid 20 1 1 0
+TQA_7_NAM_S0045_234 ref l a m _2 ts_ a_X n _1 d E p _6b d o _2 tS a N _1 tS i _5a <eps> <eps> <eps> <eps> dZ a _1 d i J _2 t M _2 l o Nm _1 ts_ i m _1 
+TQA_7_NAM_S0045_234 hyp l a m _2 S E_X J _1 d E p <eps> t M7 _2 ts_ a_X m _1 tS i _5a ts_ a_X m _1 dZ a _1 d e J _2 t M _2 l o Nm _1 ts_ i m _1 
+TQA_7_NAM_S0045_234 op C C C C S S S C C C C D S S C S S S C C C C I I I I C C C C S C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_234 #csid 30 9 4 1
+TQA_7_NAM_S0045_50 ref k <eps> a k _5b k 7_X w _6a tS a _3 l 7 j _2 dZ u p _5b t 7 _5a k a k _5b k 7_X w _1 h O j _3 S a_X w _1 J E _5a 
+TQA_7_NAM_S0045_50 hyp k a a k _5b k 7_X w _6a tS a _3 l 7 j _2 dZ u p _5b t 7 _5a k a k _5b k 7_X w _1 h O j _3 s a_X w _1 J E _5a 
+TQA_7_NAM_S0045_50 op C I C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C C C C C 
+TQA_7_NAM_S0045_50 #csid 40 1 1 0
+TQA_7_NAM_S0045_98 ref ts_ i m _1 d a j _6a b a N _2 ts_ 7_X n _1 v a N _2 m O _3 d O _3 d a N _1 ts_ a w _1 l M7 n _6a 
+TQA_7_NAM_S0045_98 hyp ts_ i m _1 d a j _6a b a N _2 ts_ 7_X m _1 v a N _2 m O _3 d O _3 d a N _1 ts_ a w _1 l M7 n _6a 
+TQA_7_NAM_S0045_98 op C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_98 #csid 37 1 0 0
+TQA_7_NAM_S0045_129 ref b e _1 J M N _4 t ie N _5a ts_ i m _1 r i w _5a r i t _5b k 7_X t _5b k wp E_X J _1 k wp E_X J _1 J a _2 
+TQA_7_NAM_S0045_129 hyp b e <eps> J M N _4 t e N _6a ts_ i <eps> _1 J i w _5a <eps> G e _5b k a k _5b k <eps> wpE_X J _1 k wp E_X J _1 J a _2 
+TQA_7_NAM_S0045_129 op C C D C C C C C S C S C C D C S C C C D S S C C S S C C D S C C C C C C C C C C 
+TQA_7_NAM_S0045_129 #csid 28 8 0 4
+TQA_7_NAM_S0045_258 ref t 7 _5a d O_X kp _6b s O_X Nm _1 r o j _2 b 7_X j _1 dZ 7 _2 k a k _5b k 7_X w _6a tS a _3 l 7 j _2 dZ u p _5b t 7 _5a J M N _4 k 7_X w _1 h O j _3 n a_X j _2 J E _5a 
+TQA_7_NAM_S0045_258 hyp t 7 _5a d O_X kp _5b s O_X Nm _1 r o j _2 b 7_X j _1 dZ 7 _2 k a k _5b k 7_X w _6a tS a _3 l 7 j _2 dZ u p _5b t 7 _5a J M N _4 k 7_X w _1 h O j _3 n a_X j _2 J E _5a 
+TQA_7_NAM_S0045_258 op C C C C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_258 #csid 62 1 0 0
+TQA_7_NAM_S0045_125 ref d a j _6a b a N _2 k O _5a ts_ 7_X n _1 v a N _2 m O _3 d O _3 m o j _4 l 7_X n _2 v o _4 k E_X J _5a l a j _6a f a t _5b r a _1 n e n _1 t ie N _5a v i _1 v u _1 v i _1 v u t _5b 
+TQA_7_NAM_S0045_125 hyp d a j _6a b a N _2 k O _5a ts_ 7_X n _1 v a N _2 m O _3 d O _3 m o j _4 l 7_X n _2 v o _4 k a j _5a N a j _5a f a t _5b r a _5a J M N _4 t ie N _5a v i _1 v u _1 v i _1 v u t _5b 
+TQA_7_NAM_S0045_125 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S S C S C C S C C C C C C S S S S S C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_125 #csid 63 9 0 0
+TQA_7_NAM_S0045_99 ref b O_X Nm _5a ts_ E _1 r 7 p _6b m a_X t _6b d 7_X t _5b 
+TQA_7_NAM_S0045_99 hyp b O_X Nm _5a tS E _1 r 7 p _6b m a_X t _6b d 7_X t _5b 
+TQA_7_NAM_S0045_99 op C C C C S C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_99 #csid 18 1 0 0
+NQH_7_NAM_S0049_101 ref ie w _1 t_h M7 N _1 E m _1 N a_X m _5a m a j _4 
+NQH_7_NAM_S0049_101 hyp ie w _1 t_h M7 N _1 E m _1 N a_X m _5a m a j _4 
+NQH_7_NAM_S0049_101 op C C C C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_101 #csid 18 0 0 0
+ĐNL_Nu_6_S0007_87 ref E m _1 h a_X j <eps> _4 E m _1 h a_X j _4 t_h o j _3 b O_X Nm _5a t_h o j _3 k a k _5b b O_X Nm _5a dZ u p _5b t_h 7_X j _2 J E _5a 
+ĐNL_Nu_6_S0007_87 hyp E m _1 h a_X j _1 b E n _1 h a j _3 t_h o <eps> _1 b O_X kp _6b t_h <eps> 7 _5a ktS a k _5b b O_X Nm _5a r u p _5b t_h a_X j _2 J E _5a 
+ĐNL_Nu_6_S0007_87 op C C C C C C I S C S C C S C S C C D S C C S S C D S S S C C C C C C C S C C C C S C C C C C 
+ĐNL_Nu_6_S0007_87 #csid 31 12 1 2
+ĐNL_Nu_6_S0007_50 ref n a_X j _2 b a n _6a ts_ i m _1 7 j _1 
+ĐNL_Nu_6_S0007_50 hyp n a_X j _2 d a <eps> _1 ts_ <eps> ie _1 7 j _1 
+ĐNL_Nu_6_S0007_50 op C C C C S C D S C D S C C C C 
+ĐNL_Nu_6_S0007_50 #csid 10 3 0 2
+TQA_7_NAM_S0045_126 ref t 7 _5a d o _2 k a k _5b k 7_X w _6a J E _5a 
+TQA_7_NAM_S0045_126 hyp t 7 _2 d o _5a k a k _5b k 7_X w _6a J E _5a 
+TQA_7_NAM_S0045_126 op C C S C C S C C C C C C C C C C C 
+TQA_7_NAM_S0045_126 #csid 15 2 0 0
+ĐNL_Nu_6_S0007_9 ref N E _1 h a t _6b m 7_X m _2 t_h i _2 t_h 7_X m _2 n O _5a f a _3 h 7 j _1 7_X m _5a s uo N _5a d 7_X t _5b 
+ĐNL_Nu_6_S0007_9 hyp N E _1 h a t _6b n 7_X m _6b t_h i _2 t_h 7_X m _2 n O _5a <eps> a _6a h 7 j _1 7_X m _6b s uo N _5a d 7_X t _5b 
+ĐNL_Nu_6_S0007_9 op C C C C C C C S C C S C C C C C C C C C C D C S C C C C C C S C C C C C C C C 
+ĐNL_Nu_6_S0007_9 #csid 34 4 0 1
+NQH_7_NAM_S0049_37 ref E m _1 t_h M7 _1 k o _1 
+NQH_7_NAM_S0049_37 hyp E m _1 t_h M7 _1 k o _1 
+NQH_7_NAM_S0049_37 op C C C C C C C C C 
+NQH_7_NAM_S0049_37 #csid 9 0 0 0
+NQH_7_NAM_S0049_8 ref tS M7 N _2 m 7 j _5a r 7_X t _5b x a N _1 tS a N _1 
+NQH_7_NAM_S0049_8 hyp tS E w _2 m 7 j _5a z 7_X t _5b x a N _1 tS a N _1 
+NQH_7_NAM_S0049_8 op C S S C C C C C S C C C C C C C C C C C 
+NQH_7_NAM_S0049_8 #csid 17 3 0 0
+TQA_7_NAM_S0045_135 ref i _5a a _1 <eps> d a j _6a b a N _2 ts_ a w _1 l M7 n _6a tS e n _1 b 7_X w _2 tS 7 j _2 s E_X J _1 t_h a_X m _3 
+TQA_7_NAM_S0045_135 hyp i <eps> 7 _1 ie d a j _6a b a N _2 ts_ a w _1 n M7 <eps> _6a ts_ 7_X n _1 n e n _2 tS 7 j _2 s E_X J _1 t_h a_X m _3 
+TQA_7_NAM_S0045_135 op C D S C I C C C C C C C C C C C C S C D C S S C C S S S C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_135 #csid 31 7 1 2
+NQH_7_NAM_S0049_379 ref v 7 j _5a dZ 7 _2 h a N _2 S a_X p _5b tS o j _1 k wp a _1 m o t _6b t ie t <eps> _5b 
+NQH_7_NAM_S0049_379 hyp ts_ 7 j _5a <eps> 7 _2 h a N _2 <eps> O p _5b tS o j _4 k wp a _1 m o t _6b t ie t _5b _5b 
+NQH_7_NAM_S0049_379 op S C C C D C C C C C C D S C C C C C S C C C C C C C C C C C I C 
+NQH_7_NAM_S0049_379 #csid 26 3 1 2
+TQA_7_NAM_S0045_187 ref t_h a w _3 7 j _1 k 7_X w _6a tS a _3 l 7 j _2 dZ u p _5b t 7 _5a k 7_X w _1 h O j _3 n a_X j _2 J E _5a 
+TQA_7_NAM_S0045_187 hyp t_h a w _3 7 j _1 k 7_X w _6a tS a _3 l 7 j _2 dZ u p _5b t 7 _5a k 7_X w _1 h O j _3 n a_X j _2 J E _5a 
+TQA_7_NAM_S0045_187 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_187 #csid 40 0 0 0
+ĐNL_Nu_6_S0007_71 ref ts_ i J _5a s a k _5b r o j _2 d O _5a 
+ĐNL_Nu_6_S0007_71 hyp ts_ i J _5a S E_X k _5b r o <eps> _6b d O _5a 
+ĐNL_Nu_6_S0007_71 op C C C C S S C C C C D S C C C 
+ĐNL_Nu_6_S0007_71 #csid 11 3 0 1
+ĐNL_Nu_6_S0007_36 ref ts_ i m _1 tS a _3 l 7 j _2 
+ĐNL_Nu_6_S0007_36 hyp ts_ i m _1 tS a _3 l 7 j _2 
+ĐNL_Nu_6_S0007_36 op C C C C C C C C C C C 
+ĐNL_Nu_6_S0007_36 #csid 11 0 0 0
+NQH_7_NAM_S0049_56 ref r 7_X t _5b l a _2 v u j _1 v a _2 ie w _1 k wp i _5a N o j _1 tS M7 N _2 
+NQH_7_NAM_S0049_56 hyp r 7_X t _5b l a _2 v u j _1 v a _2 ie w _1 k wp i _5a N o j _1 tS M7 N _2 
+NQH_7_NAM_S0049_56 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_56 #csid 29 0 0 0
+NQH_7_NAM_S0049_135 ref k O n _2 t 7 _5a t 7 _5a t_h i _2 
+NQH_7_NAM_S0049_135 hyp k O n _5a t 7 _5a t 7 _5a t_h i _2 
+NQH_7_NAM_S0049_135 op C C C S C C C C C C C C C 
+NQH_7_NAM_S0049_135 #csid 12 1 0 0
+TQA_7_NAM_S0045_280 ref m o j _4 n a_X m _1 b o _2 k 7_X w _1 d E _3 J ie w _2 l M7 _5a 
+TQA_7_NAM_S0045_280 hyp m o j _4 n a_X m _1 b o _2 k 7_X w _1 d E _3 J ie w _2 l M7 _5a 
+TQA_7_NAM_S0045_280 op C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_280 #csid 25 0 0 0
+TQA_7_NAM_S0045_191 ref b o Nm _1 k u kp _5b S o Nm _5a t_h wp a j _3 m a j _5a b e n _1 b 7 _2 r a w _2 dZ M7 _4 d a m _5a k O _3 z a j _6a 
+TQA_7_NAM_S0045_191 hyp b o Nm _1 k u kp _5b S u Nm _4 t_h wp a j _3 m a j _1 b e n _1 b 7 _1 r a w _2 <eps> S MM7 d a N _1 k O _3 z a j _6a 
+TQA_7_NAM_S0045_191 op C C C C C C C C C S C S C C C C C C C C S C C C C C C S C C C C D S S C C S S C C C C C C C 
+TQA_7_NAM_S0045_191 #csid 37 8 0 1
+TQA_7_NAM_S0045_216 ref t 7 _5a v a _2 k a k _5b k 7_X w _6a k u Nm _2 d o <eps> _5a J a_X w _1 v e _2 t e n _1 k uo _3 k a k _5b l wp a j _2 ts_ i m _1 J E _5a d M7 k <eps> _6b t_h o j _1 
+TQA_7_NAM_S0045_216 hyp t 7 _5a v a _2 k a k _5b k 7_X w _6a k u Nm _2 d o j _5a J a_X w _1 v e _2 t e n _1 k uo _3 k a k _5b l wp a j _2 ts_ i m _1 J E <eps> d M7 k _6a w t_h o j _1 
+TQA_7_NAM_S0045_216 op C C C C C C C C C C C C C C C C C C C C I C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C I S C C C C 
+TQA_7_NAM_S0045_216 #csid 57 1 2 1
+ĐNL_Nu_6_S0007_56 ref ts_ i m _1 x o Nm _1 b ie t _5b b 7 j _1 
+ĐNL_Nu_6_S0007_56 hyp ts_ i m <eps> x O_X Nm _5a t_h i t _5b b a j _1 
+ĐNL_Nu_6_S0007_56 op C C C D C S C S S S C C C S C C 
+ĐNL_Nu_6_S0007_56 #csid 10 5 0 1
+ĐNL_Nu_6_S0007_34 ref d M N _5a d 7_X j _1 m a <eps> _2 ts_ 7 j _1 
+ĐNL_Nu_6_S0007_34 hyp d M N _5a <eps> 7_X <eps> _2 m a t _2 ts_ 7 j _1 
+ĐNL_Nu_6_S0007_34 op C C C C D C D S C C I C C C C C 
+ĐNL_Nu_6_S0007_34 #csid 12 1 1 2
+NQH_7_NAM_S0049_118 ref k O _1 dZ a w _5a t M7 j _1 k M7 j _2 d O n _5a h O_X kp _6b S i J _1 7 _3 x o _3 n a w _2 v 7_X j _6a 
+NQH_7_NAM_S0049_118 hyp k o _1 dZ a w _5a t M7 j _1 k M7 j _3 d O n _5a h O_X kp _6b S i J _1 7 _3 <eps> u _2 n a w <eps> v 7_X j _6a 
+NQH_7_NAM_S0049_118 op C S C C C C C C C C C C C C S C C C C C C C C C C C C C C D S S C C C D C C C C 
+NQH_7_NAM_S0049_118 #csid 34 4 0 2
+TQA_7_NAM_S0045_54 ref b e _1 ts_ i m _1 E n _5a z 7_X n _4 d M7 N _2 ts_ O _1 m uo _2 s wp 7_X n _1 v e _2 
+TQA_7_NAM_S0045_54 hyp b e _1 ts_ i m _1 E n _1 z 7_X n _4 d M7 N <eps> ts_ O _1 m uo _2 s wp 7_X n _1 v e _2 
+TQA_7_NAM_S0045_54 op C C C C C C C C C S C C C C C C C D C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_54 #csid 30 1 0 1
+ĐNL_Nu_6_S0007_39 ref ts_ i m _1 k O _5a d o j _1 k E_X J _5a 
+ĐNL_Nu_6_S0007_39 hyp ts_ i <eps> J k O <eps> l o <eps> _1 k E_X J _5a 
+ĐNL_Nu_6_S0007_39 op C C D S C C D S C D C C C C C 
+ĐNL_Nu_6_S0007_39 #csid 10 2 0 3
+TQA_7_NAM_S0045_257 ref o _2 tS E _1 r 7_X t _5b m a t _5b 
+TQA_7_NAM_S0045_257 hyp o _2 ts_ E _1 r 7_X t _5b m a t _5b 
+TQA_7_NAM_S0045_257 op C C S C C C C C C C C C C 
+TQA_7_NAM_S0045_257 #csid 12 1 0 0
+TQA_7_NAM_S0045_183 ref t o j _6a N ie p _6b k O n _1 ts_ i m _1 x i _1 n O _5a k O n _2 S o Nm _5a v a _2 k a _1 h a t _5b 
+TQA_7_NAM_S0045_183 hyp t o j _1 N ie p _6b k O n _1 ts_ i m _1 x i _1 n O _5a k O n _2 S o Nm _5a v a _2 k a _1 h a t _5b 
+TQA_7_NAM_S0045_183 op C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_183 #csid 39 1 0 0
+NQH_7_NAM_S0049_121 ref t 7 _5a n o j _5a v a w _2 x o _3 t_h 7 _1 t_h M _5a b a _1 
+NQH_7_NAM_S0049_121 hyp t 7 _5a <eps> <eps> O _5a v a <eps> _3 h o _3 t_h 7 _1 t_h M _5a b a _1 
+NQH_7_NAM_S0049_121 op C C C D D S C C C D S S C C C C C C C C C C C 
+NQH_7_NAM_S0049_121 #csid 17 3 0 3
+TQA_7_NAM_S0045_141 ref s e _1 v E n _1 h o _2 J M N _4 k O n _1 ts_ i m _1 k 7 _1 p u kp _5b h O t _5b l e n _1 l E_X J _1 l E_X J _3 
+TQA_7_NAM_S0045_141 hyp s e _1 r e n _1 h o _2 J M N _5a k O n _1 ts_ i m _1 k 7 _1 b u kp _5b h O_X t _5b l e n _1 n E_X J _1 l E_X J _3 
+TQA_7_NAM_S0045_141 op C C C S S C C C C C C C C S C C C C C C C C C C C S C C C C S C C C C C C S C C C C C C C 
+TQA_7_NAM_S0045_141 #csid 39 6 0 0
+TQA_7_NAM_S0045_11 ref a _1 d O _5a l a _2 s i n _1 k u _5a m E w _2 k a k _5b k 7_X w _6a a _6a 
+TQA_7_NAM_S0045_11 hyp a _2 d O _5a l a _2 ts_ i m _1 k o _5a m E w _2 k a k _5b k 7_X w <eps> a _6a 
+TQA_7_NAM_S0045_11 op C S C C C C C C S C S C C S C C C C C C C C C C C C D C C 
+TQA_7_NAM_S0045_11 #csid 24 4 0 1
+NQH_7_NAM_S0049_115 ref ie w _1 t_h M7 N _1 E m _1 N a_X m _5a m a j _4 
+NQH_7_NAM_S0049_115 hyp ie w _1 t_h M7 N _5a E m _1 N a_X m _5a m a j _4 
+NQH_7_NAM_S0049_115 op C C C C C C S C C C C C C C C C C C 
+NQH_7_NAM_S0049_115 #csid 17 1 0 0
+TQA_7_NAM_S0045_281 ref m o j _4 l M7 _5a h a j _1 tS M N _5a 
+TQA_7_NAM_S0045_281 hyp m o j _4 l M7 _5a h a j _1 tS M N _5a 
+TQA_7_NAM_S0045_281 op C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_281 #csid 15 0 0 0
+TQA_7_NAM_S0045_195 ref n <eps> O j _5a l a _2 t ie N _5a h O t _5b k uo _3 ts_ i m _1 tS 7 _3 l e n _1 b uo n _2 t_h a m _3 
+TQA_7_NAM_S0045_195 hyp n d O <eps> _5a l a _2 t ie N _5a h O t _5b k uo _3 ts_ i m _1 ts_ 7 _3 l e n _1 b uo n _2 t_h a m _3 
+TQA_7_NAM_S0045_195 op C I C D C C C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_195 #csid 35 1 1 1
+TQA_7_NAM_S0045_250 ref m o t _6b ts_ u _5a b O j _5a k a _5a 
+TQA_7_NAM_S0045_250 hyp m o t _6b ts_ u _5a b O j _5a k a _5a 
+TQA_7_NAM_S0045_250 op C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_250 #csid 14 0 0 0
+TQA_7_NAM_S0045_166 ref J M N _1 S a N _5a h o m _1 S a_X w _1 x i _1 v M7 _2 s wp E _2 k E_X J _5a d O n _5a b i J _2 m i J _1 
+TQA_7_NAM_S0045_166 hyp J M N _1 S a N _5a h o m _1 S a_X w _1 x i _1 v M7 <eps> _3 swp E _5a k E_X J _5a d O n _5a b i J _2 m i J _1 
+TQA_7_NAM_S0045_166 op C C C C C C C C C C C C C C C C C C C C C D S S C S C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_166 #csid 38 3 0 1
+NQH_7_NAM_S0049_23 ref t 7 _5a h O j _3 k 7_X w _6a 
+NQH_7_NAM_S0049_23 hyp t 7 _5a h O j _3 k 7_X w _6a 
+NQH_7_NAM_S0049_23 op C C C C C C C C C C C 
+NQH_7_NAM_S0049_23 #csid 11 0 0 0
+NQH_7_NAM_S0049_20 ref l a _2 n ie m _2 v u j _1 k uo _3 h a _2 v a _2 k a k _5b b a n _6a 
+NQH_7_NAM_S0049_20 hyp l a _2 n ie m _2 v u j _2 k uo _3 h a _2 v a _2 k a k _5b b a n _6a 
+NQH_7_NAM_S0049_20 op C C C C C C C C C C S C C C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_20 #csid 27 1 0 0
+TQA_7_NAM_S0045_207 ref S 7 n _1 k a _1 ts_ e t _5b v i _2 d O j _5a x a t _5b b o Nm _1 k u kp _5b k u Nm _4 h E w _5a l a _3 d i _1 v i _2 t_h M7 N _1 s O t _5b ts_ O _1 ts_ i m _1 
+TQA_7_NAM_S0045_207 hyp S 7 n _1 k a _5a ts_ e t _5b v i <eps> d O j _5a x a k _5b b o Nm _1 k u kp _5b k u Nm _4 h E w _5a l a _3 d i _1 v i _2 t_h M7 N _4 f O t _5b ts_ O _1 ts_ i m _1 
+TQA_7_NAM_S0045_207 op C C C C C C S C C C C C C D C C C C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S S C C C C C C C C C C 
+TQA_7_NAM_S0045_207 #csid 57 4 0 1
+ĐNL_Nu_6_S0007_1 ref b 7_X j _1 dZ 7 _2 ts_ u Nm _5a m i J _2 k u Nm _2 d O_X kp _6b b a j _2 t ie p _5b d i _1 
+ĐNL_Nu_6_S0007_1 hyp b 7_X j _1 dZ 7 _2 ts_ u Nm _5a m i J _2 k u Nm _2 J O p _6b v a j _5b t ie p _5b d i _1 
+ĐNL_Nu_6_S0007_1 op C C C C C C C C C C C C C C C C C C C S S S C S C C S C C C C C C C 
+ĐNL_Nu_6_S0007_1 #csid 29 5 0 0
+TQA_7_NAM_S0045_229 ref ts_ i m _1 dZ i _2 k O _5a b o _6a l o Nm _1 d uo j _1 r M k _6b r 7 _4 S a_X k _5b m a_X w _2 m uo _5a r 7_X t _5b d E p _6b 
+TQA_7_NAM_S0045_229 hyp ts_ i m _1 ts_ i _2 k O _5a b o _6a l o Nm _1 d uo j _1 r M k _6b r 7 _1 S a_X k _5b m a_X w _2 m uo _5a r 7_X t _5b d E p _6b 
+TQA_7_NAM_S0045_229 op C C C C S C C C C C C C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_229 #csid 45 2 0 0
+NQH_7_NAM_S0049_47 ref n e w _5a k O _5a k a k _5b b a n _6a 7 _3 n 7 j _1 x a k _5b d e n _5a 
+NQH_7_NAM_S0049_47 hyp n e <eps> _5a <eps> O _5a k a k _5b b a n _3 7 _5a n 7 j _1 x E k _5b d e n _5a 
+NQH_7_NAM_S0049_47 op C C D C D C C C C C C C C C S C S C C C C C S C C C C C C 
+NQH_7_NAM_S0049_47 #csid 24 3 0 2
+ĐNL_Nu_6_S0007_10 ref t_h e _5a l a _2 m 7_X m _2 k 7_X j _1 d o <eps> j _6a d 7_X t _5b J o _1 l e n _1 
+ĐNL_Nu_6_S0007_10 hyp t_h e _5a l a _2 m o t _6b k 7_X j _1 b o _3 t_h M t_h 7_X t _5b J o _1 l e n _1 
+ĐNL_Nu_6_S0007_10 op C C C C C C C S S S C C C C S C I S S S C C C C C C C C C C 
+ĐNL_Nu_6_S0007_10 #csid 22 7 1 0
+TQA_7_NAM_S0045_103 ref b 7_X j _2 t_h ie n _1 N a _1 tS a_X N _5a m 7_X t _5b d a N _1 b 7 j _1 l o j _6a J M N _4 k O n _1 ts_ i m _1 k 7 _1 p u t _5b m i J _2 d O _3 ts_ O t _5b v a _2 J O _3 J M _1 k wp a _3 7 t _5b k o _5a r M7 n _5a k a_X p _6b m O _3 t_h E_X J _1 m E_X J _3 k uo _3 m i J _2 
+TQA_7_NAM_S0045_103 hyp b 7_X j _2 t_h ie n _1 N a _1 tS a_X N _5a m uo t _5b d a N _1 b 7 j _1 l o j _6a J M N _4 k O n _1 ts_ i m _1 k 7 _1 b u k _5b m i J _2 d O _3 ts_ O t _5b v a _2 J O _3 J M _1 k wp a _3 7 t _5b k o _5a r M7 n _1 k a_X t _6b m O _3 t_h E_X J _1 m E_X J _3 k uo _3 m i J _2 
+TQA_7_NAM_S0045_103 op C C C C C C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C S C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C S C C S C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_103 #csid 101 5 0 0
+ĐNL_Nu_6_S0007_79 ref b a w _5a r 7_X t _5b <eps> <eps> <eps> <eps> l E w _1 b a w _5a l E w _1 tS E w _2 r 7_X t _5b dZ O j _3 
+ĐNL_Nu_6_S0007_79 hyp b a w _5a z 7_X t _5b r e _1 s l E w _1 b a <eps> _5a l E w _1 k E w _2 z 7_X t _5b <eps> dZO j _3 
+ĐNL_Nu_6_S0007_79 op C C C C S C C C I I I I C C C C C C D C C C C C S C C C S C C C D S C C 
+ĐNL_Nu_6_S0007_79 #csid 26 4 4 2
+NQH_7_NAM_S0049_17 ref k uo j _5a h E_X J _2 l a N _1 m o j _4 t 7_X N _2 d e w _2 k O _5a x u _1 v e _6a S i J _1 r o Nm _6a r a j _4 v a _2 S E_X k _6b S E _4 
+NQH_7_NAM_S0049_17 hyp k wp e _5a h E_X J _2 <eps> a N _1 m o j _4 t 7_X N _3 d e w _2 k O _5a x u _1 v e _6a S i J _1 r o Nm _4 r a j _4 v a _3 S E_X k _6a S E _4 
+NQH_7_NAM_S0049_17 op C S S C C C C C D C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C C S C C C C C C S C C C S C C C 
+NQH_7_NAM_S0049_17 #csid 48 6 0 1
+NQH_7_NAM_S0049_26 ref 7 _3 d O _5a <eps> k O _5a r 7_X t _5b J ie w _2 k 7_X j _1 s E_X J _1 
+NQH_7_NAM_S0049_26 hyp 7 _3 d O _5a v k O _5a r 7_X t _5b J ie w _2 k 7_X j _2 s E_X J _1 
+NQH_7_NAM_S0049_26 op C C C C C I C C C C C C C C C C C C C C S C C C C 
+NQH_7_NAM_S0049_26 #csid 23 1 1 0
+TQA_7_NAM_S0045_57 ref d a p _5b a n _5a k uo _3 t 7 _5a l a _2 i _5a a _1 E n _5a b a w _5a h ie w _6a m uo _2 s wp 7_X n _1 v e _2 
+TQA_7_NAM_S0045_57 hyp d a p _5b a n _5a k uo _5a t 7 _5a l a <eps> i <eps> a _1 E n _5a b a w _5a h ie w _5b m uo _2 <eps> swp 7_X n _5b v e _2 
+TQA_7_NAM_S0045_57 op C C C C C C C C C S C C C C C D C D C C C C C C C C C C C C S C C C D S C C S C C C 
+TQA_7_NAM_S0045_57 #csid 35 4 0 3
+NQH_7_NAM_S0049_43 ref v a _2 G a_X p _6b k o _1 dZ a w _5a 7 _3 d O _5a 
+NQH_7_NAM_S0049_43 hyp v 7 _6b kG a_X p _6b k o _1 dZ a w _5a 7 _3 d O _5a 
+NQH_7_NAM_S0049_43 op C S S S C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_43 #csid 16 3 0 0
+TQA_7_NAM_S0045_155 ref v i _2 S a w _1 ts_ i m _1 S E _3 t_h M7 N _2 J a_X j _3 m a _2 x o Nm _1 d i _1 
+TQA_7_NAM_S0045_155 hyp v i _2 S a w _1 ts_ i m _1 s E _3 t_h M7 N _2 J a_X j _3 m a _2 x o Nm _1 d i _1 
+TQA_7_NAM_S0045_155 op C C C C C C C C C C C S C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_155 #csid 31 1 0 0
+TQA_7_NAM_S0045_238 ref b a j _2 b 7 _2 ts_ E _1 d O n _5a x E_X k _5b 
+TQA_7_NAM_S0045_238 hyp b a j _2 b 7 _2 ts_ e _1 d O n _5a <eps> xE_X k _5b 
+TQA_7_NAM_S0045_238 op C C C C C C C C S C C C C C D S C C 
+TQA_7_NAM_S0045_238 #csid 15 2 0 1
+TQA_7_NAM_S0045_174 ref r u kp _5b m O _3 v a_X t _6b d a m _5a k O _3 z a j _6a 7_X m _3 M7 t _5b 
+TQA_7_NAM_S0045_174 hyp z u kp _5b b O _3 v a_X t _6b d a m _5a k O _3 z a j _6a 7_X m _3 M7 t _5b 
+TQA_7_NAM_S0045_174 op S C C C S C C C C C C C C C C C C C C C C C C C C C C C 
+TQA_7_NAM_S0045_174 #csid 26 2 0 0
+TQA_7_NAM_S0045_73 ref t 7 _5a k u Nm _2 k a k _5b k 7_X w _6a l a j _6a l a m _2 b a j _2 t 7_X p _6b t ie p _5b J E _5a 
+TQA_7_NAM_S0045_73 hyp t 7 _5a k u Nm <eps> k a k _5b k 7_X w _6a l a j _6a l a m _2 b a j <eps> t 7_X p _6b t ie p _5b J E _5a 
+TQA_7_NAM_S0045_73 op C C C C C C D C C C C C C C C C C C C C C C C C C C D C C C C C C C C C C C 
+TQA_7_NAM_S0045_73 #csid 36 0 0 2
+NQH_7_NAM_S0049_31 ref v a _2 t M7 N _3 t M7 N _6a b ie t _5b b a w _1 d ie w _2 
+NQH_7_NAM_S0049_31 hyp v a _2 t M7 N _2 t M7 N _2 b ie t _5b b a w _1 d ie w _2 
+NQH_7_NAM_S0049_31 op C C C C C C S C C C S C C C C C C C C C C C C 
+NQH_7_NAM_S0049_31 #csid 21 2 0 0
+TQA_7_NAM_S0045_275 ref <eps> h 7_X n _1 7 j _1 k 7_X w _6a tS a _3 l 7 j _2 d i _1 
+TQA_7_NAM_S0045_275 hyp h h 7 n _1 7 j _1 k 7_X w _6a tS a <eps> _3l 7 j _1 d i _1 
+TQA_7_NAM_S0045_275 op I C S C C C C C C C C C C C D S C C S C C C 
+TQA_7_NAM_S0045_275 #csid 17 3 1 1
+NQH_7_NAM_S0049_3 ref v 7_X j _6a l a _2 h a _2 d a _4 d M7 k _6b h O_X kp _6b 7 _3 N o j _1 tS M7 N _2 m 7 j _5a 
+NQH_7_NAM_S0049_3 hyp v 7_X j _6a l a _2 h a _2 d a _4 d M7 k _6b h O_X kp _6b 7 _3 N o j _1 tS M7 N _2 m 7 j _5a 
+NQH_7_NAM_S0049_3 op C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+NQH_7_NAM_S0049_3 #csid 35 0 0 0
+thành_11_2 ref <eps> <eps> <eps> k o _1 dZ a w _5a m i m _3 k M7 j _2 t_h 7_X t _6b t M7 j _1 
+thành_11_2 hyp E _1 7_X k o _1 dZ a w _5a m i w _6a k M7 j _2 ts_ 7_X t _6b t M7 <eps> _1 
+thành_11_2 op I I I C C C C C C C C C S S C C C C S C C C C C D C 
+thành_11_2 #csid 19 3 3 1
+thành_12_2 ref <eps> k a_X p _6b S E_X k _5b k O _5a m a_X w _2 s E_X J _1 r 7_X t _5b d E p _6b 
+thành_12_2 hyp k k a_X p _5b v E_X k _5b k O _5a m a_X w _2 s E_X J _1 r 7_X t _5b d E p _6b 
+thành_12_2 op I C C C S S C C C C C C C C C C C C C C C C C C C C C C 
+thành_12_2 #csid 25 2 1 0
+thành_13_2 ref <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> k o kp _5b n M7 k _5b k O _5a m a_X w _2 tS a_X N _5a r 7_X t _5b d E p <eps> _6b 
+thành_13_2 hyp k 7_X p _5b b E p k O n _1 k o p _5b n M7 k _5b k O _5a m a_X w _2 tS O_X N _5a z 7_X t _5b d E p _6b _6b 
+thành_13_2 op I I I I I I I I I I I C C S C C C C C C C C C C C C C S C C S C C C C C C I C 
+thành_13_2 #csid 24 3 12 0
+thành_14_2 ref t o j _1 l a _2 k a _1 S i _4 n o j _3 t ie N _5a 
+thành_14_2 hyp t o j <eps> l a _2 k a _1 S i _4 n o j _3 t ie N _5a 
+thành_14_2 op C C C D C C C C C C C C C C C C C C C C C 
+thành_14_2 #csid 20 0 0 1
+thành_15_2 ref <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> t o j _1 m uo n _5a k O _5a m o t _6b k uo n _5a S E_X k _5b 
+thành_15_2 hyp t o j _5a O _5a m o t _5a t o j _5a m uo n _5a k O _5a m o t _6b k uo <eps> _5a S E_X k _5b 
+thành_15_2 op I I I I I I I I I I C C C S C C C C C C C C C C C C C D C C C C C 
+thành_15_2 #csid 21 1 10 1
+thành_16_2 ref J M N _4 k O n _1 O_X Nm _1 t_h 7_X t _6b l a _2 ts_ a_X m _1 ts_ i _3 
+thành_16_2 hyp J <eps> l M7 k <eps> _5b v 7 wp _2 t_h 7_X t <eps> <eps> <eps> <eps> ts_ a_X m <eps> <eps> <eps> _3 
+thành_16_2 op C D S S C D S S S S S C C C D D D D C C C D D D C 
+thành_16_2 #csid 9 7 0 9
+thành_17_2 ref h wp a _1 S E n _1 k O _5a m u j _2 r 7_X t _5b t_h 7 m <eps> <eps> _1 
+thành_17_2 hyp h hwp a _1 s E m _1 k O _5a m u j _5a r 7_X t _5b t_h 7 m _1 k _1 
+thành_17_2 op C S C C S C S C C C C C C C S C C C C C C C I I C 
+thành_17_2 #csid 19 4 2 0
+thành_18_2 ref k a j _5a t u _3 l E_X J _6a z u Nm _2 d e _3 l a m _2 dZ i <eps> _2 
+thành_18_2 hyp k a j <eps> d o _3 <eps> <eps> <eps> <eps> d a j zu _5a h ie J la m _2 dZ i _2 _2 
+thành_18_2 op C C C D S S C D D D D S S S S S S S S S C C C C I C 
+thành_18_2 #csid 9 11 1 5
+thành_20_1 ref k a j <eps> _5a n o j _2 d e _3 m E _6a n 7_X w _5a k <eps> E_X J _1 
+thành_20_1 hyp k a j l u n <eps> <eps> _2 t_h e <eps> m E <eps> _3 l O_X _3 k a_X j m _1 
+thành_20_1 op C C C I S C D D C S C D C C D S S S S C I S S C 
+thành_20_1 #csid 10 8 2 4
+thành_22_3 ref b <eps> a j _2 h O_X kp _6b d 7_X w _2 t ie n _1 k uo _3 G 7_X w _5a k O n _1 
+thành_22_3 hyp b _2 E_X j _2 h O_X kp _6b d 7_X w _2 t ie n _1 7_X n _3 <eps> b uo _3 k O n _1 
+thành_22_3 op C I S C C C C C C C C C C C C C C S S C D S S S C C C C 
+thành_22_3 #csid 20 6 1 1
+thành_23_3 ref h o m _1 n a_X j _1 l a _2 <eps> t_h M _5a S a_X w <eps> _5a 
+thành_23_3 hyp <eps> o <eps> <eps> <eps> <eps> j _1 <eps> <eps> _2 h u n _2 s a w _5a _5a 
+thành_23_3 op D C D D D D C C D D C I S S S S S C I C 
+thành_23_3 #csid 6 5 2 7
+thành_24_3 ref E m _1 t_h M k _5b z 7_X j _6a t M _2 S a_X w _5a dZ 7 <eps> <eps> <eps> <eps> _2 
+thành_24_3 hyp E E _1 <eps> <eps> <eps> <eps> <eps> 7_X <eps> <eps> <eps> <eps> _1 S a_X w _5a t 7 _2 r 7_X _2 _2 
+thành_24_3 op C S C D D D D D C D D D D S C C C C S C I I I I C 
+thành_24_3 #csid 9 3 4 9
+thành_25_4 ref b <eps> <eps> <eps> <eps> uo j _3 tS M7 _1 E m _1 a_X n _1 k 7 m _1 <eps> 7 _3 tS M7 N _2 
+thành_25_4 hyp b M7 N _1 k uo <eps> _3 tS e _1 E m <eps> <eps> _5a _1 k 7 m _1 m 7 _3 tS M7 n _2 
+thành_25_4 op C I I I I C D C C S C C C D D S C C C C C I C C C C S C 
+thành_25_4 #csid 17 3 5 3
+thành_26_4 ref t ie t _5b h O_X kp _6b v u j _1 k wp a _5a 
+thành_26_4 hyp t ie <eps> _5b h O_X kp <eps> <eps> <eps> t _1 k wp a _5a 
+thành_26_4 op C C D C C C C D D D S C C C C C 
+thành_26_4 #csid 11 1 0 4
+thành_27_4 ref m <eps> u j _2 x wp a j _1 n M7 N _5a t_h 7 m _1 k wp a _5a 
+thành_27_4 hyp m a o t _2 <eps> h a j _1 l o n _5a t_h 7 n _1 k wp a _5a 
+thành_27_4 op C I S S C D S C C C S S S C C C S C C C C C 
+thành_27_4 #csid 13 7 1 1
+thành_28_4 ref h <eps> <eps> <eps> <eps> M7 N _1 k O _5a k u _3 x wp a j _1 l a <eps> N _1 
+thành_28_4 hyp h a n _1 S 7 n _1 k O _5a f u _3 <eps> f a <eps> _5a l a n _1 _1 
+thành_28_4 op C I I I I S S C C C C S C C D S C D S C C I S C 
+thành_28_4 #csid 11 6 5 2
+thành_29_5 ref J a_X t _6b m o t _6b ts_ ie k _5b l a _5a r 7 j _1 
+thành_29_5 hyp <eps> <eps> <eps> m m o t _6b ts_ ie <eps> _5a m a t r 7 j _1 
+thành_29_5 op D D D S C C C C C C D S S C S C C C C 
+thành_29_5 #csid 11 4 0 4
+thành_31_4 ref k a _5a x o Nm _1 <eps> a_X n _1 m uo j _5a k a _5a M7 n _1 
+thành_31_4 hyp k <eps> <eps> x o Nm _1 bm a_X n _1 m uo j _5a k a _5a 7 n _1 
+thành_31_4 op C D D C C C C I C C C C C C C C C C S C C 
+thành_31_4 #csid 17 1 1 2
+thành_33_5 ref o Nm _1 b a _2 k O _5a x wp E _3 x o Nm _1 a _6a 
+thành_33_5 hyp o a _5a b a <eps> _3 O _5a <eps> xwp E _1 e t _5a m a _6a 
+thành_33_5 op C S S C C D S C C D S C S S S S S C C 
+thành_33_5 #csid 8 9 0 2
+thành_35_5 ref <eps> S ie w _1 J 7_X n _1 <eps> k uo N _2 f O_X Nm _1 
+thành_35_5 hyp s t_h ie n _1 s 7_X w _1 ie n _1 o Nm _1 O_X Nm _1 
+thành_35_5 op I S C S C S C S C I S S S S S C C C 
+thành_35_5 #csid 7 9 2 0
+thành_36_5 ref G <eps> <eps> <eps> <eps> 7_X w _5a k O n _1 k a m _3 7 n _1 b a k _5b v O j _1 
+thành_36_5 hyp G O j _2 z 7_X w <eps> k O n _1 k a m _5a m uo _5a b a k _5b r O j _1 
+thành_36_5 op C I I I I C C D C C C C C C C S S S S C C C C S C C C 
+thành_36_5 #csid 17 5 4 1
+thành_38_5 ref k O n _1 r a _1 v M7 n _2 h a j _5a t a w _5a 
+thành_38_5 hyp k t a _1 t a _2 f 7_X n _2 n a <eps> _5a x a w _5a 
+thành_38_5 op C S S C S C S S S C C S C D C S C C C 
+thành_38_5 #csid 10 8 0 1
+thành_41_6 ref E <eps> m _1 b E _5a d a N _1 n a_X m _2 N u _3 
+thành_41_6 hyp E N _5a r a N _5a <eps> a N <eps> _5a a m <eps> _1 _1 _3 
+thành_41_6 op C I S S S S C D C C D S S C D S S C 
+thành_41_6 #csid 6 8 1 3
+thành_42_6 ref b a _2 k O_X Nm _2 d i _1 ts_ 7 _6a tS 7 j _2 m M7 _1 
+thành_42_6 hyp <eps> <eps> <eps> k <eps> M7 _2 <eps> O _2 ts_ <eps> <eps> <eps> <eps> O _2 ts_ _2 _1 
+thành_42_6 op D D D C D S C D S S C D D D D S C S S C 
+thành_42_6 #csid 5 6 0 9
+thành_44_6 ref b a k _5b S i _4 d a N _1 x a m _5a b e J <eps> _6a 
+thành_44_6 hyp b a k _5b S i _4 d e n _1 <eps> a N _5a b e J _5b _6a 
+thành_44_6 op C C C C C C C C S S C D C S C C C C I C 
+thành_44_6 #csid 15 3 1 1
+thành_45_6 ref m E _6a l a n _1 d a N _1 l a_X w _1 S a n _2 J a <eps> _2 
+thành_45_6 hyp m <eps> <eps> <eps> a N _6a d a Nm _6a l <eps> O_X _1 S a n _1 J a _2 _2 
+thành_45_6 op C D D D C S S C C S S C D S C C C C S C C I C 
+thành_45_6 #csid 12 6 1 4
+thành_47_6 ref tS 7 j <eps> _2 <eps> <eps> n o j _3 dZ O _5a t O _1 
+thành_47_6 hyp tS 7 j O _2 ts_ o n o <eps> _2 b 7 _4 t O _1 
+thành_47_6 op C C C I C I I C C D S S S S C C C 
+thành_47_6 #csid 9 4 3 1
+thành_4_1 ref k O _5a t ie N _5a d o Nm _6a dZ i _2 l a _6a l a_X m <eps> <eps> <eps> <eps> <eps> <eps> _5a 
+thành_4_1 hyp k <eps> <eps> <eps> <eps> <eps> <eps> <eps> o Nm <eps> _5a i _5a l a <eps> l a_X m _5a k k O_X l i _5a 
+thành_4_1 op C D D D D D D D C C D S C S C C D C C C I I I I I I C 
+thành_4_1 #csid 10 2 6 9
+thành_50_6 ref h <eps> o m _1 n a_X j _1 tS 7 j _2 l E_X J _6a k <eps> wp a _5a 
+thành_50_6 hyp h x o Nm _1 <eps> l E _1 <eps> <eps> <eps> <eps> t_h _1 a _1 k O n E _5a 
+thành_50_6 op C I C S C D S S C D D D D S S S S C I S S C 
+thành_50_6 #csid 6 9 2 5
+thành_53_7 ref N <eps> <eps> M7 _6a f i _1 J E_X J _1 J M _1 b a_X j _1 
+thành_53_7 hyp N _1 m M7 _1 s i _1 J <eps> J _1 J M _1 v a J _1 
+thành_53_7 op C I I C S S C C C D C C C C C S S S C 
+thành_53_7 #csid 11 5 2 1
+thành_59 ref E_X J _1 G a _2 tS o Nm _5a b a_X j _1 l e n _1 
+thành_59 hyp E_X J _1 G a _5a tS o Nm _5a b a_X j _1 <eps> b n _1 
+thành_59 op C C C C C S C C C C C C C C D S C C 
+thành_59 #csid 15 2 0 1
+thành_61_8 ref ts_ u kp _5b k O n _1 N u _3 N O n _1 
+thành_61_8 hyp ts_ <eps> <eps> <eps> _1 O <eps> _5a r i w _2 7 n _1 
+thành_61_8 op C D D D S C D S S S S S S C C 
+thành_61_8 #csid 4 7 0 4
+thành_62_8 ref m <eps> E <eps> _6a ie w _1 k O n _1 
+thành_62_8 hyp m b E j _6a ie w _1 k O n _1 
+thành_62_8 op C I C I C C C C C C C C 
+thành_62_8 #csid 10 0 2 0
+thành_63_8 ref <eps> t_h a w _3 r 7_X t _5b ie w _1 k wp e _1 h M7 N _1 m i J _2 
+thành_63_8 hyp t_h t_h O_X N _3 l e t _5b z e _1 <eps> <eps> e _1 h M7 J _1 m e Jm _2 
+thành_63_8 op I C S S C S S C C S S C D D C C C C S C C S S C 
+thành_63_8 #csid 12 9 1 2
+thành_64_8 ref k 7 n _1 m M7 _1 r a w _2 k E w _5a d e n _5a 
+thành_64_8 hyp k 7 n _1 m 7 _1 <eps> dZ 7_X p _6b v 7 _3 b e n _5a 
+thành_64_8 op C C C C C S C D S S S S S S S S C C C 
+thành_64_8 #csid 9 9 0 1
+thành_65_8 ref tS 7 j _2 N a_X j _2 k a N _2 l E_X J _6a h 7 n _1 
+thành_65_8 hyp tS 7 j _2 b 7 j _2 k E_X N _2 J E_X N _6a h 7 N _1 
+thành_65_8 op C C C C S S C C C S C C S C S C C C S C 
+thành_65_8 #csid 14 6 0 0
+thành_66_8 ref l a _5a k 7_X j _1 m uo <eps> _2 t_h u _1 
+thành_66_8 hyp l <eps> _5a <eps> 7_X n _1 b uo N _2 t_h M7 _1 
+thành_66_8 op C D C D C S C S C I C C S C 
+thành_66_8 #csid 8 3 1 2
+thành_68_8 ref t e n _1 b a n _6a l a _2 dZ i <eps> _2 
+thành_68_8 hyp t e n <eps> b a n _6a l a _2 dZ i _6a _2 
+thành_68_8 op C C C D C C C C C C C C C I C 
+thành_68_8 #csid 13 0 1 1
+thành_69_8 ref k 7_X j _1 k o j _5a u m _1 t u m _2 
+thành_69_8 hyp <eps> <eps> <eps> <eps> k o j <eps> u <eps> <eps> t u m _2 
+thành_69_8 op D D D D C C C D C D D C C C C 
+thành_69_8 #csid 8 0 0 7
+thành_6_1 ref m E _6a m 7 j _5a m uo _1 o _1 t o <eps> _1 
+thành_6_1 hyp m o _6a v 7 <eps> _5a <eps> <eps> <eps> <eps> <eps> t o 7 _1 
+thành_6_1 op C S C S C D C D D D D D C C I C 
+thành_6_1 #csid 7 2 1 6
+thành_70_8 ref O_X Nm _1 ts_ uo _5a b a_X j _1 v e _2 t o _3 
+thành_70_8 hyp O_X Nm _1 ts_ uo <eps> b a_X j _1 <eps> l _6b t 7 _3 
+thành_70_8 op C C C C C D C C C C D S S C S C 
+thành_70_8 #csid 11 3 0 2
+thành_71_9 ref k wp e <eps> _1 h M7 N _1 l a _2 ts_ u m _2 x e _5a N O t _6b 
+thành_71_9 hyp k <eps> e J _1 <eps> <eps> M _1 n a _2 ts_ <eps> 7 _2 b e _5a N a t _6b 
+thành_71_9 op C D C I C D D S C S C C C D S C S C C C S C C 
+thành_71_9 #csid 13 5 1 4
+thành_72_9 ref tS 7 j _2 m <eps> uo _2 t_h u _1 m a t _5b m E <eps> <eps> <eps> _3 
+thành_72_9 hyp tS tS a_X _2 m M7 k _5b tS uo _5b m a t _5b m E l a m _3 
+thành_72_9 op C S S C C I S S S S S C C C C C C I I I C 
+thành_72_9 #csid 10 7 4 0
+thành_73_9 ref ts_ a w _1 o j _1 h a_X j _1 k wp a _5a 
+thành_73_9 hyp ts_ ts_ 7 j _6a 7 _1 t_h a j _1 k wp a _5a 
+thành_73_9 op C S S S S S C S S C C C C C C 
+thành_73_9 #csid 8 7 0 0
+thành_75_9 ref E m _1 b E _5a d a N _1 N wp a n _1 N wp a n _4 a_X n _1 k 7 m _1 
+thành_75_9 hyp E <eps> _1 <eps> <eps> <eps> _1 a <eps> _1 <eps> <eps> <eps> wpa _1 N wp a n _5a a_X n _1 k 7 m _1 
+thành_75_9 op C D C D D D S C D C D D D S C C C C C S C C C C C C C 
+thành_75_9 #csid 16 3 0 8
+thành_76_9 ref m 7 j _5a S a N _5a t i J _1 m 7 <eps> <eps> _1 
+thành_76_9 hyp m a j _5a S O N _1 t 7 N _5a l 7 n _1 _1 
+thành_76_9 op C S C C C S C S C S S S S C I I C 
+thành_76_9 #csid 8 7 2 0
+thành_78_9 ref b <eps> <eps> a n _6a J O _3 t_h a <eps> _3 z ie w _2 tS e n _1 k E_X J _5a d o Nm <eps> _2 
+thành_78_9 hyp b n m a N _6a J O _3 t_h a j _3 s E w _2 tS e w _1 k E_X J _5a v O_X Nm _3 _2 
+thành_78_9 op C I I C S C C C C C C I C S S C C C C S C C C C C S S C I C 
+thành_78_9 #csid 20 6 4 0
+thành_79_9 ref E <eps> n _5a k O n _1 d a N _1 b a_X j _1 k wp a _1 S o Nm _1 
+thành_79_9 hyp E t_h N _5a a _5a n <eps> <eps> a n _1 b 7_X j _1 k <eps> a _1 S o Nm _1 
+thành_79_9 op C I S C S S C D D C S C C S C C C D C C C C C C 
+thành_79_9 #csid 15 5 1 3
+thành_7_1 ref E m _1 d a N _1 a_X n _1 k 7 m _1 
+thành_7_1 hyp E <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> _1 <eps> o m _1 
+thành_7_1 op C D D D D D D D D C D S C C 
+thành_7_1 #csid 4 1 0 9
+thành_81_9 ref m o t _6b ts_ ie k _5b l M7 k _6b r 7_X t _5b d E p _6b 
+thành_81_9 hyp m <eps> <eps> <eps> <eps> E p _5b <eps> <eps> E _6b z a k _5b d E p _6b 
+thành_81_9 op C D D D D S S C D D S C S S S C C C C C 
+thành_81_9 #csid 8 6 0 6
+thành_82_9 ref t_h <eps> O _3 k O n _1 J i n _2 k a w _5a 
+thành_82_9 hyp t_h wp a _3 k O <eps> _1 J i n _2 k a <eps> _5a 
+thành_82_9 op C I S C C C D C C C C C C C D C 
+thành_82_9 #csid 12 1 1 2
+thành_84_9 ref <eps> b E _5a t 7_X p _6b d <eps> O_X kp _6b 
+thành_84_9 hyp b b E _5a t 7_X t _6b d a w _6b _6b 
+thành_84_9 op I C C C C C S C C I S S C 
+thành_84_9 #csid 8 3 2 0
+thành_85_9 ref t o j _1 tS 7 _3 v e _2 k wp e _1 h M7 <eps> N _1 
+thành_85_9 hyp t o j _1 <eps> E _3 <eps> E _1 k <eps> a _1 s M7 _1 M _1 
+thành_85_9 op C C C C D S C D S S C D S C S C I S C 
+thành_85_9 #csid 9 6 1 3
+thành_86_9 ref d M7 N _2 v e _2 s a _1 l a_X k _5b s <eps> a _1 l 7 <eps> <eps> _1 
+thành_86_9 hyp d <eps> <eps> _2 <eps> <eps> _2 z a _1 r a p _1 s 7 j _1 lwp 7 n _1 _1 
+thành_86_9 op C D D C D D C S C C S S S S C I S C S C I I C 
+thành_86_9 #csid 9 7 3 4
+thành_87_9 ref t <eps> <eps> o j _1 d e n _5a t_h a_X m _1 E_X J _1 h a j _1 t o j <eps> _1 
+thành_87_9 hyp t j d o j _1 <eps> b E_X _1 t_h <eps> 7 _1 E_X J _1 h a j _1 t o j _1 _1 
+thành_87_9 op C I I C C C D S S S C D S C C C C C C C C C C C I C 
+thành_87_9 #csid 17 4 3 2
+thành_88_10 ref E m _1 ie w _1 N o j _1 J a _2 k uo _3 E m _1 
+thành_88_10 hyp E Nm _1 <eps> i _1 <eps> <eps> <eps> _1 J <eps> <eps> <eps> <eps> <eps> E _2_1 _1 
+thành_88_10 op C S C D S C D D D C C D D D D D C S C 
+thành_88_10 #csid 7 3 0 9
+thành_89_10 ref E m _1 ie w _1 t ie N _5a ts_ i m _1 
+thành_89_10 hyp E m <eps> 7_X j _1 t E m _1 ts_ i n _1 
+thành_89_10 op C C D S S C C S S S C C S C 
+thành_89_10 #csid 7 6 0 1
+thành_90_10 ref m <eps> uo _2 <eps> h E _2 d e n _5a r o j _2 
+thành_90_10 hyp m l a _2 l a uo _2 <eps> <eps> N _2 z o <eps> _2 
+thành_90_10 op C I S C I S S C D D S S S C D C 
+thành_90_10 #csid 5 6 2 3
+thành_91_10 ref o Nm _1 7 j _1 o Nm _1 k O _5a x wp E _3 x o Nm _1 
+thành_91_10 hyp o Nm _1 <eps> <eps> _1 <eps> Nm _1 k O _5a x <eps> <eps> o kp o Nm _1 
+thành_91_10 op C C C D D C D C C C C C C D D S S C C C 
+thành_91_10 #csid 13 2 0 5
+thành_93_10 ref b o _5a m E _6a dZ u p _5b k O n _1 ts_ wp 7_X n _3 b i _6a J E _5a 
+thành_93_10 hyp b J E m E _6a <eps> <eps> <eps> <eps> k <eps> n <eps> <eps> k 7_X n <eps> b <eps> <eps> <eps> <eps> _5a 
+thành_93_10 op C S S C C C D D D D C D C D D S C C D C D D D D C 
+thành_93_10 #csid 10 3 0 12
+thành_95_10 ref s O m _5a l a N _2 d o Nm _2 r uo N _6a r M N _2 k 7_X <eps> j _1 
+thành_95_10 hyp s O <eps> _5a l a m _2 <eps> z O _2 <eps> z O _2 v u N _2 k 7_X w _2 _1 
+thành_95_10 op C C D C C C S C D S S C D S S S S S C C C C I S C 
+thành_95_10 #csid 12 9 1 3
+thành_96_10 ref tS <eps> a N _1 t_h M7 N _1 ts_ u _5a h e _2 l a_X m <eps> _5a 
+thành_96_10 hyp tS b a N _1 <eps> tS N _6a k u <eps> h <eps> <eps> l N m ts_ _5a 
+thành_96_10 op C I C C C D S C S S C D C D D C S C I C 
+thành_96_10 #csid 10 4 2 4
+thành_98_10 ref <eps> k wp e _1 t 7 _5a 7 _3 h a j _3 f O_X Nm _2 
+thành_98_10 hyp k k wp e _1 tS O_X _5a 7 <eps> <eps> <eps> j <eps> <eps> <eps> <eps> _2 
+thành_98_10 op I C C C C S S C C D D D C D D D D C 
+thành_98_10 #csid 8 2 1 7
+thành_99_10 ref v <eps> M7 n _2 k 7_X j _1 d 7_X m _1 ts_ o j _2 n 7_X j _3 l o kp _6b 
+thành_99_10 hyp v m M7 J _2 <eps> <eps> <eps> <eps> tS 7_X n _1 <eps> o <eps> <eps> <eps> <eps> <eps> <eps> <eps> o o _6b 
+thành_99_10 op C I C S C D D D D S C S C D C D D D D D D D C S C 
+thành_99_10 #csid 8 4 1 12
+tú_101_8 ref E m _1 r 7_X t _5b t_h i k _5b h wp a _1 h o Nm _2 
+tú_101_8 hyp E n _1 <eps> <eps> t <eps> <eps> i k _5b x wp a _1 h o Nm _2 
+tú_101_8 op C S C D D C D D C C C S C C C C C C C 
+tú_101_8 #csid 13 2 0 4
+tú_104_8 ref E m _1 v E <eps> _4 m o t _6b k o _1 t ie n _1 
+tú_104_8 hyp E <eps> <eps> <eps> E p _1 m o t _6b k o _1 t ie n _1 
+tú_104_8 op C D D D C I S C C C C C C C C C C C 
+tú_104_8 #csid 13 1 1 3
+tú_105_8 ref <eps> b o _5a m E _6a ts_ O _1 b E _5a v e _2 k wp e _1 
+tú_105_8 hyp b b o _5a m E _6a ts_ O _1 b E _5a v e _2 k wp e _1 
+tú_105_8 op I C C C C C C C C C C C C C C C C C C C 
+tú_105_8 #csid 19 0 1 0
+tú_107_6 ref b E _5a r 7_X t _5b J 7 _5a b a <eps> _2 
+tú_107_6 hyp b a _5a <eps> 7_X t _5b J 7 _5a b a j _2 
+tú_107_6 op C S C D C C C C C C C C I C 
+tú_107_6 #csid 11 1 1 1
+tú_108_6 ref t_h 7_X t _6b l a _2 t wp ie t _6b 
+tú_108_6 hyp t_h E_X t _1 l <eps> e t <eps> e t _6b 
+tú_108_6 op C S C S C D S C D S C C 
+tú_108_6 #csid 6 4 0 2
+tú_109_6 ref <eps> k E_X J _5a h wp a _1 J O _3 J M _1 v a_X j _3 k a _5a 
+tú_109_6 hyp k k E_X J <eps> _1 dZ O _1 J O _2 J M _1 v 7_X j _3 k a _5a 
+tú_109_6 op I C C C D S S S C C C S C C C C S C C C C C 
+tú_109_6 #csid 15 5 1 1
+tú_110_6 ref <eps> tS 7 j _2 d a N _1 r 7_X t _5b l E_X J <eps> _6a 
+tú_110_6 hyp tS tS 7 j _2 d a N _1 dZ a t _5b l E_X J _6a _6a 
+tú_110_6 op I C C C C C C C C S S C C C C C I C 
+tú_110_6 #csid 14 2 2 0
+tú_112_6 ref k O n _1 ts_ i m _1 S 7 n _1 <eps> k a _1 <eps> <eps> <eps> <eps> k 7_X t _5b t ie N _5a h O t _5b 
+tú_112_6 hyp k o n _1 s i n _1 s ie n _1 i E n _1 m o t _5b k E_X tk _5b t ie N _1 h O t _5b 
+tú_112_6 op C S C C S C S C S S C C I S S C I I I I C S S C C C C S C C C C 
+tú_112_6 #csid 17 10 5 0
+tú_116_6 ref m 7_X j _5a k O n _1 N M7 _6a d a N _1 a_X n _1 k O _3 
+tú_116_6 hyp m 7_X j _5a k O n _1 N M _6a d a N _6a a_X n _1 k O _3 
+tú_116_6 op C C C C C C C C C S C C C C S C C C C C C 
+tú_116_6 #csid 19 2 0 0
+tú_118_6 ref d M7 _5a tS E _3 ts_ i _3 m 7 j _5a S a_X w _5a t uo j _3 
+tú_118_6 hyp d M7 _3 tS E _3 ts_ i <eps> <eps> _2 uo _2 S a_X w _5a ts_ u j _3 
+tú_118_6 op C C S C C C C C D D S S S C C C C S S C C 
+tú_118_6 #csid 13 6 0 2
+tú_119_6 ref m a_X t _6b d E p _6b S a N _5a N 7 j _2 
+tú_119_6 hyp m a_X t _6b t ie t _6b S a N _5a N 7 j _2 
+tú_119_6 op C C C C S S S C C C C C C C C C 
+tú_119_6 #csid 13 3 0 0
+tú_11_2 ref k o _1 dZ a w _5a m i m _3 k M7 j _2 t_h 7_X t _6b t M7 j _1 
+tú_11_2 hyp k <eps> _1 <eps> a w _1 m i m _3 k M7 j <eps> t_h 7_X t _6b t uo j _1 
+tú_11_2 op C D C D C C S C C C C C C C D C C C C C S C C 
+tú_11_2 #csid 18 2 0 3
+tú_121_5 ref s E _1 k 7_X p _5b k M w _5a 
+tú_121_5 hyp s E _1 k 7_X p _5b k M w _5a 
+tú_121_5 op C C C C C C C C C C C 
+tú_121_5 #csid 11 0 0 0
+tú_122_5 ref E m _1 dZ M _4 dZ i n _2 h o p _6b b u t _5b k 7_X n _3 t_h 7_X n _6a 
+tú_122_5 hyp E m _1 <eps> 7_X _5a dZ i n _2 <eps> <eps> b uo b <eps> o _5b k 7_X m _6b t_h 7_X t _6a 
+tú_122_5 op C C C D S S C C C C D D S S C D S C C C S S C C S C 
+tú_122_5 #csid 14 8 0 4
+tú_123_5 ref k o _1 dZ a w _5a t_h 7_X t _6b G 7_X n _2 G u j _4 
+tú_123_5 hyp k o _1 G a w _1 t_h 7_X t _6b G 7_X n _6b G u j _5a 
+tú_123_5 op C C C S C C S C C C C C C C S C C C S 
+tú_123_5 #csid 15 4 0 0
+tú_124_5 ref dZ <eps> O _5a m uo _2 d o Nm _1 b a_X k _5b ts_ 7 t _6b v e <eps> _2 
+tú_124_5 hyp dZ G O _5a v uo _5a d o Nm _1 b a_X p _5b ts_ E_X J _2 v e _2 _2 
+tú_124_5 op C I C C S C S C C C C C C S C C S S S C C I C 
+tú_124_5 #csid 15 6 2 0
+tú_125_5 ref <eps> N a_X j _2 k uo j _5a t_h a N _5a n a_X m _1 
+tú_125_5 hyp N N a_X j _2 k uo j _5a t_h a N _5a N a_X n _1 
+tú_125_5 op I C C C C C C C C C C C C S C S C 
+tú_125_5 #csid 14 2 1 0
+tú_128_5 ref J M N _4 M7 k _5b m 7 _1 k a w _1 d E p <eps> _6b 
+tú_128_5 hyp J <eps> N <eps> M7 k _5b m M7 _1 k a w _1 d E p _6a _6b 
+tú_128_5 op C D C D C C C C S C C C C C C C C I C 
+tú_128_5 #csid 15 1 1 2
+tú_12_2 ref <eps> <eps> <eps> <eps> k a_X p _6b S E_X k _5b k O _5a m a_X w _2 s E_X J _1 r 7_X t _5b d E p _6b 
+tú_12_2 hyp k E_X J _1 k a_X p _6b s E_X k _5b k O _5a m a_X w _2 s E_X J <eps> r 7_X t _5b d E p _6b 
+tú_12_2 op I I I I C C C C S C C C C C C C C C C C C C D C C C C C C C C 
+tú_12_2 #csid 25 1 4 1
+tú_130_5 ref <eps> k O n _1 G 7_X w _5a b o Nm _1 d E p _6b k wp a _5a 
+tú_130_5 hyp k k O n _1 <eps> t o _5a b o Nm _1 d E p _6b k wp a _5a 
+tú_130_5 op I C C C C D S S C C C C C C C C C C C C C 
+tú_130_5 #csid 17 2 1 1
+tú_132_5 ref <eps> b a _2 m uo _1 k a m _1 ts_ O _1 b E _5a 
+tú_132_5 hyp b b a _2 m uo _1 k a m _1 ts_ O _1 b E _5a 
+tú_132_5 op I C C C C C C C C C C C C C C C C 
+tú_132_5 #csid 16 0 1 0
+tú_133_12 ref ts_ u kp _5b m M N _2 n a_X m _1 m 7 j _5a 
+tú_133_12 hyp ts_ <eps> <eps> <eps> <eps> <eps> <eps> <eps> n a_X m _1 m 7 j _5a 
+tú_133_12 op C D D D D D D D C C C C C C C C 
+tú_133_12 #csid 9 0 0 7
+tú_137_12 ref b a _2 d M7 _1 b E _5a d i _1 ts_ 7 _6a 
+tú_137_12 hyp <eps> <eps> <eps> <eps> <eps> <eps> b <eps> M e di _1 ts_ 7 _6a 
+tú_137_12 op D D D D D D C D S S S C C C C 
+tú_137_12 #csid 5 3 0 7
+tú_141_4 ref h ie p _6b S i _4 b a_X t _5b ie w _1 t i J _1 
+tú_141_4 hyp h <eps> a_X n _6a i _5a b a_X t _5b ie w _1 t i J _1 
+tú_141_4 op C D S S S C S C C C C C C C C C C C 
+tú_141_4 #csid 13 4 0 1
+tú_142_4 ref v M7 n _2 tS M7 _1 dZ O _5a m a t _5b 
+tú_142_4 hyp v M7 n _2 ts_ M7 _1 v O _5a m a t _5b 
+tú_142_4 op C C C C S C C S C C C C C C 
+tú_142_4 #csid 12 2 0 0
+tú_144_4 ref E m _1 r 7_X t _5b k wp i _5a m e n _5a k o _1 
+tú_144_4 hyp E m _1 b 7_X t _5b k <eps> i _2 m <eps> E _1 k u _1 
+tú_144_4 op C C C S C C C C D C S C D S S C S C 
+tú_144_4 #csid 11 5 0 2
+tú_145_4 ref b E _5a t 7_X p _6b v ie t <eps> _5b 
+tú_145_4 hyp b E _5a t 7_X p _6b v ie t _1 _5b 
+tú_145_4 op C C C C C C C C C C I C 
+tú_145_4 #csid 11 0 1 0
+tú_146_4 ref k O n _1 k a w _5a v a <eps> _2 ts_ u m _2 J O _1 
+tú_146_4 hyp k O n _1 <eps> a <eps> _5a r a m _2 t_h i m _2 n 7 _1 
+tú_146_4 op C C C C D C D C S C I C S S C C S S C 
+tú_146_4 #csid 11 5 1 2
+tú_147_4 ref m uo _2 d o Nm _1 l E_X J _6a k wp a _5a 
+tú_147_4 hyp m u _5a t o Nm _1 l a J _6a k wp a _5a 
+tú_147_4 op C S S S C C C C S C C C C C C 
+tú_147_4 #csid 11 4 0 0
+tú_148_4 ref <eps> J M N _4 k a_X n _1 J a <eps> _2 G o _4 <eps> <eps> s i J _1 s a_X n _5a 
+tú_148_4 hyp J J M Nm _4 k O n _1 N a w _5a G o _4 k _1 t i J _1 k a_X J _5a 
+tú_148_4 op I C C S C C S C C S C I S C C C I I S C C C S C S C 
+tú_148_4 #csid 15 7 4 0
+tú_149_4 ref J M N _4 d a m _5a m 7_X j _1 m a_X w _2 h o Nm <eps> _2 
+tú_149_4 hyp J M N _1 d a m _5a m 7_X t _5b m a_X w _2 h o Nm _2 _2 
+tú_149_4 op C C C S C C C C C C S S C C C C C C C I C 
+tú_149_4 #csid 17 3 1 0
+tú_14_2 ref t o j _1 l a _2 k a _1 S i _4 n o j _3 t ie N _5a 
+tú_14_2 hyp t o j <eps> l a _2 k a _1 S i <eps> n o j _3 t ie N _5a 
+tú_14_2 op C C C D C C C C C C C C D C C C C C C C C 
+tú_14_2 #csid 19 0 0 2
+tú_150_4 ref <eps> o Nm _1 E m _1 tS o Nm _2 k 7_X j _1 s wp a j _2 tS M7 k _5b S 7_X n _1 
+tú_150_4 hyp o o Nm _1 <eps> m _1 t M Nm <eps> _1 7_X j _1 <eps> k a <eps> _1 tS M7 k _5b <eps> t n _1 
+tú_150_4 op I C C C D C C S S C D S C C C D S C D S C C C C D S C C 
+tú_150_4 #csid 16 6 1 5
+tú_16_2 ref J M N _4 k O n _1 O_X Nm _1 t_h 7_X t _6b l a _2 ts_ a_X m _1 ts_ i <eps> _3 
+tú_16_2 hyp J <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> Nm _1 t_h 7_X t _6b va w _2 ts_ a_X m _1 ts_ i _2 _3 
+tú_16_2 op C D D D D D D D D C C C C C C S S C C C C C C C I C 
+tú_16_2 #csid 15 2 1 8
+tú_17_2 ref h wp a _1 S E n _1 k O _5a m u j _2 r 7_X t _5b t_h <eps> 7 m _1 
+tú_17_2 hyp h <eps> a _1 s E n <eps> <eps> _1k7_X _5a m <eps> <eps> uo _1 7_X t _5b t_h M7 N _1 _1 
+tú_17_2 op C D C C S C C D D S C C D D S S C C C C I S S C 
+tú_17_2 #csid 12 6 1 5
+tú_18_2 ref k a j _5a t u _3 l <eps> E_X J _6a z u Nm _2 <eps> d e _3 l a m _2 dZ i <eps> _2 
+tú_18_2 hyp k a <eps> <eps> t u _3 l wp a n _1 l i J _2 x o Nm _1 N a J _2 dZ i _2 _2 
+tú_18_2 op C C D D C C C C I S S S S S S C I S S S S C S C C C I C 
+tú_18_2 #csid 12 11 3 2
+tú_19_2 ref b u p _5b b e _1 S ie w _1 J 7_X n _1 G 7_X w _5a b o Nm _1 
+tú_19_2 hyp b <eps> <eps> <eps> 7_X j _1 <eps> <eps> n _1 G 7_X n _1 <eps> 7_X w _5a b o Nm _1 
+tú_19_2 op C D D D S S C D D S C S C C C D C C C C C C C 
+tú_19_2 #csid 13 4 0 6
+tú_20_2 ref k a j _5a n o j _2 d e _3 m E _6a n 7_X w _5a k E_X J _1 
+tú_20_2 hyp k a j a n _1 n o d e _3 m E _6a <eps> 7_X w _5a k E_X J _1 
+tú_20_2 op C C C S C S S S C C C C C C D C C C C C C C 
+tú_20_2 #csid 17 4 0 1
+tú_21_3 ref k 7_X w _6a d i _1 ts_ 7_X m _6a J M _1 r uo _2 7_X j _5a 
+tú_21_3 hyp k <eps> <eps> <eps> <eps> i _1 ts_ 7_X w _6a <eps> JM _1 r uo _2 a j _5a 
+tú_21_3 op C D D D D C C C C S C D S C C C C S C C 
+tú_21_3 #csid 12 3 0 5
+tú_22_3 ref b a j _2 h O_X kp _6b d 7_X w _2 t ie n _1 k uo _3 G 7_X w _5a k O n _1 
+tú_22_3 hyp b <eps> <eps> <eps> <eps> a_X p _6b d 7_X n _2 t ie n _1 k uo _3 k 7_X w _6a k O n _1 
+tú_22_3 op C D D D D S S C C C S C C C C C C C C S C C S C C C C 
+tú_22_3 #csid 18 5 0 4
+tú_23_3 ref h o m _1 n a_X j _1 l a _2 t_h M _5a S a_X w _5a 
+tú_23_3 hyp h <eps> <eps> _1 <eps> <eps> j <eps> <eps> a _2 t_h M _2 S a_X w _5a 
+tú_23_3 op C D D C D D C D D C C C C S C C C C 
+tú_23_3 #csid 11 1 0 6
+tú_24_3 ref E m _1 t_h M k _5b z 7_X j _6a t M _2 S a_X w _5a dZ 7 _2 
+tú_24_3 hyp E N _1 <eps> u p _1 z 7_X j _1 t M _2 S a_X w _5a dZ 7 _2 
+tú_24_3 op C S C D S S S C C C S C C C C C C C C C C 
+tú_24_3 #csid 15 5 0 1
+tú_25_3 ref b uo j _3 tS M7 _1 E m _1 a_X n _1 k 7 m _1 7 _3 tS M7 N <eps> _2 
+tú_25_3 hyp b <eps> O _3 tS M7 <eps> e m _1 <eps> 7 _1 k 7 <eps> _1 7 _1 tS M7 N _1 _2 
+tú_25_3 op C D S C C C D S C C D S C C C D C C S C C C I C 
+tú_25_3 #csid 15 4 1 4
+tú_27_3 ref m u j _2 x wp a j _1 n M7 N _5a t_h 7 m _1 k wp a _5a 
+tú_27_3 hyp m <eps> M N x wp a j _1 l M7 <eps> _5a t_h 7 m _1 k wp a _5a 
+tú_27_3 op C D S S C C C C C S C D C C C C C C C C C 
+tú_27_3 #csid 16 3 0 2
+tú_29_3 ref J a_X t _6b m o t _6b ts_ ie k _5b l a _5a r 7 j _1 
+tú_29_3 hyp J <eps> <eps> <eps> <eps> o t _6b ts_ ie k _5b l a <eps> r 7 j _1 
+tú_29_3 op C D D D D C C C C C C C C C D C C C C 
+tú_29_3 #csid 14 0 0 5
+tú_30_3 ref ts_ i m _1 S 7_X w _1 J ie w _2 t_h e _5a 
+tú_30_3 hyp ts_ J a_X _1 S 7_X w _1 <eps> ie w _2 t_h e _5a 
+tú_30_3 op C S S C C C C C D C C C C C C 
+tú_30_3 #csid 12 2 0 1
+tú_31_1 ref <eps> k a _5a <eps> x o Nm _1 a_X n _1 m uo j _5a k a _5a M7 n _1 
+tú_31_1 hyp k k a _5a k M7 N _5a v a_X n _1 m 7 j _5a k a _5a M7 <eps> _1 
+tú_31_1 op I C C C I S S S S C C C C S C C C C C C D C 
+tú_31_1 #csid 14 5 2 1
+tú_33_1 ref o Nm _1 b a _2 k O _5a x wp E _3 x o Nm _1 a _6a 
+tú_33_1 hyp o <eps> <eps> <eps> <eps> _3 k O _5a x wp E _3 x o Nm _1 a _6a 
+tú_33_1 op C D D D D S C C C C C C C C C C C C C 
+tú_33_1 #csid 14 1 0 4
+tú_35_1 ref S ie w _1 J 7_X n _1 k uo N _2 f O_X Nm <eps> _1 
+tú_35_1 hyp S <eps> <eps> <eps> J <eps> n _1 k uo Nm _1 f O_X Nm _1 _1 
+tú_35_1 op C D D D C D C C C C S S C C C I C 
+tú_35_1 #csid 10 2 1 4
+tú_36_1 ref G 7_X w _5a k O n _1 k a m _3 7 n _1 b a k _5b v O j <eps> _1 
+tú_36_1 hyp G <eps> <eps> <eps> k O n _1 k a m _3 7 n _1 b a k _5b r O j _1 _1 
+tú_36_1 op C D D D C C C C C C C C C C C C C C C S C C I C 
+tú_36_1 #csid 19 1 1 3
+tú_37_1 ref E_X J _1 h u Nm _2 b ie n _3 k a _3 
+tú_37_1 hyp E_X <eps> <eps> <eps> u Nm _1 b ie n _3 k a _5a 
+tú_37_1 op C D D D C C S C C C C C C S 
+tú_37_1 #csid 9 2 0 3
+tú_37_12 ref E_X J _1 h u Nm _2 b ie n _3 k a _3 
+tú_37_12 hyp E_X <eps> n m i J _2 <eps> <eps> <eps> <eps> t_h a _5a 
+tú_37_12 op C D S S S S C D D D D S C S 
+tú_37_12 #csid 3 6 0 5
+tú_38_1 ref k O n _1 r a _1 v M7 n _2 h a j _5a t a w <eps> _5a 
+tú_38_1 hyp k <eps> <eps> <eps> <eps> a _1 v M7 n _2 h a j _2 t a w _5a _5a 
+tú_38_1 op C D D D D C C C C C C C C C S C C C I C 
+tú_38_1 #csid 14 1 1 4
+tú_38_12 ref k O n _1 r a _1 v M7 n _2 h a j _5a t a w _5a 
+tú_38_12 hyp k <eps> <eps> <eps> <eps> a <eps> _2 M7 n _2 h a j <eps> t a w _5a 
+tú_38_12 op C D D D D C D S C C C C C C D C C C C 
+tú_38_12 #csid 12 1 0 6
+tú_39_1 ref G 7_X w _5a k O n _1 b M N _1 t a w _5a m 7 j _2 b o _5a m E _6a 
+tú_39_1 hyp G <eps> <eps> <eps> k O n _1 m M N _1 t a w _5a N M7 j _5a b o _5a m E _6a 
+tú_39_1 op C D D D C C C C S C C C C C C C S S C S C C C C C C 
+tú_39_1 #csid 19 4 0 3
+tú_40_1 ref m E _6a l a _2 N M7 j _2 f u _6a n M _4 h ie n _2 z i w _6a 
+tú_40_1 hyp m <eps> <eps> l a _2 N M7 j _2 f u _6a n M _4 h ie n _2 <eps> <eps> <eps> _6a 
+tú_40_1 op C D D C C C C C C C C C C C C C C C C C D D D C 
+tú_40_1 #csid 19 0 0 5
+tú_41_12 ref E m _1 b E _5a d a N _1 n a_X m _2 N u _3 
+tú_41_12 hyp E m <eps> b E <eps> <eps> da N <eps> <eps> a m <eps> <eps> <eps> _3 
+tú_41_12 op C C D C C D D S C D D S C D D D C 
+tú_41_12 #csid 7 2 0 8
+tú_44_11 ref b a k _5b S i _4 d a N _1 x a m _5a b e J _6a 
+tú_44_11 hyp b a k _5b t M _1 dZ e n _1 h a m _5a b e J _6a 
+tú_44_11 op C C C C S S S S S S C S C C C C C C C 
+tú_44_11 #csid 12 7 0 0
+tú_46_11 ref n u _6a h o n _1 tS e n _1 b a n _2 t a_X j _1 
+tú_46_11 hyp l u <eps> <eps> <eps> Nm _1 t 7_X n _1 <eps> a_X t _5b_1 t a_X j _1 
+tú_46_11 op S C D D D S C S S C C D S S S C C C C 
+tú_46_11 #csid 8 7 0 4
+tú_49_11 ref k E_X J _2 l ie w _4 b ie t _5b b a_X j _1 
+tú_49_11 hyp k <eps> <eps> <eps> <eps> <eps> <eps> <eps> v uo t _5b m a_X w _1 
+tú_49_11 op C D D D D D D D S S C C S C S C 
+tú_49_11 #csid 5 4 0 7
+tú_50_11 ref h o m _1 n a_X j _1 tS 7 j _2 l E_X J _6a k wp a _5a 
+tú_50_11 hyp h o Nm _1 <eps> J E _1 t_h 7_X j <eps> _1 E_X J _3 k wp a _5a 
+tú_50_11 op C C S C D S S C S S C D S C C S C C C C 
+tú_50_11 #csid 11 7 0 2
+tú_51_11 ref b o _5a l a m _2 dZ i _2 k u Nm _4 x E w _5a l E w _5a 
+tú_51_11 hyp b <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> J Nm <eps> <eps> h a j l E <eps> _5a 
+tú_51_11 op C D D D D D D D D D D S C D D S S S C C D C 
+tú_51_11 #csid 5 4 0 13
+tú_52_11 ref m E _6a t e t _5b t O_X kp _5b ts_ O _1 E m _1 
+tú_52_11 hyp m <eps> <eps> M e t _5b v a t _5b h O _1 E n _1 
+tú_52_11 op C D D S C C C S S S C S C C C S C 
+tú_52_11 #csid 9 6 0 2
+tú_53_11 ref N M7 _6a f i _1 J E_X J _1 J M _1 b a_X j _1 
+tú_53_11 hyp N <eps> <eps> <eps> <eps> <eps> <eps> <eps> u _1 J M n a N _6a _1 
+tú_53_11 op C D D D D D D D S C C C S S S S C 
+tú_53_11 #csid 5 5 0 7
+tú_54_11 ref a j _1 N wp a n _1 S E _4 d M7 k _6b t_h M7 N _3 
+tú_54_11 hyp <eps> <eps> <eps> N <eps> <eps> <eps> _1 <eps> <eps> <eps> dZ ie k dZie ts_ ie a _3 
+tú_54_11 op D D D C D D D C D D D S S C S S S S C 
+tú_54_11 #csid 4 6 0 9
+tú_55_11 ref ts_ ie k _5b r e _4 d a _1 tS O n _2 
+tú_55_11 hyp ts_ <eps> <eps> <eps> <eps> <eps> <eps> z E _1 t_h a n _2 
+tú_55_11 op C D D D D D D S S C S S C C 
+tú_55_11 #csid 4 4 0 6
+tú_56_10 ref <eps> b 7_X w _2 tS 7 j _2 s E_X J _1 t_h a_X m _1 t_h a_X m _3 
+tú_56_10 hyp b b a w _5a tS <eps> ie w _1 sE J _1 t_h E_X m _1 <eps> <eps> <eps> _3 
+tú_56_10 op I C S C S C D S S S S C C C S C C D D D C 
+tú_56_10 #csid 9 7 1 4
+tú_57_10 ref t o j _1 d <eps> M7 _1 m E_X J _3 dZ 7_X j _5a ts_ O _1 N M7 j _2 m E _6a 
+tú_57_10 hyp t o j _1 d e m _1 m E_X J _2 dZ <eps> a _2 ts_ O _1 N M7 j _2 m M7 _6a 
+tú_57_10 op C C C C C I S C C C C S C D S S C C C C C C C C S C 
+tú_57_10 #csid 19 5 1 1
+tú_58_10 ref o Nm _1 s E m _1 v a _2 k a_X w _1 m a_X j _2 
+tú_58_10 hyp o Nm _1 s i m _1 v a _2 k 7_X w <eps> <eps> <eps> a _2 
+tú_58_10 op C C C C S C C C C C C S C D D D S C 
+tú_58_10 #csid 12 3 0 3
+tú_59_10 ref <eps> E_X J _1 G a _2 tS o Nm _5a b a_X j _1 l e n _1 
+tú_59_10 hyp E_X E_X J _1 G a <eps> tS <eps> a_X N b a_X <eps> J l <eps> <eps> _1 
+tú_59_10 op I C C C C C D C D S S C C D S C D D C 
+tú_59_10 #csid 10 3 1 5
+tú_60_10 ref b E _5a d M7 _1 m a_X t _5b J i n _2 k wp E_X J _1 
+tú_60_10 hyp b e _5a d M7 <eps> m a_X t _5b J i n _2 k wp E_X J _1 
+tú_60_10 op C S C C C D C C C C C C C C C C C C C 
+tú_60_10 #csid 17 1 0 1
+tú_61_10 ref <eps> ts_ u kp _5b k O n _1 N u _3 N O n _1 
+tú_61_10 hyp ts_ ts_ u kp _5b k O n _1 N u _3 N u _1 _1 
+tú_61_10 op I C C C C C C C C C C C C S S C 
+tú_61_10 #csid 13 2 1 0
+tú_62_10 ref m E _6a ie w _1 k O n _1 
+tú_62_10 hyp m E _6a E w _1 k O n _1 
+tú_62_10 op C C C S C C C C C C 
+tú_62_10 #csid 9 1 0 0
+tú_63_10 ref t_h a w _3 r 7_X t _5b ie w _1 k wp e _1 h M7 N _1 m i J <eps> _2 
+tú_63_10 hyp t_h a <eps> _3 z 7_X t _5b ie w _1 k <eps> wpe _1 h e n _1 m i J _2 _2 
+tú_63_10 op C C D C S C C C C C C C D S C C S S C C C C I C 
+tú_63_10 #csid 17 4 1 2
+tú_64_10 ref <eps> k 7 n _1 m M7 _1 r a w _2 k E w _5a d e n _5a 
+tú_64_10 hyp k k 7_X n _1 m M _1 dZ a <eps> _1 k E w _5a d e <eps> _5a 
+tú_64_10 op I C S C C C S C S C D S C C C C C C D C 
+tú_64_10 #csid 13 4 1 2
+tú_65_10 ref tS 7 j _2 N a_X j _2 k a N _2 l E_X J _6a h 7 n <eps> _1 
+tú_65_10 hyp tS 7 j _2 N a_X j _2 k a n _2 <eps> m a_X N h 7 n _6a _1 
+tú_65_10 op C C C C C C C C C C S C D S S S C C C I C 
+tú_65_10 #csid 15 4 1 1
+tú_66_10 ref l a _5a k 7_X j _1 m <eps> uo _2 t_h u _1 
+tú_66_10 hyp l a _5a t a_X j _1 m 7 j _5a t_h uo _1 
+tú_66_10 op C C C S S C C C I S S C S C 
+tú_66_10 #csid 8 5 1 0
+tú_67_10 ref J i m _5a k O n _1 v o _1 k u Nm _2 N a k _6b J ie n _1 
+tú_67_10 hyp J <eps> <eps> <eps> <eps> O n _1 v o _1 k u Nm _2 N a k _1 J ie n _1 
+tú_67_10 op C D D D D C C C C C C C C C C C C C S C C C C 
+tú_67_10 #csid 18 1 0 4
+tú_68_10 ref t e n _1 b a n _6a l a _2 dZ i _2 
+tú_68_10 hyp t e n _1 b a n _6a l a _2 dZ i _2 
+tú_68_10 op C C C C C C C C C C C C C C 
+tú_68_10 #csid 14 0 0 0
+tú_69_10 ref k 7_X j _1 k o j _5a u m _1 t u m _2 
+tú_69_10 hyp k 7_X j _1 k u j _5a u m _1 t u m _2 
+tú_69_10 op C C C C C S C C C C C C C C C 
+tú_69_10 #csid 14 1 0 0
+tú_70_10 ref O_X Nm _1 ts_ uo _5a b a_X j _1 v e _2 t o _3 
+tú_70_10 hyp O_X Nm _1 ts_ uo <eps> b a_X j <eps> v e _2 t 7 _3 
+tú_70_10 op C C C C C D C C C D C C C C S C 
+tú_70_10 #csid 13 1 0 2
+tú_71_9 ref k wp e _1 h M7 N _1 l a _2 ts_ u m _2 x <eps> e _5a N O t _6b 
+tú_71_9 hyp k <eps> e _1 h M7 N _1 l a _1_2 ts_ u <eps> _1 x wp E _1 N O t _6b 
+tú_71_9 op C D C C C C C C C C S C C D S C I S S C C C C 
+tú_71_9 #csid 16 4 1 2
+tú_72_9 ref tS 7 j _2 m uo _2 t_h u _1 m a t _5b m E _3 
+tú_72_9 hyp t_h 7 j _2 m 7 _5a t_h u _5b m a t _5b <eps> E _3 
+tú_72_9 op S C C C C S S C C S C C C C D C C 
+tú_72_9 #csid 12 4 0 1
+tú_73_9 ref ts_ a w _1 o j _1 h a_X j _1 k wp a _5a 
+tú_73_9 hyp ts_ a <eps> _1 <eps> 7 _1 h a_X j _1 k wp a _5a 
+tú_73_9 op C C D C D S C C C C C C C C C 
+tú_73_9 #csid 12 1 0 2
+tú_74_9 ref <eps> t_h 7_X t _6b l a _2 t wp ie t _6b z ie w _6a 
+tú_74_9 hyp t t_h 7_X t _6b <eps> nr a_X t t ie t _6b t ie <eps> _6a 
+tú_74_9 op I C C C C D S S C S C C C S C D C 
+tú_74_9 #csid 10 4 1 2
+tú_75_9 ref E m _1 b E _5a d a N _1 N wp a n _1 N wp a n _4 a_X n _1 k 7 m _1 
+tú_75_9 hyp E <eps> <eps> <eps> E _5a d a N _1 N <eps> a n _1 <eps> <eps> <eps> hwpa _1 a_X n _1 k 7 m _1 
+tú_75_9 op C D D D C C C C C C C D C C C D D D S S C C C C C C C 
+tú_75_9 #csid 18 2 0 7
+tú_76_9 ref m 7 j _5a S a N _5a t i J _1 m 7 <eps> _1 
+tú_76_9 hyp m 7 j _5a S a N _5a t i J _1 m 7 _1 _1 
+tú_76_9 op C C C C C C C C C C C C C C I C 
+tú_76_9 #csid 15 0 1 0
+tú_77_9 ref ts_ i _1 v a w _2 t_h a_X m _1 v M7 n _2 h wp a <eps> _1 
+tú_77_9 hyp ts_ i _1 v a w _2 t_h a_X m _1 h uo n _2 h wp a _1 _1 
+tú_77_9 op C C C C C C C C C C C S S C C C C C I C 
+tú_77_9 #csid 17 2 1 0
+tú_78_9 ref b a n _6a J O _3 t_h a _3 z ie w _2 tS e n _1 k E_X J _5a d o Nm _2 
+tú_78_9 hyp b a <eps> _3 J 7 _3 t_h a _3 z e w _1 tS e n _1 k E_X J _1 d o Nm _2 
+tú_78_9 op C C D S C S C C C C C S C S C C C C C C C S C C C C 
+tú_78_9 #csid 20 5 0 1
+tú_79_9 ref E n _5a k O n _1 d a N _1 b a_X j _1 k wp a _1 S o Nm _1 
+tú_79_9 hyp E n _5a k O n _1 d a N _1 m a_X j _1 k wp a _1 S o Nm _1 
+tú_79_9 op C C C C C C C C C C C S C C C C C C C C C C C 
+tú_79_9 #csid 22 1 0 0
+tú_80_9 ref J O _1 k O n _2 s E_X J _1 l a_X m _5a 
+tú_80_9 hyp J O _1 <eps> O <eps> _1 s E_X J _1 n a_X m _5a 
+tú_80_9 op C C C D C D S C C C C S C C C 
+tú_80_9 #csid 11 2 0 2
+tú_81_9 ref m o t _6b ts_ ie k _5b l M7 k _6b r 7_X t _5b d E p _6b 
+tú_81_9 hyp m <eps> p _6b ts_ o k _5b <eps> M7 k _6b z 7_X t _5b d E p _6b 
+tú_81_9 op C D S C C S C C D C C C S C C C C C C C 
+tú_81_9 #csid 15 3 0 2
+tú_82_9 ref t_h O _3 k O n _1 J i n _2 k a w _5a 
+tú_82_9 hyp t_h O _3 <eps> <eps> <eps> <eps> J <eps> n <eps> k a w _5a 
+tú_82_9 op C C C D D D D C D C D C C C C 
+tú_82_9 #csid 9 0 0 6
+tú_83_8 ref k a k _5b b a n _6a k O _5a k wp E n _1 z <eps> e _5a m E n _2 x o Nm <eps> _1 
+tú_83_8 hyp k a k _5b b a n _6a k O _5a k wp e n _1 z 7 j _5a m E <eps> _2 x o Nm _5b _1 
+tú_83_8 op C C C C C C C C C C C C C S C C C I S C C C D C C C C I C 
+tú_83_8 #csid 24 2 2 1
+tú_84_8 ref b E _5a t 7_X p _6b d O_X kp _6b 
+tú_84_8 hyp b E _5a t u kp _6b l O_X kp _6b 
+tú_84_8 op C C C C S S C S C C C 
+tú_84_8 #csid 8 3 0 0
+tú_85_8 ref t o j _1 tS 7 _3 v e _2 k wp e _1 h M7 N _1 
+tú_85_8 hyp t o j ts_ E j _3 <eps> <eps> <eps> k M7 M7 _1 <eps> <eps> M _1 
+tú_85_8 op C C C S S S C D D D C S S C D D S C 
+tú_85_8 #csid 7 6 0 5
+tú_86_8 ref d M7 N _2 v e _2 s a _1 l a_X k _5b s a _1 l <eps> 7 _1 
+tú_86_8 hyp d M7 N _2 z M7 _2 s O _1 l a k _5b s M7 _1 l M7 l _1 
+tú_86_8 op C C C C S S C C S C C S C C C S C C I S C 
+tú_86_8 #csid 14 6 1 0
+tú_87_8 ref t o j _1 d e n _5a t_h a_X m _1 <eps> E_X J _1 h a j _1 t o j <eps> _1 
+tú_87_8 hyp t o j _1 d e n _5a <eps> a j _1 t_h E_X J _1 <eps> a j _1 t o j _1 _1 
+tú_87_8 op C C C C C C C C D S S C I C C C D C C C C C C I C 
+tú_87_8 #csid 19 2 2 2
+tú_88_8 ref E m _1 ie w _1 N o j _1 J a _2 k uo _3 E m _1 
+tú_88_8 hyp E <eps> <eps> <eps> n _1 <eps> m uo _1 J a <eps> _1 x Nm _1 m _1 
+tú_88_8 op C D D D S C D S S C C C D S S S S C C 
+tú_88_8 #csid 7 7 0 5
+tú_89_7 ref E <eps> m _1 ie w _1 t ie N _5a ts_ i m _1 
+tú_89_7 hyp E i m <eps> <eps> <eps> _1 <eps> <eps> <eps> <eps> ts_ i m _1 
+tú_89_7 op C I C D D D C D D D D C C C C 
+tú_89_7 #csid 7 0 1 7
+tú_90_7 ref m uo _2 h E _2 d e n _5a r o j _2 
+tú_90_7 hyp m <eps> <eps> <eps> E _2 d e n _5a r o j _2 
+tú_90_7 op C D D D C C C C C C C C C C 
+tú_90_7 #csid 11 0 0 3
+tú_91_7 ref o <eps> <eps> Nm _1 7 j _1 o Nm _1 k O _5a x wp E _3 x o Nm _1 
+tú_91_7 hyp o k wp e _1 <eps> o Nm o Nm _1 k O <eps> <eps> v E _2 x o Nm _1 
+tú_91_7 op C I I S C D S S C C C C C D D S C S C C C C 
+tú_91_7 #csid 12 5 2 3
+tú_92_7 ref d u Nm _5a l u kp _5b d O _5a tS 7 j _2 d o _3 m M7 _1 
+tú_92_7 hyp d <eps> <eps> <eps> <eps> u kp _5b <eps> O _5a <eps> <eps> <eps> <eps> <eps> <eps> _3 m <eps> _1 
+tú_92_7 op C D D D D C C C D C C D D D D D D C C D C 
+tú_92_7 #csid 9 0 0 12
+tú_93_7 ref <eps> b o _5a m E _6a dZ u p _5b k O n _1 ts_ wp 7_X n _3 b i _6a J E _5a 
+tú_93_7 hyp b b o <eps> b E <eps> _5a M w _5b o m d o _6b m i n <eps> <eps> <eps> _6a J E _5a 
+tú_93_7 op I C C D S C D S S S C S S S S S S S C D D D C C C C 
+tú_93_7 #csid 9 11 1 5
+tú_94_7 ref J a _2 h M7 N _1 tS o Nm _1 t_h 7_X t _6b l a _2 d E p <eps> _6b 
+tú_94_7 hyp J <eps> <eps> <eps> u Nm _1 <eps> <eps> M7 _1 <eps> z M7 _2 J a _2 t E p _6b _6b 
+tú_94_7 op C D D D S S C D D S C D S S S S C C S C C I C 
+tú_94_7 #csid 8 8 1 6
+tú_96_7 ref tS a N _1 <eps> t_h M7 N _1 ts_ u _5a h e _2 l a_X m _5a 
+tú_96_7 hyp tS <eps> u _1 E n O N <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> <eps> _5a 
+tú_96_7 op C D S C I S S C D D D D D D D D D D C 
+tú_96_7 #csid 4 3 1 11
+tú_97_7 ref <eps> k O n _1 m E w _2 l o Nm _1 v <eps> <eps> <eps> a N _2 O_X Nm <eps> _5a 
+tú_97_7 hyp o t O_X Nm _1 b E n _2 n O_X Nm _1 v a_X _5a O_X w _5a n O_X Nm _4 _5a 
+tú_97_7 op I S S S C S C S C S S C C C I I I S S S C C I C 
+tú_97_7 #csid 9 10 5 0
+tú_98_7 ref k wp e _1 t 7 _5a 7 _3 h a j _3 f O_X Nm _2 
+tú_98_7 hyp k <eps> <eps> <eps> <eps> 7 _5a 7 _3 r a j _1 v o Nm _2 
+tú_98_7 op C D D D D C C C C S C C S S S C C 
+tú_98_7 #csid 9 4 0 4
+tú_99_7 ref <eps> v <eps> <eps> M7 n _2 k 7_X j _1 d 7_X m _1 ts_ o j _2 n 7_X j <eps> _3 l o kp _6b 
+tú_99_7 hyp v v M7 _2 M7 n _1 z 7_X j _1 <eps> zM Nm _1 z o n _2 z a_X j _2 n O_X Nm _6a _6b 
+tú_99_7 op I C I I C C S S C C C D S S C S C S C S S C I S S S S C 
+tú_99_7 #csid 11 12 4 1
