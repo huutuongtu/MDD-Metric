@@ -1,7 +1,7 @@
 gap_penalty = -1
 match_award = 1
 mismatch_penalty = -1
-
+['_1', '_2', '_3', '_4', '_5a', '_5b', '_6a', '_6b', ' ']
 def zeros(rows, cols):
     # Define an empty list
     retval = []

@@ -6,9 +6,9 @@ import pandas as pd
 
 #Align ref_our, human_our, ref_human
 
+tone = ['_1', '_2', '_3', '_4', '_5a', '_5b', '_6a', '_6b']
 
-
-test = pd.read_csv("MHA_NCCF.csv")
+test = pd.read_csv("NCCF_final_nucl.csv")
 del_sub_count = 0
 ins_del_sub_count = 0
 number_phoneme = 0

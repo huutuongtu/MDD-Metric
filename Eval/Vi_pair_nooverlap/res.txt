@@ -46,7 +46,7 @@ False Rejection Rate: 0.1521
 Diagnosis Error Rate: 0.3601
 Detection Accuracy: 0.8453787920047927
 
-NCCF
+NCCF final
 0.8451022545614906
 0.828069014938537
 Recall: 0.7915
@@ -62,21 +62,69 @@ False Rejection Rate: 0.1428
 Diagnosis Error Rate: 0.3885
 Detection Accuracy: 0.8548009367681498
 
+NCCF no tone
+0.857717713157695
+0.83600334067269
+Recall: 0.7798
+Precision: 0.1878
+f1-score:0.3027
+True Acception: 0.8700 11172
+False Rejection: 0.1300 1669
+False Acceptance: 0.2202 109
+Correct Diagnosis: 0.6218 240
+Error Diagnosis: 0.3782 146
+False Acceptance Rate: 0.2202
+False Rejection Rate: 0.1300
+Diagnosis Error Rate: 0.3782
+Detection Accuracy: 0.8666766646670666
+
+NCCF_nucl
+0.8606471528581666
+0.8397001267846315
+Recall: 0.7854
+Precision: 0.1856
+f1-score:0.3003
+True Acception: 0.8721 15440
+False Rejection: 0.1279 2264
+False Acceptance: 0.2146 141
+Correct Diagnosis: 0.6357 328
+Error Diagnosis: 0.3643 188
+False Acceptance Rate: 0.2146
+False Rejection Rate: 0.1279
+Diagnosis Error Rate: 0.3643
+Detection Accuracy: 0.8690158488099776
+
+NCCF_final_nucl
+0.8155254111307256
+0.80028802378519
+Recall: 0.7497
+Precision: 0.1396
+f1-score:0.2353
+True Acception: 0.8278 17397
+False Rejection: 0.1722 3619
+False Acceptance: 0.2503 196
+Correct Diagnosis: 0.6167 362
+Error Diagnosis: 0.3833 225
+False Acceptance Rate: 0.2503
+False Rejection Rate: 0.1722
+Diagnosis Error Rate: 0.3833
+Detection Accuracy: 0.8249919721088124
+
 KALDI-MHA
-0.8379361666942285
-0.822060525880602
-Recall: 0.6849
-Precision: 0.1458
-f1-score:0.2404
-True Acception: 0.8511 15068
-False Rejection: 0.1489 2636
-False Acceptance: 0.3151 207
-Correct Diagnosis: 0.5667 255
-Error Diagnosis: 0.4333 195
-False Acceptance Rate: 0.3151
-False Rejection Rate: 0.1489
-Diagnosis Error Rate: 0.4333
-Detection Accuracy: 0.8451609389466804
+0.8551899013284825
+0.8366683203792514
+Recall: 0.7139
+Precision: 0.1669
+f1-score:0.2706
+True Acception: 0.8678 15363
+False Rejection: 0.1322 2341
+False Acceptance: 0.2861 188
+Correct Diagnosis: 0.5693 267
+Error Diagnosis: 0.4307 202
+False Acceptance Rate: 0.2861
+False Rejection Rate: 0.1322
+Diagnosis Error Rate: 0.4307
+Detection Accuracy: 0.8622624040084963
 
 NCCF-MHA
 0.831100821343917
@@ -93,3 +141,4 @@ False Acceptance Rate: 0.2496
 False Rejection Rate: 0.1560
 Diagnosis Error Rate: 0.4178
 Detection Accuracy: 0.8406404879908502
+
