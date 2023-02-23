@@ -8,7 +8,7 @@ import pandas as pd
 
 tone = ['_1', '_2', '_3', '_4', '_5a', '_5b', '_6a', '_6b']
 
-test = pd.read_csv("NCCF_final_nucl.csv")
+test = pd.read_csv("notone_NCCF.csv")
 del_sub_count = 0
 ins_del_sub_count = 0
 number_phoneme = 0
@@ -30,7 +30,7 @@ print((number_phoneme-del_sub_count)/number_phoneme)
 print((number_phoneme-ins_del_sub_count)/number_phoneme)
 
 
-f = open("./human_our_detail", 'a', encoding='utf-8')
+f = open("./ref_human_detail", 'a', encoding='utf-8')
 cor_cnt = 0
 sub_cnt = 0
 ins_cnt = 0
@@ -39,8 +39,8 @@ for i in range(len(test)):
     # f.write("000" + str(test['Path'][i]) + " ")
     path = test['Path'][i]
     path = str(path)
-    seq1 = test['Transcript'][i]
-    seq2 = test['Predict'][i]
+    seq1 = test['Canonical'][i]
+    seq2 = test['Transcript'][i]
     seq1, seq2 = Align(seq1.split(" "), seq2.split(" "))
     REF = ''
     HYP = ''
