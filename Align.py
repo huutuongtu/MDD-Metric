@@ -4,41 +4,34 @@ import pandas as pd
 
 
 
-#Align ref_our, human_our, ref_human
+#You need 3 file to analysis - First align ref_our_detail (Canonical vs Predict), human_our_detail (Transcript vs Predict), ref_human_detail (Canonical vs Transcript) - Change in line 35 and 36
 
-tone = ['_1', '_2', '_3', '_4', '_5a', '_5b', '_6a', '_6b']
 
 test = pd.read_csv("notone_NCCF.csv")
 del_sub_count = 0
 ins_del_sub_count = 0
 number_phoneme = 0
-del_All = []
 for i in range(len(test)):
     cnt, len_sentence, all_Del = Correct_Rate((test['Transcript'][i].split(" ")), (test['Predict'][i].split(" ")))
-    # print(all_Del)
-    del_All.extend(all_Del)
     del_sub_count+=cnt
-    # number_phoneme+=len_sentence
     cnt, len_sentence = Accuracy((test['Transcript'][i].split(" ")), (test['Predict'][i].split(" ")))
     ins_del_sub_count+=cnt
     number_phoneme+=len_sentence
 
-# print(number_phoneme)
-# print(del_sub_count)
-# print(ins_del_sub_count)
-print((number_phoneme-del_sub_count)/number_phoneme)
-print((number_phoneme-ins_del_sub_count)/number_phoneme)
+
+print("Correctness:", (number_phoneme-del_sub_count)/number_phoneme)
+print("Accuracy:", (number_phoneme-ins_del_sub_count)/number_phoneme)
 
 
-f = open("./ref_human_detail", 'a', encoding='utf-8')
+f = open("./ref_human_detail", 'a', encoding='utf-8') #change human_our and ref_our here
 cor_cnt = 0
 sub_cnt = 0
 ins_cnt = 0
 del_cnt = 0
 for i in range(len(test)):
-    # f.write("000" + str(test['Path'][i]) + " ")
     path = test['Path'][i]
     path = str(path)
+    # Transcript and Predict for human_our, Canonical and Predict for ref_our
     seq1 = test['Canonical'][i]
     seq2 = test['Transcript'][i]
     seq1, seq2 = Align(seq1.split(" "), seq2.split(" "))
@@ -49,7 +42,7 @@ for i in range(len(test)):
     sub = 0
     ins = 0
     dell = 0
-    # print(path)
+
     for i in range(len(seq1)):
         REF = REF  + seq1[i] + " "
         HYP = HYP  + seq2[i] + " "
