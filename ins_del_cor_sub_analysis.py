@@ -1,5 +1,8 @@
+#!/usr/bin/env python
+# coding: utf-8
+# Author: Kaiqi Fu
+# usage: require 1. ref_human_detail 2. human_our_detail 3 ref_our_detail
 import re
-import argparse
 
 
 f = open("ref_human_detail",'r', encoding='utf-8')
@@ -258,4 +261,3 @@ print("False Acceptance Rate: %.4f" %(FAR))
 print("False Rejection Rate: %.4f" %(FRR))
 print("Diagnosis Error Rate: %.4f" %(DER))
 print("Detection Accuracy: "  + str((TA+TR)/(TR+TA+FR+FA)))
-# print("sub_sub", sub_sub)
