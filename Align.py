@@ -2,87 +2,84 @@ from metric import Correct_Rate, Accuracy, Align
 from jiwer import wer, cer
 import pandas as pd
 
+# Load CSV
+test = pd.read_csv("xyz.csv")
 
-
-#You need 3 file to analysis - First align ref_our_detail (Canonical vs Predict), human_our_detail (Transcript vs Predict), ref_human_detail (Canonical vs Transcript) - Change in line 35 and 36
-
-
-test = pd.read_csv("notone_NCCF.csv")
+# === PER and Correctness ===
 del_sub_count = 0
 ins_del_sub_count = 0
 number_phoneme = 0
+del_All = []
+
 for i in range(len(test)):
-    cnt, len_sentence, all_Del = Correct_Rate((test['Transcript'][i].split(" ")), (test['Predict'][i].split(" ")))
-    del_sub_count+=cnt
-    cnt, len_sentence = Accuracy((test['Transcript'][i].split(" ")), (test['Predict'][i].split(" ")))
-    ins_del_sub_count+=cnt
-    number_phoneme+=len_sentence
+    cnt, len_sentence, all_Del = Correct_Rate(test['Transcript'][i].split(), test['Predict'][i].split())
+    del_All.extend(all_Del)
+    del_sub_count += cnt
+
+    cnt, len_sentence = Accuracy(test['Transcript'][i].split(), test['Predict'][i].split())
+    ins_del_sub_count += cnt
+    number_phoneme += len_sentence
 
 
-print("Correctness:", (number_phoneme-del_sub_count)/number_phoneme)
-print("Accuracy:", (number_phoneme-ins_del_sub_count)/number_phoneme)
+print(number_phoneme)
+print(del_sub_count)
+print(ins_del_sub_count)
+print("PER", (1 - (number_phoneme - ins_del_sub_count) / number_phoneme) * 100)
+print("Correctness", ((number_phoneme - del_sub_count) / number_phoneme) * 100)
 
 
-f = open("./ref_human_detail", 'a', encoding='utf-8') #change human_our and ref_our here
-cor_cnt = 0
-sub_cnt = 0
-ins_cnt = 0
-del_cnt = 0
-for i in range(len(test)):
-    path = test['Path'][i]
-    path = str(path)
-    # Transcript and Predict for human_our, Canonical and Predict for ref_our
-    seq1 = test['Canonical'][i]
-    seq2 = test['Transcript'][i]
-    seq1, seq2 = Align(seq1.split(" "), seq2.split(" "))
-    REF = ''
-    HYP = ''
-    OP = ''
-    cor = 0
-    sub = 0
-    ins = 0
-    dell = 0
+# === Utility ===
+def cjustify(s, width):
+    if s is None:
+        s = ""
+    if width <= len(s):
+        return s
+    left = (width - len(s)) // 2
+    right = width - len(s) - left
+    return " " * left + s + " " * right
 
-    for i in range(len(seq1)):
-        REF = REF  + seq1[i] + " "
-        HYP = HYP  + seq2[i] + " "
-        if seq1[i]!="<eps>" and seq2[i]=="<eps>":
-            OP = OP + "D" + " "
-            dell = dell + 1
-            del_cnt +=1
-        elif seq1[i] == "<eps>" and seq2[i]!="<eps>" :
-            OP = OP + "I" + " "
-            ins = ins + 1
-            ins_cnt+=1
-        elif (seq1[i]!=seq2[i]) and seq2[i]!="<eps>" and seq1[i]!="<eps>":
-            OP = OP + "S" + " "
-            sub = sub + 1
-            sub_cnt+=1
+
+def write_alignment(file, path, seq1, seq2):
+    """Align seq1 and seq2 and write alignment details into file."""
+    seq1, seq2 = Align(seq1.split(), seq2.split())
+
+    REF, HYP, OP = [], [], []
+    cor = sub = ins = dele = 0
+
+    for r, h in zip(seq1, seq2):
+        if r != "<eps>" and h == "<eps>":
+            op = "D"; dele += 1
+        elif r == "<eps>" and h != "<eps>":
+            op = "I"; ins += 1
+        elif r != h:
+            op = "S"; sub += 1
         else:
-            OP = OP + "C" + " "
-            cor = cor + 1
-            cor_cnt+=1
-    # print(REF)
-    # print(HYP)
-    # print(OP)
-    cor = str(cor)
-    sub = str(sub)
-    ins = str(ins)
-    dell = str(dell)
-    
-    # print(cor)
-    # print(sub)
-    # print(ins)
-    # print(dell)
-    # print(REF)
-    # print(HYP)
-    # print(OP)
-    f.write(path + " " + "ref" + " " + REF + "\n")
-    f.write(path + " " + "hyp" + " " + HYP + "\n")
-    f.write(path + " " + "op" + " " + OP + "\n")
-    f.write(path + " " + "#csid" + " " + cor + " " + sub + " " + ins + " " + dell + "\n")
+            op = "C"; cor += 1
+        REF.append(r); HYP.append(h); OP.append(op)
 
-print(cor_cnt)
-print(sub_cnt)
-print(ins_cnt)
-print(del_cnt)
+    col_widths = [max(len(r), len(h), len(o)) for r, h, o in zip(REF, HYP, OP)]
+    ref_str = "  ".join(cjustify(r, w) for r, w in zip(REF, col_widths))
+    hyp_str = "  ".join(cjustify(h, w) for h, w in zip(HYP, col_widths))
+    op_str  = "  ".join(cjustify(o, w) for o, w in zip(OP, col_widths))
+
+    file.write(f"{path} ref  {ref_str}\n")
+    file.write(f"{path} hyp  {hyp_str}\n")
+    file.write(f"{path} op   {op_str}\n")
+    file.write(f"{path} #csid {cor} {sub} {ins} {dele}\n\n")
+
+
+# === Run all three alignments in one pass ===
+with open("./ref_human_detail", 'w', encoding='utf-8') as f_ref_human, \
+     open("./ref_our_detail", 'w', encoding='utf-8') as f_ref_our, \
+     open("./human_our_detail", 'w', encoding='utf-8') as f_human_our:
+
+    for i in range(len(test)):
+        path = str(test['Path'][i])
+        ref = test['Canonical'][i].replace("*", "")
+        human = test['Transcript'][i].replace("*", "")
+        our = test['Predict'][i].replace("*", "")
+
+        # Align 3 pairs
+        write_alignment(f_ref_human, path, ref, human)
+        write_alignment(f_ref_our, path, ref, our)
+        write_alignment(f_human_our, path, human, our)
